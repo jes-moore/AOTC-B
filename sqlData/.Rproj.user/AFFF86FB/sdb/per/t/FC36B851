@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(xlsx)\nlibrary(lubridate)\noilStocks <- read.xlsx('data/oilDT.xls',sheetIndex = 2,colIndex = c(1,2),stringsAsFactors=FALSE)\ncolnames(oilStocks) <- c('Date','Weekly_Ending_Crude_Stocks_000s')\noilStocks <- oilStocks[3:nrow(oilStocks),]\noilStocks$Date <- as.Date('1900-01-01') + days(oilStocks$Date)\noilStocks <- na.exclude(oilStocks)\n\noilSupply <- read.xlsx('data/oilDT.xls',sheetIndex = 3,colIndex = c(1,2),stringsAsFactors=FALSE)\ncolnames(oilSupply) <- c('Date','Weekly_US_Crude_Production_000s')\noilSupply <- oilSupply[3:nrow(oilSupply),]\noilSupply$Date <- as.Date('1900-01-01') + days(oilSupply$Date)\noilSupply <- na.exclude(oilSupply)\n\noilImports <- read.xlsx('data/oilDT.xls',sheetIndex = 3,colIndex = c(1,5,6),stringsAsFactors=FALSE)\ncolnames(oilImports) <- c('Date','Weekly_US_Net_Imports_000s','Weekly_US_Total_Imports_000s')\noilImports <- oilImports[3:nrow(oilImports),]\noilImports$Date <- as.Date('1900-01-01') + days(oilImports$Date)\noilImports <- na.exclude(oilImports)\n\noilImportsAvg <- read.xlsx('data/oilDT.xls',sheetIndex = 4,colIndex = c(1,5,6),stringsAsFactors=FALSE)\ncolnames(oilImportsAvg) <- c('Date','4WkAvg_US_Net_Imports_000s','4WkAvg_US_Total_Imports_000s')\noilImportsAvg <- oilImportsAvg[3:nrow(oilImportsAvg),]\noilImportsAvg$Date <- as.Date('1900-01-01') + days(oilImportsAvg$Date)\noilImportsAvg <- na.exclude(oilImportsAvg)\n",
+    "created" : 1496129770860.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1124333234",
+    "id" : "FC36B851",
+    "lastKnownWriteTime" : 1496126513,
+    "last_content_update" : 1496126513,
+    "path" : "~/Desktop/AheadOfTheCurve/shinyApp/USCrude.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

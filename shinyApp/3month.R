@@ -1,0 +1,18 @@
+futures = data.frame("Front Month" = character(),"Price" = integer())
+cl1 = data.frame("Front_Month" = 1,"Price" = Quandl("CHRIS/CME_CL1", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl2 = data.frame("Front_Month" = 2,"Price" = Quandl("CHRIS/CME_CL2", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl3 = data.frame("Front_Month" = 3,"Price" = Quandl("CHRIS/CME_CL3", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl4 = data.frame("Front_Month" = 4,"Price" = Quandl("CHRIS/CME_CL4", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl5 = data.frame("Front_Month" = 5,"Price" = Quandl("CHRIS/CME_CL5", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl6 = data.frame("Front_Month" = 6,"Price" = Quandl("CHRIS/CME_CL6", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl7 = data.frame("Front_Month" = 7,"Price" = Quandl("CHRIS/CME_CL7", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl8 = data.frame("Front_Month" = 8,"Price" = Quandl("CHRIS/CME_CL8", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl9 = data.frame("Front_Month" = 9,"Price" = Quandl("CHRIS/CME_CL9", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl10 = data.frame("Front_Month" = 10,"Price" = Quandl("CHRIS/CME_CL10", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl11 = data.frame("Front_Month" = 11,"Price" = Quandl("CHRIS/CME_CL11", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl12 = data.frame("Front_Month" = 12,"Price" = Quandl("CHRIS/CME_CL12", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl13 = data.frame("Front_Month" = 13,"Price" = Quandl("CHRIS/CME_CL13", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+cl14 = data.frame("Front_Month" = 14,"Price" = Quandl("CHRIS/CME_CL14", api_key="Xa-XyezxZxsEZpmhKYkt", start_date=Sys.Date()-days(90))[62,5])
+
+futures1 = rbind(futures,cl1,cl2,cl3,cl4,cl5,cl6,cl7,cl8,cl9,cl10,cl11,cl12,cl13,cl14)
+

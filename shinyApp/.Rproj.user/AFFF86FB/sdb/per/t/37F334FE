@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1497339897222.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "37F334FE",
+    "lastKnownWriteTime" : 4320435544,
+    "last_content_update" : 1497339897222,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "C1177B37",
+        "caption" : "edgarFiles",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=edgarFiles&cache_key=C1177B37",
+        "displayedObservations" : 49503,
+        "environment" : "",
+        "object" : "edgarFiles",
+        "preview" : 0,
+        "totalObservations" : 49503,
+        "variables" : 10
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

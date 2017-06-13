@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(xlsx)\nlibrary(lubridate)\noilStocks <- read.xlsx('oilDT.xls',sheetIndex = 2,colIndex = c(1,2),stringsAsFactors=FALSE)\ncolnames(oilStocks) <- c('Date','Weekly_Ending_Crude_Stocks_000s')\noilStocks <- oilStocks[3:nrow(oilStocks),]\noilStocks$Date <- as.Date('1900-01-01') + days(oilStocks$Date)\noilStocks <- na.exclude(oilStocks)\n\noilSupply <- read.xlsx('oilDT.xls',sheetIndex = 3,colIndex = c(1,2),stringsAsFactors=FALSE)\ncolnames(oilSupply) <- c('Date','Weekly_US_Crude_Production_000s')\noilSupply <- oilSupply[3:nrow(oilSupply),]\noilSupply$Date <- as.Date('1900-01-01') + days(oilSupply$Date)\noilSupply <- na.exclude(oilSupply)\n\noilImports <- read.xlsx('oilDT.xls',sheetIndex = 3,colIndex = c(1,5,6),stringsAsFactors=FALSE)\ncolnames(oilImports) <- c('Date','Weekly_US_Net_Imports_000s','Weekly_US_Total_Imports_000s')\noilImports <- oilImports[3:nrow(oilImports),]\noilImports$Date <- as.Date('1900-01-01') + days(oilImports$Date)\noilImports <- na.exclude(oilImports)\n\noilImportsAvg <- read.xlsx('oilDT.xls',sheetIndex = 4,colIndex = c(1,5,6),stringsAsFactors=FALSE)\ncolnames(oilImportsAvg) <- c('Date','4WkAvg_US_Net_Imports_000s','4WkAvg_US_Total_Imports_000s')\noilImportsAvg <- oilImportsAvg[3:nrow(oilImportsAvg),]\noilImportsAvg$Date <- as.Date('1900-01-01') + days(oilImportsAvg$Date)\noilImportsAvg <- na.exclude(oilImportsAvg)\n\nwrite.csv(oilImports,'../shinyApp/data/oilimports.csv')\nwrite.csv(oilImportsAvg,'../shinyApp/data/oilimportsavg.csv')\nwrite.csv(oilStocks,'../shinyApp/data/oilstocks.csv')\nwrite.csv(oilSupply,'../shinyApp/data/oilsupply.csv')\n\n\n\n# library(RMySQL)\n# con <- dbConnect(MySQL(),host=\"mysql3.gear.host\", dbname='oilimports',user=\"oilimports\",pass=\"Ar3GEuhb_g~0\")\n# dbWriteTable(con, value = oilImports, name = \"oilimports\",overwrite = TRUE,append=FALSE) \n# dbWriteTable(con, value = oilImportsAvg, name = \"oilimportsavg\", overwrite = TRUE,append=FALSE) \n# dbWriteTable(con, value = oilStocks, name = \"oilstocks\", overwrite = TRUE,append=FALSE) \n# dbWriteTable(con, value = oilSupply, name = \"oilsupply\", overwrite = TRUE,append=FALSE) \n# \n\n\n\n",
+    "created" : 1496129110902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4219331596",
+    "id" : "8987FFF0",
+    "lastKnownWriteTime" : 1496144346,
+    "last_content_update" : 1496144346355,
+    "path" : "~/Desktop/AheadOfTheCurve/sqlData/dataUpload.R",
+    "project_path" : "dataUpload.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
