@@ -1,0 +1,94 @@
+Metric,Amount,endDate
+"Revenue, Net",725497000,2014-12-28
+"Revenue, Net",1607853000,2016-01-03
+"Revenue, Net",1923108000,2017-01-01
+Cost of Goods Sold,361820000,2014-12-28
+Cost of Goods Sold,1207850000,2016-01-03
+Cost of Goods Sold,1237974000,2017-01-01
+Research and Development Expense,164560000,2014-12-28
+Research and Development Expense,281391000,2016-01-03
+Research and Development Expense,331737000,2017-01-01
+"Selling, General and Administrative Expense",170741000,2014-12-28
+"Selling, General and Administrative Expense",323570000,2016-01-03
+"Selling, General and Administrative Expense",317383000,2017-01-01
+Amortization of Intangible Assets,6683000,2014-12-28
+Amortization of Intangible Assets,108335000,2016-01-03
+Amortization of Intangible Assets,174745000,2017-01-01
+Impairment of Intangible Assets (Excluding Goodwill),0,2014-12-28
+Impairment of Intangible Assets (Excluding Goodwill),0,2016-01-03
+Impairment of Intangible Assets (Excluding Goodwill),33944000,2017-01-01
+"Disposal Group, Not Discontinued Operation, Loss (Gain) on Write-down",0,2014-12-28
+"Disposal Group, Not Discontinued Operation, Loss (Gain) on Write-down",0,2016-01-03
+"Disposal Group, Not Discontinued Operation, Loss (Gain) on Write-down",37219000,2017-01-01
+"Goodwill, Impairment Loss",351300000,2008-12-28
+"Goodwill, Impairment Loss",0,2014-12-28
+"Goodwill, Impairment Loss",0,2014-12-28
+"Goodwill, Impairment Loss",0,2016-01-03
+"Goodwill, Impairment Loss",0,2016-01-03
+"Goodwill, Impairment Loss",488504000,2017-01-01
+Restructuring Charges,-1180000,2014-12-28
+Restructuring Charges,90084000,2016-01-03
+Restructuring Charges,26131000,2017-01-01
+Gain (Loss) on Disposition of Stock in Subsidiary or Equity Method Investee,0,2014-12-28
+Gain (Loss) on Disposition of Stock in Subsidiary or Equity Method Investee,0,2016-01-03
+Gain (Loss) on Disposition of Stock in Subsidiary or Equity Method Investee,112774000,2017-01-01
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2014-12-28
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",66472000,2016-01-03
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2017-01-01
+Costs and Expenses,702624000,2014-12-28
+Costs and Expenses,1944758000,2016-01-03
+Costs and Expenses,2534863000,2017-01-01
+Operating Income (Loss),22873000,2014-12-28
+Operating Income (Loss),-336905000,2016-01-03
+Operating Income (Loss),-611755000,2017-01-01
+Interest Expense,5763000,2014-12-28
+Interest Expense,16356000,2016-01-03
+Interest Expense,55192000,2017-01-01
+Nonoperating Income (Expense),3303000,2014-12-28
+Nonoperating Income (Expense),-3769000,2016-01-03
+Nonoperating Income (Expense),313000,2017-01-01
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",20413000,2014-12-28
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-357030000,2016-01-03
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-666634000,2017-01-01
+Income Tax Expense (Benefit),-1173000,2014-12-28
+Income Tax Expense (Benefit),16960000,2016-01-03
+Income Tax Expense (Benefit),2616000,2017-01-01
+Income (Loss) from Equity Method Investments,-5068000,2014-12-28
+Income (Loss) from Equity Method Investments,-7148000,2016-01-03
+Income (Loss) from Equity Method Investments,-17644000,2017-01-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",16518000,2014-12-28
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-381138000,2016-01-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-686894000,2017-01-01
+Net Income (Loss) Attributable to Noncontrolling Interest,-1418000,2014-12-28
+Net Income (Loss) Attributable to Noncontrolling Interest,-2271000,2016-01-03
+Net Income (Loss) Attributable to Noncontrolling Interest,-643000,2017-01-01
+Net Income (Loss) Attributable to Parent,17936000,2014-12-28
+Net Income (Loss) Attributable to Parent,-378867000,2016-01-03
+Net Income (Loss) Attributable to Parent,-686251000,2017-01-01
+"Earnings Per Share, Basic",0.11,2014-12-28
+"Earnings Per Share, Basic",-1.25,2016-01-03
+"Earnings Per Share, Basic",-2.15,2017-01-01
+"Earnings Per Share, Diluted",0.11,2014-12-28
+"Earnings Per Share, Diluted",-1.25,2016-01-03
+"Earnings Per Share, Diluted",-2.15,2017-01-01
+"Common Stock, Dividends, Per Share, Declared",0.11,2014-03-30
+"Common Stock, Dividends, Per Share, Declared",0.11,2014-06-29
+"Common Stock, Dividends, Per Share, Declared",0.11,2014-09-28
+"Common Stock, Dividends, Per Share, Declared",0.11,2014-12-28
+"Common Stock, Dividends, Per Share, Declared",0.44,2014-12-28
+"Common Stock, Dividends, Per Share, Declared",0.11,2015-03-29
+"Common Stock, Dividends, Per Share, Declared",0.11,2015-06-28
+"Common Stock, Dividends, Per Share, Declared",0.11,2015-09-27
+"Common Stock, Dividends, Per Share, Declared",0.11,2016-01-03
+"Common Stock, Dividends, Per Share, Declared",0.44,2016-01-03
+"Common Stock, Dividends, Per Share, Declared",0.11,2016-04-03
+"Common Stock, Dividends, Per Share, Declared",0.11,2016-07-03
+"Common Stock, Dividends, Per Share, Declared",0.11,2016-10-02
+"Common Stock, Dividends, Per Share, Declared",0.11,2017-01-01
+"Common Stock, Dividends, Per Share, Declared",0.44,2017-01-01
+"Weighted Average Number of Shares Outstanding, Basic",159031000,2014-12-28
+"Weighted Average Number of Shares Outstanding, Basic",302036000,2016-01-03
+"Weighted Average Number of Shares Outstanding, Basic",319522000,2017-01-01
+"Weighted Average Number of Shares Outstanding, Diluted",169122000,2014-12-28
+"Weighted Average Number of Shares Outstanding, Diluted",302036000,2016-01-03
+"Weighted Average Number of Shares Outstanding, Diluted",319522000,2017-01-01

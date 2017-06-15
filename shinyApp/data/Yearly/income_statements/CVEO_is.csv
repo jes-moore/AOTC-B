@@ -1,0 +1,120 @@
+Metric,Amount,endDate
+Service and other,908061000,2014-12-31
+Service and other,489788000,2015-12-31
+Service and other,378585000,2016-12-31
+Product,34830000,2014-12-31
+Product,28175000,2015-12-31
+Product,18645000,2016-12-31
+us-gaap_SalesRevenueNet,942891000,2014-12-31
+us-gaap_SalesRevenueNet,170987000,2015-03-31
+us-gaap_SalesRevenueNet,517963000,2015-12-31
+us-gaap_SalesRevenueNet,143147000,2015-06-30
+us-gaap_SalesRevenueNet,106544000,2015-09-30
+us-gaap_SalesRevenueNet,97285000,2015-12-31
+us-gaap_SalesRevenueNet,95036000,2016-03-31
+us-gaap_SalesRevenueNet,397230000,2016-12-31
+us-gaap_SalesRevenueNet,107035000,2016-06-30
+us-gaap_SalesRevenueNet,104238000,2016-09-30
+us-gaap_SalesRevenueNet,90921000,2016-12-31
+Service and other costs,513087000,2014-12-31
+Service and other costs,300888000,2015-12-31
+Service and other costs,238037000,2016-12-31
+Product costs,31834000,2014-12-31
+Product costs,26725000,2015-12-31
+Product costs,21613000,2016-12-31
+"Selling, general and administrative expenses",70345000,2014-12-31
+"Selling, general and administrative expenses",68441000,2015-12-31
+"Selling, general and administrative expenses",55297000,2016-12-31
+Spin-off and formation costs,4350000,2014-12-31
+Spin-off and formation costs,,2015-12-31
+Spin-off and formation costs,,2016-12-31
+Depreciation and amortization expense,174970000,2014-12-31
+Depreciation and amortization expense,152990000,2015-12-31
+Depreciation and amortization expense,131302000,2016-12-31
+Impairment expense,290508000,2014-12-31
+Impairment expense,290508000,2014-12-31
+Impairment expense,122926000,2015-12-31
+Impairment expense,122926000,2015-09-30
+Impairment expense,46129000,2016-12-31
+Impairment expense,46129000,2016-09-30
+us-gaap_OtherOperatingIncomeExpenseNet,-688000,2014-12-31
+us-gaap_OtherOperatingIncomeExpenseNet,9004000,2015-12-31
+us-gaap_OtherOperatingIncomeExpenseNet,-612000,2016-12-31
+us-gaap_OperatingExpenses,1085782000,2014-12-31
+us-gaap_OperatingExpenses,662966000,2015-12-31
+us-gaap_OperatingExpenses,492990000,2016-12-31
+us-gaap_OperatingIncomeLoss,-142891000,2014-12-31
+us-gaap_OperatingIncomeLoss,-145003000,2015-12-31
+us-gaap_OperatingIncomeLoss,-95760000,2016-12-31
+us-gaap_InterestExpenseRelatedParty,6980000,2014-12-31
+us-gaap_InterestExpenseRelatedParty,,2015-12-31
+us-gaap_InterestExpenseRelatedParty,,2016-12-31
+us-gaap_InterestExpense,14396000,2014-12-31
+us-gaap_InterestExpense,22585000,2015-12-31
+us-gaap_InterestExpense,22667000,2016-12-31
+Loss on extinguishment of debt,-3455000,2014-12-31
+Loss on extinguishment of debt,-3500000,2014-06-30
+Loss on extinguishment of debt,-1474000,2015-12-31
+Loss on extinguishment of debt,-1500000,2015-09-30
+Loss on extinguishment of debt,-300000,2016-03-31
+Loss on extinguishment of debt,-302000,2016-12-31
+Interest income,3915000,2014-12-31
+Interest income,2033000,2015-12-31
+Interest income,152000,2016-12-31
+Other income,7524000,2014-12-31
+Other income,3276000,2015-12-31
+Other income,2645000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-156283000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-163753000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-115932000,2016-12-31
+"Net income tax provision (benefit), amount",31379000,2014-12-31
+"Net income tax provision (benefit), amount",-33089000,2015-12-31
+"Net income tax provision (benefit), amount",-20105000,2016-12-31
+Net loss,-187662000,2014-12-31
+Net loss,-130664000,2015-12-31
+Net loss,-95827000,2016-12-31
+Less: Net income attributable to noncontrolling interest,1381000,2014-12-31
+Less: Net income attributable to noncontrolling interest,1095000,2015-12-31
+Less: Net income attributable to noncontrolling interest,561000,2016-12-31
+Net loss attributable to Civeo,-189043000,2014-12-31
+Net loss attributable to Civeo,-16000,2015-03-31
+Net loss attributable to Civeo,-131759000,2015-12-31
+Net loss attributable to Civeo,-13461000,2015-06-30
+Net loss attributable to Civeo,-107685000,2015-09-30
+Net loss attributable to Civeo,-10597000,2015-12-31
+Net loss attributable to Civeo,-26822000,2016-03-31
+Net loss attributable to Civeo,-96388000,2016-12-31
+Net loss attributable to Civeo,-11486000,2016-06-30
+Net loss attributable to Civeo,-42131000,2016-09-30
+Net loss attributable to Civeo,-15949000,2016-12-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-1.77,2014-12-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),0,2015-03-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-1.24,2015-12-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.13,2015-06-30
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-1.01,2015-09-30
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.10,2015-12-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.25,2016-03-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.90,2016-12-31
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.11,2016-06-30
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.39,2016-09-30
+Basic net loss per share attributable to Civeo Corporation common shareholders (in dollars per share),-0.15,2016-12-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-1.77,2014-12-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),0,2015-03-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-1.24,2015-12-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.13,2015-06-30
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-1.01,2015-09-30
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.10,2015-12-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.25,2016-03-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.90,2016-12-31
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.11,2016-06-30
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.39,2016-09-30
+Diluted net loss per share attributable to Civeo Corporation common shareholders. (in dollars per share),-0.15,2016-12-31
+Basic (in shares),106306000,2014-12-31
+Basic (in shares),106604000,2015-12-31
+Basic (in shares),107024000,2016-12-31
+Diluted (in shares),106306000,2014-12-31
+Diluted (in shares),106604000,2015-12-31
+Diluted (in shares),107024000,2016-12-31
+Dividends per common share (in dollars per share),0.26,2014-12-31
+Dividends per common share (in dollars per share),,2015-12-31
+Dividends per common share (in dollars per share),,2016-12-31

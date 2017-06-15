@@ -1,0 +1,67 @@
+Metric,Amount,endDate
+Noninterest-bearing,14710000,2015-12-31
+Noninterest-bearing,17551000,2016-12-31
+us-gaap_InterestBearingDepositsInBanks,21351000,2015-12-31
+us-gaap_InterestBearingDepositsInBanks,14558000,2016-12-31
+us-gaap_CashAndDueFromBanks,36061000,2015-12-31
+us-gaap_CashAndDueFromBanks,32109000,2016-12-31
+"Available-for-sale securities, at fair value",420290000,2015-12-31
+"Available-for-sale securities, at fair value",395077000,2016-12-31
+Loans held for sale,280000,2015-12-31
+Loans held for sale,142000,2016-12-31
+Loans receivable,704880000,2015-12-31
+Loans receivable,751835000,2016-12-31
+Allowance for loan losses,8663000,2013-12-31
+Allowance for loan losses,7336000,2014-12-31
+Allowance for loan losses,7889000,2015-12-31
+Allowance for loan losses,8473000,2016-12-31
+"Loans, net",696991000,2015-12-31
+"Loans, net",743362000,2016-12-31
+Bank-owned life insurance,20764000,2015-12-31
+Bank-owned life insurance,19704000,2016-12-31
+Accrued interest receivable,3768000,2015-12-31
+Accrued interest receivable,3963000,2016-12-31
+"Bank premises and equipment, net",15406000,2015-12-31
+"Bank premises and equipment, net",15397000,2016-12-31
+us-gaap_ForeclosedAssets,1260000,2015-12-31
+us-gaap_ForeclosedAssets,2180000,2016-12-31
+"Deferred tax asset, net",3115000,2015-12-31
+"Deferred tax asset, net",5117000,2016-12-31
+Intangible assets - Goodwill and core deposit intangibles,11972000,2015-12-31
+Intangible assets - Goodwill and core deposit intangibles,11959000,2016-12-31
+Other assets,13510000,2015-12-31
+Other assets,13282000,2016-12-31
+us-gaap_Assets,1223417000,2015-12-31
+us-gaap_Assets,1242292000,2016-12-31
+us-gaap_NoninterestBearingDepositLiabilitiesDomestic,211041000,2015-12-31
+us-gaap_NoninterestBearingDepositLiabilitiesDomestic,224175000,2016-12-31
+us-gaap_InterestBearingDepositLiabilitiesDomestic,724574000,2015-12-31
+us-gaap_InterestBearingDepositLiabilitiesDomestic,759668000,2016-12-31
+us-gaap_Deposits,935615000,2015-12-31
+us-gaap_Deposits,983843000,2016-12-31
+Short-term borrowings,53496000,2015-12-31
+Short-term borrowings,26175000,2016-12-31
+Long-term borrowings,38767000,2015-12-31
+Long-term borrowings,38454000,2016-12-31
+us-gaap_OtherLiabilities,8052000,2015-12-31
+us-gaap_OtherLiabilities,7812000,2016-12-31
+us-gaap_Liabilities,1035930000,2015-12-31
+us-gaap_Liabilities,1056284000,2016-12-31
+"Preferred stock, $1,000 par value; authorized 30,000 shares; $1,000 liquidation preference per share; no shares issued",0,2015-12-31
+"Preferred stock, $1,000 par value; authorized 30,000 shares; $1,000 liquidation preference per share; no shares issued",0,2016-12-31
+"Common stock, par value $1.00 per share; authorized 20,000,000 shares; issued 12,655,171; outstanding 12,113,228 at December 31, 2016 and 12,180,623 December 31, 2015",12655000,2015-12-31
+"Common stock, par value $1.00 per share; authorized 20,000,000 shares; issued 12,655,171; outstanding 12,113,228 at December 31, 2016 and 12,180,623 December 31, 2015",12655000,2016-12-31
+Paid-in capital,71654000,2015-12-31
+Paid-in capital,71730000,2016-12-31
+Retained earnings,109454000,2015-12-31
+Retained earnings,112790000,2016-12-31
+us-gaap_TreasuryStockValue,8804000,2015-12-31
+us-gaap_TreasuryStockValue,10269000,2016-12-31
+Accumulated other comprehensive (loss) income,2528000,2015-12-31
+Accumulated other comprehensive (loss) income,-898000,2016-12-31
+us-gaap_StockholdersEquity,179472000,2013-12-31
+us-gaap_StockholdersEquity,188362000,2014-12-31
+us-gaap_StockholdersEquity,187487000,2015-12-31
+us-gaap_StockholdersEquity,186008000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1223417000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1242292000,2016-12-31

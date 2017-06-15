@@ -1,0 +1,112 @@
+Metric,Amount,endDate
+Sales,506764000,2014-12-31
+Sales,128372000,2015-03-31
+Sales,550414000,2015-12-31
+Sales,144824000,2015-06-30
+Sales,136572000,2015-09-30
+Sales,140647000,2015-12-31
+Sales,133726000,2016-03-31
+Sales,590777000,2016-12-31
+Sales,162537000,2016-06-30
+Sales,148664000,2016-09-30
+Sales,145850000,2016-12-31
+Cost of products sold,450702000,2014-12-31
+Cost of products sold,502783000,2015-12-31
+Cost of products sold,518113000,2016-12-31
+Restructuring charges,808000,2014-12-31
+Restructuring charges,519000,2015-12-31
+Restructuring charges,136000,2016-12-31
+us-gaap_GrossProfit,55254000,2014-12-31
+us-gaap_GrossProfit,11533000,2015-03-31
+us-gaap_GrossProfit,47112000,2015-12-31
+us-gaap_GrossProfit,17442000,2015-06-30
+us-gaap_GrossProfit,12808000,2015-09-30
+us-gaap_GrossProfit,5329000,2015-12-31
+us-gaap_GrossProfit,15820000,2016-03-31
+us-gaap_GrossProfit,72528000,2016-12-31
+us-gaap_GrossProfit,20807000,2016-06-30
+us-gaap_GrossProfit,18010000,2016-09-30
+us-gaap_GrossProfit,17890000,2016-12-31
+Research and development,3851000,2014-12-31
+Research and development,4560000,2015-12-31
+Research and development,6772000,2016-12-31
+"Selling, general and administrative",51205000,2014-12-31
+"Selling, general and administrative",52695000,2015-12-31
+"Selling, general and administrative",56172000,2016-12-31
+us-gaap_RestructuringCharges,1349000,2014-12-31
+us-gaap_RestructuringCharges,1155000,2015-03-31
+us-gaap_RestructuringCharges,2336000,2015-12-31
+us-gaap_RestructuringCharges,811000,2015-06-30
+us-gaap_RestructuringCharges,462000,2015-09-30
+us-gaap_RestructuringCharges,427000,2015-12-31
+us-gaap_RestructuringCharges,339000,2016-03-31
+us-gaap_RestructuringCharges,959000,2016-12-31
+us-gaap_RestructuringCharges,227000,2016-06-30
+us-gaap_RestructuringCharges,304000,2016-09-30
+us-gaap_RestructuringCharges,224000,2016-12-31
+us-gaap_OperatingExpenses,56405000,2014-12-31
+us-gaap_OperatingExpenses,59591000,2015-12-31
+us-gaap_OperatingExpenses,63903000,2016-12-31
+us-gaap_OperatingIncomeLoss,-1151000,2014-12-31
+us-gaap_OperatingIncomeLoss,-12479000,2015-12-31
+us-gaap_OperatingIncomeLoss,8625000,2016-12-31
+us-gaap_InterestExpenseDebt,341000,2014-12-31
+us-gaap_InterestExpenseDebt,365000,2015-12-31
+us-gaap_InterestExpenseDebt,410000,2016-12-31
+Interest and other income,418000,2014-12-31
+Interest and other income,244000,2015-12-31
+Interest and other income,488000,2016-12-31
+us-gaap_NonoperatingIncomeExpense,77000,2014-12-31
+us-gaap_NonoperatingIncomeExpense,-121000,2015-12-31
+us-gaap_NonoperatingIncomeExpense,78000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-1074000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-12600000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,8703000,2016-12-31
+Income tax expense (benefit),-2103000,2014-12-31
+Income tax expense (benefit),4880000,2015-12-31
+Income tax expense (benefit),100000,2016-12-31
+Net earnings (loss),1029000,2014-12-31
+Net earnings (loss),-17480000,2015-12-31
+Net earnings (loss),8603000,2016-12-31
+Less: net loss attributable to non-controlling interest,-144000,2014-12-31
+Less: net loss attributable to non-controlling interest,-508000,2015-12-31
+Less: net loss attributable to non-controlling interest,-7000,2016-12-31
+us-gaap_NetIncomeLoss,1173000,2014-12-31
+us-gaap_NetIncomeLoss,-2880000,2015-03-31
+us-gaap_NetIncomeLoss,-16972000,2015-12-31
+us-gaap_NetIncomeLoss,1177000,2015-06-30
+us-gaap_NetIncomeLoss,-5818000,2015-09-30
+us-gaap_NetIncomeLoss,-9450000,2015-12-31
+us-gaap_NetIncomeLoss,543000,2016-03-31
+us-gaap_NetIncomeLoss,8610000,2016-12-31
+us-gaap_NetIncomeLoss,4379000,2016-06-30
+us-gaap_NetIncomeLoss,2745000,2016-09-30
+us-gaap_NetIncomeLoss,942000,2016-12-31
+Basic net earnings (loss) per share (in dollars per share),0.03,2014-12-31
+Basic net earnings (loss) per share (in dollars per share),-0.09,2015-03-31
+Basic net earnings (loss) per share (in dollars per share),-0.50,2015-12-31
+Basic net earnings (loss) per share (in dollars per share),0.03,2015-06-30
+Basic net earnings (loss) per share (in dollars per share),-0.17,2015-09-30
+Basic net earnings (loss) per share (in dollars per share),-0.28,2015-12-31
+Basic net earnings (loss) per share (in dollars per share),0.02,2016-03-31
+Basic net earnings (loss) per share (in dollars per share),0.25,2016-12-31
+Basic net earnings (loss) per share (in dollars per share),0.13,2016-06-30
+Basic net earnings (loss) per share (in dollars per share),0.08,2016-09-30
+Basic net earnings (loss) per share (in dollars per share),0.03,2016-12-31
+Diluted net earnings (loss) per share (in dollars per share),0.03,2014-12-31
+Diluted net earnings (loss) per share (in dollars per share),-0.09,2015-03-31
+Diluted net earnings (loss) per share (in dollars per share),-0.50,2015-12-31
+Diluted net earnings (loss) per share (in dollars per share),0.03,2015-06-30
+Diluted net earnings (loss) per share (in dollars per share),-0.17,2015-09-30
+Diluted net earnings (loss) per share (in dollars per share),-0.28,2015-12-31
+Diluted net earnings (loss) per share (in dollars per share),0.02,2016-03-31
+Diluted net earnings (loss) per share (in dollars per share),0.25,2016-12-31
+Diluted net earnings (loss) per share (in dollars per share),0.13,2016-06-30
+Diluted net earnings (loss) per share (in dollars per share),0.08,2016-09-30
+Diluted net earnings (loss) per share (in dollars per share),0.03,2016-12-31
+Basic weighted average common shares outstanding (in shares),34251000,2014-12-31
+Basic weighted average common shares outstanding (in shares),33826000,2015-12-31
+Basic weighted average common shares outstanding (in shares),34405000,2016-12-31
+Diluted weighted average common shares outstanding (in shares),34256000,2014-12-31
+Diluted weighted average common shares outstanding (in shares),33826000,2015-12-31
+Diluted weighted average common shares outstanding (in shares),34405000,2016-12-31

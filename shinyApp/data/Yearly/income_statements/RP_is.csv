@@ -1,0 +1,94 @@
+Metric,Amount,endDate
+Revenue On Demand,390622000,2014-12-31
+Revenue On Demand,106460000,2015-03-31
+Revenue On Demand,110640000,2015-06-30
+Revenue On Demand,116772000,2015-09-30
+Revenue On Demand,117090000,2015-12-31
+Revenue On Demand,450962000,2015-12-31
+Revenue On Demand,141627000,2016-12-31
+Revenue On Demand,542531000,2016-12-31
+Revenue On Premise,3094000,2014-12-31
+Revenue On Premise,741000,2015-03-31
+Revenue On Premise,726000,2015-06-30
+Revenue On Premise,834000,2015-09-30
+Revenue On Premise,669000,2015-12-31
+Revenue On Premise,2970000,2015-12-31
+Revenue On Premise,695000,2016-12-31
+Revenue On Premise,2836000,2016-12-31
+Technology Services Revenue,10835000,2014-12-31
+Technology Services Revenue,3269000,2015-03-31
+Technology Services Revenue,3396000,2015-06-30
+Technology Services Revenue,3982000,2015-09-30
+Technology Services Revenue,3941000,2015-12-31
+Technology Services Revenue,14588000,2015-12-31
+Technology Services Revenue,6749000,2016-12-31
+Technology Services Revenue,22761000,2016-12-31
+"Sales Revenue, Services, Net",404551000,2014-12-31
+"Sales Revenue, Services, Net",110470000,2015-03-31
+"Sales Revenue, Services, Net",114762000,2015-06-30
+"Sales Revenue, Services, Net",121588000,2015-09-30
+"Sales Revenue, Services, Net",121700000,2015-12-31
+"Sales Revenue, Services, Net",468520000,2015-12-31
+"Sales Revenue, Services, Net",149071000,2016-12-31
+"Sales Revenue, Services, Net",568128000,2016-12-31
+Cost of Services,174871000,2014-12-31
+Cost of Services,198613000,2015-12-31
+Cost of Services,242301000,2016-12-31
+Gross Profit,229680000,2014-12-31
+Gross Profit,62908000,2015-03-31
+Gross Profit,66269000,2015-06-30
+Gross Profit,69848000,2015-09-30
+Gross Profit,70882000,2015-12-31
+Gross Profit,269907000,2015-12-31
+Gross Profit,73635000,2016-03-31
+Gross Profit,80641000,2016-06-30
+Gross Profit,83844000,2016-09-30
+Gross Profit,87707000,2016-12-31
+Gross Profit,325827000,2016-12-31
+Research and Development Expense,64418000,2014-12-31
+Research and Development Expense,68799000,2015-12-31
+Research and Development Expense,73607000,2016-12-31
+Selling and Marketing Expense,111563000,2014-12-31
+Selling and Marketing Expense,123108000,2015-12-31
+Selling and Marketing Expense,135213000,2016-12-31
+General and Administrative Expense,69202000,2014-12-31
+General and Administrative Expense,68814000,2015-12-31
+General and Administrative Expense,85013000,2016-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",0,2014-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",20801000,2015-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",750000,2016-12-31
+Operating Expenses,245183000,2014-12-31
+Operating Expenses,281522000,2015-12-31
+Operating Expenses,294583000,2016-12-31
+Operating Income (Loss),-15503000,2014-12-31
+Operating Income (Loss),-11615000,2015-12-31
+Operating Income (Loss),31244000,2016-12-31
+Interest Expense And Other Net,1104000,2014-12-31
+Interest Expense And Other Net,1449000,2015-12-31
+Interest Expense And Other Net,3758000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-16607000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-13064000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",27486000,2016-12-31
+Income Tax Expense (Benefit),-6333000,2014-12-31
+Income Tax Expense (Benefit),-3846000,2015-12-31
+Income Tax Expense (Benefit),10836000,2016-12-31
+Net Income (Loss) Attributable to Parent,-10274000,2014-12-31
+Net Income (Loss) Attributable to Parent,-1608000,2015-03-31
+Net Income (Loss) Attributable to Parent,-3318000,2015-06-30
+Net Income (Loss) Attributable to Parent,-8192000,2015-09-30
+Net Income (Loss) Attributable to Parent,3900000,2015-12-31
+Net Income (Loss) Attributable to Parent,-9218000,2015-12-31
+Net Income (Loss) Attributable to Parent,7361000,2016-12-31
+Net Income (Loss) Attributable to Parent,16650000,2016-12-31
+"Earnings Per Share, Basic",-0.13,2014-12-31
+"Earnings Per Share, Basic",-0.12,2015-12-31
+"Earnings Per Share, Basic",0.22,2016-12-31
+"Earnings Per Share, Diluted",-0.13,2014-12-31
+"Earnings Per Share, Diluted",-0.12,2015-12-31
+"Earnings Per Share, Diluted",0.21,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",76991000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",76689000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",76854000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",76991000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",76689000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",77843000,2016-12-31

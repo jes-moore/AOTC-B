@@ -1,0 +1,128 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,98650000,2014-12-31
+Net Income (Loss) Attributable to Parent,23142000,2015-03-31
+Net Income (Loss) Attributable to Parent,31848000,2015-06-30
+Net Income (Loss) Attributable to Parent,32076000,2015-09-30
+Net Income (Loss) Attributable to Parent,36648000,2015-12-31
+Net Income (Loss) Attributable to Parent,123714000,2015-12-31
+Net Income (Loss) Attributable to Parent,20092000,2016-03-31
+Net Income (Loss) Attributable to Parent,18306000,2016-06-30
+Net Income (Loss) Attributable to Parent,18920000,2016-09-30
+Net Income (Loss) Attributable to Parent,21811000,2016-12-31
+Net Income (Loss) Attributable to Parent,79129000,2016-12-31
+Depreciation,176984000,2014-12-31
+Depreciation,193209000,2015-12-31
+Depreciation,209728000,2016-12-31
+Deferred Income Tax Expense (Benefit),5038000,2014-12-31
+Deferred Income Tax Expense (Benefit),38442000,2015-12-31
+Deferred Income Tax Expense (Benefit),44632000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,19260000,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,23240000,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,16432000,2016-12-31
+Share-based Compensation,6070000,2014-12-31
+Share-based Compensation,4361000,2015-12-31
+Share-based Compensation,2381000,2016-12-31
+Increase Decrease In Self Insurance Reserves Noncurrent,8455000,2014-12-31
+Increase Decrease In Self Insurance Reserves Noncurrent,-1750000,2015-12-31
+Increase Decrease In Self Insurance Reserves Noncurrent,11320000,2016-12-31
+"Other Operating Activities, Cash Flow Statement",1107000,2014-12-31
+"Other Operating Activities, Cash Flow Statement",9103000,2015-12-31
+"Other Operating Activities, Cash Flow Statement",-3370000,2016-12-31
+Increase (Decrease) in Accounts Receivable,35080000,2014-12-31
+Increase (Decrease) in Accounts Receivable,-15704000,2015-12-31
+Increase (Decrease) in Accounts Receivable,10349000,2016-12-31
+Increase (Decrease) in Other Current Assets,25926000,2014-12-31
+Increase (Decrease) in Other Current Assets,-9455000,2015-12-31
+Increase (Decrease) in Other Current Assets,-4979000,2016-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-1497000,2014-12-31
+"Increase (Decrease) in Accounts Payable, Trade",7256000,2015-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-5272000,2016-12-31
+Increase (Decrease) in Other Current Liabilities,8934000,2014-12-31
+Increase (Decrease) in Other Current Liabilities,-9362000,2015-12-31
+Increase (Decrease) in Other Current Liabilities,18291000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,206565000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,370392000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,312397000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",296649000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",454097000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",537838000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",84355000,2014-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",102614000,2015-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",108231000,2016-12-31
+Proceeds from Collection of Notes Receivable,14390000,2014-12-31
+Proceeds from Collection of Notes Receivable,19517000,2015-12-31
+Proceeds from Collection of Notes Receivable,19353000,2016-12-31
+Payments for (Proceeds from) Other Investing Activities,5583000,2014-12-31
+Payments for (Proceeds from) Other Investing Activities,3580000,2015-12-31
+Payments for (Proceeds from) Other Investing Activities,0,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-203487000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-335546000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-410254000,2016-12-31
+Repayments of Lines of Credit,10000000,2014-12-31
+Repayments of Lines of Credit,10000000,2015-12-31
+Repayments of Lines of Credit,20000000,2016-12-31
+Proceeds from Lines of Credit,10000000,2014-12-31
+Proceeds from Lines of Credit,10000000,2015-12-31
+Proceeds from Lines of Credit,40000000,2016-12-31
+Repayments of Long-term Lines of Credit,40000000,2014-12-31
+Repayments of Long-term Lines of Credit,0,2015-12-31
+Repayments of Long-term Lines of Credit,40000000,2016-12-31
+Proceeds from Long-term Lines of Credit,75000000,2014-12-31
+Proceeds from Long-term Lines of Credit,0,2015-12-31
+Proceeds from Long-term Lines of Credit,125000000,2016-12-31
+Repayments of Notes Payable,0,2014-12-31
+Repayments of Notes Payable,3117000,2015-12-31
+Repayments of Notes Payable,3117000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",14440000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",15115000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",17289000,2016-12-31
+Payments for Repurchase of Common Stock,30587000,2014-12-31
+Payments for Repurchase of Common Stock,6438000,2015-12-31
+Payments for Repurchase of Common Stock,0,2016-12-31
+Payments Related to Tax Withholding for Share-based Compensation,1977000,2014-12-31
+Payments Related to Tax Withholding for Share-based Compensation,1724000,2015-12-31
+Payments Related to Tax Withholding for Share-based Compensation,1832000,2016-12-31
+Proceeds from Stock Options Exercised,7012000,2014-12-31
+Proceeds from Stock Options Exercised,846000,2015-12-31
+Proceeds from Stock Options Exercised,370000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1324000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",556000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",238000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-3668000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,-24992000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,83370000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-484000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-625000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-384000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-1074000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",9229000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-14871000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",23678000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",22604000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",31833000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",16962000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",23678000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",22604000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",31833000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",16962000,2016-12-31
+Interest Paid,820000,2014-12-31
+Interest Paid,1978000,2015-12-31
+Interest Paid,2470000,2016-12-31
+"Income Taxes Paid, Net",76849000,2014-12-31
+"Income Taxes Paid, Net",35205000,2015-12-31
+"Income Taxes Paid, Net",4673000,2016-12-31
+Notes Issued,14385000,2014-12-31
+Notes Issued,36060000,2015-12-31
+Notes Issued,25449000,2016-12-31
+Notes Assumed,6233000,2014-12-31
+Notes Assumed,0,2015-12-31
+Notes Assumed,0,2016-12-31
+Increase (Decrease) in Fair Value of Interest Rate Fair Value Hedging Instruments,-1180000,2014-12-31
+Increase (Decrease) in Fair Value of Interest Rate Fair Value Hedging Instruments,242000,2015-12-31
+Increase (Decrease) in Fair Value of Interest Rate Fair Value Hedging Instruments,337000,2016-12-31
+Capital Expenditures Incurred but Not yet Paid,2067000,2014-12-31
+Capital Expenditures Incurred but Not yet Paid,627000,2015-12-31
+Capital Expenditures Incurred but Not yet Paid,1874000,2016-12-31
+Property And Equipment Disposed Included In Other Receivables,0,2014-12-31
+Property And Equipment Disposed Included In Other Receivables,21000,2015-12-31
+Property And Equipment Disposed Included In Other Receivables,155000,2016-12-31

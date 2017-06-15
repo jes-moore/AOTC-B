@@ -1,0 +1,107 @@
+Metric,Amount,endDate
+Net income (loss),1117000000,2015-12-31
+Net income (loss),1144000000,2016-12-31
+Net income (loss),5180000000,2014-12-31
+Net income (loss),4772000000,2015-12-31
+Net income (loss),1151000000,2015-03-31
+Net income (loss),4233000000,2016-12-31
+Net income (loss),979000000,2016-03-31
+Net income (loss),1204000000,2015-06-30
+Net income (loss),979000000,2016-06-30
+Net income (loss),1300000000,2015-09-30
+Net income (loss),1131000000,2016-09-30
+Depreciation,1904000000,2014-12-31
+Depreciation,2012000000,2015-12-31
+Depreciation,2038000000,2016-12-31
+Deferred Income Taxes And Unrecognized Tax Benefits,895000000,2014-12-31
+Deferred Income Taxes And Unrecognized Tax Benefits,765000000,2015-12-31
+Deferred Income Taxes And Unrecognized Tax Benefits,831000000,2016-12-31
+Gain (Loss) on non-operating property,69000000,2014-12-31
+Gain (Loss) on non-operating property,144000000,2015-12-31
+Gain (Loss) on non-operating property,94000000,2016-12-31
+"Other operating activities, net",216000000,2014-12-31
+"Other operating activities, net",-116000000,2015-12-31
+"Other operating activities, net",228000000,2016-12-31
+Increase Decrease In Accounts Receivable,197000000,2014-12-31
+Increase Decrease In Accounts Receivable,-255000000,2015-12-31
+Increase Decrease In Accounts Receivable,-98000000,2016-12-31
+Increase decrease in material and supplies,59000000,2014-12-31
+Increase decrease in material and supplies,24000000,2015-12-31
+Increase decrease in material and supplies,-19000000,2016-12-31
+Increase (Decrease) in Other Current Assets,35000000,2014-12-31
+Increase (Decrease) in Other Current Assets,47000000,2015-12-31
+Increase (Decrease) in Other Current Assets,-22000000,2016-12-31
+Increase (decrease) in accounts payable and accrued liabilities,295000000,2014-12-31
+Increase (decrease) in accounts payable and accrued liabilities,-276000000,2015-12-31
+Increase (decrease) in accounts payable and accrued liabilities,232000000,2016-12-31
+Increase (Decrease) in Accrued Taxes Payable,-313000000,2014-12-31
+Increase (Decrease) in Accrued Taxes Payable,-85000000,2015-12-31
+Increase (Decrease) in Accrued Taxes Payable,374000000,2016-12-31
+"Net cash provided by (used in) operating activities, continuing operations",7385000000,2014-12-31
+"Net cash provided by (used in) operating activities, continuing operations",7344000000,2015-12-31
+"Net cash provided by (used in) operating activities, continuing operations",7525000000,2016-12-31
+Capital investments,4346000000,2014-12-31
+Capital investments,4650000000,2015-12-31
+Capital investments,3505000000,2016-12-31
+Payments to Acquire Short-term Investments,,2014-12-31
+Payments to Acquire Short-term Investments,,2015-12-31
+Payments to Acquire Short-term Investments,580000000,2016-12-31
+"Proceeds from Sale, Maturity and Collection of Short-term Investments",,2014-12-31
+"Proceeds from Sale, Maturity and Collection of Short-term Investments",,2015-12-31
+"Proceeds from Sale, Maturity and Collection of Short-term Investments",520000000,2016-12-31
+"Proceeds from sale of property, plant, and equipment",138000000,2014-12-31
+"Proceeds from sale of property, plant, and equipment",251000000,2015-12-31
+"Proceeds from sale of property, plant, and equipment",129000000,2016-12-31
+Payments for (proceeds from) other investing activities,41000000,2014-12-31
+Payments for (proceeds from) other investing activities,77000000,2015-12-31
+Payments for (proceeds from) other investing activities,-43000000,2016-12-31
+Net cash provided by (used in) continuing operations,-4249000000,2014-12-31
+Net cash provided by (used in) continuing operations,-4476000000,2015-12-31
+Net cash provided by (used in) continuing operations,-3393000000,2016-12-31
+Payments for Repurchase of Common Stock,3225000000,2014-12-31
+Payments for Repurchase of Common Stock,3465000000,2015-12-31
+Payments for Repurchase of Common Stock,3105000000,2016-12-31
+Proceeds from issuance of other long-term debt,2588000000,2014-12-31
+Proceeds from issuance of other long-term debt,3328000000,2015-12-31
+Proceeds from issuance of other long-term debt,1983000000,2016-12-31
+Payments of dividends,1632000000,2014-12-31
+Payments of dividends,2344000000,2015-12-31
+Payments of dividends,1879000000,2016-12-31
+Repayments of debt and capital lease obligations,710000000,2014-12-31
+Repayments of debt and capital lease obligations,556000000,2015-12-31
+Repayments of debt and capital lease obligations,1013000000,2016-12-31
+Payments of Debt Restructuring Costs,,2014-12-31
+Payments of Debt Restructuring Costs,,2015-12-31
+Payments of Debt Restructuring Costs,191000000,2016-12-31
+Proceeds from (payments for) other financing activites,-3000000,2014-12-31
+Proceeds from (payments for) other financing activites,-26000000,2015-12-31
+Proceeds from (payments for) other financing activites,-41000000,2016-12-31
+"Net cash provided by (used in) financing activities, continuing operations",-2982000000,2014-12-31
+"Net cash provided by (used in) financing activities, continuing operations",-3063000000,2015-12-31
+"Net cash provided by (used in) financing activities, continuing operations",-4246000000,2016-12-31
+"Cash and cash equivalents, period incrase (decrease)",154000000,2014-12-31
+"Cash and cash equivalents, period incrase (decrease)",-195000000,2015-12-31
+"Cash and cash equivalents, period incrase (decrease)",-114000000,2016-12-31
+"Cash and cash equivalents, at carry value",1432000000,2013-12-31
+"Cash and cash equivalents, at carry value",1586000000,2014-12-31
+"Cash and cash equivalents, at carry value",1391000000,2015-12-31
+"Cash and cash equivalents, at carry value",1277000000,2016-12-31
+"Cash and cash equivalents, at carry value",1432000000,2013-12-31
+"Cash and cash equivalents, at carry value",1586000000,2014-12-31
+"Cash and cash equivalents, at carry value",1391000000,2015-12-31
+"Cash and cash equivalents, at carry value",1277000000,2016-12-31
+Capital expenditures incurred but not yet paid,174000000,2014-12-31
+Capital expenditures incurred but not yet paid,100000000,2015-12-31
+Capital expenditures incurred but not yet paid,223000000,2016-12-31
+Capital lease financings,,2014-12-31
+Capital lease financings,13000000,2015-12-31
+Capital lease financings,,2016-12-31
+"Dividends payable, current",438000000,2014-12-31
+"Dividends payable, current",,2015-12-31
+"Dividends payable, current",,2016-12-31
+Income Taxes Paid Net,2492000000,2014-12-31
+Income Taxes Paid Net,2156000000,2015-12-31
+Income Taxes Paid Net,1347000000,2016-12-31
+"Interest paid, net",554000000,2014-12-31
+"Interest paid, net",592000000,2015-12-31
+"Interest paid, net",652000000,2016-12-31

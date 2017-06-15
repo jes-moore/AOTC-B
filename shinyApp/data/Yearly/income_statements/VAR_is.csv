@@ -1,0 +1,115 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",2083800000,2014-09-26
+"Sales Revenue, Goods, Net",2077900000,2015-10-02
+"Sales Revenue, Goods, Net",2142300000,2016-09-30
+"Sales Revenue, Services, Net",966000000,2014-09-26
+"Sales Revenue, Services, Net",1021200000,2015-10-02
+"Sales Revenue, Services, Net",1075500000,2016-09-30
+Revenues,3049800000,2014-09-26
+Revenues,737900000,2015-01-02
+Revenues,759400000,2015-04-03
+Revenues,784000000,2015-07-03
+Revenues,817800000,2015-10-02
+Revenues,3099100000,2015-10-02
+Revenues,757100000,2016-01-01
+Revenues,758800000,2016-04-01
+Revenues,789400000,2016-07-01
+Revenues,912500000,2016-09-30
+Revenues,3217800000,2016-09-30
+Cost of Goods Sold,1314600000,2014-09-26
+Cost of Goods Sold,1390200000,2015-10-02
+Cost of Goods Sold,1411900000,2016-09-30
+Cost of Services,433500000,2014-09-26
+Cost of Services,426200000,2015-10-02
+Cost of Services,444600000,2016-09-30
+Cost of Revenue,1748100000,2014-09-26
+Cost of Revenue,1816400000,2015-10-02
+Cost of Revenue,1856500000,2016-09-30
+Gross Profit,1301700000,2014-09-26
+Gross Profit,327000000,2015-01-02
+Gross Profit,322500000,2015-04-03
+Gross Profit,315000000,2015-07-03
+Gross Profit,318200000,2015-10-02
+Gross Profit,1282700000,2015-10-02
+Gross Profit,309700000,2016-01-01
+Gross Profit,317200000,2016-04-01
+Gross Profit,346400000,2016-07-01
+Gross Profit,388000000,2016-09-30
+Gross Profit,1361300000,2016-09-30
+Research and Development Expense,234800000,2014-09-26
+Research and Development Expense,245200000,2015-10-02
+Research and Development Expense,253500000,2016-09-30
+"Selling, General and Administrative Expense",470600000,2014-09-26
+"Selling, General and Administrative Expense",488500000,2015-10-02
+"Selling, General and Administrative Expense",540100000,2016-09-30
+Business Separation Costs,0,2014-09-26
+Business Separation Costs,0,2015-10-02
+Business Separation Costs,5400000,2016-07-01
+Business Separation Costs,11500000,2016-09-30
+Business Separation Costs,16900000,2016-09-30
+Gain (Loss) Related to Litigation Settlement,-25100000,2014-09-26
+Gain (Loss) Related to Litigation Settlement,0,2015-10-02
+Gain (Loss) Related to Litigation Settlement,0,2016-09-30
+Operating Expenses,730500000,2014-09-26
+Operating Expenses,733700000,2015-10-02
+Operating Expenses,810500000,2016-09-30
+Operating Income (Loss),571200000,2014-09-26
+Operating Income (Loss),549000000,2015-10-02
+Operating Income (Loss),550800000,2016-09-30
+"Investment Income, Interest",10500000,2014-09-26
+"Investment Income, Interest",13600000,2015-10-02
+"Investment Income, Interest",17400000,2016-09-30
+Interest Expense,7200000,2014-09-26
+Interest Expense,7900000,2015-10-02
+Interest Expense,11800000,2016-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",574500000,2014-09-26
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",554700000,2015-10-02
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",556400000,2016-09-30
+Income Tax Expense (Benefit),170800000,2014-09-26
+Income Tax Expense (Benefit),142700000,2015-10-02
+Income Tax Expense (Benefit),153700000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",403700000,2014-09-26
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",412000000,2015-10-02
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",402700000,2016-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2014-09-26
+Net Income (Loss) Attributable to Noncontrolling Interest,500000,2015-10-02
+Net Income (Loss) Attributable to Noncontrolling Interest,400000,2016-09-30
+Net Income (Loss) Attributable to Parent,403700000,2014-09-26
+Net Income (Loss) Attributable to Parent,93300000,2015-01-02
+Net Income (Loss) Attributable to Parent,106000000,2015-04-03
+Net Income (Loss) Attributable to Parent,113500000,2015-07-03
+Net Income (Loss) Attributable to Parent,98700000,2015-10-02
+Net Income (Loss) Attributable to Parent,411500000,2015-10-02
+Net Income (Loss) Attributable to Parent,89000000,2016-01-01
+Net Income (Loss) Attributable to Parent,97000000,2016-04-01
+Net Income (Loss) Attributable to Parent,98800000,2016-07-01
+Net Income (Loss) Attributable to Parent,117500000,2016-09-30
+Net Income (Loss) Attributable to Parent,402300000,2016-09-30
+"Earnings Per Share, Basic",3.88,2014-09-26
+"Earnings Per Share, Basic",0.93,2015-01-02
+"Earnings Per Share, Basic",1.06,2015-04-03
+"Earnings Per Share, Basic",1.14,2015-07-03
+"Earnings Per Share, Basic",1.00,2015-10-02
+"Earnings Per Share, Basic",4.13,2015-10-02
+"Earnings Per Share, Basic",0.92,2016-01-01
+"Earnings Per Share, Basic",1.01,2016-04-01
+"Earnings Per Share, Basic",1.04,2016-07-01
+"Earnings Per Share, Basic",1.25,2016-09-30
+"Earnings Per Share, Basic",4.22,2016-09-30
+"Earnings Per Share, Diluted",3.83,2014-09-26
+"Earnings Per Share, Diluted",0.92,2015-01-02
+"Earnings Per Share, Diluted",1.05,2015-04-03
+"Earnings Per Share, Diluted",1.13,2015-07-03
+"Earnings Per Share, Diluted",0.99,2015-10-02
+"Earnings Per Share, Diluted",4.09,2015-10-02
+"Earnings Per Share, Diluted",0.91,2016-01-01
+"Earnings Per Share, Diluted",1.01,2016-04-01
+"Earnings Per Share, Diluted",1.04,2016-07-01
+"Earnings Per Share, Diluted",1.24,2016-09-30
+"Earnings Per Share, Diluted",4.19,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic",104000000,2014-09-26
+"Weighted Average Number of Shares Outstanding, Basic",99700000,2015-10-02
+"Weighted Average Number of Shares Outstanding, Basic",95400000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",105300000,2014-09-26
+"Weighted Average Number of Shares Outstanding, Diluted",100600000,2015-10-02
+"Weighted Average Number of Shares Outstanding, Diluted",96000000,2016-09-30

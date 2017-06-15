@@ -1,0 +1,88 @@
+Metric,Amount,endDate
+Net sales,287047000,2015-12-31
+Net sales,340799000,2016-12-31
+Net sales,303605000,2016-03-31
+Net sales,329578000,2017-03-31
+Net sales,1353228000,2015-03-31
+Net sales,1195529000,2016-03-31
+Net sales,300516000,2015-06-30
+Net sales,1312661000,2017-03-31
+Net sales,314823000,2016-06-30
+Net sales,304361000,2015-09-30
+Net sales,327461000,2016-09-30
+Cost of sales,1024659000,2015-03-31
+Cost of sales,906460000,2016-03-31
+Cost of sales,1027906000,2017-03-31
+Gross profit,66043000,2015-12-31
+Gross profit,79391000,2016-12-31
+Gross profit,74076000,2016-03-31
+Gross profit,73702000,2017-03-31
+Gross profit,328569000,2015-03-31
+Gross profit,289069000,2016-03-31
+Gross profit,77174000,2015-06-30
+Gross profit,284755000,2017-03-31
+Gross profit,69863000,2016-06-30
+Gross profit,71776000,2015-09-30
+Gross profit,61799000,2016-09-30
+"Selling, general and administrative expenses",115820000,2015-03-31
+"Selling, general and administrative expenses",119767000,2016-03-31
+"Selling, general and administrative expenses",117598000,2017-03-31
+Environmental charges,45318000,2016-03-31
+Environmental charges,3600000,2017-03-31
+Profit from operations,212749000,2015-03-31
+Profit from operations,123984000,2016-03-31
+Profit from operations,163557000,2017-03-31
+"Investment Income, Interest",4554000,2015-03-31
+"Investment Income, Interest",5003000,2016-03-31
+"Investment Income, Interest",7381000,2017-03-31
+"Other, net",1296000,2015-03-31
+"Other, net",3165000,2016-03-31
+"Other, net",4011000,2017-03-31
+Income before income taxes,218599000,2015-03-31
+Income before income taxes,132152000,2016-03-31
+Income before income taxes,174949000,2017-03-31
+Provision for income taxes,-7272000,2015-03-31
+Provision for income taxes,30617000,2016-03-31
+Provision for income taxes,49164000,2017-03-31
+Net income,5374000,2015-12-31
+Net income,35519000,2016-12-31
+Net income,32665000,2016-03-31
+Net income,33857000,2017-03-31
+Net income,225871000,2015-03-31
+Net income,101535000,2016-03-31
+Net income,35629000,2015-06-30
+Net income,125785000,2017-03-31
+Net income,29889000,2016-06-30
+Net income,27867000,2015-09-30
+Net income,26520000,2016-09-30
+Earnings Per Share Basic,0.03,2015-12-31
+Earnings Per Share Basic,0.21,2016-12-31
+Earnings Per Share Basic,0.19,2016-03-31
+Earnings Per Share Basic,0.20,2017-03-31
+Earnings Per Share Basic,1.34,2015-03-31
+Earnings Per Share Basic,0.61,2016-03-31
+Earnings Per Share Basic,0.21,2015-06-30
+Earnings Per Share Basic,0.75,2017-03-31
+Earnings Per Share Basic,0.18,2016-06-30
+Earnings Per Share Basic,0.17,2015-09-30
+Earnings Per Share Basic,0.16,2016-09-30
+Earnings Per Share Diluted,0.03,2015-12-31
+Earnings Per Share Diluted,0.21,2016-12-31
+Earnings Per Share Diluted,0.19,2016-03-31
+Earnings Per Share Diluted,0.20,2017-03-31
+Earnings Per Share Diluted,1.34,2015-03-31
+Earnings Per Share Diluted,0.60,2016-03-31
+Earnings Per Share Diluted,0.21,2015-06-30
+Earnings Per Share Diluted,0.75,2017-03-31
+Earnings Per Share Diluted,0.18,2016-06-30
+Earnings Per Share Diluted,0.17,2015-09-30
+Earnings Per Share Diluted,0.16,2016-09-30
+Dividends declared,0.41,2015-03-31
+Dividends declared,0.42,2016-03-31
+Dividends declared,0.33,2017-03-31
+Basic,168148000,2015-03-31
+Basic,167797000,2016-03-31
+Basic,167506000,2017-03-31
+Diluted,168402000,2015-03-31
+Diluted,167961000,2016-03-31
+Diluted,167837000,2017-03-31

@@ -1,0 +1,59 @@
+Metric,Amount,endDate
+Cost of Revenue,5000000,2014-12-31
+Cost of Revenue,5424000,2015-12-31
+Cost of Revenue,6086000,2016-12-31
+Gross Profit,45808000,2014-12-31
+Gross Profit,54075000,2015-12-31
+Gross Profit,66567000,2016-12-31
+Operating Income (Loss),1462000,2014-12-31
+Operating Income (Loss),6312000,2015-12-31
+Operating Income (Loss),14386000,2016-12-31
+"Investment Income, Net",975000,2014-12-31
+"Investment Income, Net",1069000,2015-12-31
+"Investment Income, Net",2039000,2016-12-31
+"Cost-method Investments, Realized Gain (Loss), Excluding Other than Temporary Impairments",-404000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",2033000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",7381000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",16425000,2016-12-31
+Income Tax Expense (Benefit),2852000,2014-12-31
+Income Tax Expense (Benefit),1114000,2015-12-31
+Income Tax Expense (Benefit),3325000,2016-12-31
+Net Income (Loss) Attributable to Parent,-819000,2014-12-31
+Net Income (Loss) Attributable to Parent,6267000,2015-12-31
+Net Income (Loss) Attributable to Parent,13100000,2016-12-31
+"Earnings Per Share, Basic",-0.04,2014-12-31
+"Earnings Per Share, Basic",0.31,2015-12-31
+"Earnings Per Share, Basic",0.63,2016-12-31
+"Earnings Per Share, Diluted",-0.04,2014-12-31
+"Earnings Per Share, Diluted",0.30,2015-12-31
+"Earnings Per Share, Diluted",0.61,2016-12-31
+Research and Development Expense,25828000,2014-12-31
+Research and Development Expense,28113000,2015-12-31
+Research and Development Expense,30838000,2016-12-31
+Selling and Marketing Expense,9815000,2014-12-31
+Selling and Marketing Expense,10168000,2015-12-31
+Selling and Marketing Expense,11540000,2016-12-31
+General and Administrative Expense,8054000,2014-12-31
+General and Administrative Expense,8184000,2015-12-31
+General and Administrative Expense,8567000,2016-12-31
+Amortization of Intangible Assets,649000,2014-12-31
+Amortization of Intangible Assets,1298000,2015-12-31
+Amortization of Intangible Assets,1236000,2016-12-31
+Operating Expenses,44346000,2014-12-31
+Operating Expenses,47763000,2015-12-31
+Operating Expenses,52181000,2016-12-31
+Licenses Revenue,28348000,2014-12-31
+Licenses Revenue,32135000,2015-12-31
+Licenses Revenue,31874000,2016-12-31
+Royalty Revenue,22460000,2014-12-31
+Royalty Revenue,27364000,2015-12-31
+Royalty Revenue,40779000,2016-12-31
+Revenues,50808000,2014-12-31
+Revenues,59499000,2015-12-31
+Revenues,72653000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",20622000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",20480000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",20850000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",20622000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",20989000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",21565000,2016-12-31

@@ -1,0 +1,103 @@
+Metric,Amount,endDate
+Revenue From Rentals And Leases Service,137417000,2014-05-31
+Revenue From Rentals And Leases Service,129255000,2015-05-31
+Revenue From Rentals And Leases Service,123785000,2016-05-31
+"Other Revenue, Net",103720000,2014-05-31
+"Other Revenue, Net",109074000,2015-05-31
+"Other Revenue, Net",51548000,2016-05-31
+Revenues,241137000,2014-05-31
+Revenues,61871000,2014-08-31
+Revenues,59703000,2014-11-30
+Revenues,238329000,2014-11-30
+Revenues,56342000,2015-02-28
+Revenues,60413000,2015-05-31
+Revenues,238329000,2015-05-31
+Revenues,53343000,2015-08-31
+Revenues,43310000,2015-11-30
+Revenues,39498000,2016-02-29
+Revenues,39182000,2016-05-31
+Revenues,175333000,2016-05-31
+"Cost of Services, Depreciation",57034000,2014-05-31
+"Cost of Services, Depreciation",56445000,2015-05-31
+"Cost of Services, Depreciation",55931000,2016-05-31
+Costs Of Rental And Lease Equipment Excluding Depreciation,18292000,2014-05-31
+Costs Of Rental And Lease Equipment Excluding Depreciation,18086000,2015-05-31
+Costs Of Rental And Lease Equipment Excluding Depreciation,17466000,2016-05-31
+Cost of Goods Sold,74752000,2014-05-31
+Cost of Goods Sold,81557000,2015-05-31
+Cost of Goods Sold,33699000,2016-05-31
+"Selling, General and Administrative Expense",58920000,2014-05-31
+"Selling, General and Administrative Expense",59313000,2015-05-31
+"Selling, General and Administrative Expense",60154000,2016-05-31
+Costs and Expenses,208998000,2014-05-31
+Costs and Expenses,215401000,2015-05-31
+Costs and Expenses,167250000,2016-05-31
+Operating Income (Loss),32139000,2014-05-31
+Operating Income (Loss),22928000,2015-05-31
+Operating Income (Loss),8083000,2016-05-31
+"Interest Income (Expense), Net",387000,2014-05-31
+"Interest Income (Expense), Net",332000,2015-05-31
+"Interest Income (Expense), Net",-329000,2016-05-31
+Other Income,0,2014-05-31
+Other Income,1390000,2015-05-31
+Other Income,33000,2016-05-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",32526000,2014-05-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",7562000,2014-08-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",7696000,2014-11-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",24650000,2014-11-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",3746000,2015-02-28
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",5646000,2015-05-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",24650000,2015-05-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",3951000,2015-08-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",3541000,2015-11-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1492000,2016-02-29
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-1197000,2016-05-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",7787000,2016-05-31
+Income Tax Expense (Benefit),12118000,2014-05-31
+Income Tax Expense (Benefit),9218000,2015-05-31
+Income Tax Expense (Benefit),3003000,2016-05-31
+Net Income (Loss) Attributable to Parent,20408000,2014-05-31
+Net Income (Loss) Attributable to Parent,4771000,2014-08-31
+Net Income (Loss) Attributable to Parent,4795000,2014-11-30
+Net Income (Loss) Attributable to Parent,15432000,2014-11-30
+Net Income (Loss) Attributable to Parent,2425000,2015-02-28
+Net Income (Loss) Attributable to Parent,3441000,2015-05-31
+Net Income (Loss) Attributable to Parent,15432000,2015-05-31
+Net Income (Loss) Attributable to Parent,2470000,2015-08-31
+Net Income (Loss) Attributable to Parent,2190000,2015-11-30
+Net Income (Loss) Attributable to Parent,1009000,2016-02-29
+Net Income (Loss) Attributable to Parent,-885000,2016-05-31
+Net Income (Loss) Attributable to Parent,4784000,2016-05-31
+"Earnings Per Share, Basic",0.84,2014-05-31
+"Earnings Per Share, Basic",0.20,2014-08-31
+"Earnings Per Share, Basic",0.20,2014-11-30
+"Earnings Per Share, Basic",0.63,2014-11-30
+"Earnings Per Share, Basic",0.10,2015-02-28
+"Earnings Per Share, Basic",0.14,2015-05-31
+"Earnings Per Share, Basic",0.63,2015-05-31
+"Earnings Per Share, Basic",0.10,2015-08-31
+"Earnings Per Share, Basic",0.09,2015-11-30
+"Earnings Per Share, Basic",0.04,2016-02-29
+"Earnings Per Share, Basic",-0.04,2016-05-31
+"Earnings Per Share, Basic",0.20,2016-05-31
+"Earnings Per Share, Diluted",0.84,2014-05-31
+"Earnings Per Share, Diluted",0.20,2014-08-31
+"Earnings Per Share, Diluted",0.20,2014-11-30
+"Earnings Per Share, Diluted",0.63,2014-11-30
+"Earnings Per Share, Diluted",0.10,2015-02-28
+"Earnings Per Share, Diluted",0.14,2015-05-31
+"Earnings Per Share, Diluted",0.63,2015-05-31
+"Earnings Per Share, Diluted",0.10,2015-08-31
+"Earnings Per Share, Diluted",0.09,2015-11-30
+"Earnings Per Share, Diluted",0.04,2016-02-29
+"Earnings Per Share, Diluted",-0.04,2016-05-31
+"Earnings Per Share, Diluted",0.20,2016-05-31
+"Weighted Average Number of Shares Outstanding, Basic",24325000,2014-05-31
+"Weighted Average Number of Shares Outstanding, Basic",24360000,2015-05-31
+"Weighted Average Number of Shares Outstanding, Basic",24414000,2016-05-31
+"Weighted Average Number of Shares Outstanding, Diluted",24357000,2014-05-31
+"Weighted Average Number of Shares Outstanding, Diluted",24378000,2015-05-31
+"Weighted Average Number of Shares Outstanding, Diluted",24429000,2016-05-31
+"Common Stock, Dividends, Per Share, Declared",0.80,2014-05-31
+"Common Stock, Dividends, Per Share, Declared",0.80,2015-05-31
+"Common Stock, Dividends, Per Share, Declared",0.50,2016-05-31

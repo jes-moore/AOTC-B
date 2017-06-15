@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+"Premiums Earned, Net",7212000000,2014-12-31
+"Premiums Earned, Net",6921000000,2015-12-31
+"Premiums Earned, Net",6924000000,2016-12-31
+Net Investment Income And Gains Losses On Trading Securities,2067000000,2014-12-31
+Net Investment Income And Gains Losses On Trading Securities,1840000000,2015-12-31
+Net Investment Income And Gains Losses On Trading Securities,1988000000,2016-12-31
+"Other than Temporary Impairment Losses, Investments",77000000,2014-12-31
+"Other than Temporary Impairment Losses, Investments",156000000,2015-12-31
+"Other than Temporary Impairment Losses, Investments",81000000,2016-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",134000000,2014-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",89000000,2015-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",131000000,2016-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",57000000,2014-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",-67000000,2015-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",50000000,2016-12-31
+Other Income,356000000,2014-12-31
+Other Income,407000000,2015-12-31
+Other Income,404000000,2016-12-31
+Revenues,9692000000,2014-12-31
+Revenues,2352000000,2015-03-31
+Revenues,2327000000,2015-06-30
+Revenues,2153000000,2015-09-30
+Revenues,2269000000,2015-12-31
+Revenues,9101000000,2015-12-31
+Revenues,2195000000,2016-03-31
+Revenues,2348000000,2016-06-30
+Revenues,2433000000,2016-09-30
+Revenues,2390000000,2016-12-31
+Revenues,9366000000,2016-12-31
+"Insurance claims and policyholders' benefits, including policyholders' dividends",5591000000,2014-12-31
+"Insurance claims and policyholders' benefits, including policyholders' dividends",5384000000,2015-12-31
+"Insurance claims and policyholders' benefits, including policyholders' dividends",5283000000,2016-12-31
+"Deferred Policy Acquisition Cost, Amortization Expense",1317000000,2014-12-31
+"Deferred Policy Acquisition Cost, Amortization Expense",1540000000,2015-12-31
+"Deferred Policy Acquisition Cost, Amortization Expense",1235000000,2016-12-31
+"Other Cost and Expense, Operating",1394000000,2014-12-31
+"Other Cost and Expense, Operating",1473000000,2015-12-31
+"Other Cost and Expense, Operating",1552000000,2016-12-31
+Interest Expense,183000000,2014-12-31
+Interest Expense,155000000,2015-12-31
+Interest Expense,159000000,2016-12-31
+"Benefits, Losses and Expenses",8485000000,2014-12-31
+"Benefits, Losses and Expenses",8552000000,2015-12-31
+"Benefits, Losses and Expenses",8229000000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",1207000000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",549000000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",1137000000,2016-12-31
+Income Tax Expense (Benefit),319000000,2014-12-31
+Income Tax Expense (Benefit),70000000,2015-12-31
+Income Tax Expense (Benefit),278000000,2016-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",888000000,2014-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",479000000,2015-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",859000000,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-197000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+Net Income (Loss) Attributable to Parent,691000000,2014-12-31
+Net Income (Loss) Attributable to Parent,233000000,2015-03-31
+Net Income (Loss) Attributable to Parent,138000000,2015-06-30
+Net Income (Loss) Attributable to Parent,178000000,2015-09-30
+Net Income (Loss) Attributable to Parent,-70000000,2015-12-31
+Net Income (Loss) Attributable to Parent,479000000,2015-12-31
+Net Income (Loss) Attributable to Parent,66000000,2016-03-31
+Net Income (Loss) Attributable to Parent,209000000,2016-06-30
+Net Income (Loss) Attributable to Parent,343000000,2016-09-30
+Net Income (Loss) Attributable to Parent,241000000,2016-12-31
+Net Income (Loss) Attributable to Parent,859000000,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",3.29,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",1.77,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",3.18,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.73,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2016-12-31
+"Earnings Per Share, Basic",2.56,2014-12-31
+"Earnings Per Share, Basic",0.86,2015-03-31
+"Earnings Per Share, Basic",0.51,2015-06-30
+"Earnings Per Share, Basic",0.66,2015-09-30
+"Earnings Per Share, Basic",-0.26,2015-12-31
+"Earnings Per Share, Basic",1.77,2015-12-31
+"Earnings Per Share, Basic",0.25,2016-03-31
+"Earnings Per Share, Basic",0.77,2016-06-30
+"Earnings Per Share, Basic",1.27,2016-09-30
+"Earnings Per Share, Basic",0.89,2016-12-31
+"Earnings Per Share, Basic",3.18,2016-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",3.28,2014-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",1.77,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",3.17,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.73,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2016-12-31
+"Earnings Per Share, Diluted",2.55,2014-12-31
+"Earnings Per Share, Diluted",0.86,2015-03-31
+"Earnings Per Share, Diluted",0.51,2015-06-30
+"Earnings Per Share, Diluted",0.66,2015-09-30
+"Earnings Per Share, Diluted",-0.26,2015-12-31
+"Earnings Per Share, Diluted",1.77,2015-12-31
+"Earnings Per Share, Diluted",0.24,2016-03-31
+"Earnings Per Share, Diluted",0.77,2016-06-30
+"Earnings Per Share, Diluted",1.26,2016-09-30
+"Earnings Per Share, Diluted",0.89,2016-12-31
+"Earnings Per Share, Diluted",3.17,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",2.00,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",3.00,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",3.00,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",269900000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",270200000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",270400000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",270600000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",270700000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",271100000,2016-12-31

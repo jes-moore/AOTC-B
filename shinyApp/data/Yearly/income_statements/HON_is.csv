@@ -1,0 +1,95 @@
+Metric,Amount,endDate
+Product sales,32398000000,2014-12-31
+Product sales,30695000000,2015-12-31
+Product sales,31362000000,2016-12-31
+Service sales,7908000000,2014-12-31
+Service sales,7886000000,2015-12-31
+Service sales,7940000000,2016-12-31
+Revenues,9775000000,2015-06-30
+Revenues,9991000000,2016-06-30
+Revenues,40306000000,2014-12-31
+Revenues,38581000000,2015-12-31
+Revenues,9213000000,2015-03-31
+Revenues,39302000000,2016-12-31
+Revenues,9522000000,2016-03-31
+Revenues,9611000000,2015-09-30
+Revenues,9804000000,2016-09-30
+Revenues,9982000000,2015-12-31
+Revenues,9985000000,2016-12-31
+Cost of products sold,23889000000,2014-12-31
+Cost of products sold,21775000000,2015-12-31
+Cost of products sold,22170000000,2016-12-31
+Cost of services sold,5068000000,2014-12-31
+Cost of services sold,4972000000,2015-12-31
+Cost of services sold,4980000000,2016-12-31
+Cost Of Goods And Services Sold,28957000000,2014-12-31
+Cost Of Goods And Services Sold,26747000000,2015-12-31
+Cost Of Goods And Services Sold,27150000000,2016-12-31
+"Selling, general and administrative expenses",5518000000,2014-12-31
+"Selling, general and administrative expenses",5006000000,2015-12-31
+"Selling, general and administrative expenses",5469000000,2016-12-31
+Other (income) expense,305000000,2014-12-31
+Other (income) expense,68000000,2015-12-31
+Other (income) expense,102000000,2016-12-31
+Interest and other financial charges,318000000,2014-12-31
+Interest and other financial charges,310000000,2015-12-31
+Interest and other financial charges,338000000,2016-12-31
+Costs And Operating And Nonoperating Expenses,34488000000,2014-12-31
+Costs And Operating And Nonoperating Expenses,31995000000,2015-12-31
+Costs And Operating And Nonoperating Expenses,32855000000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,5818000000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,6586000000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,6447000000,2016-12-31
+Tax expense,1489000000,2014-12-31
+Tax expense,1739000000,2015-12-31
+Tax expense,1601000000,2016-12-31
+Net income,4329000000,2014-12-31
+Net income,4847000000,2015-12-31
+Net income,4846000000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,90000000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,79000000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,37000000,2016-12-31
+Net Income (Loss) Attributable to Parent,1194000000,2015-06-30
+Net Income (Loss) Attributable to Parent,1319000000,2016-06-30
+Net Income (Loss) Attributable to Parent,4239000000,2014-12-31
+Net Income (Loss) Attributable to Parent,4768000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1116000000,2015-03-31
+Net Income (Loss) Attributable to Parent,4809000000,2016-12-31
+Net Income (Loss) Attributable to Parent,1216000000,2016-03-31
+Net Income (Loss) Attributable to Parent,1264000000,2015-09-30
+Net Income (Loss) Attributable to Parent,1240000000,2016-09-30
+Net Income (Loss) Attributable to Parent,1194000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1034000000,2016-12-31
+Earnings per share of common stock - basic,1.52,2015-06-30
+Earnings per share of common stock - basic,1.73,2016-06-30
+Earnings per share of common stock - basic,5.4,2014-12-31
+Earnings per share of common stock - basic,6.11,2015-12-31
+Earnings per share of common stock - basic,1.42,2015-03-31
+Earnings per share of common stock - basic,6.29,2016-12-31
+Earnings per share of common stock - basic,1.58,2016-03-31
+Earnings per share of common stock - basic,1.62,2015-09-30
+Earnings per share of common stock - basic,1.62,2016-09-30
+Earnings per share of common stock - basic,1.55,2015-12-31
+Earnings per share of common stock - basic,1.36,2016-12-31
+"Earnings Per Share, Diluted",1.51,2015-06-30
+"Earnings Per Share, Diluted",1.7,2016-06-30
+"Earnings Per Share, Diluted",5.33,2014-12-31
+"Earnings Per Share, Diluted",6.04,2015-12-31
+"Earnings Per Share, Diluted",1.41,2015-03-31
+"Earnings Per Share, Diluted",6.2,2016-12-31
+"Earnings Per Share, Diluted",1.56,2016-03-31
+"Earnings Per Share, Diluted",1.6,2015-09-30
+"Earnings Per Share, Diluted",1.6,2016-09-30
+"Earnings Per Share, Diluted",1.53,2015-12-31
+"Earnings Per Share, Diluted",1.34,2016-12-31
+Cash dividends per share of common stock,0.5175,2015-06-30
+Cash dividends per share of common stock,0.595,2016-06-30
+Cash dividends per share of common stock,1.87,2014-12-31
+Cash dividends per share of common stock,2.15,2015-12-31
+Cash dividends per share of common stock,0.5175,2015-03-31
+Cash dividends per share of common stock,2.45,2016-12-31
+Cash dividends per share of common stock,0.595,2016-03-31
+Cash dividends per share of common stock,0.5175,2015-09-30
+Cash dividends per share of common stock,0.595,2016-09-30
+Cash dividends per share of common stock,0.595,2015-12-31
+Cash dividends per share of common stock,0.665,2016-12-31

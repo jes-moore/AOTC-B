@@ -1,0 +1,120 @@
+Metric,Amount,endDate
+"Sales Revenue, Services, Net",2074000000,2014-12-31
+"Sales Revenue, Services, Net",2019000000,2015-12-31
+"Sales Revenue, Services, Net",2389000000,2016-12-31
+Cost of Goods Sold,1678000000,2014-12-31
+Cost of Goods Sold,1625000000,2015-12-31
+Cost of Goods Sold,1649000000,2016-12-31
+Cost of Revenue,3050000000,2014-12-31
+Cost of Revenue,675000000,2015-04-04
+Cost of Revenue,720000000,2015-07-04
+Cost of Revenue,737000000,2015-10-03
+Cost of Revenue,844000000,2015-12-31
+Cost of Revenue,2976000000,2015-12-31
+Cost of Revenue,691000000,2016-04-02
+Cost of Revenue,754000000,2016-07-02
+Cost of Revenue,770000000,2016-10-01
+Cost of Revenue,955000000,2016-12-31
+Cost of Revenue,3169000000,2016-12-31
+"Selling, General and Administrative Expense",1184000000,2014-12-31
+"Selling, General and Administrative Expense",256000000,2015-04-04
+"Selling, General and Administrative Expense",254000000,2015-07-04
+"Selling, General and Administrative Expense",259000000,2015-10-03
+"Selling, General and Administrative Expense",252000000,2015-12-31
+"Selling, General and Administrative Expense",1021000000,2015-12-31
+"Selling, General and Administrative Expense",234000000,2016-04-02
+"Selling, General and Administrative Expense",240000000,2016-07-02
+"Selling, General and Administrative Expense",247000000,2016-10-01
+"Selling, General and Administrative Expense",277000000,2016-12-31
+"Selling, General and Administrative Expense",1000000000,2016-12-31
+"Other Cost and Expense, Operating",1972000000,2014-12-31
+"Other Cost and Expense, Operating",14000000,2015-04-04
+"Other Cost and Expense, Operating",-16000000,2015-07-04
+"Other Cost and Expense, Operating",42000000,2015-10-03
+"Other Cost and Expense, Operating",44000000,2015-12-31
+"Other Cost and Expense, Operating",84000000,2015-12-31
+"Other Cost and Expense, Operating",33000000,2016-04-02
+"Other Cost and Expense, Operating",74000000,2016-07-02
+"Other Cost and Expense, Operating",37000000,2016-10-01
+"Other Cost and Expense, Operating",106000000,2016-12-31
+"Other Cost and Expense, Operating",249000000,2016-12-31
+"Gain (Loss) on Sales of Investments and Businesses, Net",5000000,2014-12-31
+"Gain (Loss) on Sales of Investments and Businesses, Net",107000000,2015-12-31
+"Gain (Loss) on Sales of Investments and Businesses, Net",-6000000,2016-12-31
+Nonoperating Income (Expense),-155000000,2014-12-31
+Nonoperating Income (Expense),-77000000,2015-12-31
+Nonoperating Income (Expense),-223000000,2016-12-31
+Income Tax Expense (Benefit),-465000000,2014-12-31
+Income Tax Expense (Benefit),274000000,2015-12-31
+Income Tax Expense (Benefit),282000000,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",1996000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-30000000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1000000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,3000000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,2000000,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",1996000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-30000000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",-2.84,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.40,2015-04-04
+"Income (Loss) from Continuing Operations, Per Basic Share",0.72,2015-07-04
+"Income (Loss) from Continuing Operations, Per Basic Share",0.63,2015-10-03
+"Income (Loss) from Continuing Operations, Per Basic Share",1.58,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",3.21,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.10,2016-04-02
+"Income (Loss) from Continuing Operations, Per Basic Share",0.62,2016-07-02
+"Income (Loss) from Continuing Operations, Per Basic Share",1.15,2016-10-01
+"Income (Loss) from Continuing Operations, Per Basic Share",1.47,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",3.30,2016-12-31
+"Earnings Per Share, Basic",5.29,2014-12-31
+"Earnings Per Share, Basic",0.34,2015-04-04
+"Earnings Per Share, Basic",0.68,2015-07-04
+"Earnings Per Share, Basic",0.58,2015-10-03
+"Earnings Per Share, Basic",1.60,2015-12-31
+"Earnings Per Share, Basic",3.06,2015-12-31
+"Earnings Per Share, Basic",0.10,2016-04-02
+"Earnings Per Share, Basic",0.62,2016-07-02
+"Earnings Per Share, Basic",1.15,2016-10-01
+"Earnings Per Share, Basic",1.47,2016-12-31
+"Earnings Per Share, Basic",3.30,2016-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",-2.84,2014-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.40,2015-04-04
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.72,2015-07-04
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.63,2015-10-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",1.56,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",3.17,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.10,2016-04-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.61,2016-07-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",1.13,2016-10-01
+"Income (Loss) from Continuing Operations, Per Diluted Share",1.43,2016-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",3.24,2016-12-31
+"Earnings Per Share, Diluted",5.29,2014-12-31
+"Earnings Per Share, Diluted",0.34,2015-04-04
+"Earnings Per Share, Diluted",0.68,2015-07-04
+"Earnings Per Share, Diluted",0.57,2015-10-03
+"Earnings Per Share, Diluted",1.57,2015-12-31
+"Earnings Per Share, Diluted",3.02,2015-12-31
+"Earnings Per Share, Diluted",0.10,2016-04-02
+"Earnings Per Share, Diluted",0.61,2016-07-02
+"Earnings Per Share, Diluted",1.13,2016-10-01
+"Earnings Per Share, Diluted",1.43,2016-12-31
+"Earnings Per Share, Diluted",3.24,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",245600000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",199600000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",169600000,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",0.47,2016-11-03
+"Common Stock, Dividends, Per Share, Declared",0.41,2016-11-02
+"Common Stock, Dividends, Per Share, Declared",1.30,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",0.34,2015-04-04
+"Common Stock, Dividends, Per Share, Declared",0.34,2015-07-04
+"Common Stock, Dividends, Per Share, Declared",0.34,2015-10-03
+"Common Stock, Dividends, Per Share, Declared",0.41,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",1.43,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.41,2016-04-02
+"Common Stock, Dividends, Per Share, Declared",0.41,2016-07-02
+"Common Stock, Dividends, Per Share, Declared",0.41,2016-10-01
+"Common Stock, Dividends, Per Share, Declared",0.47,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.70,2016-12-31

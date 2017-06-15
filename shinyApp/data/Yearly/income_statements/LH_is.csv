@@ -1,0 +1,87 @@
+Metric,Amount,endDate
+Interest Expense,109500000,2014-03-31
+Interest Expense,274900000,2015-12-31
+Interest Expense,219100000,2016-12-31
+Operating Income (Loss),904300000,2014-03-31
+Operating Income (Loss),996800000,2015-12-31
+Operating Income (Loss),1312400000,2016-12-31
+"Revenue, Net",6011600000,2014-03-31
+"Revenue, Net",1772300000,2015-03-31
+"Revenue, Net",2218700000,2015-06-30
+"Revenue, Net",2269900000,2015-09-30
+"Revenue, Net",2244800000,2015-12-31
+"Revenue, Net",8505700000,2015-12-31
+"Revenue, Net",2295200000,2016-03-31
+"Revenue, Net",2382000000,2016-06-30
+"Revenue, Net",2372700000,2016-09-30
+"Revenue, Net",2387300000,2016-12-31
+"Revenue, Net",9437200000,2016-12-31
+Reimbursement Revenue,0,2014-03-31
+Reimbursement Revenue,0,2014-12-31
+Reimbursement Revenue,174400000,2015-12-31
+Reimbursement Revenue,204600000,2016-12-31
+Revenues,6011600000,2014-03-31
+Revenues,6011600000,2014-12-31
+Revenues,8680100000,2015-12-31
+Revenues,9641800000,2016-12-31
+Cost of Goods and Services Sold,3808500000,2014-03-31
+Cost of Goods and Services Sold,5602400000,2015-12-31
+Cost of Goods and Services Sold,6256700000,2016-12-31
+Cost of Reimbursable Expense,0,2014-03-31
+Cost of Reimbursable Expense,174400000,2015-12-31
+Cost of Reimbursable Expense,204600000,2016-12-31
+Cost of Revenue,3808500000,2014-03-31
+Cost of Revenue,5776800000,2015-12-31
+Cost of Revenue,6461300000,2016-12-31
+Gross Profit,2203100000,2014-03-31
+Gross Profit,625100000,2015-03-31
+Gross Profit,772600000,2015-06-30
+Gross Profit,764900000,2015-09-30
+Gross Profit,740700000,2015-12-31
+Gross Profit,2903300000,2015-12-31
+Gross Profit,777300000,2016-03-31
+Gross Profit,826800000,2016-06-30
+Gross Profit,788400000,2016-09-30
+Gross Profit,788000000,2016-12-31
+Gross Profit,3180500000,2016-12-31
+"Selling, General and Administrative Expense",1204300000,2014-03-31
+"Selling, General and Administrative Expense",1628100000,2015-12-31
+"Selling, General and Administrative Expense",1630200000,2016-12-31
+Amortization of Intangible Assets,76700000,2014-03-31
+Amortization of Intangible Assets,164500000,2015-12-31
+Amortization of Intangible Assets,179500000,2016-12-31
+Net restructuring and other special charges,17800000,2014-03-31
+Net restructuring and other special charges,113900000,2015-12-31
+Net restructuring and other special charges,58400000,2016-12-31
+Income (Loss) from Equity Method Investments,14300000,2014-03-31
+Income (Loss) from Equity Method Investments,10000000,2015-12-31
+Income (Loss) from Equity Method Investments,7900000,2016-12-31
+"Investment Income, Net",1100000,2014-03-31
+"Investment Income, Net",1900000,2015-12-31
+"Investment Income, Net",1700000,2016-12-31
+Other Nonoperating Income (Expense),10400000,2014-03-31
+Other Nonoperating Income (Expense),-7800000,2015-12-31
+Other Nonoperating Income (Expense),2600000,2016-12-31
+Income Loss from Continuing Operations Before Income Taxes and Minority Interest,820600000,2014-03-31
+Income Loss from Continuing Operations Before Income Taxes and Minority Interest,726000000,2015-12-31
+Income Loss from Continuing Operations Before Income Taxes and Minority Interest,1105500000,2016-12-31
+Income Tax Expense (Benefit),308000000,2014-03-31
+Income Tax Expense (Benefit),287300000,2015-12-31
+Income Tax Expense (Benefit),372300000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",512600000,2014-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",438700000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",733200000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1400000,2014-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1100000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1100000,2016-12-31
+Net Income (Loss) Attributable to Parent,511200000,2014-03-31
+Net Income (Loss) Attributable to Parent,3000000,2015-03-31
+Net Income (Loss) Attributable to Parent,169900000,2015-06-30
+Net Income (Loss) Attributable to Parent,154700000,2015-09-30
+Net Income (Loss) Attributable to Parent,110000000,2015-12-31
+Net Income (Loss) Attributable to Parent,437600000,2015-12-31
+Net Income (Loss) Attributable to Parent,164100000,2016-03-31
+Net Income (Loss) Attributable to Parent,204100000,2016-06-30
+Net Income (Loss) Attributable to Parent,179500000,2016-09-30
+Net Income (Loss) Attributable to Parent,184400000,2016-12-31
+Net Income (Loss) Attributable to Parent,732100000,2016-12-31

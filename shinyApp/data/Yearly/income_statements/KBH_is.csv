@@ -1,0 +1,93 @@
+Metric,Amount,endDate
+Revenues,2400949000,2014-11-30
+Revenues,580121000,2015-02-28
+Revenues,622969000,2015-05-31
+Revenues,843157000,2015-08-31
+Revenues,985783000,2015-11-30
+Revenues,3032030000,2015-11-30
+Revenues,678371000,2016-02-29
+Revenues,811050000,2016-05-31
+Revenues,913283000,2016-08-31
+Revenues,1191942000,2016-11-30
+Revenues,3594646000,2016-11-30
+Home Building Revenue,2389643000,2014-11-30
+Home Building Revenue,3020987000,2015-11-30
+Home Building Revenue,3582943000,2016-11-30
+Construction and Development Costs,1985651000,2014-11-30
+Construction and Development Costs,2539368000,2015-11-30
+Construction and Development Costs,3041101000,2016-11-30
+"Selling, General and Administrative Expense",288023000,2014-11-30
+"Selling, General and Administrative Expense",342998000,2015-11-30
+"Selling, General and Administrative Expense",389441000,2016-11-30
+Operating Income (Loss),115969000,2014-11-30
+Operating Income (Loss),138621000,2015-11-30
+Operating Income (Loss),152401000,2016-11-30
+"Investment Income, Interest",443000,2014-11-30
+"Investment Income, Interest",458000,2015-11-30
+"Investment Income, Interest",529000,2016-11-30
+Interest Expense,30750000,2014-11-30
+Interest Expense,21856000,2015-11-30
+Interest Expense,5900000,2016-11-30
+Income (Loss) from Equity Method Investments,1427000,2014-11-30
+Income (Loss) from Equity Method Investments,2488000,2015-11-30
+Income (Loss) from Equity Method Investments,-5601000,2016-11-30
+Financial Services Revenue,11306000,2014-11-30
+Financial Services Revenue,11043000,2015-11-30
+Financial Services Revenue,11703000,2016-11-30
+Financial Services Costs,3446000,2014-11-30
+Financial Services Costs,3711000,2015-11-30
+Financial Services Costs,3817000,2016-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",94949000,2014-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",10499000,2015-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",12673000,2015-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",33954000,2015-08-31
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",69917000,2015-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",127043000,2015-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",16027000,2016-02-29
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",24797000,2016-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",53463000,2016-08-31
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",55028000,2016-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Domestic",149315000,2016-11-30
+Income Tax Expense (Benefit),-824200000,2014-11-30
+Income Tax Expense (Benefit),-823400000,2014-11-30
+Income Tax Expense (Benefit),42400000,2015-11-30
+Income Tax Expense (Benefit),43700000,2016-11-30
+Net Income (Loss) Attributable to Parent,918349000,2014-11-30
+Net Income (Loss) Attributable to Parent,7799000,2015-02-28
+Net Income (Loss) Attributable to Parent,9573000,2015-05-31
+Net Income (Loss) Attributable to Parent,23254000,2015-08-31
+Net Income (Loss) Attributable to Parent,44017000,2015-11-30
+Net Income (Loss) Attributable to Parent,84643000,2015-11-30
+Net Income (Loss) Attributable to Parent,13127000,2016-02-29
+Net Income (Loss) Attributable to Parent,15597000,2016-05-31
+Net Income (Loss) Attributable to Parent,39363000,2016-08-31
+Net Income (Loss) Attributable to Parent,37528000,2016-11-30
+Net Income (Loss) Attributable to Parent,105615000,2016-11-30
+"Earnings Per Share, Basic",10.26,2014-11-30
+"Earnings Per Share, Basic",0.08,2015-02-28
+"Earnings Per Share, Basic",0.10,2015-05-31
+"Earnings Per Share, Basic",0.25,2015-08-31
+"Earnings Per Share, Basic",0.48,2015-11-30
+"Earnings Per Share, Basic",0.92,2015-11-30
+"Earnings Per Share, Basic",0.15,2016-02-29
+"Earnings Per Share, Basic",0.18,2016-05-31
+"Earnings Per Share, Basic",0.46,2016-08-31
+"Earnings Per Share, Basic",0.44,2016-11-30
+"Earnings Per Share, Basic",1.23,2016-11-30
+"Earnings Per Share, Diluted",9.25,2014-11-30
+"Earnings Per Share, Diluted",0.08,2015-02-28
+"Earnings Per Share, Diluted",0.10,2015-05-31
+"Earnings Per Share, Diluted",0.23,2015-08-31
+"Earnings Per Share, Diluted",0.43,2015-11-30
+"Earnings Per Share, Diluted",0.85,2015-11-30
+"Earnings Per Share, Diluted",0.14,2016-02-29
+"Earnings Per Share, Diluted",0.17,2016-05-31
+"Earnings Per Share, Diluted",0.42,2016-08-31
+"Earnings Per Share, Diluted",0.40,2016-11-30
+"Earnings Per Share, Diluted",1.12,2016-11-30
+"Weighted Average Number of Shares Outstanding, Basic",89265000,2014-11-30
+"Weighted Average Number of Shares Outstanding, Basic",92054000,2015-11-30
+"Weighted Average Number of Shares Outstanding, Basic",85706000,2016-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",99314000,2014-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",102857000,2015-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",96278000,2016-11-30

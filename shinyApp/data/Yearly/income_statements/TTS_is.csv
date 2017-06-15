@@ -1,0 +1,91 @@
+Metric,Amount,endDate
+Sales Revenue Net,71914000,2015-12-31
+Sales Revenue Net,76614000,2016-12-31
+Sales Revenue Net,257192000,2014-12-31
+Sales Revenue Net,292987000,2015-12-31
+Sales Revenue Net,72963000,2015-03-31
+Sales Revenue Net,324157000,2016-12-31
+Sales Revenue Net,84714000,2016-03-31
+Sales Revenue Net,75706000,2015-06-30
+Sales Revenue Net,84270000,2016-06-30
+Sales Revenue Net,72404000,2015-09-30
+Sales Revenue Net,78559000,2016-09-30
+Cost of sales,78300000,2014-12-31
+Cost of sales,89377000,2015-12-31
+Cost of sales,97261000,2016-12-31
+Gross Profit,50633000,2015-12-31
+Gross Profit,53333000,2016-12-31
+Gross Profit,178892000,2014-12-31
+Gross Profit,203610000,2015-12-31
+Gross Profit,50971000,2015-03-31
+Gross Profit,226896000,2016-12-31
+Gross Profit,59705000,2016-03-31
+Gross Profit,51293000,2015-06-30
+Gross Profit,58699000,2016-06-30
+Gross Profit,50713000,2015-09-30
+Gross Profit,55159000,2016-09-30
+"Selling, general and administrative expenses",157316000,2014-12-31
+"Selling, general and administrative expenses",174384000,2015-12-31
+"Selling, general and administrative expenses",193983000,2016-12-31
+Operating Income Loss,6927000,2015-12-31
+Operating Income Loss,1650000,2016-12-31
+Operating Income Loss,21576000,2014-12-31
+Operating Income Loss,29226000,2015-12-31
+Operating Income Loss,7195000,2015-03-31
+Operating Income Loss,32913000,2016-12-31
+Operating Income Loss,11756000,2016-03-31
+Operating Income Loss,8438000,2015-06-30
+Operating Income Loss,11709000,2016-06-30
+Operating Income Loss,6666000,2015-09-30
+Operating Income Loss,7798000,2016-09-30
+Interest expense,3141000,2014-12-31
+Interest expense,2584000,2015-12-31
+Interest expense,1715000,2016-12-31
+Other income (expense),-506000,2014-12-31
+Other income (expense),130000,2015-12-31
+Other income (expense),141000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,17929000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,26772000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,31339000,2016-12-31
+Income Tax Expense (Benefit),7382000,2014-12-31
+Income Tax Expense (Benefit),11076000,2015-12-31
+Income Tax Expense (Benefit),12876000,2016-12-31
+Net income,3786000,2015-12-31
+Net income,273000,2016-12-31
+Net income,10547000,2014-12-31
+Net income,15696000,2015-12-31
+Net income,3659000,2015-03-31
+Net income,18463000,2016-12-31
+Net income,6758000,2016-03-31
+Net income,4490000,2015-06-30
+Net income,6849000,2016-06-30
+Net income,3761000,2015-09-30
+Net income,4583000,2016-09-30
+Basic earnings per share,0.08,2015-12-31
+Basic earnings per share,0.01,2016-12-31
+Basic earnings per share,0.21,2014-12-31
+Basic earnings per share,0.31,2015-12-31
+Basic earnings per share,0.07,2015-03-31
+Basic earnings per share,0.36,2016-12-31
+Basic earnings per share,0.13,2016-03-31
+Basic earnings per share,0.09,2015-06-30
+Basic earnings per share,0.13,2016-06-30
+Basic earnings per share,0.07,2015-09-30
+Basic earnings per share,0.09,2016-09-30
+Diluted earnings per share,0.08,2015-12-31
+Diluted earnings per share,0.01,2016-12-31
+Diluted earnings per share,0.21,2014-12-31
+Diluted earnings per share,0.31,2015-12-31
+Diluted earnings per share,0.07,2015-03-31
+Diluted earnings per share,0.36,2016-12-31
+Diluted earnings per share,0.13,2016-03-31
+Diluted earnings per share,0.09,2015-06-30
+Diluted earnings per share,0.13,2016-06-30
+Diluted earnings per share,0.07,2015-09-30
+Diluted earnings per share,0.09,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic",51015354,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",51161059,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",51418600,2016-12-31
+Diluted (in shares),51029790,2014-12-31
+Diluted (in shares),51304982,2015-12-31
+Diluted (in shares),51880113,2016-12-31

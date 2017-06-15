@@ -1,0 +1,127 @@
+Metric,Amount,endDate
+Maintenance Revenue,1170800000,2015-01-31
+Maintenance Revenue,1277200000,2016-01-31
+Maintenance Revenue,1290000000,2017-01-31
+License and Services Revenue,1341400000,2015-01-31
+License and Services Revenue,1226900000,2016-01-31
+License and Services Revenue,741000000,2017-01-31
+"Revenue, Net",2512200000,2015-01-31
+"Revenue, Net",646500000,2015-04-30
+"Revenue, Net",609500000,2015-07-31
+"Revenue, Net",599800000,2015-10-31
+"Revenue, Net",648300000,2016-01-31
+"Revenue, Net",2504100000,2016-01-31
+"Revenue, Net",511900000,2016-04-30
+"Revenue, Net",550700000,2016-07-31
+"Revenue, Net",489600000,2016-10-31
+"Revenue, Net",478800000,2017-01-31
+"Revenue, Net",2031000000,2017-01-31
+Maintenance Costs,133600000,2015-01-31
+Maintenance Costs,156100000,2016-01-31
+Maintenance Costs,151300000,2017-01-31
+License Costs,208500000,2015-01-31
+License Costs,214600000,2016-01-31
+License Costs,190600000,2017-01-31
+Cost of Revenue,342100000,2015-01-31
+Cost of Revenue,370700000,2016-01-31
+Cost of Revenue,341900000,2017-01-31
+Gross Profit,2170100000,2015-01-31
+Gross Profit,554700000,2015-04-30
+Gross Profit,516500000,2015-07-31
+Gross Profit,508800000,2015-10-31
+Gross Profit,553400000,2016-01-31
+Gross Profit,2133400000,2016-01-31
+Gross Profit,419500000,2016-04-30
+Gross Profit,465600000,2016-07-31
+Gross Profit,408100000,2016-10-31
+Gross Profit,395900000,2017-01-31
+Gross Profit,1689100000,2017-01-31
+Selling and Marketing Expense,998000000,2015-01-31
+Selling and Marketing Expense,1015500000,2016-01-31
+Selling and Marketing Expense,1022500000,2017-01-31
+Research and Development Expense,725200000,2015-01-31
+Research and Development Expense,790000000,2016-01-31
+Research and Development Expense,766100000,2017-01-31
+General and Administrative Expense,283300000,2015-01-31
+General and Administrative Expense,293400000,2016-01-31
+General and Administrative Expense,287800000,2017-01-31
+Amortization of Intangible Assets,39800000,2015-01-31
+Amortization of Intangible Assets,33200000,2016-01-31
+Amortization of Intangible Assets,31800000,2017-01-31
+"Restructuring Charges, Net of Adjustments",3100000,2015-01-31
+"Restructuring Charges, Net of Adjustments",0,2016-01-31
+"Restructuring Charges, Net of Adjustments",52300000,2016-04-30
+"Restructuring Charges, Net of Adjustments",16000000,2016-07-31
+"Restructuring Charges, Net of Adjustments",3200000,2016-10-31
+"Restructuring Charges, Net of Adjustments",9000000,2017-01-31
+"Restructuring Charges, Net of Adjustments",80500000,2017-01-31
+Operating Expenses,2049400000,2015-01-31
+Operating Expenses,2132100000,2016-01-31
+Operating Expenses,2188700000,2017-01-31
+Operating Income (Loss),120700000,2015-01-31
+Operating Income (Loss),21500000,2015-04-30
+Operating Income (Loss),4300000,2015-07-31
+Operating Income (Loss),-14800000,2015-10-31
+Operating Income (Loss),-9700000,2016-01-31
+Operating Income (Loss),1300000,2016-01-31
+Operating Income (Loss),-149700000,2016-04-30
+Operating Income (Loss),-62900000,2016-07-31
+Operating Income (Loss),-119900000,2016-10-31
+Operating Income (Loss),-167100000,2017-01-31
+Operating Income (Loss),-499600000,2017-01-31
+"Interest Income (Expense), Net",-37700000,2015-01-31
+"Interest Income (Expense), Net",-21600000,2016-01-31
+"Interest Income (Expense), Net",-24200000,2017-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",83000000,2015-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-20300000,2016-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-523800000,2017-01-31
+Income Tax Expense (Benefit),1200000,2015-01-31
+Income Tax Expense (Benefit),2700000,2015-04-30
+Income Tax Expense (Benefit),269500000,2015-07-31
+Income Tax Expense (Benefit),21300000,2015-10-31
+Income Tax Expense (Benefit),16700000,2016-01-31
+Income Tax Expense (Benefit),310200000,2016-01-31
+Income Tax Expense (Benefit),14400000,2016-04-30
+Income Tax Expense (Benefit),25200000,2016-07-31
+Income Tax Expense (Benefit),13500000,2016-10-31
+Income Tax Expense (Benefit),5200000,2017-01-31
+Income Tax Expense (Benefit),58300000,2017-01-31
+Net Income (Loss) Attributable to Parent,81800000,2015-01-31
+Net Income (Loss) Attributable to Parent,19100000,2015-04-30
+Net Income (Loss) Attributable to Parent,-268600000,2015-07-31
+Net Income (Loss) Attributable to Parent,-43800000,2015-10-31
+Net Income (Loss) Attributable to Parent,-37200000,2016-01-31
+Net Income (Loss) Attributable to Parent,-330500000,2016-01-31
+Net Income (Loss) Attributable to Parent,-167700000,2016-04-30
+Net Income (Loss) Attributable to Parent,-98200000,2016-07-31
+Net Income (Loss) Attributable to Parent,-142800000,2016-10-31
+Net Income (Loss) Attributable to Parent,-173400000,2017-01-31
+Net Income (Loss) Attributable to Parent,-582100000,2017-01-31
+"Earnings Per Share, Basic",0.36,2015-01-31
+"Earnings Per Share, Basic",0.08,2015-04-30
+"Earnings Per Share, Basic",-1.18,2015-07-31
+"Earnings Per Share, Basic",-0.19,2015-10-31
+"Earnings Per Share, Basic",-0.17,2016-01-31
+"Earnings Per Share, Basic",-1.46,2016-01-31
+"Earnings Per Share, Basic",-0.75,2016-04-30
+"Earnings Per Share, Basic",-0.44,2016-07-31
+"Earnings Per Share, Basic",-0.64,2016-10-31
+"Earnings Per Share, Basic",-0.78,2017-01-31
+"Earnings Per Share, Basic",-2.61,2017-01-31
+"Earnings Per Share, Diluted",0.35,2015-01-31
+"Earnings Per Share, Diluted",0.08,2015-04-30
+"Earnings Per Share, Diluted",-1.18,2015-07-31
+"Earnings Per Share, Diluted",-0.19,2015-10-31
+"Earnings Per Share, Diluted",-0.17,2016-01-31
+"Earnings Per Share, Diluted",-1.46,2016-01-31
+"Earnings Per Share, Diluted",-0.75,2016-04-30
+"Earnings Per Share, Diluted",-0.44,2016-07-31
+"Earnings Per Share, Diluted",-0.64,2016-10-31
+"Earnings Per Share, Diluted",-0.78,2017-01-31
+"Earnings Per Share, Diluted",-2.61,2017-01-31
+"Weighted Average Number of Shares Outstanding, Basic",227100000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Basic",226000000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Basic",222700000,2017-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",232400000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",226000000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",222700000,2017-01-31

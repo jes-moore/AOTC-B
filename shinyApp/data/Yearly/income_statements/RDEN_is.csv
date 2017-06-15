@@ -1,0 +1,99 @@
+Metric,Amount,endDate
+Net sales,333607000,2014-12-31
+Net sales,316199000,2015-12-31
+Net sales,191653000,2015-03-31
+Net sales,191932000,2016-03-31
+Net sales,175460000,2015-06-30
+Net sales,192651000,2016-06-30
+Net sales,1164304000,2014-06-30
+Net sales,971098000,2015-06-30
+Net sales,270378000,2014-09-30
+Net sales,966733000,2016-06-30
+Net sales,265951000,2015-09-30
+Cost of sales,686906000,2014-06-30
+Cost of sales,614736000,2015-06-30
+Cost of sales,531272000,2016-06-30
+Depreciation related to cost of goods sold,7742000,2014-06-30
+Depreciation related to cost of goods sold,7710000,2015-06-30
+Depreciation related to cost of goods sold,5796000,2016-06-30
+Total cost of goods sold,694648000,2014-06-30
+Total cost of goods sold,622446000,2015-06-30
+Total cost of goods sold,537068000,2016-06-30
+Gross Profit,142885000,2014-12-31
+Gross Profit,143928000,2015-12-31
+Gross Profit,79638000,2015-03-31
+Gross Profit,84225000,2016-03-31
+Gross Profit,19076000,2015-06-30
+Gross Profit,92006000,2016-06-30
+Gross Profit,469656000,2014-06-30
+Gross Profit,348652000,2015-06-30
+Gross Profit,107053000,2014-09-30
+Gross Profit,429665000,2016-06-30
+Gross Profit,109506000,2015-09-30
+"Selling, general and administrative",489803000,2014-06-30
+"Selling, general and administrative",497004000,2015-06-30
+"Selling, general and administrative",433694000,2016-06-30
+Depreciation and amortization,44392000,2014-06-30
+Depreciation and amortization,40773000,2015-06-30
+Depreciation and amortization,36902000,2016-06-30
+Operating Expenses,534195000,2014-06-30
+Operating Expenses,537777000,2015-06-30
+Operating Expenses,470596000,2016-06-30
+Operating Income (Loss),-48115000,2014-12-31
+Operating Income (Loss),3001000,2015-12-31
+Operating Income (Loss),-27372000,2015-03-31
+Operating Income (Loss),-19865000,2016-03-31
+Operating Income (Loss),-96113000,2015-06-30
+Operating Income (Loss),-14383000,2016-06-30
+Operating Income (Loss),-64539000,2014-06-30
+Operating Income (Loss),-189125000,2015-06-30
+Operating Income (Loss),-17525000,2014-09-30
+Operating Income (Loss),-40931000,2016-06-30
+Operating Income (Loss),-9684000,2015-09-30
+"Interest expense, net",-25825000,2014-06-30
+"Interest expense, net",-29626000,2015-06-30
+"Interest expense, net",-29905000,2016-06-30
+Debt Extinguishment charges,-239000,2015-06-30
+"Other expense, net",-25825000,2014-06-30
+"Other expense, net",-29865000,2015-06-30
+"Other expense, net",-29905000,2016-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-90364000,2014-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-218990000,2015-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-70836000,2016-06-30
+Provision for income taxes,56832000,2014-06-30
+Provision for income taxes,6297000,2015-06-30
+Provision for income taxes,2670000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-147196000,2014-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-225287000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-73506000,2016-06-30
+Net loss attributable to redeemable noncontrolling interests,-1468000,2014-06-30
+Net loss attributable to redeemable noncontrolling interests,-1294000,2015-06-30
+Net loss attributable to redeemable noncontrolling interests,-1721000,2016-06-30
+Net income,-145728000,2014-06-30
+Net income,-223993000,2015-06-30
+Net income,-71785000,2016-06-30
+Preferred Stock Dividends and Other Adjustments,22333000,2015-06-30
+Preferred Stock Dividends and Other Adjustments,2586000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-56778000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-5611000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-35061000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-28402000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-108691000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-23778000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-145728000,2014-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-246326000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-45796000,2014-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-74371000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-16580000,2015-09-30
+"(Loss) income per common share, Basic",-4.90,2014-06-30
+"(Loss) income per common share, Basic",-8.26,2015-06-30
+"(Loss) income per common share, Basic",-2.49,2016-06-30
+"(Loss) income per common share, Diluted",-4.90,2014-06-30
+"(Loss) income per common share, Diluted",-8.26,2015-06-30
+"(Loss) income per common share, Diluted",-2.49,2016-06-30
+Basic,29720000,2014-06-30
+Basic,29804000,2015-06-30
+Basic,29884000,2016-06-30
+Diluted,29720000,2014-06-30
+Diluted,29804000,2015-06-30
+Diluted,29884000,2016-06-30

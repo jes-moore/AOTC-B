@@ -1,0 +1,69 @@
+Metric,Amount,endDate
+Cash and cash equivalents,42626000,2013-12-31
+Cash and cash equivalents,38059000,2014-12-31
+Cash and cash equivalents,17859000,2015-12-31
+Cash and cash equivalents,34700000,2016-12-31
+Marketable securities,30600000,2015-12-31
+Marketable securities,25751000,2016-12-31
+Restricted cash,292000,2015-12-31
+Restricted cash,,2016-12-31
+"Accounts receivable, net",67131000,2015-12-31
+"Accounts receivable, net",51171000,2016-12-31
+Prepaid expenses and other current assets,3978000,2015-12-31
+Prepaid expenses and other current assets,3591000,2016-12-31
+us-gaap_AssetsCurrent,119860000,2015-12-31
+us-gaap_AssetsCurrent,115213000,2016-12-31
+"Marketable securities, long-term",11724000,2015-12-31
+"Marketable securities, long-term",5241000,2016-12-31
+"Property, equipment and software, net",12110000,2015-12-31
+"Property, equipment and software, net",11726000,2016-12-31
+Goodwill,3902000,2015-12-31
+Goodwill,3902000,2016-12-31
+"Intangible assets, net",659000,2015-12-31
+"Intangible assets, net",,2016-12-31
+"Restricted cash, non-current",403000,2015-12-31
+"Restricted cash, non-current",710000,2016-12-31
+Deposits and other assets,416000,2015-12-31
+Deposits and other assets,587000,2016-12-31
+us-gaap_Assets,149074000,2015-12-31
+us-gaap_Assets,137379000,2016-12-31
+Accounts payable,12080000,2015-12-31
+Accounts payable,10775000,2016-12-31
+Accrued digital media property owner costs,17155000,2015-12-31
+Accrued digital media property owner costs,16385000,2016-12-31
+Accrued liabilities,16767000,2015-12-31
+Accrued liabilities,12192000,2016-12-31
+Deferred revenue,214000,2015-12-31
+Deferred revenue,132000,2016-12-31
+"Capital leases, current",,2015-12-31
+"Capital leases, current",8000,2016-12-31
+us-gaap_LiabilitiesCurrent,46216000,2015-12-31
+us-gaap_LiabilitiesCurrent,39492000,2016-12-31
+"Capital leases, non-current",,2015-12-31
+"Capital leases, non-current",13000,2016-12-31
+Other long-term liabilities,77000,2015-12-31
+Other long-term liabilities,631000,2016-12-31
+Deferred tax liability,178000,2015-12-31
+Deferred tax liability,,2016-12-31
+us-gaap_Liabilities,46471000,2015-12-31
+us-gaap_Liabilities,40136000,2016-12-31
+Commitments and contingencies (Note 9),,2015-12-31
+Commitments and contingencies (Note 9),,2016-12-31
+"Preferred stock: $0.001 par value; 20,000,000 shares authorized, no shares issued and outstanding as of December 31, 2016 and December 31, 2015",,2015-12-31
+"Preferred stock: $0.001 par value; 20,000,000 shares authorized, no shares issued and outstanding as of December 31, 2016 and December 31, 2015",,2016-12-31
+"Common stock: $0.001 par value; 200,000,000 shares authorized as of December 31, 2016 and 2015; 33,946,820 and 34,455,220 shares issued and outstanding as of December 31, 2016 and 2015, respectively",34000,2015-12-31
+"Common stock: $0.001 par value; 200,000,000 shares authorized as of December 31, 2016 and 2015; 33,946,820 and 34,455,220 shares issued and outstanding as of December 31, 2016 and 2015, respectively",36000,2016-12-31
+Additional paid-in-capital,150001000,2015-12-31
+Additional paid-in-capital,159550000,2016-12-31
+us-gaap_TreasuryStockValue,,2015-12-31
+us-gaap_TreasuryStockValue,7105000,2016-12-31
+Accumulated deficit,-47167000,2015-12-31
+Accumulated deficit,-54888000,2016-12-31
+Accumulated other comprehensive loss,-265000,2015-12-31
+Accumulated other comprehensive loss,-350000,2016-12-31
+us-gaap_StockholdersEquity,105965000,2013-12-31
+us-gaap_StockholdersEquity,107948000,2014-12-31
+us-gaap_StockholdersEquity,102603000,2015-12-31
+us-gaap_StockholdersEquity,97243000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,149074000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,137379000,2016-12-31

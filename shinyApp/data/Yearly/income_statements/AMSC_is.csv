@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+"Revenue, Net",70530000,2015-03-31
+"Revenue, Net",23723000,2015-06-30
+"Revenue, Net",19004000,2015-09-30
+"Revenue, Net",25772000,2015-12-31
+"Revenue, Net",27524000,2016-03-31
+"Revenue, Net",96023000,2016-03-31
+"Revenue, Net",13345000,2016-06-30
+"Revenue, Net",18507000,2016-09-30
+"Revenue, Net",27148000,2016-12-31
+"Revenue, Net",16195000,2017-03-31
+"Revenue, Net",75195000,2017-03-31
+Cost of Revenue,67442000,2015-03-31
+Cost of Revenue,74041000,2016-03-31
+Cost of Revenue,64352000,2017-03-31
+Gross Profit,3088000,2015-03-31
+Gross Profit,21982000,2016-03-31
+Gross Profit,10843000,2017-03-31
+Research and Development Expense,11878000,2015-03-31
+Research and Development Expense,12303000,2016-03-31
+Research and Development Expense,12540000,2017-03-31
+"Selling, General and Administrative Expense",29217000,2015-03-31
+"Selling, General and Administrative Expense",28861000,2016-03-31
+"Selling, General and Administrative Expense",25688000,2017-03-31
+"Litigation Settlement, Expense",8987000,2015-03-31
+"Litigation Settlement, Expense",0,2016-03-31
+"Litigation Settlement, Expense",0,2017-03-31
+"Other than Temporary Impairment Losses, Investments and Restructuring Credits",5366000,2015-03-31
+"Other than Temporary Impairment Losses, Investments and Restructuring Credits",779000,2016-03-31
+"Other than Temporary Impairment Losses, Investments and Restructuring Credits",0,2017-03-31
+"Deferred Policy Acquisition Cost, Amortization Expense",157000,2015-03-31
+"Deferred Policy Acquisition Cost, Amortization Expense",157000,2016-03-31
+"Deferred Policy Acquisition Cost, Amortization Expense",157000,2017-03-31
+Costs and Expenses,55605000,2015-03-31
+Costs and Expenses,42100000,2016-03-31
+Costs and Expenses,38385000,2017-03-31
+Operating Income (Loss),-52517000,2015-03-31
+Operating Income (Loss),-8257000,2015-06-30
+Operating Income (Loss),-6841000,2015-09-30
+Operating Income (Loss),-3312000,2015-12-31
+Operating Income (Loss),-1708000,2016-03-31
+Operating Income (Loss),-20118000,2016-03-31
+Operating Income (Loss),-9344000,2016-06-30
+Operating Income (Loss),-7150000,2016-09-30
+Operating Income (Loss),-4060000,2016-12-31
+Operating Income (Loss),-6988000,2017-03-31
+Operating Income (Loss),-27542000,2017-03-31
+Gain (Loss) In Change Of Fair Value Of Derivative Instruments And Warrants,3963000,2015-03-31
+Gain (Loss) In Change Of Fair Value Of Derivative Instruments And Warrants,-228000,2016-03-31
+Gain (Loss) In Change Of Fair Value Of Derivative Instruments And Warrants,1304000,2017-03-31
+Gain (Loss) on Sale of Equity Investments,0,2015-03-31
+Gain (Loss) on Sale of Equity Investments,3092000,2016-03-31
+Gain (Loss) on Sale of Equity Investments,325000,2017-03-31
+"Interest Income (Expense), Nonoperating, Net",-1882000,2015-03-31
+"Interest Income (Expense), Nonoperating, Net",-1037000,2016-03-31
+"Interest Income (Expense), Nonoperating, Net",-383000,2017-03-31
+Other Nonoperating Income (Expense),1596000,2015-03-31
+Other Nonoperating Income (Expense),-2457000,2016-03-31
+Other Nonoperating Income (Expense),65000,2017-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-48840000,2015-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-20748000,2016-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-26231000,2017-03-31
+Income Tax Expense (Benefit),-184000,2015-03-31
+Income Tax Expense (Benefit),2391000,2016-03-31
+Income Tax Expense (Benefit),1142000,2017-03-31
+Net Income (Loss) Attributable to Parent,-48656000,2015-03-31
+Net Income (Loss) Attributable to Parent,-9121000,2015-06-30
+Net Income (Loss) Attributable to Parent,-7698000,2015-09-30
+Net Income (Loss) Attributable to Parent,-2957000,2015-12-31
+Net Income (Loss) Attributable to Parent,-3363000,2016-03-31
+Net Income (Loss) Attributable to Parent,-23139000,2016-03-31
+Net Income (Loss) Attributable to Parent,-10355000,2016-06-30
+Net Income (Loss) Attributable to Parent,-7325000,2016-09-30
+Net Income (Loss) Attributable to Parent,-2768000,2016-12-31
+Net Income (Loss) Attributable to Parent,-6925000,2017-03-31
+Net Income (Loss) Attributable to Parent,-27373000,2017-03-31
+"Earnings Per Share, Basic",-5.74,2015-03-31
+"Earnings Per Share, Basic",-0.75,2015-06-30
+"Earnings Per Share, Basic",-0.57,2015-09-30
+"Earnings Per Share, Basic",-0.22,2015-12-31
+"Earnings Per Share, Basic",-0.25,2016-03-31
+"Earnings Per Share, Basic",-1.76,2016-03-31
+"Earnings Per Share, Basic",-0.76,2016-06-30
+"Earnings Per Share, Basic",-0.53,2016-09-30
+"Earnings Per Share, Basic",-0.20,2016-12-31
+"Earnings Per Share, Basic",-0.50,2017-03-31
+"Earnings Per Share, Basic",-1.98,2017-03-31
+"Earnings Per Share, Diluted",-5.74,2015-03-31
+"Earnings Per Share, Diluted",-0.75,2015-06-30
+"Earnings Per Share, Diluted",-0.57,2015-09-30
+"Earnings Per Share, Diluted",-0.22,2015-12-31
+"Earnings Per Share, Diluted",-0.25,2016-03-31
+"Earnings Per Share, Diluted",-1.76,2016-03-31
+"Earnings Per Share, Diluted",-0.76,2016-06-30
+"Earnings Per Share, Diluted",-0.53,2016-09-30
+"Earnings Per Share, Diluted",-0.20,2016-12-31
+"Earnings Per Share, Diluted",-0.50,2017-03-31
+"Earnings Per Share, Diluted",-1.98,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",8477000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",13178000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",13804000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",8477000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",13178000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",13804000,2017-03-31

@@ -1,0 +1,112 @@
+Metric,Amount,endDate
+Revenues,42534000,2014-12-31
+Revenues,25245000,2015-03-31
+Revenues,43519000,2015-12-31
+Revenues,2147000,2015-06-30
+Revenues,15465000,2015-09-30
+Revenues,662000,2015-12-31
+Revenues,13500000,2016-03-31
+Revenues,59018000,2016-12-31
+Revenues,45003000,2016-06-30
+Revenues,515000,2016-12-31
+Cost Of Revenue,14170000,2014-12-31
+Cost Of Revenue,10215000,2015-12-31
+Cost Of Revenue,18156000,2016-12-31
+Patent Administration And Related Costs,6386000,2014-12-31
+Patent Administration And Related Costs,2668000,2015-12-31
+Patent Administration And Related Costs,1046000,2016-12-31
+Patent Litigation,9880000,2014-12-31
+Patent Litigation,13076000,2015-12-31
+Patent Litigation,4169000,2016-12-31
+General And Administrative Expense,27467000,2014-12-31
+General And Administrative Expense,16750000,2015-12-31
+General And Administrative Expense,7508000,2016-12-31
+Allocated Share Based Compensation Expense,9405000,2014-12-31
+Allocated Share Based Compensation Expense,4507000,2015-12-31
+Allocated Share Based Compensation Expense,3424000,2016-12-31
+Amortization Of Intangible Assets,15929000,2014-12-31
+Amortization Of Intangible Assets,13939000,2015-12-31
+Amortization Of Intangible Assets,9498000,2016-12-31
+Goodwill And Intangible Asset Impairment,11013000,2014-12-31
+Goodwill And Intangible Asset Impairment,103499000,2015-12-31
+Goodwill And Intangible Asset Impairment,103499000,2015-12-31
+Costs And Expenses,94250000,2014-12-31
+Costs And Expenses,164654000,2015-12-31
+Costs And Expenses,43801000,2016-12-31
+Operating Income Loss,-51716000,2014-12-31
+Operating Income Loss,1076000,2015-03-31
+Operating Income Loss,-121135000,2015-12-31
+Operating Income Loss,-8021000,2015-06-30
+Operating Income Loss,-2129000,2015-09-30
+Operating Income Loss,-112061000,2015-12-31
+Operating Income Loss,4928000,2016-03-31
+Operating Income Loss,15217000,2016-12-31
+Operating Income Loss,21103000,2016-06-30
+Operating Income Loss,-5501000,2016-09-30
+Operating Income Loss,-5313000,2016-12-31
+Investment Income Interest,94000,2014-12-31
+Investment Income Interest,156000,2015-12-31
+Investment Income Interest,696000,2016-12-31
+Interest Expense,193000,2014-12-31
+Interest Expense,53000,2015-12-31
+Gain Contingency Gain In Period,6095000,2015-12-31
+Gain Contingency Gain In Period,2047000,2016-12-31
+Other Nonoperating Income Expense,-16000,2014-12-31
+Other Nonoperating Income Expense,-14000,2015-12-31
+Other Nonoperating Income Expense,-11000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-51831000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-114951000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,17949000,2016-12-31
+Income Tax Expense Benefit,6303000,2014-12-31
+Income Tax Expense Benefit,2631000,2015-12-31
+Profit Loss,-58134000,2014-12-31
+Profit Loss,-1315000,2015-03-31
+Profit Loss,-117582000,2015-12-31
+Profit Loss,-7990000,2015-06-30
+Profit Loss,127000,2015-09-30
+Profit Loss,-108404000,2015-12-31
+Profit Loss,7110000,2016-03-31
+Profit Loss,17949000,2016-12-31
+Profit Loss,21257000,2016-06-30
+Profit Loss,-5341000,2016-09-30
+Profit Loss,-5077000,2016-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-7132000,2014-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-7902000,2015-12-31
+Net Income Loss Attributable To Noncontrolling Interest,186000,2016-12-31
+Net Income Loss,-51002000,2014-12-31
+Net Income Loss,-559000,2015-03-31
+Net Income Loss,-109680000,2015-12-31
+Net Income Loss,-7558000,2015-06-30
+Net Income Loss,1000,2015-09-30
+Net Income Loss,-101564000,2015-12-31
+Net Income Loss,6565000,2016-03-31
+Net Income Loss,17763000,2016-12-31
+Net Income Loss,21420000,2016-06-30
+Net Income Loss,-5254000,2016-09-30
+Net Income Loss,-4968000,2016-12-31
+Earnings Per Share Basic,-1.93,2014-12-31
+Earnings Per Share Basic,-0.02,2015-03-31
+Earnings Per Share Basic,-4.13,2015-12-31
+Earnings Per Share Basic,-0.28,2015-06-30
+Earnings Per Share Basic,-3.82,2015-12-31
+Earnings Per Share Basic,0.25,2016-03-31
+Earnings Per Share Basic,0.66,2016-12-31
+Earnings Per Share Basic,0.80,2016-06-30
+Earnings Per Share Basic,-0.20,2016-09-30
+Earnings Per Share Basic,-0.19,2016-12-31
+Earnings Per Share Diluted,-1.93,2014-12-31
+Earnings Per Share Diluted,-0.02,2015-03-31
+Earnings Per Share Diluted,-4.13,2015-12-31
+Earnings Per Share Diluted,-0.28,2015-06-30
+Earnings Per Share Diluted,-3.82,2015-12-31
+Earnings Per Share Diluted,0.24,2016-03-31
+Earnings Per Share Diluted,0.64,2016-12-31
+Earnings Per Share Diluted,0.77,2016-06-30
+Earnings Per Share Diluted,-0.20,2016-09-30
+Earnings Per Share Diluted,-0.19,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,26440750,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,26570733,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,26758985,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,26440750,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,26570733,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,27691866,2016-12-31

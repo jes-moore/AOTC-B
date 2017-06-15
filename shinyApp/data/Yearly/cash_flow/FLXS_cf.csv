@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,4685000,2014-12-31
+Net Income (Loss) Attributable to Parent,5366000,2015-12-31
+Net Income (Loss) Attributable to Parent,6956000,2015-03-31
+Net Income (Loss) Attributable to Parent,6944000,2016-03-31
+Net Income (Loss) Attributable to Parent,5780000,2015-06-30
+Net Income (Loss) Attributable to Parent,6164000,2016-06-30
+Net Income (Loss) Attributable to Parent,14990000,2014-06-30
+Net Income (Loss) Attributable to Parent,22299000,2015-06-30
+Net Income (Loss) Attributable to Parent,4878000,2014-09-30
+Net Income (Loss) Attributable to Parent,24237000,2016-06-30
+Net Income (Loss) Attributable to Parent,5763000,2015-09-30
+Depreciation,4197000,2014-06-30
+Depreciation,4945000,2015-06-30
+Depreciation,7556000,2016-06-30
+Deferred Income Tax Expense (Benefit),-138000,2014-06-30
+Deferred Income Tax Expense (Benefit),605000,2015-06-30
+Deferred Income Tax Expense (Benefit),2731000,2016-06-30
+Share-based Compensation,1290000,2014-06-30
+Share-based Compensation,1943000,2015-06-30
+Share-based Compensation,1470000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1357000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",817000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1761000,2016-06-30
+Provision for Doubtful Accounts,6000,2014-06-30
+Provision for Doubtful Accounts,30000,2015-06-30
+Provision for Doubtful Accounts,-100000,2016-06-30
+Other Noncash Income (Expense),-42000,2014-06-30
+Other Noncash Income (Expense),28000,2015-06-30
+Other Noncash Income (Expense),,2016-06-30
+Gain (Loss) on Sale of Property Plant Equipment,90000,2014-06-30
+Gain (Loss) on Sale of Property Plant Equipment,119000,2015-06-30
+Gain (Loss) on Sale of Property Plant Equipment,34000,2016-06-30
+Gain(Loss) on life insurance proceeds,745000,2015-06-30
+Gain(Loss) on life insurance proceeds,346000,2016-06-30
+Increase (Decrease) in Accounts Receivable,2467000,2014-06-30
+Increase (Decrease) in Accounts Receivable,6596000,2015-06-30
+Increase (Decrease) in Accounts Receivable,-584000,2016-06-30
+Increase (Decrease) in Inventories,5523000,2014-06-30
+Increase (Decrease) in Inventories,15902000,2015-06-30
+Increase (Decrease) in Inventories,-27938000,2016-06-30
+Increase (Decrease) in Other Current Assets,278000,2014-06-30
+Increase (Decrease) in Other Current Assets,3882000,2015-06-30
+Increase (Decrease) in Other Current Assets,1962000,2016-06-30
+Increase (Decrease) in Other Noncurrent Assets,163000,2014-06-30
+Increase (Decrease) in Other Noncurrent Assets,1024000,2015-06-30
+Increase (Decrease) in Other Noncurrent Assets,-59000,2016-06-30
+"Increase (Decrease) in Accounts Payable, Trade",2117000,2014-06-30
+"Increase (Decrease) in Accounts Payable, Trade",2083000,2015-06-30
+"Increase (Decrease) in Accounts Payable, Trade",-6877000,2016-06-30
+Increase (Decrease) in Accrued Liabilities,2986000,2014-06-30
+Increase (Decrease) in Accrued Liabilities,201000,2015-06-30
+Increase (Decrease) in Accrued Liabilities,2052000,2016-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,265000,2014-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,-187000,2015-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,-1640000,2016-06-30
+Increase (Decrease) in Deferred Compensation,360000,2014-06-30
+Increase (Decrease) in Deferred Compensation,463000,2015-06-30
+Increase (Decrease) in Deferred Compensation,460000,2016-06-30
+Net Cash Provided by (Used in) Operating Activities,16237000,2014-06-30
+Net Cash Provided by (Used in) Operating Activities,3269000,2015-06-30
+Net Cash Provided by (Used in) Operating Activities,54367000,2016-06-30
+Payments to Acquire Investments,5537000,2014-06-30
+Payments to Acquire Investments,1955000,2015-06-30
+Payments to Acquire Investments,3100000,2016-06-30
+"Proceeds from Sale, Maturity and Collection of Investments",5209000,2014-06-30
+"Proceeds from Sale, Maturity and Collection of Investments",1611000,2015-06-30
+"Proceeds from Sale, Maturity and Collection of Investments",2900000,2016-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",98000,2014-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",155000,2015-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",76000,2016-06-30
+Proceeds from Life Insurance Policies,5053000,2015-06-30
+Proceeds from Life Insurance Policies,2814000,2016-06-30
+"Payments to Acquire Property, Plant, and Equipment",4187000,2014-06-30
+"Payments to Acquire Property, Plant, and Equipment",37423000,2015-06-30
+"Payments to Acquire Property, Plant, and Equipment",7382000,2016-06-30
+Net Cash Provided by (Used in) Investing Activities,-4417000,2014-06-30
+Net Cash Provided by (Used in) Investing Activities,-32559000,2015-06-30
+Net Cash Provided by (Used in) Investing Activities,-4692000,2016-06-30
+"Proceeds from short-term debt, net",11904000,2015-06-30
+"Proceeds from short-term debt, net",-11904000,2016-06-30
+Payments of Dividends,4323000,2014-06-30
+Payments of Dividends,5115000,2015-06-30
+Payments of Dividends,5455000,2016-06-30
+Proceeds from Issuance of Common Stock,2388000,2014-06-30
+Proceeds from Issuance of Common Stock,790000,2015-06-30
+Proceeds from Issuance of Common Stock,1591000,2016-06-30
+Shares withheld for employee tax obligations,-170000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1357000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",817000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1761000,2016-06-30
+Net Cash Provided by (Used in) Financing Activities,-578000,2014-06-30
+Net Cash Provided by (Used in) Financing Activities,8396000,2015-06-30
+Net Cash Provided by (Used in) Financing Activities,-14177000,2016-06-30
+"Cash and Cash Equivalents, Period Increase (D",11242000,2014-06-30
+"Cash and Cash Equivalents, Period Increase (D",-20894000,2015-06-30
+"Cash and Cash Equivalents, Period Increase (D",35498000,2016-06-30
+Cash,10934000,2013-06-30
+Cash,22176000,2014-06-30
+Cash,1282000,2015-06-30
+Cash,36780000,2016-06-30
+Cash,10934000,2013-06-30
+Cash,22176000,2014-06-30
+Cash,1282000,2015-06-30
+Cash,36780000,2016-06-30
+"Income Taxes Paid, Net",6880000,2014-06-30
+"Income Taxes Paid, Net",13920000,2015-06-30
+"Income Taxes Paid, Net",10140000,2016-06-30
+Capital Expenditures Incurred but Not yet Paid,35000,2014-06-30
+Capital Expenditures Incurred but Not yet Paid,130000,2015-06-30
+Capital Expenditures Incurred but Not yet Paid,430000,2016-06-30

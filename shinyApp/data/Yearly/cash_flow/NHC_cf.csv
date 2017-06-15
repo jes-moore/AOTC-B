@@ -1,0 +1,159 @@
+Metric,Amount,endDate
+Net Income,53369000,2014-12-31
+Net Income,13242000,2015-03-31
+Net Income,53143000,2015-12-31
+Net Income,12358000,2015-06-30
+Net Income,12567000,2015-09-30
+Net Income,14976000,2015-12-31
+Net Income,13699000,2016-03-31
+Net Income,50538000,2016-12-31
+Net Income,11866000,2016-06-30
+Net Income,11110000,2016-09-30
+Net Income,13863000,2016-12-31
+us-gaap_DepreciationDepletionAndAmortization,34384000,2014-12-31
+us-gaap_DepreciationDepletionAndAmortization,37114000,2015-12-31
+us-gaap_DepreciationDepletionAndAmortization,39023000,2016-12-31
+us-gaap_ProvisionForDoubtfulAccounts,6228000,2014-12-31
+us-gaap_ProvisionForDoubtfulAccounts,6583000,2015-12-31
+us-gaap_ProvisionForDoubtfulAccounts,5967000,2016-12-31
+Equity in earnings of unconsolidated investments,6675000,2014-12-31
+Equity in earnings of unconsolidated investments,5845000,2015-12-31
+Equity in earnings of unconsolidated investments,6636000,2016-12-31
+us-gaap_EquityMethodInvestmentDividendsOrDistributions,10288000,2014-12-31
+us-gaap_EquityMethodInvestmentDividendsOrDistributions,6505000,2015-12-31
+us-gaap_EquityMethodInvestmentDividendsOrDistributions,8059000,2016-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,379000,2014-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,566000,2015-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,816000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,1434000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,648000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-4791000,2016-12-31
+us-gaap_ShareBasedCompensation,2021000,2014-12-31
+us-gaap_ShareBasedCompensation,1982000,2015-12-31
+us-gaap_ShareBasedCompensation,509000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,5215000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,11835000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,4403000,2016-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,4727000,2014-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-1524000,2015-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,1462000,2016-12-31
+us-gaap_IncreaseDecreaseInInventories,-19000,2014-12-31
+us-gaap_IncreaseDecreaseInInventories,441000,2015-12-31
+us-gaap_IncreaseDecreaseInInventories,-60000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,2587000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-89000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,477000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,2827000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,4251000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,-1535000,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedSalaries,-3603000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedSalaries,5479000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedSalaries,574000,2016-12-31
+nhc_IncreaseDecreaseInDueToThirdPartyPayors,1312000,2014-12-31
+nhc_IncreaseDecreaseInDueToThirdPartyPayors,-6277000,2015-12-31
+nhc_IncreaseDecreaseInDueToThirdPartyPayors,365000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,-5652000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,-7455000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,-3526000,2016-12-31
+nhc_IncreaseDecreaseInContinuingCareRetirementCommunitiesObligationForFutureServicesAmount,238000,2014-12-31
+nhc_IncreaseDecreaseInContinuingCareRetirementCommunitiesObligationForFutureServicesAmount,-487000,2015-12-31
+nhc_IncreaseDecreaseInContinuingCareRetirementCommunitiesObligationForFutureServicesAmount,-204000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,1486000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,283000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,8000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,39000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,-44000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,47000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,81939000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,83355000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,90882000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,53298000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,58416000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,62601000,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,1975000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,674000,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,1282000,2016-12-31
+us-gaap_PaymentsToMinorityShareholders,768000,2014-12-31
+us-gaap_PaymentsToMinorityShareholders,,2015-12-31
+us-gaap_PaymentsToMinorityShareholders,,2016-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,767000,2014-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,5676000,2015-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,5251000,2016-12-31
+Collections of notes receivable,3156000,2014-12-31
+Collections of notes receivable,4948000,2015-12-31
+Collections of notes receivable,1636000,2016-12-31
+us-gaap_PaymentsToAcquireRestrictedInvestments,62165000,2014-12-31
+us-gaap_PaymentsToAcquireRestrictedInvestments,60540000,2015-12-31
+us-gaap_PaymentsToAcquireRestrictedInvestments,48620000,2016-12-31
+Sale of marketable securities,48786000,2014-12-31
+Sale of marketable securities,47574000,2015-12-31
+Sale of marketable securities,34642000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-67031000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-72784000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-81476000,2016-12-31
+Borrowings under credit facility,,2014-12-31
+Borrowings under credit facility,110000000,2015-12-31
+Borrowings under credit facility,,2016-12-31
+us-gaap_PaymentsForRepurchaseOfConvertiblePreferredStock,,2014-12-31
+us-gaap_PaymentsForRepurchaseOfConvertiblePreferredStock,130538000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfConvertiblePreferredStock,,2016-12-31
+us-gaap_RepaymentsOfDebtAndCapitalLeaseObligations,2436000,2014-12-31
+us-gaap_RepaymentsOfDebtAndCapitalLeaseObligations,3089000,2015-12-31
+us-gaap_RepaymentsOfDebtAndCapitalLeaseObligations,3278000,2016-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,8670000,2014-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,8986000,2015-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,,2016-12-31
+us-gaap_PaymentsOfDividendsCommonStock,18704000,2014-12-31
+us-gaap_PaymentsOfDividendsCommonStock,21089000,2015-12-31
+us-gaap_PaymentsOfDividendsCommonStock,25795000,2016-12-31
+Issuance of common shares,7429000,2014-12-31
+Issuance of common shares,10634000,2015-12-31
+Issuance of common shares,10772000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,6995000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,8195000,2016-12-31
+Tax (expense) benefit from exercise of stock options,201000,2014-12-31
+Tax (expense) benefit from exercise of stock options,1942000,2015-12-31
+Tax (expense) benefit from exercise of stock options,-1096000,2016-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,,2014-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,601000,2015-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,,2016-12-31
+Entrance fee deposits (refunds),-501000,2014-12-31
+Entrance fee deposits (refunds),-354000,2015-12-31
+Entrance fee deposits (refunds),59000,2016-12-31
+Change in deposits,-448000,2014-12-31
+Change in deposits,406000,2015-12-31
+Change in deposits,402000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-30124000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-41675000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-27131000,2016-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect,-15216000,2014-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect,-31104000,2015-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseExcludingExchangeRateEffect,-17725000,2016-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,95634000,2013-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,80418000,2014-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,49314000,2015-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,31589000,2016-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,95634000,2013-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,80418000,2014-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,49314000,2015-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,31589000,2016-12-31
+Cash and cash equivalents,69767000,2014-12-31
+Cash and cash equivalents,38208000,2015-12-31
+Cash and cash equivalents,26335000,2016-12-31
+us-gaap_RestrictedCashAndCashEquivalents,10651000,2014-12-31
+us-gaap_RestrictedCashAndCashEquivalents,11106000,2015-12-31
+us-gaap_RestrictedCashAndCashEquivalents,5254000,2016-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,95634000,2013-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,80418000,2014-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,49314000,2015-12-31
+nhc_CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,31589000,2016-12-31
+Cash payments for interest,2242000,2014-12-31
+Cash payments for interest,2965000,2015-12-31
+Cash payments for interest,4528000,2016-12-31
+Cash payments for income taxes,36642000,2014-12-31
+Cash payments for income taxes,29183000,2015-12-31
+Cash payments for income taxes,27668000,2016-12-31
+"Buildings, personal property, and obligations recorded under capital lease agreements",39032000,2014-12-31
+"Buildings, personal property, and obligations recorded under capital lease agreements",,2015-12-31
+"Buildings, personal property, and obligations recorded under capital lease agreements",,2016-12-31

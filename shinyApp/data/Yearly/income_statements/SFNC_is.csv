@@ -1,0 +1,124 @@
+Metric,Amount,endDate
+us-gaap_InterestAndFeeIncomeLoansAndLeases,164082000,2014-12-31
+us-gaap_InterestAndFeeIncomeLoansAndLeases,268367000,2015-12-31
+us-gaap_InterestAndFeeIncomeLoansAndLeases,265652000,2016-12-31
+Federal funds sold,27000,2014-12-31
+Federal funds sold,126000,2015-12-31
+Federal funds sold,57000,2016-12-31
+us-gaap_InvestmentIncomeInterest,19357000,2014-12-31
+us-gaap_InvestmentIncomeInterest,30613000,2015-12-31
+us-gaap_InvestmentIncomeInterest,33479000,2016-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,695000,2014-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,1051000,2015-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,1102000,2016-12-31
+Assets held in trading accounts,17000,2014-12-31
+Assets held in trading accounts,18000,2015-12-31
+Assets held in trading accounts,16000,2016-12-31
+Interest bearing balances due from banks,857000,2014-12-31
+Interest bearing balances due from banks,773000,2015-12-31
+Interest bearing balances due from banks,699000,2016-12-31
+us-gaap_InterestAndDividendIncomeOperating,185035000,2014-12-31
+us-gaap_InterestAndDividendIncomeOperating,300948000,2015-12-31
+us-gaap_InterestAndDividendIncomeOperating,301005000,2016-12-31
+Deposits,9079000,2014-12-31
+Deposits,15248000,2015-12-31
+Deposits,15217000,2016-12-31
+us-gaap_InterestExpenseFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase,269000,2014-12-31
+us-gaap_InterestExpenseFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase,236000,2015-12-31
+us-gaap_InterestExpenseFederalFundsPurchasedAndSecuritiesSoldUnderAgreementsToRepurchase,273000,2016-12-31
+us-gaap_InterestExpenseOther,3986000,2014-12-31
+us-gaap_InterestExpenseOther,5097000,2015-12-31
+us-gaap_InterestExpenseOther,4148000,2016-12-31
+us-gaap_InterestExpenseSubordinatedNotesAndDebentures,637000,2014-12-31
+us-gaap_InterestExpenseSubordinatedNotesAndDebentures,1772000,2015-12-31
+us-gaap_InterestExpenseSubordinatedNotesAndDebentures,2161000,2016-12-31
+us-gaap_InterestExpense,13971000,2014-12-31
+us-gaap_InterestExpense,22353000,2015-12-31
+us-gaap_InterestExpense,21799000,2016-12-31
+us-gaap_InterestIncomeExpenseNet,171064000,2014-12-31
+us-gaap_InterestIncomeExpenseNet,278595000,2015-12-31
+us-gaap_InterestIncomeExpenseNet,279206000,2016-12-31
+Provision for loan losses,7245000,2014-12-31
+Provision for loan losses,9022000,2015-12-31
+Provision for loan losses,20065000,2016-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,163819000,2014-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,269573000,2015-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,259141000,2016-12-31
+Trust income,7111000,2014-12-31
+Trust income,9261000,2015-12-31
+Trust income,15442000,2016-12-31
+Service charges on deposit accounts,25650000,2014-12-31
+Service charges on deposit accounts,30985000,2015-12-31
+Service charges on deposit accounts,32414000,2016-12-31
+Other service charges and fees,3574000,2014-12-31
+Other service charges and fees,8756000,2015-12-31
+Other service charges and fees,6913000,2016-12-31
+Mortgage lending income,5342000,2014-12-31
+Mortgage lending income,11452000,2015-12-31
+Mortgage lending income,22442000,2016-12-31
+Investment banking income,1070000,2014-12-31
+Investment banking income,2590000,2015-12-31
+Investment banking income,3471000,2016-12-31
+Debit and credit card fees,22866000,2014-12-31
+Debit and credit card fees,26660000,2015-12-31
+Debit and credit card fees,30740000,2016-12-31
+Bank owned life insurance income,1843000,2014-12-31
+Bank owned life insurance income,2680000,2015-12-31
+Bank owned life insurance income,3324000,2016-12-31
+"Gain on sale of securities, net",8000,2014-12-31
+"Gain on sale of securities, net",307000,2015-12-31
+"Gain on sale of securities, net",5848000,2016-12-31
+Net loss on assets covered by FDIC loss share agreements,-20316000,2014-12-31
+Net loss on assets covered by FDIC loss share agreements,-14812000,2015-12-31
+Net loss on assets covered by FDIC loss share agreements,,2016-12-31
+Other income,15044000,2014-12-31
+Other income,16782000,2015-12-31
+Other income,18788000,2016-12-31
+us-gaap_NoninterestIncome,62192000,2014-12-31
+us-gaap_NoninterestIncome,94661000,2015-12-31
+us-gaap_NoninterestIncome,139382000,2016-12-31
+Salaries and employee benefits,89210000,2014-12-31
+Salaries and employee benefits,138243000,2015-12-31
+Salaries and employee benefits,133457000,2016-12-31
+"Occupancy expense, net",12833000,2014-12-31
+"Occupancy expense, net",16858000,2015-12-31
+"Occupancy expense, net",18667000,2016-12-31
+Furniture and equipment expense,9325000,2014-12-31
+Furniture and equipment expense,14352000,2015-12-31
+Furniture and equipment expense,16683000,2016-12-31
+Other real estate and foreclosure expense,4507000,2014-12-31
+Other real estate and foreclosure expense,4861000,2015-12-31
+Other real estate and foreclosure expense,4461000,2016-12-31
+Deposit insurance,3354000,2014-12-31
+Deposit insurance,4201000,2015-12-31
+Deposit insurance,3469000,2016-12-31
+Merger related costs,7470000,2014-12-31
+Merger related costs,13760000,2015-12-31
+Merger related costs,4835000,2016-12-31
+Other operating expenses,49022000,2014-12-31
+Other operating expenses,64695000,2015-12-31
+Other operating expenses,73513000,2016-12-31
+us-gaap_NoninterestExpense,175721000,2014-12-31
+us-gaap_NoninterestExpense,256970000,2015-12-31
+us-gaap_NoninterestExpense,255085000,2016-12-31
+us-gaap_IncomeLossAttributableToParent,50290000,2014-12-31
+us-gaap_IncomeLossAttributableToParent,107264000,2015-12-31
+us-gaap_IncomeLossAttributableToParent,143438000,2016-12-31
+Provision for income taxes,14602000,2014-12-31
+Provision for income taxes,32900000,2015-12-31
+Provision for income taxes,46624000,2016-12-31
+Net income,35688000,2014-12-31
+Net income,74364000,2015-12-31
+Net income,96814000,2016-12-31
+Preferred stock dividends,,2014-12-31
+Preferred stock dividends,257000,2015-12-31
+Preferred stock dividends,24000,2016-12-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,35688000,2014-12-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,74107000,2015-12-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,96790000,2016-12-31
+BASIC EARNINGS PER SHARE (in dollars per share),2.11,2014-12-31
+BASIC EARNINGS PER SHARE (in dollars per share),2.64,2015-12-31
+BASIC EARNINGS PER SHARE (in dollars per share),3.16,2016-12-31
+DILUTED EARNINGS PER SHARE (in dollars per share),2.11,2014-12-31
+DILUTED EARNINGS PER SHARE (in dollars per share),2.63,2015-12-31
+DILUTED EARNINGS PER SHARE (in dollars per share),3.13,2016-12-31

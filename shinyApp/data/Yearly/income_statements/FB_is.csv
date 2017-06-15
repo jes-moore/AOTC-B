@@ -1,0 +1,76 @@
+Metric,Amount,endDate
+Revenues,12466000000,2014-12-31
+Revenues,17928000000,2015-12-31
+Revenues,27638000000,2016-12-31
+Cost of Revenue,2153000000,2014-12-31
+Cost of Revenue,2867000000,2015-12-31
+Cost of Revenue,3789000000,2016-12-31
+Research and Development Expense,2666000000,2014-12-31
+Research and Development Expense,4816000000,2015-12-31
+Research and Development Expense,5919000000,2016-12-31
+Selling and Marketing Expense,1680000000,2014-12-31
+Selling and Marketing Expense,2725000000,2015-12-31
+Selling and Marketing Expense,3772000000,2016-12-31
+General and Administrative Expense,973000000,2014-12-31
+General and Administrative Expense,1295000000,2015-12-31
+General and Administrative Expense,1731000000,2016-12-31
+Costs and Expenses,7472000000,2014-12-31
+Costs and Expenses,11703000000,2015-12-31
+Costs and Expenses,3372000000,2016-03-31
+Costs and Expenses,3702000000,2016-06-30
+Costs and Expenses,3894000000,2016-09-30
+Costs and Expenses,15211000000,2016-12-31
+Operating Income (Loss),4994000000,2014-12-31
+Operating Income (Loss),6225000000,2015-12-31
+Operating Income (Loss),12427000000,2016-12-31
+Nonoperating Income (Expense),-84000000,2014-12-31
+Nonoperating Income (Expense),-31000000,2015-12-31
+Nonoperating Income (Expense),91000000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",4910000000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",6194000000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",12518000000,2016-12-31
+Income Tax Expense (Benefit),1970000000,2014-12-31
+Income Tax Expense (Benefit),2506000000,2015-12-31
+Income Tax Expense (Benefit),328000000,2016-03-31
+Income Tax Expense (Benefit),471000000,2016-06-30
+Income Tax Expense (Benefit),537000000,2016-09-30
+Income Tax Expense (Benefit),2301000000,2016-12-31
+Net Income (Loss) Attributable to Parent,2940000000,2014-12-31
+Net Income (Loss) Attributable to Parent,3688000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1738000000,2016-03-31
+Net Income (Loss) Attributable to Parent,2283000000,2016-06-30
+Net Income (Loss) Attributable to Parent,2627000000,2016-09-30
+Net Income (Loss) Attributable to Parent,10217000000,2016-12-31
+"Undistributed Earnings (Loss) Allocated to Participating Securities, Basic",15000000,2014-12-31
+"Undistributed Earnings (Loss) Allocated to Participating Securities, Basic",19000000,2015-12-31
+"Undistributed Earnings (Loss) Allocated to Participating Securities, Basic",29000000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",2925000000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",3669000000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",10188000000,2016-12-31
+"Earnings Per Share, Basic",1.12,2014-12-31
+"Earnings Per Share, Basic",1.31,2015-12-31
+"Earnings Per Share, Basic",0.61,2016-03-31
+"Earnings Per Share, Basic",0.80,2016-06-30
+"Earnings Per Share, Basic",0.91,2016-09-30
+"Earnings Per Share, Basic",3.56,2016-12-31
+"Earnings Per Share, Diluted",1.10,2014-12-31
+"Earnings Per Share, Diluted",1.29,2015-12-31
+"Earnings Per Share, Diluted",0.60,2016-03-31
+"Earnings Per Share, Diluted",0.78,2016-06-30
+"Earnings Per Share, Diluted",0.90,2016-09-30
+"Earnings Per Share, Diluted",3.49,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",2614000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",2803000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",2863000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",2664000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",2853000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",2905000000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",2921000000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",2931000000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",2925000000,2016-12-31
+Allocated Share-based Compensation Expense,1837000000,2014-12-31
+Allocated Share-based Compensation Expense,2969000000,2015-12-31
+Allocated Share-based Compensation Expense,746000000,2016-03-31
+Allocated Share-based Compensation Expense,817000000,2016-06-30
+Allocated Share-based Compensation Expense,824000000,2016-09-30
+Allocated Share-based Compensation Expense,3218000000,2016-12-31

@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+Cash and cash equivalents,72883000,2013-12-29
+Cash and cash equivalents,54896000,2014-12-28
+Cash and cash equivalents,75696000,2016-01-03
+Cash and cash equivalents,165672000,2017-01-01
+"Accounts receivable, net",130322000,2016-01-03
+"Accounts receivable, net",126004000,2017-01-01
+Inventories,161174000,2016-01-03
+Inventories,156083000,2017-01-01
+Prepaid expenses and other current assets,22490000,2016-01-03
+Prepaid expenses and other current assets,23123000,2017-01-01
+us-gaap_DeferredTaxAssetsNetCurrent,8726000,2016-01-03
+us-gaap_DeferredTaxAssetsNetCurrent,10030000,2017-01-01
+us-gaap_AssetsCurrent,398408000,2016-01-03
+us-gaap_AssetsCurrent,480912000,2017-01-01
+"Property and equipment, net",,2014-12-28
+"Property and equipment, net",211489000,2016-01-03
+"Property and equipment, net",204508000,2017-01-01
+Deferred tax asset,20110000,2016-01-03
+Deferred tax asset,27221000,2017-01-01
+Goodwill,63890000,2016-01-03
+Goodwill,61218000,2017-01-01
+Other assets,62652000,2016-01-03
+Other assets,65714000,2017-01-01
+Total assets,,2014-12-28
+Total assets,756549000,2016-01-03
+Total assets,839573000,2017-01-01
+Accounts payable,52834000,2016-01-03
+Accounts payable,45380000,2017-01-01
+Accrued expenses,88933000,2016-01-03
+Accrued expenses,98703000,2017-01-01
+Current portion of long-term debt,11250000,2016-01-03
+Current portion of long-term debt,15000000,2017-01-01
+us-gaap_LiabilitiesCurrent,153017000,2016-01-03
+us-gaap_LiabilitiesCurrent,159083000,2017-01-01
+Long term debt,202281000,2016-01-03
+Long term debt,255347000,2017-01-01
+Deferred income taxes,10505000,2016-01-03
+Deferred income taxes,8862000,2017-01-01
+us-gaap_OtherLiabilitiesNoncurrent,48380000,2016-01-03
+us-gaap_OtherLiabilitiesNoncurrent,75552000,2017-01-01
+us-gaap_Liabilities,414183000,2016-01-03
+us-gaap_Liabilities,498844000,2017-01-01
+Commitments and contingencies,,2016-01-03
+Commitments and contingencies,,2017-01-01
+Preferred stock,0,2016-01-03
+Preferred stock,0,2017-01-01
+Common stock,6570000,2016-01-03
+Common stock,6424000,2017-01-01
+Additional paid-in capital,370327000,2016-01-03
+Additional paid-in capital,359451000,2017-01-01
+Retained earnings,100270000,2016-01-03
+Retained earnings,140238000,2017-01-01
+Accumulated other comprehensive loss – foreign currency translation,-91511000,2016-01-03
+Accumulated other comprehensive loss – foreign currency translation,-110522000,2017-01-01
+Total amount recognized,43290000,2016-01-03
+Total amount recognized,54862000,2017-01-01
+us-gaap_StockholdersEquity,342366000,2016-01-03
+us-gaap_StockholdersEquity,340729000,2017-01-01
+us-gaap_LiabilitiesAndStockholdersEquity,756549000,2016-01-03
+us-gaap_LiabilitiesAndStockholdersEquity,839573000,2017-01-01

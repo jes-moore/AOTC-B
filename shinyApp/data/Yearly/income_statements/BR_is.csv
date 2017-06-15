@@ -1,0 +1,72 @@
+Metric,Amount,endDate
+Revenues,2558000000,2014-06-30
+Revenues,555800000,2014-09-30
+Revenues,574600000,2014-12-31
+Revenues,634200000,2015-03-31
+Revenues,929600000,2015-06-30
+Revenues,2694200000,2015-06-30
+Revenues,594700000,2015-09-30
+Revenues,638900000,2015-12-31
+Revenues,688800000,2016-03-31
+Revenues,974500000,2016-06-30
+Revenues,2897000000,2016-06-30
+Cost of Revenue,1761400000,2014-06-30
+Cost of Revenue,1828200000,2015-06-30
+Cost of Revenue,1975900000,2016-06-30
+"Selling, General and Administrative Expense",378400000,2014-06-30
+"Selling, General and Administrative Expense",399100000,2015-06-30
+"Selling, General and Administrative Expense",420900000,2016-06-30
+Costs and Expenses,2139800000,2014-06-30
+Costs and Expenses,2227300000,2015-06-30
+Costs and Expenses,2396800000,2016-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",418200000,2014-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",466900000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",500300000,2016-06-30
+Nonoperating Income (Expense),-22700000,2014-06-30
+Nonoperating Income (Expense),-28000000,2015-06-30
+Nonoperating Income (Expense),-31400000,2016-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",395500000,2014-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",438900000,2015-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",468900000,2016-06-30
+Income Tax Expense (Benefit),132500000,2014-06-30
+Income Tax Expense (Benefit),151800000,2015-06-30
+Income Tax Expense (Benefit),161400000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",263000000,2014-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",32500000,2014-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",34700000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",54000000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",165900000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",287100000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",33500000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",40200000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",63700000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",170100000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",307500000,2016-06-30
+"Earnings Per Share, Basic",2.20,2014-06-30
+"Earnings Per Share, Basic",0.27,2014-09-30
+"Earnings Per Share, Basic",0.29,2014-12-31
+"Earnings Per Share, Basic",0.45,2015-03-31
+"Earnings Per Share, Basic",1.39,2015-06-30
+"Earnings Per Share, Basic",2.39,2015-06-30
+"Earnings Per Share, Basic",0.28,2015-09-30
+"Earnings Per Share, Basic",0.34,2015-12-31
+"Earnings Per Share, Basic",0.54,2016-03-31
+"Earnings Per Share, Basic",1.44,2016-06-30
+"Earnings Per Share, Basic",2.60,2016-06-30
+"Earnings Per Share, Diluted",2.12,2014-06-30
+"Earnings Per Share, Diluted",0.26,2014-09-30
+"Earnings Per Share, Diluted",0.28,2014-12-31
+"Earnings Per Share, Diluted",0.43,2015-03-31
+"Earnings Per Share, Diluted",1.35,2015-06-30
+"Earnings Per Share, Diluted",2.32,2015-06-30
+"Earnings Per Share, Diluted",0.28,2015-09-30
+"Earnings Per Share, Diluted",0.33,2015-12-31
+"Earnings Per Share, Diluted",0.52,2016-03-31
+"Earnings Per Share, Diluted",1.40,2016-06-30
+"Earnings Per Share, Diluted",2.53,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",119600000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",119900000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",118300000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",124100000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",124000000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",121600000,2016-06-30

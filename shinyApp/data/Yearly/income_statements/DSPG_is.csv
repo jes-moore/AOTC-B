@@ -1,0 +1,58 @@
+Metric,Amount,endDate
+Revenues,143036000,2014-12-31
+Revenues,144271000,2015-12-31
+Revenues,137869000,2016-12-31
+Costs of revenues (1),85992000,2014-12-31
+Costs of revenues (1),84411000,2015-12-31
+Costs of revenues (1),77023000,2016-12-31
+us-gaap_GrossProfit,57044000,2014-12-31
+us-gaap_GrossProfit,59860000,2015-12-31
+us-gaap_GrossProfit,60846000,2016-12-31
+Research and development,33468000,2014-12-31
+Research and development,35483000,2015-12-31
+Research and development,34885000,2016-12-31
+Sales and marketing,11905000,2014-12-31
+Sales and marketing,12103000,2015-12-31
+Sales and marketing,13867000,2016-12-31
+General and administrative,10541000,2014-12-31
+General and administrative,9876000,2015-12-31
+General and administrative,9006000,2016-12-31
+Amortization of intangible assets,1573000,2014-12-31
+Amortization of intangible assets,1284000,2015-12-31
+Amortization of intangible assets,1457000,2016-12-31
+Other income,,2014-12-31
+Other income,,2015-12-31
+Other income,2549000,2016-12-31
+Write-off of expired option related to investment in other company,,2014-12-31
+Write-off of expired option related to investment in other company,400000,2015-12-31
+Write-off of expired option related to investment in other company,,2016-12-31
+us-gaap_OperatingExpenses,57487000,2014-12-31
+us-gaap_OperatingExpenses,59146000,2015-12-31
+us-gaap_OperatingExpenses,56666000,2016-12-31
+us-gaap_OperatingIncomeLoss,-443000,2014-12-31
+us-gaap_OperatingIncomeLoss,714000,2015-12-31
+us-gaap_OperatingIncomeLoss,4180000,2016-12-31
+"Financial income, net (Note 12)",1204000,2014-12-31
+"Financial income, net (Note 12)",1175000,2015-12-31
+"Financial income, net (Note 12)",1227000,2016-12-31
+Income before income tax benefit,761000,2014-12-31
+Income before income tax benefit,1889000,2015-12-31
+Income before income tax benefit,5407000,2016-12-31
+,-2841000,2014-12-31
+,327000,2015-12-31
+,594000,2016-12-31
+Net income,3602000,2014-12-31
+Net income,1562000,2015-12-31
+Net income,4813000,2016-12-31
+Basic (in dollars per share),0.16,2014-12-31
+Basic (in dollars per share),0.07,2015-12-31
+Basic (in dollars per share),0.22,2016-12-31
+Diluted (in dollars per share),0.16,2014-12-31
+Diluted (in dollars per share),0.07,2015-12-31
+Diluted (in dollars per share),0.21,2016-12-31
+Basic net earnings per share (in shares),21968000,2014-12-31
+Basic net earnings per share (in shares),21924000,2015-12-31
+Basic net earnings per share (in shares),21800000,2016-12-31
+Diluted net earnings per share (in shares),22954000,2014-12-31
+Diluted net earnings per share (in shares),23340000,2015-12-31
+Diluted net earnings per share (in shares),22887000,2016-12-31

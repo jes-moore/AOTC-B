@@ -1,0 +1,52 @@
+Metric,Amount,endDate
+"Revenue, Net",174478000,2014-12-31
+"Revenue, Net",255416000,2015-12-31
+"Revenue, Net",354201000,2016-12-31
+Cost of Revenue,50064000,2014-12-31
+Cost of Revenue,74375000,2015-12-31
+Cost of Revenue,103527000,2016-12-31
+Gross Profit,124414000,2014-12-31
+Gross Profit,181041000,2015-12-31
+Gross Profit,250674000,2016-12-31
+Selling and Marketing Expense,83579000,2014-12-31
+Selling and Marketing Expense,125458000,2015-12-31
+Selling and Marketing Expense,174169000,2016-12-31
+General and Administrative Expense,20515000,2014-12-31
+General and Administrative Expense,28980000,2015-12-31
+General and Administrative Expense,37759000,2016-12-31
+Research and Development Expense,18196000,2014-12-31
+Research and Development Expense,22909000,2015-12-31
+Research and Development Expense,25522000,2016-12-31
+Operating Expenses,122290000,2014-12-31
+Operating Expenses,177347000,2015-12-31
+Operating Expenses,237450000,2016-12-31
+Operating Income (Loss),2124000,2014-12-31
+Operating Income (Loss),3694000,2015-12-31
+Operating Income (Loss),13224000,2016-12-31
+"Interest Income (Expense), Net",63000,2014-12-31
+"Interest Income (Expense), Net",58000,2015-12-31
+"Interest Income (Expense), Net",-45000,2016-12-31
+Other Nonoperating Income (Expense),-425000,2014-12-31
+Other Nonoperating Income (Expense),-420000,2015-12-31
+Other Nonoperating Income (Expense),1599000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",1762000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",3332000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",14778000,2016-12-31
+Income Tax Expense (Benefit),231000,2014-12-31
+Income Tax Expense (Benefit),-38470000,2015-12-31
+Income Tax Expense (Benefit),14084000,2016-12-31
+Net Income (Loss) Attributable to Parent,1531000,2014-12-31
+Net Income (Loss) Attributable to Parent,41802000,2015-12-31
+Net Income (Loss) Attributable to Parent,694000,2016-12-31
+"Earnings Per Share, Basic",0.04,2014-12-31
+"Earnings Per Share, Basic",1.08,2015-12-31
+"Earnings Per Share, Basic",0.02,2016-12-31
+"Earnings Per Share, Diluted",0.04,2014-12-31
+"Earnings Per Share, Diluted",1.02,2015-12-31
+"Earnings Per Share, Diluted",0.02,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",37564000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",38755000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",39645000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",40997000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",40796000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",41461000,2016-12-31

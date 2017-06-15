@@ -1,0 +1,96 @@
+Metric,Amount,endDate
+Sales Revenue Net,1867422000,2015-01-31
+Sales Revenue Net,422445000,2015-05-02
+Sales Revenue Net,2109006000,2016-01-30
+Sales Revenue Net,506942000,2015-08-01
+Sales Revenue Net,532411000,2015-10-31
+Sales Revenue Net,647208000,2016-01-30
+Sales Revenue Net,455456000,2016-04-30
+Sales Revenue Net,2134871000,2017-01-28
+Sales Revenue Net,543381000,2016-07-30
+Sales Revenue Net,549328000,2016-10-29
+Sales Revenue Net,586706000,2017-01-28
+Cost Of Goods Sold,1176648000,2015-01-31
+Cost Of Goods Sold,1356314000,2016-01-30
+Cost Of Goods Sold,1455084000,2017-01-28
+Gross Profit,690774000,2015-01-31
+Gross Profit,143418000,2015-05-02
+Gross Profit,752692000,2016-01-30
+Gross Profit,194263000,2015-08-01
+Gross Profit,190750000,2015-10-31
+Gross Profit,224261000,2016-01-30
+Gross Profit,127475000,2016-04-30
+Gross Profit,679787000,2017-01-28
+Gross Profit,179839000,2016-07-30
+Gross Profit,175819000,2016-10-29
+Gross Profit,196654000,2017-01-28
+Selling General And Administrative Expense,525048000,2015-01-31
+Selling General And Administrative Expense,567131000,2016-01-30
+Selling General And Administrative Expense,626751000,2017-01-28
+Operating Income Loss,165726000,2015-01-31
+Operating Income Loss,185561000,2016-01-30
+Operating Income Loss,53036000,2017-01-28
+Interest Expense,17551000,2015-01-31
+Interest Expense,35677000,2016-01-30
+Interest Expense,44482000,2017-01-28
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,148175000,2015-01-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,149884000,2016-01-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,8554000,2017-01-28
+Income Tax Expense Benefit,57173000,2015-01-31
+Income Tax Expense Benefit,58781000,2016-01-30
+Income Tax Expense Benefit,3153000,2017-01-28
+Net Income Loss,91002000,2015-01-31
+Net Income Loss,7156000,2015-05-02
+Net Income Loss,91103000,2016-01-30
+Net Income Loss,29935000,2015-08-01
+Net Income Loss,20710000,2015-10-31
+Net Income Loss,33302000,2016-01-30
+Net Income Loss,-13470000,2016-04-30
+Net Income Loss,5401000,2017-01-28
+Net Income Loss,6918000,2016-07-30
+Net Income Loss,2517000,2016-10-29
+Net Income Loss,9436000,2017-01-28
+Weighted Average Number Of Shares Outstanding Basic,39457491,2015-01-31
+Weighted Average Number Of Shares Outstanding Basic,39913946,2015-05-02
+Weighted Average Number Of Shares Outstanding Basic,40190448,2016-01-30
+Weighted Average Number Of Shares Outstanding Basic,40045850,2015-08-01
+Weighted Average Number Of Shares Outstanding Basic,40282734,2015-10-31
+Weighted Average Number Of Shares Outstanding Basic,40522242,2016-01-30
+Weighted Average Number Of Shares Outstanding Basic,40588081,2016-04-30
+Weighted Average Number Of Shares Outstanding Basic,40691483,2017-01-28
+Weighted Average Number Of Shares Outstanding Basic,40646124,2016-07-30
+Weighted Average Number Of Shares Outstanding Basic,40730059,2016-10-29
+Weighted Average Number Of Shares Outstanding Basic,40803626,2017-01-28
+Earnings Per Share Basic,2.31,2015-01-31
+Earnings Per Share Basic,0.18,2015-05-02
+Earnings Per Share Basic,2.27,2016-01-30
+Earnings Per Share Basic,0.75,2015-08-01
+Earnings Per Share Basic,0.51,2015-10-31
+Earnings Per Share Basic,0.82,2016-01-30
+Earnings Per Share Basic,-0.33,2016-04-30
+Earnings Per Share Basic,0.13,2017-01-28
+Earnings Per Share Basic,0.17,2016-07-30
+Earnings Per Share Basic,0.06,2016-10-29
+Earnings Per Share Basic,0.23,2017-01-28
+Weighted Average Number Of Diluted Shares Outstanding,41378210,2015-01-31
+Weighted Average Number Of Diluted Shares Outstanding,41959718,2015-05-02
+Weighted Average Number Of Diluted Shares Outstanding,42256559,2016-01-30
+Weighted Average Number Of Diluted Shares Outstanding,42243910,2015-08-01
+Weighted Average Number Of Diluted Shares Outstanding,42413657,2015-10-31
+Weighted Average Number Of Diluted Shares Outstanding,42225070,2016-01-30
+Weighted Average Number Of Diluted Shares Outstanding,40588081,2016-04-30
+Weighted Average Number Of Diluted Shares Outstanding,40926840,2017-01-28
+Weighted Average Number Of Diluted Shares Outstanding,40820495,2016-07-30
+Weighted Average Number Of Diluted Shares Outstanding,40926450,2016-10-29
+Weighted Average Number Of Diluted Shares Outstanding,41000760,2017-01-28
+Earnings Per Share Diluted,2.20,2015-01-31
+Earnings Per Share Diluted,0.17,2015-05-02
+Earnings Per Share Diluted,2.16,2016-01-30
+Earnings Per Share Diluted,0.71,2015-08-01
+Earnings Per Share Diluted,0.49,2015-10-31
+Earnings Per Share Diluted,0.79,2016-01-30
+Earnings Per Share Diluted,-0.33,2016-04-30
+Earnings Per Share Diluted,0.13,2017-01-28
+Earnings Per Share Diluted,0.17,2016-07-30
+Earnings Per Share Diluted,0.06,2016-10-29
+Earnings Per Share Diluted,0.23,2017-01-28

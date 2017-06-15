@@ -1,0 +1,76 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",709438000,2013-12-31
+"Sales Revenue, Goods, Net",722666000,2014-12-31
+"Sales Revenue, Goods, Net",685651000,2015-12-31
+"Sales Revenue, Services, Net",218016000,2013-12-31
+"Sales Revenue, Services, Net",233614000,2014-12-31
+"Sales Revenue, Services, Net",244481000,2015-12-31
+"Revenue, Net",927454000,2013-12-31
+"Revenue, Net",956280000,2014-12-31
+"Revenue, Net",930132000,2015-12-31
+Cost of Goods Sold,352630000,2013-12-31
+Cost of Goods Sold,369043000,2014-12-31
+Cost of Goods Sold,336071000,2015-12-31
+Cost of Services,136039000,2013-12-31
+Cost of Services,139082000,2014-12-31
+Cost of Services,139470000,2015-12-31
+Cost of Goods and Services Sold,488669000,2013-12-31
+Cost of Goods and Services Sold,508125000,2014-12-31
+Cost of Goods and Services Sold,475541000,2015-12-31
+Gross Profit,438785000,2013-12-31
+Gross Profit,448155000,2014-12-31
+Gross Profit,454591000,2015-12-31
+Research and Development Expense,101947000,2013-12-31
+Research and Development Expense,102613000,2014-12-31
+Research and Development Expense,95569000,2015-12-31
+"Selling, General and Administrative Expense",179560000,2013-12-31
+"Selling, General and Administrative Expense",196777000,2014-12-31
+"Selling, General and Administrative Expense",181563000,2015-12-31
+Impairment of Goodwill and Long-Lived Assets,0,2013-12-31
+Impairment of Goodwill and Long-Lived Assets,905000,2014-12-31
+Impairment of Goodwill and Long-Lived Assets,26596000,2015-12-31
+Restructuring Charges,1090000,2013-12-31
+Restructuring Charges,18459000,2014-12-31
+Restructuring Charges,-563000,2015-12-31
+Operating Expenses,282597000,2013-12-31
+Operating Expenses,318754000,2014-12-31
+Operating Expenses,303165000,2015-12-31
+Operating Income (Loss),156188000,2013-12-31
+Operating Income (Loss),129401000,2014-12-31
+Operating Income (Loss),151426000,2015-12-31
+"Investment Income, Interest",428000,2013-12-31
+"Investment Income, Interest",897000,2014-12-31
+"Investment Income, Interest",1078000,2015-12-31
+Interest Expense,1890000,2013-12-31
+Interest Expense,600000,2014-12-31
+Interest Expense,694000,2015-12-31
+Other Nonoperating Income (Expense),-3124000,2013-12-31
+Other Nonoperating Income (Expense),-2768000,2014-12-31
+Other Nonoperating Income (Expense),-4018000,2015-12-31
+Nonoperating Income (Expense),-4586000,2013-12-31
+Nonoperating Income (Expense),-2471000,2014-12-31
+Nonoperating Income (Expense),-3634000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",151602000,2013-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",126930000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",147792000,2015-12-31
+Income Tax Expense (Benefit),24929000,2013-12-31
+Income Tax Expense (Benefit),21866000,2014-12-31
+Income Tax Expense (Benefit),23783000,2015-12-31
+Net Income (Loss) Attributable to Parent,126673000,2013-12-31
+Net Income (Loss) Attributable to Parent,105064000,2014-12-31
+Net Income (Loss) Attributable to Parent,124009000,2015-12-31
+"Earnings Per Share, Basic",3.13,2013-12-31
+"Earnings Per Share, Basic",2.50,2014-12-31
+"Earnings Per Share, Basic",2.99,2015-12-31
+"Earnings Per Share, Diluted",3.01,2013-12-31
+"Earnings Per Share, Diluted",2.47,2014-12-31
+"Earnings Per Share, Diluted",2.96,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.44,2013-12-31
+"Common Stock, Dividends, Per Share, Declared",0.87,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",1.15,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",40446000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",41969000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",41419000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",42395000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",42528000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",41839000,2015-12-31

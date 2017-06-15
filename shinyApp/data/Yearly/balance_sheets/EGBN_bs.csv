@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+Cash and due from banks,10270000,2015-12-31
+Cash and due from banks,10285000,2016-12-31
+Federal funds sold,3791000,2015-12-31
+Federal funds sold,2397000,2016-12-31
+Interest bearing deposits with banks and other short-term investments,284302000,2015-12-31
+Interest bearing deposits with banks and other short-term investments,355481000,2016-12-31
+"Investment securities available-for-sale, at fair value",487869000,2015-12-31
+"Investment securities available-for-sale, at fair value",538108000,2016-12-31
+Federal Reserve and Federal Home Loan Bank stock,16903000,2015-12-31
+Federal Reserve and Federal Home Loan Bank stock,21600000,2016-12-31
+Loans held for sale,47492000,2015-12-31
+Loans held for sale,51629000,2016-12-31
+Loans,4998368000,2015-12-31
+Loans,5677893000,2016-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,46075000,2014-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,52687000,2015-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,59074000,2016-12-31
+Net loans,4945681000,2015-12-31
+Net loans,5618819000,2016-12-31
+"Premises and equipment, net",18254000,2015-12-31
+"Premises and equipment, net",20661000,2016-12-31
+Deferred income taxes,32511000,2014-12-31
+Deferred income taxes,40311000,2015-12-31
+Deferred income taxes,48220000,2016-12-31
+Bank owned life insurance,58682000,2015-12-31
+Bank owned life insurance,60130000,2016-12-31
+"Intangible assets, net",108542000,2015-12-31
+"Intangible assets, net",107419000,2016-12-31
+Other real estate owned,13224000,2014-12-31
+Other real estate owned,5852000,2015-12-31
+Other real estate owned,2694000,2016-12-31
+Other assets,47628000,2015-12-31
+Other assets,52653000,2016-12-31
+us-gaap_Assets,6075577000,2015-12-31
+us-gaap_Assets,6890096000,2016-12-31
+Noninterest bearing demand,1175799000,2014-12-31
+Noninterest bearing demand,1405067000,2015-12-31
+Noninterest bearing demand,1775684000,2016-12-31
+Interest bearing transaction,143628000,2014-12-31
+Interest bearing transaction,178797000,2015-12-31
+Interest bearing transaction,289122000,2016-12-31
+Savings and money market,2835325000,2015-12-31
+Savings and money market,2902560000,2016-12-31
+"Time, $100,000 or more",393132000,2014-12-31
+"Time, $100,000 or more",406570000,2015-12-31
+"Time, $100,000 or more",464842000,2016-12-31
+Other time,295609000,2014-12-31
+Other time,332685000,2015-12-31
+Other time,283906000,2016-12-31
+us-gaap_Deposits,4310768000,2014-12-31
+us-gaap_Deposits,5158444000,2015-12-31
+us-gaap_Deposits,5716114000,2016-12-31
+Customer repurchase agreements,72356000,2015-12-31
+Customer repurchase agreements,68876000,2016-12-31
+Long-term borrowings,68928000,2015-12-31
+Long-term borrowings,216514000,2016-12-31
+Other liabilities,37248000,2015-12-31
+Other liabilities,45793000,2016-12-31
+us-gaap_Liabilities,5336976000,2015-12-31
+us-gaap_Liabilities,6047297000,2016-12-31
+"Common stock, par value $.01 per share; shares authorized 100,000,000, shares issued and outstanding 34,023,850 and 33,467,893, respectively",331000,2015-12-31
+"Common stock, par value $.01 per share; shares authorized 100,000,000, shares issued and outstanding 34,023,850 and 33,467,893, respectively",338000,2016-12-31
+Warrant,946000,2015-12-31
+Warrant,,2016-12-31
+Additional paid in capital,503529000,2015-12-31
+Additional paid in capital,513531000,2016-12-31
+Retained earnings,233604000,2015-12-31
+Retained earnings,331311000,2016-12-31
+Accumulated other comprehensive (loss) income,-3319000,2013-12-31
+Accumulated other comprehensive (loss) income,2647000,2014-12-31
+Accumulated other comprehensive (loss) income,191000,2015-12-31
+Accumulated other comprehensive (loss) income,-2381000,2016-12-31
+Total Shareholders’ Equity,393863000,2013-12-31
+Total Shareholders’ Equity,620759000,2014-12-31
+Total Shareholders’ Equity,738601000,2015-12-31
+Total Shareholders’ Equity,842799000,2016-12-31
+Total Liabilities and Shareholders' Equity,6075577000,2015-12-31
+Total Liabilities and Shareholders' Equity,6890096000,2016-12-31

@@ -1,0 +1,71 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",3084370000,2014-12-31
+"Sales Revenue, Goods, Net",804941000,2015-03-31
+"Sales Revenue, Goods, Net",783577000,2015-06-30
+"Sales Revenue, Goods, Net",1204109000,2015-09-30
+"Sales Revenue, Goods, Net",1170686000,2015-12-31
+"Sales Revenue, Goods, Net",3963313000,2015-12-31
+"Sales Revenue, Goods, Net",1047702000,2016-03-31
+"Sales Revenue, Goods, Net",1000783000,2016-06-30
+"Sales Revenue, Goods, Net",1471573000,2016-09-30
+"Sales Revenue, Goods, Net",1305277000,2016-12-31
+"Sales Revenue, Goods, Net",4825335000,2016-12-31
+Cost of Goods Sold,1572164000,2014-12-31
+Cost of Goods Sold,2057766000,2015-12-31
+Cost of Goods Sold,2584724000,2016-12-31
+Gross Profit,1512206000,2014-12-31
+Gross Profit,377664000,2015-03-31
+Gross Profit,379053000,2015-06-30
+Gross Profit,587160000,2015-09-30
+Gross Profit,561670000,2015-12-31
+Gross Profit,1905547000,2015-12-31
+Gross Profit,480636000,2016-03-31
+Gross Profit,477647000,2016-06-30
+Gross Profit,698624000,2016-09-30
+Gross Profit,583704000,2016-12-31
+Gross Profit,2240611000,2016-12-31
+"Selling, General and Administrative Expense",1158251000,2014-12-31
+"Selling, General and Administrative Expense",1497000000,2015-12-31
+"Selling, General and Administrative Expense",1823140000,2016-12-31
+Operating Income (Loss),353955000,2014-12-31
+Operating Income (Loss),27667000,2015-03-31
+Operating Income (Loss),31901000,2015-06-30
+Operating Income (Loss),171397000,2015-09-30
+Operating Income (Loss),177582000,2015-12-31
+Operating Income (Loss),408547000,2015-12-31
+Operating Income (Loss),34883000,2016-03-31
+Operating Income (Loss),19378000,2016-06-30
+Operating Income (Loss),199310000,2016-09-30
+Operating Income (Loss),163900000,2016-12-31
+Operating Income (Loss),417471000,2016-12-31
+"Interest Income (Expense), Net",-5335000,2014-12-31
+"Interest Income (Expense), Net",-14628000,2015-12-31
+"Interest Income (Expense), Net",-26434000,2016-12-31
+Other Nonoperating Income (Expense),-6410000,2014-12-31
+Other Nonoperating Income (Expense),-7234000,2015-12-31
+Other Nonoperating Income (Expense),-2755000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",342210000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",386685000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",388282000,2016-12-31
+Income Tax Expense (Benefit),134168000,2014-12-31
+Income Tax Expense (Benefit),154112000,2015-12-31
+Income Tax Expense (Benefit),131303000,2016-12-31
+Net Income (Loss) Attributable to Parent,208042000,2014-12-31
+Net Income (Loss) Attributable to Parent,11728000,2015-03-31
+Net Income (Loss) Attributable to Parent,14766000,2015-06-30
+Net Income (Loss) Attributable to Parent,100477000,2015-09-30
+Net Income (Loss) Attributable to Parent,105602000,2015-12-31
+Net Income (Loss) Attributable to Parent,232573000,2015-12-31
+Net Income (Loss) Attributable to Parent,19180000,2016-03-31
+Net Income (Loss) Attributable to Parent,6344000,2016-06-30
+Net Income (Loss) Attributable to Parent,128225000,2016-09-30
+Net Income (Loss) Attributable to Parent,103230000,2016-12-31
+Net Income (Loss) Attributable to Parent,256979000,2016-12-31
+Dividends,59000000,2016-06-30
+Net Income (Loss) Attributable to Parent after Dividends Paid,208042000,2014-12-31
+Net Income (Loss) Attributable to Parent after Dividends Paid,232573000,2015-12-31
+Net Income (Loss) Attributable to Parent after Dividends Paid,19180000,2016-03-31
+Net Income (Loss) Attributable to Parent after Dividends Paid,-52656000,2016-06-30
+Net Income (Loss) Attributable to Parent after Dividends Paid,128225000,2016-09-30
+Net Income (Loss) Attributable to Parent after Dividends Paid,103230000,2016-12-31
+Net Income (Loss) Attributable to Parent after Dividends Paid,197979000,2016-12-31

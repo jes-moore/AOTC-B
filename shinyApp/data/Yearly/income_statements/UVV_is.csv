@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+"Revenue, Net",2271801000,2015-03-31
+"Revenue, Net",2120373000,2016-03-31
+"Revenue, Net",2071218000,2017-03-31
+Cost of Goods and Services Sold,1861527000,2015-03-31
+Cost of Goods and Services Sold,1713042000,2016-03-31
+Cost of Goods and Services Sold,1676539000,2017-03-31
+"Selling, General and Administrative Expense",250186000,2015-03-31
+"Selling, General and Administrative Expense",226685000,2016-03-31
+"Selling, General and Administrative Expense",211969000,2017-03-31
+Other Operating Income,12676000,2015-03-31
+Other Operating Income,3390000,2016-03-31
+Other Operating Income,0,2017-03-31
+Restructuring Charges,4890000,2015-03-31
+Restructuring Charges,2389000,2016-03-31
+Restructuring Charges,4359000,2017-03-31
+Operating Income (Loss),167874000,2015-03-31
+Operating Income (Loss),181647000,2016-03-31
+Operating Income (Loss),178351000,2017-03-31
+Equity In Pretax Earnings Of Unconsolidated Affiliates,7137000,2015-03-31
+Equity In Pretax Earnings Of Unconsolidated Affiliates,5422000,2016-03-31
+Equity In Pretax Earnings Of Unconsolidated Affiliates,5774000,2017-03-31
+"Investment Income, Interest",576000,2015-03-31
+"Investment Income, Interest",1178000,2016-03-31
+"Investment Income, Interest",1397000,2017-03-31
+Interest Expense,17120000,2015-03-31
+Interest Expense,15669000,2016-03-31
+Interest Expense,16284000,2017-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",158467000,2015-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",172578000,2016-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",169238000,2017-03-31
+Income Tax Expense (Benefit),38006000,2015-03-31
+Income Tax Expense (Benefit),54430000,2016-03-31
+Income Tax Expense (Benefit),56732000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",120461000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-6125000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",25064000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",46615000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",52594000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",118148000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-7504000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",26498000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",57062000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",36450000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",112506000,2017-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,5853000,2015-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,9132000,2016-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,6202000,2017-03-31
+Net Income (Loss) Attributable to Parent,114608000,2015-03-31
+Net Income (Loss) Attributable to Parent,-5947000,2015-06-30
+Net Income (Loss) Attributable to Parent,22465000,2015-09-30
+Net Income (Loss) Attributable to Parent,44534000,2015-12-31
+Net Income (Loss) Attributable to Parent,47964000,2016-03-31
+Net Income (Loss) Attributable to Parent,109016000,2016-03-31
+Net Income (Loss) Attributable to Parent,-5476000,2016-06-30
+Net Income (Loss) Attributable to Parent,25264000,2016-09-30
+Net Income (Loss) Attributable to Parent,53647000,2016-12-31
+Net Income (Loss) Attributable to Parent,32869000,2017-03-31
+Net Income (Loss) Attributable to Parent,106304000,2017-03-31
+"Preferred Stock Dividends, Income Statement Impact",14824000,2015-03-31
+"Preferred Stock Dividends, Income Statement Impact",14748000,2016-03-31
+"Preferred Stock Dividends, Income Statement Impact",11061000,2017-03-31
+Preferred Stock Redemption Premium,36000,2015-03-31
+Preferred Stock Redemption Premium,0,2016-03-31
+Preferred Stock Redemption Premium,74353000,2017-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",99748000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-9634000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",18778000,2015-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",40847000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",44277000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",94268000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-9163000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",21577000,2016-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",49960000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-41484000,2017-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",20890000,2017-03-31
+"Earnings Per Share, Basic",4.33,2015-03-31
+"Earnings Per Share, Basic",-0.43,2015-06-30
+"Earnings Per Share, Basic",0.83,2015-09-30
+"Earnings Per Share, Basic",1.80,2015-12-31
+"Earnings Per Share, Basic",1.95,2016-03-31
+"Earnings Per Share, Basic",4.16,2016-03-31
+"Earnings Per Share, Basic",-0.40,2016-06-30
+"Earnings Per Share, Basic",0.95,2016-09-30
+"Earnings Per Share, Basic",2.17,2016-12-31
+"Earnings Per Share, Basic",-1.64,2017-03-31
+"Earnings Per Share, Basic",0.89,2017-03-31
+"Earnings Per Share, Diluted",4.06,2015-03-31
+"Earnings Per Share, Diluted",-0.43,2015-06-30
+"Earnings Per Share, Diluted",0.81,2015-09-30
+"Earnings Per Share, Diluted",1.60,2015-12-31
+"Earnings Per Share, Diluted",1.72,2016-03-31
+"Earnings Per Share, Diluted",3.92,2016-03-31
+"Earnings Per Share, Diluted",-0.40,2016-06-30
+"Earnings Per Share, Diluted",0.90,2016-09-30
+"Earnings Per Share, Diluted",1.92,2016-12-31
+"Earnings Per Share, Diluted",-1.64,2017-03-31
+"Earnings Per Share, Diluted",0.88,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",23035920,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",22683290,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",23433860,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",28221264,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",27825491,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",23770088,2017-03-31

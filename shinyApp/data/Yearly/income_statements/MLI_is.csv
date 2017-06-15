@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",2364227000,2014-12-27
+"Sales Revenue, Goods, Net",2100002000,2015-12-26
+"Sales Revenue, Goods, Net",2055622000,2016-12-31
+Cost of goods sold,2043719000,2014-12-27
+Cost of goods sold,1809702000,2015-12-26
+Cost of goods sold,1723499000,2016-12-31
+Depreciation and amortization,33735000,2014-12-27
+Depreciation and amortization,34608000,2015-12-26
+Depreciation and amortization,35133000,2016-12-31
+"Selling, general, and administrative expense",131740000,2014-12-27
+"Selling, general, and administrative expense",130358000,2015-12-26
+"Selling, general, and administrative expense",137499000,2016-12-31
+Pre-tax gain on sale of property,6259000,2014-12-27
+Pre-tax gain on sale of property,15376000,2015-12-26
+Pre-tax gain on sale of property,15400000,2015-06-27
+Pre-tax gain on sale of property,0,2016-12-31
+Impairment charges,0,2014-12-27
+Impairment charges,0,2015-12-26
+Impairment charges,6778000,2016-12-31
+Impairment charges,3000000,2016-10-01
+Impairment charges,3800000,2016-12-31
+Severance,7296000,2014-12-27
+Severance,3442000,2015-12-26
+Severance,3400000,2015-06-27
+Severance,0,2016-12-31
+Operating Income (Loss),153996000,2014-12-27
+Operating Income (Loss),137268000,2015-12-26
+Operating Income (Loss),152713000,2016-12-31
+Net interest expense,5740000,2014-12-27
+Net interest expense,7667000,2015-12-26
+Net interest expense,7387000,2016-12-31
+"Other income (expense), net",-243000,2014-12-27
+"Other income (expense), net",2188000,2015-12-26
+"Other income (expense), net",704000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",148013000,2014-12-27
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",131789000,2015-12-26
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",146030000,2016-12-31
+Income Tax Expense (Benefit),45479000,2014-12-27
+Income Tax Expense (Benefit),43382000,2015-12-26
+Income Tax Expense (Benefit),48137000,2016-12-31
+"Income from unconsolidated affiliates, net of tax",0,2014-12-27
+"Income from unconsolidated affiliates, net of tax",0,2015-12-26
+"Income from unconsolidated affiliates, net of tax",1861000,2016-12-31
+Consolidated net income,102534000,2014-12-27
+Consolidated net income,22340000,2015-03-28
+Consolidated net income,88407000,2015-12-26
+Consolidated net income,33862000,2015-06-27
+Consolidated net income,18095000,2015-09-26
+Consolidated net income,14110000,2015-12-26
+Consolidated net income,28665000,2016-04-02
+Consolidated net income,99754000,2016-12-31
+Consolidated net income,28259000,2016-07-02
+Consolidated net income,26062000,2016-10-01
+Consolidated net income,16768000,2016-12-31
+Net income attributable to noncontrolling interests,974000,2014-12-27
+Net income attributable to noncontrolling interests,543000,2015-12-26
+Net income attributable to noncontrolling interests,27000,2016-12-31
+"Net income attributable to Mueller Industries, Inc.",101560000,2014-12-27
+"Net income attributable to Mueller Industries, Inc.",21978000,2015-03-28
+"Net income attributable to Mueller Industries, Inc.",87864000,2015-12-26
+"Net income attributable to Mueller Industries, Inc.",33651000,2015-06-27
+"Net income attributable to Mueller Industries, Inc.",17800000,2015-09-26
+"Net income attributable to Mueller Industries, Inc.",14435000,2015-12-26
+"Net income attributable to Mueller Industries, Inc.",28630000,2016-04-02
+"Net income attributable to Mueller Industries, Inc.",99727000,2016-12-31
+"Net income attributable to Mueller Industries, Inc.",27797000,2016-07-02
+"Net income attributable to Mueller Industries, Inc.",25978000,2016-10-01
+"Net income attributable to Mueller Industries, Inc.",17322000,2016-12-31
+Weighted average shares for basic earnings per share (in shares),56042000,2014-12-27
+Weighted average shares for basic earnings per share (in shares),56316000,2015-12-26
+Weighted average shares for basic earnings per share (in shares),56572000,2016-12-31
+Effect of dilutive stock-based awards (in shares),726000,2014-12-27
+Effect of dilutive stock-based awards (in shares),652000,2015-12-26
+Effect of dilutive stock-based awards (in shares),597000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",56768000,2014-12-27
+"Weighted Average Number of Shares Outstanding, Diluted",56968000,2015-12-26
+"Weighted Average Number of Shares Outstanding, Diluted",57169000,2016-12-31
+Basic earnings per share (in dollars per share),1.81,2014-12-27
+Basic earnings per share (in dollars per share),0.39,2015-03-28
+Basic earnings per share (in dollars per share),1.56,2015-12-26
+Basic earnings per share (in dollars per share),0.60,2015-06-27
+Basic earnings per share (in dollars per share),0.32,2015-09-26
+Basic earnings per share (in dollars per share),0.26,2015-12-26
+Basic earnings per share (in dollars per share),0.51,2016-04-02
+Basic earnings per share (in dollars per share),1.76,2016-12-31
+Basic earnings per share (in dollars per share),0.49,2016-07-02
+Basic earnings per share (in dollars per share),0.46,2016-10-01
+Basic earnings per share (in dollars per share),0.31,2016-12-31
+Diluted earnings per share (in dollars per share),1.79,2014-12-27
+Diluted earnings per share (in dollars per share),0.39,2015-03-28
+Diluted earnings per share (in dollars per share),1.54,2015-12-26
+Diluted earnings per share (in dollars per share),0.59,2015-06-27
+Diluted earnings per share (in dollars per share),0.31,2015-09-26
+Diluted earnings per share (in dollars per share),0.25,2015-12-26
+Diluted earnings per share (in dollars per share),0.50,2016-04-02
+Diluted earnings per share (in dollars per share),1.74,2016-12-31
+Diluted earnings per share (in dollars per share),0.49,2016-07-02
+Diluted earnings per share (in dollars per share),0.45,2016-10-01
+Diluted earnings per share (in dollars per share),0.30,2016-12-31
+Dividends per share (in dollars per share),0.300,2014-12-27
+Dividends per share (in dollars per share),0.075,2015-03-28
+Dividends per share (in dollars per share),0.300,2015-12-26
+Dividends per share (in dollars per share),0.075,2015-06-27
+Dividends per share (in dollars per share),0.075,2015-09-26
+Dividends per share (in dollars per share),0.075,2015-12-26
+Dividends per share (in dollars per share),0.075,2016-04-02
+Dividends per share (in dollars per share),0.375,2016-12-31
+Dividends per share (in dollars per share),0.100,2016-07-02
+Dividends per share (in dollars per share),0.100,2016-10-01
+Dividends per share (in dollars per share),0.100,2016-12-31

@@ -1,0 +1,72 @@
+Metric,Amount,endDate
+Cash and cash equivalents,217305000,2013-12-31
+Cash and cash equivalents,191463000,2014-12-31
+Cash and cash equivalents,64847000,2015-12-31
+Cash and cash equivalents,82026000,2016-12-31
+"Accounts receivable, net",156977000,2015-12-31
+"Accounts receivable, net",156199000,2016-12-31
+Note receivable affiliate,10611000,2015-12-31
+Note receivable affiliate,10166000,2016-12-31
+"Inventories, net",1061198000,2015-12-31
+"Inventories, net",840304000,2016-12-31
+Prepaid expenses and other,32953000,2015-12-31
+Prepaid expenses and other,8798000,2016-12-31
+Assets held for sale,,2015-12-31
+Assets held for sale,13955000,2016-12-31
+us-gaap_AssetsCurrent,1326586000,2015-12-31
+us-gaap_AssetsCurrent,1111448000,2016-12-31
+Investments,6650000,2015-12-31
+Investments,6231000,2016-12-31
+"Property and equipment, net",1172824000,2015-12-31
+"Property and equipment, net",1135805000,2016-12-31
+"Goodwill, net",265145000,2014-12-31
+"Goodwill, net",285041000,2015-12-31
+"Goodwill, net",290191000,2016-12-31
+"Other assets, net",60907000,2015-12-31
+"Other assets, net",59372000,2016-12-31
+us-gaap_Assets,2675875000,2014-12-31
+us-gaap_Assets,2852008000,2015-12-31
+us-gaap_Assets,2603047000,2016-12-31
+Floor plan notes payable,854758000,2015-12-31
+Floor plan notes payable,646945000,2016-12-31
+Current maturities of long-term debt,151024000,2015-12-31
+Current maturities of long-term debt,130717000,2016-12-31
+Current maturities of capital lease obligations,14691000,2015-12-31
+Current maturities of capital lease obligations,14449000,2016-12-31
+Liabilities directly associated with assets held for sale,,2015-12-31
+Liabilities directly associated with assets held for sale,783000,2016-12-31
+Trade accounts payable,120255000,2015-12-31
+Trade accounts payable,97844000,2016-12-31
+Customer deposits,22438000,2015-12-31
+Customer deposits,18418000,2016-12-31
+Accrued expenses,83871000,2015-12-31
+Accrued expenses,83974000,2016-12-31
+us-gaap_LiabilitiesCurrent,1247037000,2015-12-31
+us-gaap_LiabilitiesCurrent,993130000,2016-12-31
+"Long-term debt, net of current maturities",496731000,2015-12-31
+"Long-term debt, net of current maturities",472503000,2016-12-31
+"Capital lease obligations, net of current maturities",69074000,2015-12-31
+"Capital lease obligations, net of current maturities",70044000,2016-12-31
+Other long-term liabilities,5282000,2015-12-31
+Other long-term liabilities,7214000,2016-12-31
+"Deferred income taxes, net",188987000,2015-12-31
+"Deferred income taxes, net",197331000,2016-12-31
+"Preferred stock, par value $.01 per share; 1,000,000 shares authorized; 0 shares outstanding in 2016 and 2015",,2015-12-31
+"Preferred stock, par value $.01 per share; 1,000,000 shares authorized; 0 shares outstanding in 2016 and 2015",,2016-12-31
+"Common stock, par value $.01 per share; 60,000,000 Class A shares and 20,000,000 Class B shares authorized; 30,007,088 Class A shares and 9,245,447 Class B shares outstanding in 2016; and 30,303,818 Class A shares and 10,093,305 Class B shares outstanding in 2015",430000,2015-12-31
+"Common stock, par value $.01 per share; 60,000,000 Class A shares and 20,000,000 Class B shares authorized; 30,007,088 Class A shares and 9,245,447 Class B shares outstanding in 2016; and 30,303,818 Class A shares and 10,093,305 Class B shares outstanding in 2015",438000,2016-12-31
+Additional paid-in capital,288294000,2015-12-31
+Additional paid-in capital,309127000,2016-12-31
+us-gaap_TreasuryStockValue,43368000,2015-12-31
+us-gaap_TreasuryStockValue,86882000,2016-12-31
+Retained earnings,599846000,2015-12-31
+Retained earnings,640428000,2016-12-31
+"Accumulated other comprehensive loss, net of tax",-460000,2014-12-31
+"Accumulated other comprehensive loss, net of tax",-305000,2015-12-31
+"Accumulated other comprehensive loss, net of tax",-286000,2016-12-31
+Total shareholders’ equity,665381000,2013-12-31
+Total shareholders’ equity,764339000,2014-12-31
+Total shareholders’ equity,844897000,2015-12-31
+Total shareholders’ equity,862825000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,2852008000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,2603047000,2016-12-31

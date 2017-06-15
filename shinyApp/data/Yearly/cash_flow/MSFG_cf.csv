@@ -1,0 +1,143 @@
+Metric,Amount,endDate
+Net income,9108000,2015-12-31
+Net income,11744000,2016-12-31
+Net income,28996000,2014-12-31
+Net income,35542000,2015-12-31
+Net income,7663000,2015-03-31
+Net income,38323000,2016-12-31
+Net income,8766000,2016-03-31
+Net income,9660000,2014-06-30
+Net income,6117000,2016-06-30
+Net income,9111000,2015-09-30
+Net income,11696000,2016-09-30
+Provision for Loan and Lease Losses,1500000,2014-12-31
+Provision for Loan and Lease Losses,1625000,2015-12-31
+Provision for Loan and Lease Losses,1705000,2016-12-31
+Depreciation expense,5886000,2014-12-31
+Depreciation expense,6410000,2015-12-31
+Depreciation expense,7289000,2016-12-31
+Amortization of mortgage servicing rights,1004000,2014-12-31
+Amortization of mortgage servicing rights,1313000,2015-12-31
+Amortization of mortgage servicing rights,1510000,2016-12-31
+Mortgage servicing rights valuation adjustments,25000,2014-12-31
+Mortgage servicing rights valuation adjustments,-200000,2015-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-1973000,2014-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-3386000,2015-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-4901000,2016-12-31
+Aggregate amortization expense,1690000,2014-12-31
+Aggregate amortization expense,1640000,2015-12-31
+Aggregate amortization expense,1342000,2016-12-31
+Bank Owned Life Insurance Income,1298000,2014-12-31
+Bank Owned Life Insurance Income,1236000,2015-12-31
+Bank Owned Life Insurance Income,1513000,2016-12-31
+Gain Loss On Life Insurance Benefit,307000,2015-12-31
+Gain (Loss) on Investments,24000,2014-12-31
+Gain (Loss) on Investments,386000,2015-12-31
+Gain (Loss) on Investments,170000,2016-12-31
+Gain (Loss) on Sale of Loans and Leases,4730000,2014-12-31
+Gain (Loss) on Sale of Loans and Leases,5553000,2015-12-31
+Gain (Loss) on Sale of Loans and Leases,7311000,2016-12-31
+Payments to Purchase Loans Held-for-sale,165827000,2014-12-31
+Payments to Purchase Loans Held-for-sale,236928000,2015-12-31
+Payments to Purchase Loans Held-for-sale,254581000,2016-12-31
+Proceeds from the Sale of Mortgage Loans,168832000,2014-12-31
+Proceeds from the Sale of Mortgage Loans,243230000,2015-12-31
+Proceeds from the Sale of Mortgage Loans,256946000,2016-12-31
+Share-based Compensation,647000,2014-12-31
+Share-based Compensation,843000,2015-12-31
+Share-based Compensation,1001000,2016-12-31
+Director Retainer Fee Expense,359000,2014-12-31
+Director Retainer Fee Expense,315000,2015-12-31
+Director Retainer Fee Expense,382000,2016-12-31
+Gains (Losses) on Sales of Other Real Estate,-153000,2014-12-31
+Gains (Losses) on Sales of Other Real Estate,68000,2015-12-31
+Gains (Losses) on Sales of Other Real Estate,268000,2016-12-31
+"Federal Home Loan Bank, Advances, General Debt Obligations, Disclosures, Repayment and Penalties",2364000,2015-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-4172000,2014-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-1402000,2015-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",2294000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",43358000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",53392000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",47262000,2016-12-31
+Payments for (Proceeds from) Short-term Investments,1915000,2014-12-31
+Payments for (Proceeds from) Short-term Investments,45000,2015-12-31
+Payments to Acquire Available-for-sale Securities,61756000,2014-12-31
+Payments to Acquire Available-for-sale Securities,345783000,2015-12-31
+Payments to Acquire Available-for-sale Securities,242730000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",106268000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",136799000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",142543000,2016-12-31
+Proceeds from Sale of Available-for-sale Securities,27131000,2014-12-31
+Proceeds from Sale of Available-for-sale Securities,147109000,2015-12-31
+Proceeds from Sale of Available-for-sale Securities,88203000,2016-12-31
+Payments For Proceeds From Loan Originations,110124000,2014-12-31
+Payments For Proceeds From Loan Originations,176184000,2015-12-31
+Payments For Proceeds From Loan Originations,144129000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",5593000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",7794000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",14068000,2016-12-31
+Proceeds from Sale of Other Real Estate,3864000,2014-12-31
+Proceeds from Sale of Other Real Estate,2272000,2015-12-31
+Proceeds from Sale of Other Real Estate,3985000,2016-12-31
+Proceeds from Sale of Long-term Investments,3251000,2014-12-31
+Proceeds from Sale of Long-term Investments,2785000,2015-12-31
+Proceeds from Sale of Long-term Investments,3789000,2016-12-31
+Payments for purchase of restricted stock,231000,2015-12-31
+Payments for purchase of restricted stock,5531000,2016-12-31
+Proceeds from Sale of Loans Receivable,11356000,2015-12-31
+Proceeds from Life Insurance Policies,588000,2014-12-31
+Proceeds from Life Insurance Policies,1094000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",10686000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",-57083000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",11289000,2016-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-48972000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-171539000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-179227000,2016-12-31
+Increase (Decrease) in Deposits,83796000,2014-12-31
+Increase (Decrease) in Deposits,83428000,2015-12-31
+Increase (Decrease) in Deposits,15401000,2016-12-31
+Proceeds from (Repayments of) Other Debt,-13293000,2014-12-31
+Proceeds from (Repayments of) Other Debt,2014000,2015-12-31
+Proceeds from (Repayments of) Other Debt,162976000,2016-12-31
+Proceeds from Federal Home Loan Bank Borrowings,825000000,2014-12-31
+Proceeds from Federal Home Loan Bank Borrowings,700000000,2015-12-31
+Proceeds from Federal Home Loan Bank Borrowings,420000000,2016-12-31
+Repayments of Federal Home Loan Bank Borrowings,874745000,2014-12-31
+Repayments of Federal Home Loan Bank Borrowings,647289000,2015-12-31
+Repayments of Federal Home Loan Bank Borrowings,451986000,2016-12-31
+Proceeds from Lines of Credit,30000000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",8726000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",11680000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",14296000,2016-12-31
+Payments for Repurchase of Common Stock,319000,2014-12-31
+Payments for Repurchase of Common Stock,3527000,2015-12-31
+Payments for Repurchase of Common Stock,1045000,2016-12-31
+Repayments of Lines of Credit,11667000,2016-12-31
+Repayments of Subordinated Debt,5000000,2014-12-31
+Proceeds from Stock Options Exercised,66000,2014-12-31
+Proceeds from Stock Options Exercised,294000,2015-12-31
+Proceeds from Stock Options Exercised,1556000,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",6779000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",123240000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",150939000,2016-12-31
+Net Cash Provided by (Used in) Continuing Operations,1165000,2014-12-31
+Net Cash Provided by (Used in) Continuing Operations,5093000,2015-12-31
+Net Cash Provided by (Used in) Continuing Operations,18974000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",61320000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",62485000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",67578000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",86552000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",61320000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",62485000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",67578000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",86552000,2016-12-31
+Interest Paid,8807000,2014-12-31
+Interest Paid,8424000,2015-12-31
+Interest Paid,10420000,2016-12-31
+"Income Taxes Paid, Net",4725000,2014-12-31
+"Income Taxes Paid, Net",4985000,2015-12-31
+"Income Taxes Paid, Net",5365000,2016-12-31
+"Real Estate Owned, Transfer to Real Estate Owned",2585000,2014-12-31
+"Real Estate Owned, Transfer to Real Estate Owned",1475000,2015-12-31
+"Real Estate Owned, Transfer to Real Estate Owned",1965000,2016-12-31
+Transfer of Portfolio Loans and Leases to Held-for-sale,11356000,2015-12-31

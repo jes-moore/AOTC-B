@@ -1,0 +1,140 @@
+Metric,Amount,endDate
+Net sales,268402000,2012-06-30
+Net sales,280790000,2013-06-30
+Net sales,80486000,2013-09-30
+Net sales,299463000,2014-06-30
+Net sales,76123000,2013-12-31
+Net sales,68996000,2014-03-31
+Net sales,73858000,2014-06-30
+Net sales,78466000,2014-09-30
+Net sales,307857000,2015-06-30
+Net sales,84715000,2014-12-31
+Net sales,68603000,2015-03-31
+Net sales,76073000,2015-06-30
+Net sales,85925000,2015-09-30
+Net sales,322196000,2016-06-30
+Net sales,84687000,2015-12-31
+Net sales,70740000,2016-03-31
+Net sales,80844000,2016-06-30
+us-gaap_CostOfGoodsAndServicesSold,234165000,2014-06-30
+us-gaap_CostOfGoodsAndServicesSold,233408000,2015-06-30
+us-gaap_CostOfGoodsAndServicesSold,238525000,2016-06-30
+us-gaap_GrossProfit,19122000,2013-09-30
+us-gaap_GrossProfit,65298000,2014-06-30
+us-gaap_GrossProfit,16757000,2013-12-31
+us-gaap_GrossProfit,13715000,2014-03-31
+us-gaap_GrossProfit,15704000,2014-06-30
+us-gaap_GrossProfit,18608000,2014-09-30
+us-gaap_GrossProfit,74449000,2015-06-30
+us-gaap_GrossProfit,20555000,2014-12-31
+us-gaap_GrossProfit,16305000,2015-03-31
+us-gaap_GrossProfit,18981000,2015-06-30
+us-gaap_GrossProfit,23349000,2015-09-30
+us-gaap_GrossProfit,83671000,2016-06-30
+us-gaap_GrossProfit,23926000,2015-12-31
+us-gaap_GrossProfit,16549000,2016-03-31
+us-gaap_GrossProfit,19847000,2016-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2012-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2013-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2014-06-30
+us-gaap_GainLossOnSaleOfBusiness,-565000,2015-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2016-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2012-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2013-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2014-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,343000,2015-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2016-06-30
+us-gaap_SellingGeneralAndAdministrativeExpense,62175000,2014-06-30
+us-gaap_SellingGeneralAndAdministrativeExpense,66694000,2015-06-30
+us-gaap_SellingGeneralAndAdministrativeExpense,69715000,2016-06-30
+Goodwill and intangible asset impairment,258000,2012-06-30
+Goodwill and intangible asset impairment,2413000,2013-06-30
+Goodwill and intangible asset impairment,805000,2014-06-30
+Goodwill and intangible asset impairment,,2015-06-30
+Goodwill and intangible asset impairment,,2016-06-30
+Operating income,6331000,2012-06-30
+Operating income,630000,2013-06-30
+Operating income,2318000,2014-06-30
+Operating income,7533000,2015-06-30
+Operating income,13956000,2016-06-30
+us-gaap_InvestmentIncomeInterest,25000,2012-06-30
+us-gaap_InvestmentIncomeInterest,47000,2013-06-30
+us-gaap_InvestmentIncomeInterest,17000,2014-06-30
+us-gaap_InvestmentIncomeInterest,26000,2015-06-30
+us-gaap_InvestmentIncomeInterest,84000,2016-06-30
+Interest expense,165000,2012-06-30
+Interest expense,62000,2013-06-30
+Interest expense,68000,2014-06-30
+Interest expense,45000,2015-06-30
+Interest expense,36000,2016-06-30
+Income before income taxes,6191000,2012-06-30
+Income before income taxes,615000,2013-06-30
+Income before income taxes,2267000,2014-06-30
+Income before income taxes,7514000,2015-06-30
+Income before income taxes,14004000,2016-06-30
+Income tax expense,2967000,2012-06-30
+Income tax expense,738000,2013-06-30
+Income tax expense,1337000,2014-06-30
+Income tax expense,2363000,2015-06-30
+Income tax expense,4522000,2016-06-30
+Net income,3224000,2012-06-30
+Net income,-123000,2013-06-30
+Net income,1865000,2013-09-30
+Net income,930000,2014-06-30
+Net income,870000,2013-12-31
+Net income,-1009000,2014-03-31
+Net income,-796000,2014-06-30
+Net income,1527000,2014-09-30
+Net income,5151000,2015-06-30
+Net income,1588000,2014-12-31
+Net income,393000,2015-03-31
+Net income,1643000,2015-06-30
+Net income,3750000,2015-09-30
+Net income,9482000,2016-06-30
+Net income,3782000,2015-12-31
+Net income,522000,2016-03-31
+Net income,1428000,2016-06-30
+Basic (in dollars per share),0.13,2012-06-30
+Basic (in dollars per share),-0.01,2013-06-30
+Basic (in dollars per share),0.08,2013-09-30
+Basic (in dollars per share),0.04,2014-06-30
+Basic (in dollars per share),0.04,2013-12-31
+Basic (in dollars per share),-0.04,2014-03-31
+Basic (in dollars per share),-0.03,2014-06-30
+Basic (in dollars per share),0.06,2014-09-30
+Basic (in dollars per share),0.21,2015-06-30
+Basic (in dollars per share),0.06,2014-12-31
+Basic (in dollars per share),0.02,2015-03-31
+Basic (in dollars per share),0.07,2015-06-30
+Basic (in dollars per share),0.15,2015-09-30
+Basic (in dollars per share),0.38,2016-06-30
+Basic (in dollars per share),0.15,2015-12-31
+Basic (in dollars per share),0.02,2016-03-31
+Basic (in dollars per share),0.06,2016-06-30
+Diluted (in dollars per share),0.13,2012-06-30
+Diluted (in dollars per share),-0.01,2013-06-30
+Diluted (in dollars per share),0.08,2013-09-30
+Diluted (in dollars per share),0.04,2014-06-30
+Diluted (in dollars per share),0.04,2013-12-31
+Diluted (in dollars per share),-0.04,2014-03-31
+Diluted (in dollars per share),-0.03,2014-06-30
+Diluted (in dollars per share),0.06,2014-09-30
+Diluted (in dollars per share),0.21,2015-06-30
+Diluted (in dollars per share),0.06,2014-12-31
+Diluted (in dollars per share),0.02,2015-03-31
+Diluted (in dollars per share),0.07,2015-06-30
+Diluted (in dollars per share),0.15,2015-09-30
+Diluted (in dollars per share),0.37,2016-06-30
+Diluted (in dollars per share),0.15,2015-12-31
+Diluted (in dollars per share),0.02,2016-03-31
+Diluted (in dollars per share),0.06,2016-06-30
+Basic (in shares),24298000,2012-06-30
+Basic (in shares),24313000,2013-06-30
+Basic (in shares),24388000,2014-06-30
+Basic (in shares),24496000,2015-06-30
+Basic (in shares),24988000,2016-06-30
+Diluted (in shares),24352000,2012-06-30
+Diluted (in shares),24313000,2013-06-30
+Diluted (in shares),24546000,2014-06-30
+Diluted (in shares),24638000,2015-06-30
+Diluted (in shares),25592000,2016-06-30

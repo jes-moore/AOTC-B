@@ -1,0 +1,65 @@
+Metric,Amount,endDate
+Cash and cash equivalents,8132000,2013-09-30
+Cash and cash equivalents,5113000,2014-09-30
+Cash and cash equivalents,2915000,2015-09-30
+Cash and cash equivalents,4017000,2016-09-30
+"Accounts receivable, net",2576000,2015-09-30
+"Accounts receivable, net",3747000,2016-09-30
+Merchandise inventory,74818000,2015-09-30
+Merchandise inventory,86330000,2016-09-30
+Prepaid expenses and other current assets,1108000,2015-09-30
+Prepaid expenses and other current assets,3233000,2016-09-30
+Current assets,866000,2015-09-30
+Current assets,,2016-09-30
+us-gaap_AssetsCurrent,82283000,2015-09-30
+us-gaap_AssetsCurrent,97327000,2016-09-30
+"Property and equipment, net",145219000,2015-09-30
+"Property and equipment, net",178297000,2016-09-30
+Deposits and other assets,778000,2015-09-30
+Deposits and other assets,971000,2016-09-30
+"Total goodwill and other intangibles, net",5623000,2015-09-30
+"Total goodwill and other intangibles, net",5601000,2016-09-30
+"Deferred financing costs, net",21000,2015-09-30
+"Deferred financing costs, net",50000,2016-09-30
+us-gaap_OtherAssets,6422000,2015-09-30
+us-gaap_OtherAssets,6622000,2016-09-30
+us-gaap_Assets,233924000,2015-09-30
+us-gaap_Assets,282246000,2016-09-30
+Accounts payable,49896000,2015-09-30
+Accounts payable,53615000,2016-09-30
+Accrued expenses,19649000,2015-09-30
+Accrued expenses,12448000,2016-09-30
+"Capital and financing lease obligations, current portion",333000,2015-09-30
+"Capital and financing lease obligations, current portion",478000,2016-09-30
+us-gaap_LiabilitiesCurrent,69878000,2015-09-30
+us-gaap_LiabilitiesCurrent,66541000,2016-09-30
+"Capital and financing lease obligations, net of current portion",27274000,2015-09-30
+"Capital and financing lease obligations, net of current portion",31429000,2016-09-30
+Revolving credit facility,,2015-09-30
+Revolving credit facility,27428000,2016-09-30
+Deferred income tax liabilities,6073000,2015-09-30
+Deferred income tax liabilities,12178000,2016-09-30
+Deferred compensation,314000,2015-09-30
+Deferred compensation,757000,2016-09-30
+Deferred rent,6922000,2015-09-30
+Deferred rent,8809000,2016-09-30
+Leasehold incentives,7975000,2015-09-30
+Leasehold incentives,8379000,2016-09-30
+us-gaap_LiabilitiesNoncurrent,48558000,2015-09-30
+us-gaap_LiabilitiesNoncurrent,88980000,2016-09-30
+us-gaap_Liabilities,118436000,2015-09-30
+us-gaap_Liabilities,155521000,2016-09-30
+Commitments (Notes 10 and 17),,2015-09-30
+Commitments (Notes 10 and 17),,2016-09-30
+"Common stock, $0.001 par value. 50,000,000 shares authorized, 22,510,279 and 22,496,628 shares issued, at 2016 and 2015, respectively and 22,452,609 and 22,496,628 outstanding, at 2016 and 2015, respectively",22000,2015-09-30
+"Common stock, $0.001 par value. 50,000,000 shares authorized, 22,510,279 and 22,496,628 shares issued, at 2016 and 2015, respectively and 22,452,609 and 22,496,628 outstanding, at 2016 and 2015, respectively",23000,2016-09-30
+Additional paid-in capital,54982000,2015-09-30
+Additional paid-in capital,55437000,2016-09-30
+Retained earnings,60484000,2015-09-30
+Retained earnings,71955000,2016-09-30
+us-gaap_TreasuryStockValue,0,2015-09-30
+us-gaap_TreasuryStockValue,690000,2016-09-30
+us-gaap_StockholdersEquity,115488000,2015-09-30
+us-gaap_StockholdersEquity,126725000,2016-09-30
+us-gaap_LiabilitiesAndStockholdersEquity,233924000,2015-09-30
+us-gaap_LiabilitiesAndStockholdersEquity,282246000,2016-09-30

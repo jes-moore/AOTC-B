@@ -1,0 +1,113 @@
+Metric,Amount,endDate
+"Operating revenues, excluding fuel surcharge revenues",5082827000,2014-12-31
+"Operating revenues, excluding fuel surcharge revenues",5516282000,2015-12-31
+"Operating revenues, excluding fuel surcharge revenues",6007347000,2016-12-31
+Fuel surcharge revenues,1082614000,2014-12-31
+Fuel surcharge revenues,671364000,2015-12-31
+Fuel surcharge revenues,548112000,2016-12-31
+Revenues,6165441000,2014-12-31
+Revenues,1440180000,2015-03-31
+Revenues,6187646000,2015-12-31
+Revenues,1539957000,2015-06-30
+Revenues,1586494000,2015-09-30
+Revenues,1621015000,2015-12-31
+Revenues,1528712000,2016-03-31
+Revenues,6555459000,2016-12-31
+Revenues,1615026000,2016-06-30
+Revenues,1690659000,2016-09-30
+Revenues,1721062000,2016-12-31
+Rents and purchased transportation,3085276000,2014-12-31
+Rents and purchased transportation,2994586000,2015-12-31
+Rents and purchased transportation,3255692000,2016-12-31
+"Salaries, wages and employee benefits",1290404000,2014-12-31
+"Salaries, wages and employee benefits",1394239000,2015-12-31
+"Salaries, wages and employee benefits",1469187000,2016-12-31
+Depreciation and amortization,294496000,2014-12-31
+Depreciation and amortization,339613000,2015-12-31
+Depreciation and amortization,361510000,2016-12-31
+Fuel and fuel taxes,453919000,2014-12-31
+Fuel and fuel taxes,313034000,2015-12-31
+Fuel and fuel taxes,283437000,2016-12-31
+Operating supplies and expenses,218539000,2014-12-31
+Operating supplies and expenses,220597000,2015-12-31
+Operating supplies and expenses,233223000,2016-12-31
+"General and administrative expenses, net of asset dispositions",50596000,2014-12-31
+"General and administrative expenses, net of asset dispositions",72522000,2015-12-31
+"General and administrative expenses, net of asset dispositions",87053000,2016-12-31
+Insurance and claims,81062000,2014-12-31
+Insurance and claims,73689000,2015-12-31
+Insurance and claims,78410000,2016-12-31
+Operating taxes and licenses,38796000,2014-12-31
+Operating taxes and licenses,43084000,2015-12-31
+Operating taxes and licenses,45954000,2016-12-31
+Communication and utilities,20811000,2014-12-31
+Communication and utilities,20588000,2015-12-31
+Communication and utilities,19973000,2016-12-31
+us-gaap_CostsAndExpenses,5533899000,2014-12-31
+us-gaap_CostsAndExpenses,5471952000,2015-12-31
+us-gaap_CostsAndExpenses,5834439000,2016-12-31
+Operating income,631542000,2014-12-31
+Operating income,155220000,2015-03-31
+Operating income,715694000,2015-12-31
+Operating income,173735000,2015-06-30
+Operating income,193846000,2015-09-30
+Operating income,192893000,2015-12-31
+Operating income,167890000,2016-03-31
+Operating income,721020000,2016-12-31
+Operating income,175792000,2016-06-30
+Operating income,182977000,2016-09-30
+Operating income,194361000,2016-12-31
+Interest income,87000,2014-12-31
+Interest income,86000,2015-12-31
+Interest income,71000,2016-12-31
+Interest expense,27028000,2014-12-31
+Interest expense,25577000,2015-12-31
+Interest expense,25294000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,604601000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,690203000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,695797000,2016-12-31
+Income taxes,229809000,2014-12-31
+Income taxes,262968000,2015-12-31
+Income taxes,263707000,2016-12-31
+Net earnings,374792000,2014-12-31
+Net earnings,91932000,2015-03-31
+Net earnings,427235000,2015-12-31
+Net earnings,103419000,2015-06-30
+Net earnings,115139000,2015-09-30
+Net earnings,116746000,2015-12-31
+Net earnings,100098000,2016-03-31
+Net earnings,432090000,2016-12-31
+Net earnings,105011000,2016-06-30
+Net earnings,109425000,2016-09-30
+Net earnings,117556000,2016-12-31
+Weighted average basic shares outstanding (in shares),117000000,2014-12-31
+Weighted average basic shares outstanding (in shares),115677000,2015-12-31
+Weighted average basic shares outstanding (in shares),112474000,2016-12-31
+Basic earnings per share (in dollars per share),3.20,2014-12-31
+Basic earnings per share (in dollars per share),0.79,2015-03-31
+Basic earnings per share (in dollars per share),3.69,2015-12-31
+Basic earnings per share (in dollars per share),0.89,2015-06-30
+Basic earnings per share (in dollars per share),1,2015-09-30
+Basic earnings per share (in dollars per share),1.02,2015-12-31
+Basic earnings per share (in dollars per share),0.89,2016-03-31
+Basic earnings per share (in dollars per share),3.84,2016-12-31
+Basic earnings per share (in dollars per share),0.93,2016-06-30
+Basic earnings per share (in dollars per share),0.97,2016-09-30
+Basic earnings per share (in dollars per share),1.05,2016-12-31
+Weighted average diluted shares outstanding (in shares),118445000,2014-12-31
+Weighted average diluted shares outstanding (in shares),116728000,2015-12-31
+Weighted average diluted shares outstanding (in shares),113361000,2016-12-31
+Diluted earnings per share (in dollars per share),3.16,2014-12-31
+Diluted earnings per share (in dollars per share),0.78,2015-03-31
+Diluted earnings per share (in dollars per share),3.66,2015-12-31
+Diluted earnings per share (in dollars per share),0.88,2015-06-30
+Diluted earnings per share (in dollars per share),0.99,2015-09-30
+Diluted earnings per share (in dollars per share),1.01,2015-12-31
+Diluted earnings per share (in dollars per share),0.88,2016-03-31
+Diluted earnings per share (in dollars per share),3.81,2016-12-31
+Diluted earnings per share (in dollars per share),0.92,2016-06-30
+Diluted earnings per share (in dollars per share),0.97,2016-09-30
+Diluted earnings per share (in dollars per share),1.05,2016-12-31
+Dividends declared per common share (in dollars per share),0.80,2014-12-31
+Dividends declared per common share (in dollars per share),0.84,2015-12-31
+Dividends declared per common share (in dollars per share),0.88,2016-12-31

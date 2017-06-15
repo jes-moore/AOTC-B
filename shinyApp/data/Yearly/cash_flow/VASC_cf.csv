@@ -1,0 +1,107 @@
+Metric,Amount,endDate
+Net earnings,11142000,2013-12-31
+Net earnings,2799000,2014-03-31
+Net earnings,12734000,2014-12-31
+Net earnings,3205000,2014-06-30
+Net earnings,2570000,2014-09-30
+Net earnings,4160000,2014-12-31
+Net earnings,2207000,2015-03-31
+Net earnings,10464000,2015-12-31
+Net earnings,3727000,2015-06-30
+Net earnings,2973000,2015-09-30
+Net earnings,1557000,2015-12-31
+Depreciation,2861000,2013-12-31
+Depreciation,3257000,2014-12-31
+Depreciation,4381000,2015-12-31
+Amortization expense,1572000,2013-12-31
+Amortization expense,1642000,2014-12-31
+Amortization expense,1615000,2015-12-31
+Share-based Compensation,3343000,2013-12-31
+Share-based Compensation,3882000,2014-12-31
+Share-based Compensation,4126000,2015-12-31
+"Deferred taxes, net",3138000,2013-12-31
+"Deferred taxes, net",1971000,2014-12-31
+"Deferred taxes, net",1051000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",2084000,2013-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1823000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",942000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",17000,2013-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",24000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",0,2015-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",-79000,2013-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2014-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2015-12-31
+Change in accounts receivable allowance,15000,2013-12-31
+Change in accounts receivable allowance,100000,2014-12-31
+Change in accounts receivable allowance,60000,2015-12-31
+Increase (Decrease) in Accounts Receivable,713000,2013-12-31
+Increase (Decrease) in Accounts Receivable,2741000,2014-12-31
+Increase (Decrease) in Accounts Receivable,2092000,2015-12-31
+Increase (Decrease) in Inventories,435000,2013-12-31
+Increase (Decrease) in Inventories,1909000,2014-12-31
+Increase (Decrease) in Inventories,6256000,2015-12-31
+Increase (Decrease) in Prepaid Expense,-158000,2013-12-31
+Increase (Decrease) in Prepaid Expense,948000,2014-12-31
+Increase (Decrease) in Prepaid Expense,-1857000,2015-12-31
+Increase (Decrease) in Accounts Payable,-86000,2013-12-31
+Increase (Decrease) in Accounts Payable,1086000,2014-12-31
+Increase (Decrease) in Accounts Payable,1063000,2015-12-31
+Accrued compensation and expenses,485000,2013-12-31
+Accrued compensation and expenses,622000,2014-12-31
+Accrued compensation and expenses,2747000,2015-12-31
+Amortization of deferred license fees and other deferred revenue,86000,2013-12-31
+Amortization of deferred license fees and other deferred revenue,-370000,2014-12-31
+Amortization of deferred license fees and other deferred revenue,-320000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",19386000,2013-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",17479000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",17754000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",4234000,2013-12-31
+"Payments to Acquire Property, Plant, and Equipment",5681000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",10605000,2015-12-31
+Payments to Acquire Buildings,0,2013-12-31
+Payments to Acquire Buildings,7123000,2014-12-31
+Payments to Acquire Buildings,2748000,2015-12-31
+Proceeds from the sale of equipment,22000,2013-12-31
+Proceeds from the sale of equipment,28000,2014-12-31
+Proceeds from the sale of equipment,0,2015-12-31
+"Payments to Acquire Businesses, Gross",820000,2013-12-31
+"Payments to Acquire Businesses, Gross",0,2014-12-31
+"Payments to Acquire Businesses, Gross",0,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-5032000,2013-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-12776000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-13353000,2015-12-31
+Proceeds from Stock Options Exercised,2784000,2013-12-31
+Proceeds from Stock Options Exercised,971000,2014-12-31
+Proceeds from Stock Options Exercised,418000,2015-12-31
+Proceeds from Stock Plans,1192000,2013-12-31
+Proceeds from Stock Plans,1435000,2014-12-31
+Proceeds from Stock Plans,1648000,2015-12-31
+Proceeds and Excess Tax Benefit from Share-based Compensation,2084000,2013-12-31
+Proceeds and Excess Tax Benefit from Share-based Compensation,1823000,2014-12-31
+Proceeds and Excess Tax Benefit from Share-based Compensation,942000,2015-12-31
+Payments for Repurchase of Common Stock,1211000,2013-12-31
+Payments for Repurchase of Common Stock,3131000,2014-12-31
+Payments for Repurchase of Common Stock,2333000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",4849000,2013-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",1098000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",675000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,28000,2013-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-125000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-46000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",19231000,2013-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",5676000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",5030000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",11554000,2012-12-31
+"Cash and Cash Equivalents, at Carrying Value",30785000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",36461000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",41491000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",11554000,2012-12-31
+"Cash and Cash Equivalents, at Carrying Value",30785000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",36461000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",41491000,2015-12-31
+Cash paid for interest,13000,2013-12-31
+Cash paid for interest,3000,2014-12-31
+Cash paid for interest,0,2015-12-31
+Cash paid for federal and state income taxes,1673000,2013-12-31
+Cash paid for federal and state income taxes,3769000,2014-12-31
+Cash paid for federal and state income taxes,2490000,2015-12-31

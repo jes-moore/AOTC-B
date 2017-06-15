@@ -1,0 +1,209 @@
+Metric,Amount,endDate
+Net Income,27843000,2014-12-31
+Net Income,7494000,2015-03-31
+Net Income,16754000,2015-12-31
+Net Income,8119000,2015-06-30
+Net Income,7496000,2015-09-30
+Net Income,-6355000,2015-12-31
+Net Income,8321000,2016-03-31
+Net Income,36036000,2016-12-31
+Net Income,8933000,2016-06-30
+Net Income,9374000,2016-09-30
+Net Income,9408000,2016-12-31
+Provision for loan and lease losses,884000,2014-12-31
+Provision for loan and lease losses,569000,2015-03-31
+Provision for loan and lease losses,4396000,2015-12-31
+Provision for loan and lease losses,850000,2015-06-30
+Provision for loan and lease losses,1200000,2015-09-30
+Provision for loan and lease losses,1777000,2015-12-31
+Provision for loan and lease losses,1410000,2016-03-31
+Provision for loan and lease losses,4326000,2016-12-31
+Provision for loan and lease losses,445000,2016-06-30
+Provision for loan and lease losses,1412000,2016-09-30
+Provision for loan and lease losses,1059000,2016-12-31
+Depreciation of fixed assets,3486000,2014-12-31
+Depreciation of fixed assets,4925000,2015-12-31
+Depreciation of fixed assets,5630000,2016-12-31
+Net amortization of investment premiums and discounts,2299000,2014-12-31
+Net amortization of investment premiums and discounts,3280000,2015-12-31
+Net amortization of investment premiums and discounts,3200000,2016-12-31
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,,2014-12-31
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,-17377000,2015-12-31
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,,2016-12-31
+us-gaap_AvailableForSaleSecuritiesGrossRealizedGainLossNet,471000,2014-12-31
+us-gaap_AvailableForSaleSecuritiesGrossRealizedGainLossNet,931000,2015-12-31
+us-gaap_AvailableForSaleSecuritiesGrossRealizedGainLossNet,-77000,2016-12-31
+Net gain on sale of loans,1772000,2014-12-31
+Net gain on sale of loans,3022000,2015-12-31
+Net gain on sale of loans,3119000,2016-12-31
+Stock based compensation cost,1256000,2014-12-31
+Stock based compensation cost,1441000,2015-12-31
+Stock based compensation cost,1713000,2016-12-31
+Amortization and net impairment of mortgage servicing rights,532000,2014-12-31
+Amortization and net impairment of mortgage servicing rights,661000,2015-12-31
+Amortization and net impairment of mortgage servicing rights,880000,2016-12-31
+Net accretion of fair value adjustments,-2757000,2014-12-31
+Net accretion of fair value adjustments,-4942000,2015-12-31
+Net accretion of fair value adjustments,-3776000,2016-12-31
+Amortization of intangible assets,2659000,2014-12-31
+Amortization of intangible assets,4214000,2015-12-31
+Amortization of intangible assets,3498000,2016-12-31
+Impairment of intangible assets,,2014-12-31
+Impairment of intangible assets,387000,2015-12-31
+Impairment of intangible assets,,2016-12-31
+"Impairment of other real estate owned (""OREO"")",,2014-12-31
+"Impairment of other real estate owned (""OREO"")",89000,2015-12-31
+"Impairment of other real estate owned (""OREO"")",94000,2016-12-31
+"Net (loss) gain on sale of other real estate owned (""OREO"")",175000,2014-12-31
+"Net (loss) gain on sale of other real estate owned (""OREO"")",123000,2015-12-31
+"Net (loss) gain on sale of other real estate owned (""OREO"")",-76000,2016-12-31
+bmtc_IncreaseDecreaseInBankOwnedLifeInsurance,315000,2014-12-31
+bmtc_IncreaseDecreaseInBankOwnedLifeInsurance,782000,2015-12-31
+bmtc_IncreaseDecreaseInBankOwnedLifeInsurance,908000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-2822000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-1049000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,899000,2016-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,58173000,2014-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,141578000,2015-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,161597000,2016-12-31
+Proceeds from loans sold,56866000,2014-12-31
+Proceeds from loans sold,138964000,2015-12-31
+Proceeds from loans sold,162762000,2016-12-31
+Provision for deferred income taxes,2350000,2014-12-31
+Provision for deferred income taxes,-2834000,2015-12-31
+Provision for deferred income taxes,1676000,2016-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,831000,2014-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,783000,2015-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,,2016-12-31
+Change in income taxes payable/receivable,808000,2014-12-31
+Change in income taxes payable/receivable,-529000,2015-12-31
+Change in income taxes payable/receivable,4340000,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,-168000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,215000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,664000,2016-12-31
+Change in accrued interest payable,199000,2014-12-31
+Change in accrued interest payable,516000,2015-12-31
+Change in accrued interest payable,883000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,37678000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,37928000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,54228000,2016-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,45199000,2014-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,176034000,2015-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,350669000,2016-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,,2014-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,,2015-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,2928000,2016-12-31
+Proceeds from maturity and paydowns of investment securities available for sale,40801000,2014-12-31
+Proceeds from maturity and paydowns of investment securities available for sale,66209000,2015-12-31
+Proceeds from maturity and paydowns of investment securities available for sale,65176000,2016-12-31
+Proceeds from maturity and paydowns of investment securities held to maturity,,2014-12-31
+Proceeds from maturity and paydowns of investment securities held to maturity,,2015-12-31
+Proceeds from maturity and paydowns of investment securities held to maturity,34000,2016-12-31
+Proceeds from sale of investment securities available for sale,24394000,2014-12-31
+Proceeds from sale of investment securities available for sale,64851000,2015-12-31
+Proceeds from sale of investment securities available for sale,276000,2016-12-31
+us-gaap_PaymentsForProceedsFromFederalHomeLoanBankStock,-131000,2014-12-31
+us-gaap_PaymentsForProceedsFromFederalHomeLoanBankStock,-3562000,2015-12-31
+us-gaap_PaymentsForProceedsFromFederalHomeLoanBankStock,4363000,2016-12-31
+Proceeds from calls of investment securities,37750000,2014-12-31
+Proceeds from calls of investment securities,104240000,2015-12-31
+Proceeds from calls of investment securities,60840000,2016-12-31
+Proceeds from sales of other investments,342000,2014-12-31
+Proceeds from sales of other investments,,2015-12-31
+Proceeds from sales of other investments,664000,2016-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,789000,2014-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,4184000,2015-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-264000,2016-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,105918000,2014-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,194066000,2015-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,266331000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,5455000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,7611000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,2207000,2016-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,,2014-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,5000000,2015-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,4125000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,-16129000,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2016-12-31
+Proceeds from sale of OREO,1646000,2014-12-31
+Proceeds from sale of OREO,1215000,2015-12-31
+Proceeds from sale of OREO,1806000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-56422000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-130689000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-497438000,2016-12-31
+Change in deposits,96704000,2014-12-31
+Change in deposits,83784000,2015-12-31
+Change in deposits,327169000,2016-12-31
+Change in short-term borrowings,12933000,2014-12-31
+Change in short-term borrowings,-38128000,2015-12-31
+Change in short-term borrowings,109995000,2016-12-31
+us-gaap_PaymentsOfDividends,10189000,2014-12-31
+us-gaap_PaymentsOfDividends,13837000,2015-12-31
+us-gaap_PaymentsOfDividends,13961000,2016-12-31
+Change in long-term FHLB advances and other borrowings,54623000,2014-12-31
+Change in long-term FHLB advances and other borrowings,-24883000,2015-12-31
+Change in long-term FHLB advances and other borrowings,-65000000,2016-12-31
+bmtc_PaymentForBusinessAcquisitionContingentConsideration,,2014-12-31
+bmtc_PaymentForBusinessAcquisitionContingentConsideration,542000,2015-12-31
+bmtc_PaymentForBusinessAcquisitionContingentConsideration,627000,2016-12-31
+Net proceeds from issuance of subordinated notes,,2014-12-31
+Net proceeds from issuance of subordinated notes,29456000,2015-12-31
+Net proceeds from issuance of subordinated notes,29500000,2015-08-06
+Net proceeds from issuance of subordinated notes,,2016-12-31
+Excess tax benefit from stock-based compensation,831000,2014-12-31
+Excess tax benefit from stock-based compensation,783000,2015-12-31
+Excess tax benefit from stock-based compensation,,2016-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,2014-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,2015-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,745000,2016-12-31
+Net (purchase of) proceeds from sale of treasury stock for deferred compensation plans,79000,2014-12-31
+Net (purchase of) proceeds from sale of treasury stock for deferred compensation plans,-128000,2015-12-31
+Net (purchase of) proceeds from sale of treasury stock for deferred compensation plans,-133000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,947000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,26418000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,7971000,2016-12-31
+Proceeds from issuance of common stock,72000,2014-12-31
+Proceeds from issuance of common stock,20000,2015-12-31
+Proceeds from issuance of common stock,,2016-12-31
+Proceeds from exercise of stock options,2836000,2014-12-31
+Proceeds from exercise of stock options,6452000,2015-12-31
+Proceeds from exercise of stock options,2181000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,156942000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,16559000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,350908000,2016-12-31
+Change in cash and cash equivalents,138198000,2014-12-31
+Change in cash and cash equivalents,-76202000,2015-12-31
+Change in cash and cash equivalents,-92302000,2016-12-31
+Cash,81071000,2013-12-31
+Cash,219269000,2014-12-31
+Cash,143067000,2015-12-31
+Cash,50765000,2016-12-31
+Cash,81071000,2013-12-31
+Cash,219269000,2014-12-31
+Cash,143067000,2015-12-31
+Cash,50765000,2016-12-31
+us-gaap_IncomeTaxesPaidNet,11831000,2014-12-31
+us-gaap_IncomeTaxesPaidNet,11703000,2015-12-31
+us-gaap_IncomeTaxesPaidNet,12261000,2016-12-31
+Interest,5879000,2014-12-31
+Interest,7604000,2015-12-31
+Interest,9872000,2016-12-31
+Change in other comprehensive loss,-9446000,2014-12-31
+Change in other comprehensive loss,11292000,2015-12-31
+Change in other comprehensive loss,-1997000,2016-12-31
+Change in deferred tax due to change in comprehensive income,-3306000,2014-12-31
+Change in deferred tax due to change in comprehensive income,6068000,2015-12-31
+Change in deferred tax due to change in comprehensive income,-1074000,2016-12-31
+Transfer of loans to other real estate owned and repossessed assets,1763000,2014-12-31
+Transfer of loans to other real estate owned and repossessed assets,2283000,2015-12-31
+Transfer of loans to other real estate owned and repossessed assets,546000,2016-12-31
+Issuance of shares and options for acquisitions,,2014-12-31
+Issuance of shares and options for acquisitions,123734000,2015-12-31
+Issuance of shares and options for acquisitions,,2016-12-31
+Assets acquired,10005000,2014-12-31
+Assets acquired,727908000,2015-12-31
+Assets acquired,,2016-12-31
+Liabilities assumed,5880000,2014-12-31
+Liabilities assumed,620303000,2015-12-31
+Liabilities assumed,,2016-12-31

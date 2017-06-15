@@ -1,0 +1,56 @@
+Metric,Amount,endDate
+Cash,22077000,2014-03-30
+Cash,51393000,2015-03-29
+Cash,50228000,2016-03-27
+Cash,56915000,2017-03-26
+"Accounts and other receivables, net",8721000,2016-03-27
+"Accounts and other receivables, net",8948000,2017-03-26
+Inventories,687000,2016-03-27
+Inventories,579000,2017-03-26
+Prepaid expenses and other current assets (Note F),1343000,2016-03-27
+Prepaid expenses and other current assets (Note F),1093000,2017-03-26
+us-gaap_AssetsCurrent,60979000,2016-03-27
+us-gaap_AssetsCurrent,67535000,2017-03-26
+"Property and equipment, net of accumulated depreciation of $7,522 and $7,190, respectively",9013000,2016-03-27
+"Property and equipment, net of accumulated depreciation of $7,522 and $7,190, respectively",8844000,2017-03-26
+Goodwill,95000,2016-03-27
+Goodwill,95000,2017-03-26
+Intangible asset,1353000,2016-03-27
+Intangible asset,1353000,2017-03-26
+Other assets,109000,2016-03-27
+Other assets,298000,2017-03-26
+us-gaap_Assets,84389000,2015-03-29
+us-gaap_Assets,71549000,2016-03-27
+us-gaap_Assets,78125000,2017-03-26
+Accounts payable,4887000,2016-03-27
+Accounts payable,4809000,2017-03-26
+Accrued expenses and other current liabilities (Note I),6176000,2016-03-27
+Accrued expenses and other current liabilities (Note I),5865000,2017-03-26
+Total current liabilities,11200000,2016-03-27
+Total current liabilities,10772000,2017-03-26
+"Long-term debt, net of unamortized debt issuance costs of $3,525 and $4,734, respectively (Note L)",130266000,2016-03-27
+"Long-term debt, net of unamortized debt issuance costs of $3,525 and $4,734, respectively (Note L)",131475000,2017-03-26
+Other liabilities (Note I),1706000,2016-03-27
+Other liabilities (Note I),1555000,2017-03-26
+Deferred income taxes,713000,2016-03-27
+Deferred income taxes,814000,2017-03-26
+us-gaap_Liabilities,143885000,2016-03-27
+us-gaap_Liabilities,144616000,2017-03-26
+COMMITMENTS AND CONTINGENCIES (Note N),,2016-03-27
+COMMITMENTS AND CONTINGENCIES (Note N),,2017-03-26
+"Common stock, $.01 par value; 30,000,000 shares authorized; 9,303,870 and 9,274,066 shares issued; and 4,176,497 and 4,177,309 shares outstanding at March 26, 2017 and March 27, 2016, respectively",93000,2016-03-27
+"Common stock, $.01 par value; 30,000,000 shares authorized; 9,303,870 and 9,274,066 shares issued; and 4,176,497 and 4,177,309 shares outstanding at March 26, 2017 and March 27, 2016, respectively",93000,2017-03-26
+Additional paid-in capital,60950000,2016-03-27
+Additional paid-in capital,60582000,2017-03-26
+(Accumulated deficit),-57348000,2016-03-27
+(Accumulated deficit),-49863000,2017-03-26
+us-gaap_StockholdersEquityBeforeTreasuryStock,3695000,2016-03-27
+us-gaap_StockholdersEquityBeforeTreasuryStock,10812000,2017-03-26
+us-gaap_TreasuryStockValue,76031000,2016-03-27
+us-gaap_TreasuryStockValue,77303000,2017-03-26
+us-gaap_StockholdersEquity,43897000,2014-03-30
+us-gaap_StockholdersEquity,-59908000,2015-03-29
+us-gaap_StockholdersEquity,-72336000,2016-03-27
+us-gaap_StockholdersEquity,-66491000,2017-03-26
+us-gaap_LiabilitiesAndStockholdersEquity,71549000,2016-03-27
+us-gaap_LiabilitiesAndStockholdersEquity,78125000,2017-03-26

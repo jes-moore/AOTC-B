@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+Revenues,839743000,2014-12-31
+Revenues,220303000,2015-03-31
+Revenues,217617000,2015-06-30
+Revenues,202729000,2015-09-30
+Revenues,184692000,2015-12-31
+Revenues,825341000,2015-12-31
+Revenues,180291000,2016-03-31
+Revenues,178251000,2016-06-30
+Revenues,153604000,2016-09-30
+Revenues,149966000,2016-12-31
+Revenues,662112000,2016-12-31
+Cost of Revenue,732055000,2014-12-31
+Cost of Revenue,714519000,2015-12-31
+Cost of Revenue,574882000,2016-12-31
+Gross Profit,107688000,2014-12-31
+Gross Profit,29074000,2015-03-31
+Gross Profit,29506000,2015-06-30
+Gross Profit,27890000,2015-09-30
+Gross Profit,24352000,2015-12-31
+Gross Profit,110822000,2015-12-31
+Gross Profit,25704000,2016-03-31
+Gross Profit,24331000,2016-06-30
+Gross Profit,18919000,2016-09-30
+Gross Profit,18276000,2016-12-31
+Gross Profit,87230000,2016-12-31
+"Selling, General and Administrative Expense",72480000,2014-12-31
+"Selling, General and Administrative Expense",71469000,2015-12-31
+"Selling, General and Administrative Expense",60542000,2016-12-31
+Amortization of Intangible Assets,1515000,2014-12-31
+Amortization of Intangible Assets,1500000,2014-12-31
+Amortization of Intangible Assets,1327000,2015-12-31
+Amortization of Intangible Assets,1300000,2015-12-31
+Amortization of Intangible Assets,1300000,2016-12-31
+Amortization of Intangible Assets,1305000,2016-12-31
+Operating Income (Loss),33693000,2014-12-31
+Operating Income (Loss),11198000,2015-03-31
+Operating Income (Loss),11588000,2015-06-30
+Operating Income (Loss),9946000,2015-09-30
+Operating Income (Loss),5294000,2015-12-31
+Operating Income (Loss),38026000,2015-12-31
+Operating Income (Loss),8580000,2016-03-31
+Operating Income (Loss),8427000,2016-06-30
+Operating Income (Loss),4466000,2016-09-30
+Operating Income (Loss),3910000,2016-12-31
+Operating Income (Loss),25383000,2016-12-31
+Other Nonoperating Income (Expense),-215000,2014-12-31
+Other Nonoperating Income (Expense),152000,2015-12-31
+Other Nonoperating Income (Expense),769000,2016-12-31
+Interest Expense,20716000,2014-12-31
+Interest Expense,21359000,2015-12-31
+Interest Expense,19318000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",12762000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",16819000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6834000,2016-12-31
+Income Tax Expense (Benefit),5131000,2014-12-31
+Income Tax Expense (Benefit),9758000,2015-12-31
+Income Tax Expense (Benefit),49000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",7631000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3593000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3205000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",2554000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-2291000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",7061000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",2563000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",2720000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1147000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",355000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",6785000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2016-12-31
+Net Income (Loss) Attributable to Parent,7630000,2014-12-31
+Net Income (Loss) Attributable to Parent,3592000,2015-03-31
+Net Income (Loss) Attributable to Parent,3205000,2015-06-30
+Net Income (Loss) Attributable to Parent,2554000,2015-09-30
+Net Income (Loss) Attributable to Parent,-2291000,2015-12-31
+Net Income (Loss) Attributable to Parent,7060000,2015-12-31
+Net Income (Loss) Attributable to Parent,2563000,2016-03-31
+Net Income (Loss) Attributable to Parent,2720000,2016-06-30
+Net Income (Loss) Attributable to Parent,1147000,2016-09-30
+Net Income (Loss) Attributable to Parent,355000,2016-12-31
+Net Income (Loss) Attributable to Parent,6785000,2016-12-31
+"Earnings Per Share, Basic",0.26,2014-12-31
+"Earnings Per Share, Basic",0.12,2015-03-31
+"Earnings Per Share, Basic",0.11,2015-06-30
+"Earnings Per Share, Basic",0.09,2015-09-30
+"Earnings Per Share, Basic",-0.08,2015-12-31
+"Earnings Per Share, Basic",0.24,2015-12-31
+"Earnings Per Share, Basic",0.09,2016-03-31
+"Earnings Per Share, Basic",0.09,2016-06-30
+"Earnings Per Share, Basic",0.04,2016-09-30
+"Earnings Per Share, Basic",0.01,2016-12-31
+"Earnings Per Share, Basic",0.23,2016-12-31
+"Earnings Per Share, Diluted",0.26,2014-12-31
+"Earnings Per Share, Diluted",0.12,2015-03-31
+"Earnings Per Share, Diluted",0.11,2015-06-30
+"Earnings Per Share, Diluted",0.09,2015-09-30
+"Earnings Per Share, Diluted",-0.08,2015-12-31
+"Earnings Per Share, Diluted",0.24,2015-12-31
+"Earnings Per Share, Diluted",0.09,2016-03-31
+"Earnings Per Share, Diluted",0.09,2016-06-30
+"Earnings Per Share, Diluted",0.04,2016-09-30
+"Earnings Per Share, Diluted",0.01,2016-12-31
+"Earnings Per Share, Diluted",0.23,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",28926000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",29209000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",29530000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",29117000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",29399000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",29878000,2016-12-31

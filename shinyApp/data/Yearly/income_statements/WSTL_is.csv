@@ -1,0 +1,60 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",81238000,2016-03-31
+"Sales Revenue, Goods, Net",56530000,2017-03-31
+"Sales Revenue, Services, Net",6965000,2016-03-31
+"Sales Revenue, Services, Net",6435000,2017-03-31
+"Revenue, Net",88203000,2016-03-31
+"Revenue, Net",62965000,2017-03-31
+Cost of Goods Sold,50332000,2016-03-31
+Cost of Goods Sold,36119000,2017-03-31
+Cost of Services,3355000,2016-03-31
+Cost of Services,3097000,2017-03-31
+Cost of Goods and Services Sold,53687000,2016-03-31
+Cost of Goods and Services Sold,39216000,2017-03-31
+Gross Profit,34516000,2016-03-31
+Gross Profit,23749000,2017-03-31
+Research and Development Expense,19317000,2016-03-31
+Research and Development Expense,12367000,2017-03-31
+Selling and Marketing Expense,15817000,2016-03-31
+Selling and Marketing Expense,10344000,2017-03-31
+General and Administrative Expense,9836000,2016-03-31
+General and Administrative Expense,7991000,2017-03-31
+Amortization of Intangible Assets,5554000,2016-03-31
+Amortization of Intangible Assets,4764000,2017-03-31
+Restructuring Charges,748000,2016-03-31
+Restructuring Charges,3155000,2017-03-31
+"Goodwill, Impairment Loss",1181000,2017-03-31
+Operating Expenses,51272000,2016-03-31
+Operating Expenses,39802000,2017-03-31
+Operating Income (Loss),-16756000,2016-03-31
+Operating Income (Loss),-16053000,2017-03-31
+Other Nonoperating Income (Expense),169000,2016-03-31
+Other Nonoperating Income (Expense),170000,2017-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-16587000,2016-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-15883000,2017-03-31
+Income Tax Expense (Benefit),-102000,2016-03-31
+Income Tax Expense (Benefit),58000,2017-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",-16485000,2016-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",-15941000,2017-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",273000,2016-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2017-03-31
+Net Income (Loss) Attributable to Parent,-16212000,2016-03-31
+Net Income (Loss) Attributable to Parent,-15941000,2017-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",-0.27,2016-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",-0.26,2017-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2016-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2017-03-31
+"Earnings Per Share, Basic",-0.27,2016-03-31
+"Earnings Per Share, Basic",-0.26,2017-03-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",-0.27,2016-03-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",-0.26,2017-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2016-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2017-03-31
+"Earnings Per Share, Diluted",-0.27,2016-03-31
+"Earnings Per Share, Diluted",-0.26,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",60786000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",61376000,2017-03-31
+Weighted Average Number Diluted Shares Outstanding Adjustment,0,2016-03-31
+Weighted Average Number Diluted Shares Outstanding Adjustment,0,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",60786000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",61376000,2017-03-31

@@ -1,0 +1,46 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",214609000,2014-12-31
+"Sales Revenue, Goods, Net",218581000,2015-12-31
+"Sales Revenue, Goods, Net",215627000,2016-12-31
+Excise and Sales Taxes,14587000,2014-12-31
+Excise and Sales Taxes,14413000,2015-12-31
+Excise and Sales Taxes,13120000,2016-12-31
+"Revenue, Net",200022000,2014-12-31
+"Revenue, Net",204168000,2015-12-31
+"Revenue, Net",202507000,2016-12-31
+Cost of Revenue,141312000,2014-12-31
+Cost of Revenue,141972000,2015-12-31
+Cost of Revenue,142908000,2016-12-31
+Gross Profit,58710000,2014-12-31
+Gross Profit,62196000,2015-12-31
+Gross Profit,59599000,2016-12-31
+"Selling, General and Administrative Expense",53000000,2014-12-31
+"Selling, General and Administrative Expense",57932000,2015-12-31
+"Selling, General and Administrative Expense",59224000,2016-12-31
+Operating Income (Loss),5710000,2014-12-31
+Operating Income (Loss),4264000,2015-12-31
+Operating Income (Loss),375000,2016-12-31
+Interest Expense,431000,2014-12-31
+Interest Expense,572000,2015-12-31
+Interest Expense,709000,2016-12-31
+Other Nonoperating Income (Expense),-180000,2014-12-31
+Other Nonoperating Income (Expense),26000,2015-12-31
+Other Nonoperating Income (Expense),28000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",5099000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",3718000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-306000,2016-12-31
+Income Tax Expense (Benefit),2022000,2014-12-31
+Income Tax Expense (Benefit),1500000,2015-12-31
+Income Tax Expense (Benefit),14000,2016-12-31
+Net Income (Loss) Attributable to Parent,3077000,2014-12-31
+Net Income (Loss) Attributable to Parent,2218000,2015-12-31
+Net Income (Loss) Attributable to Parent,-320000,2016-12-31
+"Earnings Per Share, Basic and Diluted",0.16,2014-12-31
+"Earnings Per Share, Basic and Diluted",0.12,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.02,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",19038000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",19152000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",19225000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",19126000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",19175000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",19225000,2016-12-31

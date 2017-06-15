@@ -1,0 +1,128 @@
+Metric,Amount,endDate
+Net Income Loss,181412000,2014-12-31
+Net Income Loss,43401000,2015-03-31
+Net Income Loss,189871000,2015-12-31
+Net Income Loss,49173000,2015-06-30
+Net Income Loss,49350000,2015-09-30
+Net Income Loss,47949000,2015-12-31
+Net Income Loss,45176000,2016-03-31
+Net Income Loss,219414000,2016-12-31
+Net Income Loss,59326000,2016-06-30
+Net Income Loss,58037000,2016-09-30
+Net Income Loss,56873000,2016-12-31
+Increase Decrease In Insurance Liabilities,257908000,2014-12-31
+Increase Decrease In Insurance Liabilities,242957000,2015-12-31
+Increase Decrease In Insurance Liabilities,256520000,2016-12-31
+Increase Decrease In Deferred Policy Acquisition Costs,289945000,2014-12-31
+Increase Decrease In Deferred Policy Acquisition Costs,326197000,2015-12-31
+Increase Decrease In Deferred Policy Acquisition Costs,376879000,2016-12-31
+Deferred Policy Acquisition Cost Amortization Expense,144378000,2014-12-31
+Deferred Policy Acquisition Cost Amortization Expense,157727000,2015-12-31
+Deferred Policy Acquisition Cost Amortization Expense,180582000,2016-12-31
+Deferred Income Tax Expense Benefit,25757000,2014-12-31
+Deferred Income Tax Expense Benefit,38292000,2015-12-31
+Deferred Income Tax Expense Benefit,44316000,2016-12-31
+Increase Decrease In Income Taxes Payable Net Of Income Taxes Receivable,1090000,2014-12-31
+Increase Decrease In Income Taxes Payable Net Of Income Taxes Receivable,700000,2015-12-31
+Increase Decrease In Income Taxes Payable Net Of Income Taxes Receivable,25341000,2016-12-31
+Realized Investment Gains Losses,-261000,2014-12-31
+Realized Investment Gains Losses,1284000,2015-03-31
+Realized Investment Gains Losses,-1738000,2015-12-31
+Realized Investment Gains Losses,597000,2015-06-30
+Realized Investment Gains Losses,-259000,2015-09-30
+Realized Investment Gains Losses,-3360000,2015-12-31
+Realized Investment Gains Losses,-783000,2016-03-31
+Realized Investment Gains Losses,4088000,2016-12-31
+Realized Investment Gains Losses,3440000,2016-06-30
+Realized Investment Gains Losses,-35000,2016-09-30
+Realized Investment Gains Losses,1465000,2016-12-31
+Gain Loss On Sale Of Business,1578000,2014-12-31
+Accretion Amortization Of Discounts And Premiums Investments,4825000,2014-12-31
+Accretion Amortization Of Discounts And Premiums Investments,1343000,2015-12-31
+Accretion Amortization Of Discounts And Premiums Investments,1411000,2016-12-31
+Depreciation And Amortization,12266000,2014-12-31
+Depreciation And Amortization,10998000,2015-12-31
+Depreciation And Amortization,14595000,2016-12-31
+Increase Decrease In Reinsurance Recoverable,90024000,2014-12-31
+Increase Decrease In Reinsurance Recoverable,49966000,2015-12-31
+Increase Decrease In Reinsurance Recoverable,72880000,2016-12-31
+Increase Decrease In Premiums Receivable,11047000,2014-12-31
+Increase Decrease In Premiums Receivable,11379000,2015-12-31
+Increase Decrease In Premiums Receivable,20069000,2016-12-31
+Proceeds From Payments For Trading Securities,5232000,2014-12-31
+Proceeds From Payments For Trading Securities,2308000,2015-12-31
+Proceeds From Payments For Trading Securities,-2051000,2016-12-31
+Share Based Compensation,17982000,2014-12-31
+Share Based Compensation,14948000,2015-12-31
+Share Based Compensation,13442000,2016-12-31
+Increase Decrease In Other Operating Capital Net,11535000,2014-12-31
+Increase Decrease In Other Operating Capital Net,11565000,2015-12-31
+Increase Decrease In Other Operating Capital Net,-15335000,2016-12-31
+Net Cash Provided By Used In Operating Activities,237332000,2014-12-31
+Net Cash Provided By Used In Operating Activities,259089000,2015-12-31
+Net Cash Provided By Used In Operating Activities,292167000,2016-12-31
+Proceeds From Sale Of Available For Sale Securities Debt,109681000,2014-12-31
+Proceeds From Sale Of Available For Sale Securities Debt,130608000,2015-12-31
+Proceeds From Sale Of Available For Sale Securities Debt,91666000,2016-12-31
+Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,314589000,2014-12-31
+Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,247771000,2015-12-31
+Proceeds From Maturities Prepayments And Calls Of Available For Sale Securities,254585000,2016-12-31
+Proceeds From Sale Of Available For Sale Securities Equity,2351000,2014-12-31
+Proceeds From Sale Of Available For Sale Securities Equity,4894000,2015-12-31
+Proceeds From Sale Of Available For Sale Securities Equity,8572000,2016-12-31
+Payments To Acquire Available For Sale Securities Debt,425904000,2014-12-31
+Payments To Acquire Available For Sale Securities Debt,433457000,2015-12-31
+Payments To Acquire Available For Sale Securities Debt,386394000,2016-12-31
+Payments To Acquire Available For Sale Securities Equity,11878000,2014-12-31
+Payments To Acquire Available For Sale Securities Equity,882000,2015-12-31
+Payments To Acquire Available For Sale Securities Equity,2683000,2016-12-31
+Payments For Proceeds From Other Investing Activities,7484000,2014-12-31
+Payments For Proceeds From Other Investing Activities,7399000,2015-12-31
+Payments For Proceeds From Other Investing Activities,13669000,2016-12-31
+Proceeds From Divestiture Of Businesses,3000000,2014-12-31
+Increase Decrease In Collateral Held Under Securities Lending,39641000,2014-12-31
+Increase Decrease In Collateral Held Under Securities Lending,-21271000,2015-12-31
+Increase Decrease In Collateral Held Under Securities Lending,-2164000,2016-12-31
+Proceeds From Payment For Sales Purchases Of Short Term Investments Using Collateral Held Under Securities Lending Net,39641000,2014-12-31
+Proceeds From Payment For Sales Purchases Of Short Term Investments Using Collateral Held Under Securities Lending Net,-21271000,2015-12-31
+Proceeds From Payment For Sales Purchases Of Short Term Investments Using Collateral Held Under Securities Lending Net,-2164000,2016-12-31
+Net Cash Provided By Used In Investing Activities,-15645000,2014-12-31
+Net Cash Provided By Used In Investing Activities,-58465000,2015-12-31
+Net Cash Provided By Used In Investing Activities,-47923000,2016-12-31
+Payments Of Dividends Common Stock,26512000,2014-12-31
+Payments Of Dividends Common Stock,32807000,2015-12-31
+Payments Of Dividends Common Stock,33367000,2016-12-31
+Payments For Repurchase Of Common Stock,147922000,2014-12-31
+Payments For Repurchase Of Common Stock,200084000,2015-12-31
+Payments For Repurchase Of Common Stock,150057000,2016-12-31
+Excess Tax Benefit From Share Based Compensation Financing Activities,5804000,2014-12-31
+Excess Tax Benefit From Share Based Compensation Financing Activities,5162000,2015-12-31
+Excess Tax Benefit From Share Based Compensation Financing Activities,2260000,2016-12-31
+Payments Related To Tax Withholding For Share Based Compensation,6377000,2014-12-31
+Payments Related To Tax Withholding For Share Based Compensation,7675000,2015-12-31
+Payments Related To Tax Withholding For Share Based Compensation,3970000,2016-12-31
+Proceeds From Stock Options Exercised,136000,2015-12-31
+Payments Of Financing Costs,876000,2014-12-31
+Net Cash Provided By Used In Financing Activities,-175883000,2014-12-31
+Net Cash Provided By Used In Financing Activities,-235268000,2015-12-31
+Net Cash Provided By Used In Financing Activities,-185134000,2016-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,-2789000,2014-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,-5059000,2015-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,572000,2016-12-31
+Cash And Cash Equivalents Period Increase Decrease,43015000,2014-12-31
+Cash And Cash Equivalents Period Increase Decrease,-39703000,2015-12-31
+Cash And Cash Equivalents Period Increase Decrease,59682000,2016-12-31
+Cash And Cash Equivalents At Carrying Value,148982000,2013-12-31
+Cash And Cash Equivalents At Carrying Value,191997000,2014-12-31
+Cash And Cash Equivalents At Carrying Value,152294000,2015-12-31
+Cash And Cash Equivalents At Carrying Value,211976000,2016-12-31
+Cash And Cash Equivalents At Carrying Value,148982000,2013-12-31
+Cash And Cash Equivalents At Carrying Value,191997000,2014-12-31
+Cash And Cash Equivalents At Carrying Value,152294000,2015-12-31
+Cash And Cash Equivalents At Carrying Value,211976000,2016-12-31
+Income Taxes Paid,66077000,2014-12-31
+Income Taxes Paid,62116000,2015-12-31
+Income Taxes Paid,45402000,2016-12-31
+Interest Paid,33058000,2014-12-31
+Interest Paid,32386000,2015-12-31
+Interest Paid,27992000,2016-12-31

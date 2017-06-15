@@ -1,0 +1,248 @@
+Metric,Amount,endDate
+Loan interest,703007000,2014-12-31
+Loan interest,726258000,2015-12-31
+Loan interest,751280000,2016-12-31
+"Investment Income, Interest",6793000,2014-12-31
+"Investment Income, Interest",7851000,2015-12-31
+"Investment Income, Interest",9466000,2016-12-31
+"Interest and Dividend Income, Operating",709800000,2014-12-31
+"Interest and Dividend Income, Operating",734109000,2015-12-31
+"Interest and Dividend Income, Operating",760746000,2016-12-31
+Interest Expense,273237000,2014-12-31
+Interest Expense,302210000,2015-12-31
+Interest Expense,388183000,2016-12-31
+"Interest Income (Expense), Net",436563000,2014-12-31
+"Interest Income (Expense), Net",102595000,2015-03-31
+"Interest Income (Expense), Net",105096000,2015-06-30
+"Interest Income (Expense), Net",111993000,2015-09-30
+"Interest Income (Expense), Net",112215000,2015-12-31
+"Interest Income (Expense), Net",431899000,2015-12-31
+"Interest Income (Expense), Net",101609000,2016-03-31
+"Interest Income (Expense), Net",92200000,2016-06-30
+"Interest Income (Expense), Net",99795000,2016-09-30
+"Interest Income (Expense), Net",78960000,2016-12-31
+"Interest Income (Expense), Net",372563000,2016-12-31
+"Provision for Loan, Lease, and Other Losses",9500000,2014-12-31
+"Provision for Loan, Lease, and Other Losses",2000000,2015-03-31
+"Provision for Loan, Lease, and Other Losses",2150000,2015-06-30
+"Provision for Loan, Lease, and Other Losses",3000000,2015-09-30
+"Provision for Loan, Lease, and Other Losses",3000000,2015-12-31
+"Provision for Loan, Lease, and Other Losses",10150000,2015-12-31
+"Provision for Loan, Lease, and Other Losses",2500000,2016-03-31
+"Provision for Loan, Lease, and Other Losses",2000000,2016-06-30
+"Provision for Loan, Lease, and Other Losses",6000000,2016-09-30
+"Provision for Loan, Lease, and Other Losses",3000000,2016-12-31
+"Provision for Loan, Lease, and Other Losses",13500000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",427063000,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",100595000,2015-03-31
+"Interest Income (Expense), after Provision for Loan Loss",102946000,2015-06-30
+"Interest Income (Expense), after Provision for Loan Loss",108993000,2015-09-30
+"Interest Income (Expense), after Provision for Loan Loss",109215000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",421749000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",99109000,2016-03-31
+"Interest Income (Expense), after Provision for Loan Loss",90200000,2016-06-30
+"Interest Income (Expense), after Provision for Loan Loss",93795000,2016-09-30
+"Interest Income (Expense), after Provision for Loan Loss",75960000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",359063000,2016-12-31
+Bank Servicing Fees,240414000,2014-12-31
+Bank Servicing Fees,57811000,2015-03-31
+Bank Servicing Fees,63833000,2015-06-30
+Bank Servicing Fees,61520000,2015-09-30
+Bank Servicing Fees,56694000,2015-12-31
+Bank Servicing Fees,239858000,2015-12-31
+Bank Servicing Fees,52330000,2016-03-31
+Bank Servicing Fees,54402000,2016-06-30
+Bank Servicing Fees,54350000,2016-09-30
+Bank Servicing Fees,53764000,2016-12-31
+Bank Servicing Fees,214846000,2016-12-31
+Tuition payment processing and campus commerce revenue,98156000,2014-12-31
+Tuition payment processing and campus commerce revenue,34680000,2015-03-31
+Tuition payment processing and campus commerce revenue,27686000,2015-06-30
+Tuition payment processing and campus commerce revenue,30439000,2015-09-30
+Tuition payment processing and campus commerce revenue,27560000,2015-12-31
+Tuition payment processing and campus commerce revenue,120365000,2015-12-31
+Tuition payment processing and campus commerce revenue,38657000,2016-03-31
+Tuition payment processing and campus commerce revenue,30483000,2016-06-30
+Tuition payment processing and campus commerce revenue,33071000,2016-09-30
+Tuition payment processing and campus commerce revenue,30519000,2016-12-31
+Tuition payment processing and campus commerce revenue,132730000,2016-12-31
+Telecommunications revenue,0,2014-12-31
+Telecommunications revenue,0,2015-12-31
+Telecommunications revenue,4346000,2016-03-31
+Telecommunications revenue,4478000,2016-06-30
+Telecommunications revenue,4343000,2016-09-30
+Telecommunications revenue,4492000,2016-12-31
+Telecommunications revenue,17659000,2016-12-31
+Enrollment services revenue,62949000,2014-12-31
+Enrollment services revenue,13373000,2015-03-31
+Enrollment services revenue,12680000,2015-06-30
+Enrollment services revenue,13741000,2015-09-30
+Enrollment services revenue,11279000,2015-12-31
+Enrollment services revenue,51073000,2015-12-31
+Enrollment services revenue,4326000,2016-03-31
+Enrollment services revenue,0,2016-06-30
+Enrollment services revenue,0,2016-09-30
+Enrollment services revenue,0,2016-12-31
+Enrollment services revenue,4326000,2016-12-31
+Other Income,73936000,2014-12-31
+Other Income,11408000,2015-03-31
+Other Income,11985000,2015-06-30
+Other Income,12282000,2015-09-30
+Other Income,11587000,2015-12-31
+Other Income,47262000,2015-12-31
+Other Income,13796000,2016-03-31
+Other Income,9765000,2016-06-30
+Other Income,15150000,2016-09-30
+Other Income,15218000,2016-12-31
+Other Income,53929000,2016-12-31
+Gain on sale of loans and debt repurchases net,3651000,2014-12-31
+Gain on sale of loans and debt repurchases net,2875000,2015-03-31
+Gain on sale of loans and debt repurchases net,1515000,2015-06-30
+Gain on sale of loans and debt repurchases net,597000,2015-09-30
+Gain on sale of loans and debt repurchases net,166000,2015-12-31
+Gain on sale of loans and debt repurchases net,5153000,2015-12-31
+Gain on sale of loans and debt repurchases net,101000,2016-03-31
+Gain on sale of loans and debt repurchases net,0,2016-06-30
+Gain on sale of loans and debt repurchases net,2160000,2016-09-30
+Gain on sale of loans and debt repurchases net,5720000,2016-12-31
+Gain on sale of loans and debt repurchases net,7981000,2016-12-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,15860000,2014-12-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,-3078000,2015-03-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,6502000,2015-06-30
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,-30658000,2015-09-30
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,31635000,2015-12-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,4401000,2015-12-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,-28691000,2016-03-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,-40702000,2016-06-30
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,36001000,2016-09-30
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,83187000,2016-12-31
+Derivative Market Value And Foreign Currency Adjustments And Derivative Settlements Net,49795000,2016-12-31
+Noninterest Income,494966000,2014-12-31
+Noninterest Income,468112000,2015-12-31
+Noninterest Income,481266000,2016-12-31
+Labor and Related Expense,228079000,2014-12-31
+Labor and Related Expense,61050000,2015-03-31
+Labor and Related Expense,58787000,2015-06-30
+Labor and Related Expense,63215000,2015-09-30
+Labor and Related Expense,64862000,2015-12-31
+Labor and Related Expense,247914000,2015-12-31
+Labor and Related Expense,63242000,2016-03-31
+Labor and Related Expense,60923000,2016-06-30
+Labor and Related Expense,63743000,2016-09-30
+Labor and Related Expense,68017000,2016-12-31
+Labor and Related Expense,255924000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",21134000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",5662000,2015-03-31
+"Depreciation, Depletion and Amortization, Nonproduction",6501000,2015-06-30
+"Depreciation, Depletion and Amortization, Nonproduction",6977000,2015-09-30
+"Depreciation, Depletion and Amortization, Nonproduction",7203000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",26343000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",7640000,2016-03-31
+"Depreciation, Depletion and Amortization, Nonproduction",8183000,2016-06-30
+"Depreciation, Depletion and Amortization, Nonproduction",8994000,2016-09-30
+"Depreciation, Depletion and Amortization, Nonproduction",9116000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",33933000,2016-12-31
+Servicing expenses,27009000,2014-12-31
+Servicing expenses,7616000,2015-03-31
+Servicing expenses,7420000,2015-06-30
+Servicing expenses,7793000,2015-09-30
+Servicing expenses,7384000,2015-12-31
+Servicing expenses,30213000,2015-12-31
+Servicing expenses,6928000,2016-03-31
+Servicing expenses,7216000,2016-06-30
+Servicing expenses,5880000,2016-09-30
+Servicing expenses,5726000,2016-12-31
+Servicing expenses,25750000,2016-12-31
+Cost to provide telecommunications services,0,2014-12-31
+Cost to provide telecommunications services,0,2015-12-31
+Cost to provide telecommunications services,1703000,2016-03-31
+Cost to provide telecommunications services,1681000,2016-06-30
+Cost to provide telecommunications services,1784000,2016-09-30
+Cost to provide telecommunications services,1697000,2016-12-31
+Cost to provide telecommunications services,6866000,2016-12-31
+Cost to provide enrollment services,49985000,2014-12-31
+Cost to provide enrollment services,10799000,2015-03-31
+Cost to provide enrollment services,10395000,2015-06-30
+Cost to provide enrollment services,11349000,2015-09-30
+Cost to provide enrollment services,9190000,2015-12-31
+Cost to provide enrollment services,41733000,2015-12-31
+Cost to provide enrollment services,3623000,2016-03-31
+Cost to provide enrollment services,0,2016-06-30
+Cost to provide enrollment services,0,2016-09-30
+Cost to provide enrollment services,0,2016-12-31
+Cost to provide enrollment services,3623000,2016-12-31
+Other Expenses,126303000,2014-12-31
+Other Expenses,30101000,2015-03-31
+Other Expenses,32725000,2015-06-30
+Other Expenses,31604000,2015-09-30
+Other Expenses,28584000,2015-12-31
+Other Expenses,123014000,2015-12-31
+Other Expenses,28376000,2016-03-31
+Other Expenses,29409000,2016-06-30
+Other Expenses,26391000,2016-09-30
+Other Expenses,31245000,2016-12-31
+Other Expenses,115419000,2016-12-31
+Operating Expenses,452510000,2014-12-31
+Operating Expenses,469217000,2015-12-31
+Operating Expenses,441515000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",469519000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",420644000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",398814000,2016-12-31
+Income Tax Expense (Benefit),160238000,2014-12-31
+Income Tax Expense (Benefit),37630000,2015-03-31
+Income Tax Expense (Benefit),40356000,2015-06-30
+Income Tax Expense (Benefit),26999000,2015-09-30
+Income Tax Expense (Benefit),47395000,2015-12-31
+Income Tax Expense (Benefit),152380000,2015-12-31
+Income Tax Expense (Benefit),24433000,2016-03-31
+Income Tax Expense (Benefit),15036000,2016-06-30
+Income Tax Expense (Benefit),47715000,2016-09-30
+Income Tax Expense (Benefit),54128000,2016-12-31
+Income Tax Expense (Benefit),141313000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",309281000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",64806000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",70963000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",48977000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",83518000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",268264000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",48029000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",26178000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",84363000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",98931000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",257501000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,1671000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,41000,2015-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,54000,2015-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,22000,2015-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,168000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,285000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,68000,2016-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,28000,2016-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,69000,2016-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,585000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,750000,2016-12-31
+Net Income (Loss) Attributable to Parent,307610000,2014-12-31
+Net Income (Loss) Attributable to Parent,64765000,2015-03-31
+Net Income (Loss) Attributable to Parent,70909000,2015-06-30
+Net Income (Loss) Attributable to Parent,48955000,2015-09-30
+Net Income (Loss) Attributable to Parent,83350000,2015-12-31
+Net Income (Loss) Attributable to Parent,267979000,2015-12-31
+Net Income (Loss) Attributable to Parent,47961000,2016-03-31
+Net Income (Loss) Attributable to Parent,26150000,2016-06-30
+Net Income (Loss) Attributable to Parent,84294000,2016-09-30
+Net Income (Loss) Attributable to Parent,98346000,2016-12-31
+Net Income (Loss) Attributable to Parent,256751000,2016-12-31
+"Earnings Per Share, Basic and Diluted",6.62,2014-12-31
+"Earnings Per Share, Basic and Diluted",1.40,2015-03-31
+"Earnings Per Share, Basic and Diluted",1.54,2015-06-30
+"Earnings Per Share, Basic and Diluted",1.09,2015-09-30
+"Earnings Per Share, Basic and Diluted",1.86,2015-12-31
+"Earnings Per Share, Basic and Diluted",5.89,2015-12-31
+"Earnings Per Share, Basic and Diluted",1.11,2016-03-31
+"Earnings Per Share, Basic and Diluted",0.61,2016-06-30
+"Earnings Per Share, Basic and Diluted",1.98,2016-09-30
+"Earnings Per Share, Basic and Diluted",2.32,2016-12-31
+"Earnings Per Share, Basic and Diluted",6.02,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",46469615,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",45529340,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",42669070,2016-12-31

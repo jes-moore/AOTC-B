@@ -1,0 +1,95 @@
+Metric,Amount,endDate
+Contracts Revenue,250704000,2014-12-31
+Contracts Revenue,75132000,2015-03-31
+Contracts Revenue,384738000,2015-12-31
+Contracts Revenue,102838000,2016-03-31
+Contracts Revenue,560430000,2016-12-31
+Contracts Revenue,85226000,2015-06-30
+Contracts Revenue,116457000,2016-06-30
+Contracts Revenue,101348000,2015-09-30
+Contracts Revenue,151681000,2016-09-30
+Contracts Revenue,123032000,2015-12-31
+Contracts Revenue,189454000,2016-12-31
+Royalty Revenue,25867000,2014-12-31
+Royalty Revenue,17618000,2015-12-31
+Royalty Revenue,10020000,2016-12-31
+Revenues,276571000,2014-12-31
+Revenues,81817000,2015-03-31
+Revenues,402356000,2015-12-31
+Revenues,105579000,2016-03-31
+Revenues,570450000,2016-12-31
+Revenues,89548000,2015-06-30
+Revenues,120810000,2016-06-30
+Revenues,104579000,2015-09-30
+Revenues,152738000,2016-09-30
+Revenues,126412000,2015-12-31
+Revenues,191323000,2016-12-31
+Contract Revenue Cost,209193000,2014-12-31
+Contract Revenue Cost,295527000,2015-12-31
+Contract Revenue Cost,437649000,2016-12-31
+Research and Development Expense,1004000,2014-12-31
+Research and Development Expense,5474000,2015-12-31
+Research and Development Expense,16046000,2016-12-31
+"Selling, General and Administrative Expense",48897000,2014-12-31
+"Selling, General and Administrative Expense",77394000,2015-12-31
+"Selling, General and Administrative Expense",122136000,2016-12-31
+Asset Impairment Charges,7835000,2014-12-31
+Asset Impairment Charges,3770000,2015-12-31
+Asset Impairment Charges,3126000,2016-12-31
+"Restructuring and Related Cost, Incurred Cost",3582000,2014-12-31
+"Restructuring and Related Cost, Incurred Cost",5988000,2015-12-31
+"Restructuring and Related Cost, Incurred Cost",10252000,2016-12-31
+Technology Services Costs,1621000,2014-12-31
+Technology Services Costs,554000,2015-12-31
+Technology Services Costs,0,2016-12-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements",1285000,2014-12-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements",0,2015-12-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements",0,2016-12-31
+Costs and Expenses,270847000,2014-12-31
+Costs and Expenses,388707000,2015-12-31
+Costs and Expenses,589209000,2016-12-31
+Operating Income (Loss),5724000,2014-12-31
+Operating Income (Loss),1230000,2015-03-31
+Operating Income (Loss),13649000,2015-12-31
+Operating Income (Loss),-4152000,2016-03-31
+Operating Income (Loss),-18759000,2016-12-31
+Operating Income (Loss),6167000,2015-06-30
+Operating Income (Loss),6466000,2016-06-30
+Operating Income (Loss),10000,2015-09-30
+Operating Income (Loss),-15661000,2016-09-30
+Operating Income (Loss),6242000,2015-12-31
+Operating Income (Loss),-5412000,2016-12-31
+"Interest Expense, Total",10957000,2014-12-31
+"Interest Expense, Total",19338000,2015-12-31
+"Interest Expense, Total",39923000,2016-12-31
+Other Nonoperating Income (Expense),-235000,2014-12-31
+Other Nonoperating Income (Expense),2220000,2015-12-31
+Other Nonoperating Income (Expense),-1277000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-5468000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-3469000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-59959000,2016-12-31
+Income Tax Expense (Benefit),-2190000,2014-12-31
+Income Tax Expense (Benefit),-1168000,2015-12-31
+Income Tax Expense (Benefit),10212000,2016-12-31
+Net Income (Loss) Attributable to Parent,-3278000,2014-12-31
+Net Income (Loss) Attributable to Parent,-2223000,2015-03-31
+Net Income (Loss) Attributable to Parent,-2301000,2015-12-31
+Net Income (Loss) Attributable to Parent,-10067000,2016-03-31
+Net Income (Loss) Attributable to Parent,-70171000,2016-12-31
+Net Income (Loss) Attributable to Parent,2307000,2015-06-30
+Net Income (Loss) Attributable to Parent,-21267000,2016-06-30
+Net Income (Loss) Attributable to Parent,-4170000,2015-09-30
+Net Income (Loss) Attributable to Parent,-23425000,2016-09-30
+Net Income (Loss) Attributable to Parent,1785000,2015-12-31
+Net Income (Loss) Attributable to Parent,-15412000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-0.10,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.07,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.07,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.29,2016-03-31
+"Earnings Per Share, Basic and Diluted",-1.83,2016-12-31
+"Earnings Per Share, Basic and Diluted",0.07,2015-06-30
+"Earnings Per Share, Basic and Diluted",-0.61,2016-06-30
+"Earnings Per Share, Basic and Diluted",-0.12,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.57,2016-09-30
+"Earnings Per Share, Basic and Diluted",0.05,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.37,2016-12-31

@@ -1,0 +1,158 @@
+Metric,Amount,endDate
+"Revenue, before fuel surcharge",316584000,2014-12-31
+"Revenue, before fuel surcharge",355403000,2015-12-31
+"Revenue, before fuel surcharge",382737000,2016-12-31
+Fuel surcharge,94353000,2014-12-31
+Fuel surcharge,61647000,2015-12-31
+Fuel surcharge,50115000,2016-12-31
+us-gaap_Revenues,410937000,2014-12-31
+us-gaap_Revenues,99483000,2015-03-31
+us-gaap_Revenues,417050000,2015-12-31
+us-gaap_Revenues,108033000,2015-06-30
+us-gaap_Revenues,107110000,2015-09-30
+us-gaap_Revenues,102424000,2015-12-31
+us-gaap_Revenues,103589000,2016-03-31
+us-gaap_Revenues,432852000,2016-12-31
+us-gaap_Revenues,111516000,2016-06-30
+us-gaap_Revenues,109393000,2016-09-30
+us-gaap_Revenues,108354000,2016-12-31
+"Salaries, wages and benefits",108371000,2014-12-31
+"Salaries, wages and benefits",105943000,2015-12-31
+"Salaries, wages and benefits",112235000,2016-12-31
+Operating supplies and expenses,126875000,2014-12-31
+Operating supplies and expenses,89878000,2015-12-31
+Operating supplies and expenses,82993000,2016-12-31
+Rents and purchased transportation,90831000,2014-12-31
+Rents and purchased transportation,134188000,2015-12-31
+Rents and purchased transportation,158298000,2016-12-31
+Depreciation,36296000,2014-12-31
+Depreciation,32346000,2015-12-31
+Depreciation,39114000,2016-12-31
+Insurance and claims,20274000,2014-12-31
+Insurance and claims,15315000,2015-12-31
+Insurance and claims,16632000,2016-12-31
+us-gaap_OtherCostOfOperatingRevenue,9871000,2014-12-31
+us-gaap_OtherCostOfOperatingRevenue,8904000,2015-12-31
+us-gaap_OtherCostOfOperatingRevenue,8352000,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets,4591000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets,5754000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets,4700000,2016-12-31
+us-gaap_CostsAndExpenses,387927000,2014-12-31
+us-gaap_CostsAndExpenses,90336000,2015-03-31
+us-gaap_CostsAndExpenses,380820000,2015-12-31
+us-gaap_CostsAndExpenses,96151000,2015-06-30
+us-gaap_CostsAndExpenses,96884000,2015-09-30
+us-gaap_CostsAndExpenses,97449000,2015-12-31
+us-gaap_CostsAndExpenses,98003000,2016-03-31
+us-gaap_CostsAndExpenses,412924000,2016-12-31
+us-gaap_CostsAndExpenses,104162000,2016-06-30
+us-gaap_CostsAndExpenses,104098000,2016-09-30
+us-gaap_CostsAndExpenses,106661000,2016-12-31
+us-gaap_OperatingIncomeLoss,23010000,2014-12-31
+us-gaap_OperatingIncomeLoss,9147000,2015-03-31
+us-gaap_OperatingIncomeLoss,36230000,2015-12-31
+us-gaap_OperatingIncomeLoss,11882000,2015-06-30
+us-gaap_OperatingIncomeLoss,10226000,2015-09-30
+us-gaap_OperatingIncomeLoss,4975000,2015-12-31
+us-gaap_OperatingIncomeLoss,5586000,2016-03-31
+us-gaap_OperatingIncomeLoss,19928000,2016-12-31
+us-gaap_OperatingIncomeLoss,7354000,2016-06-30
+us-gaap_OperatingIncomeLoss,5295000,2016-09-30
+us-gaap_OperatingIncomeLoss,1693000,2016-12-31
+NON-OPERATING INCOME,2099000,2014-12-31
+NON-OPERATING INCOME,245000,2015-03-31
+NON-OPERATING INCOME,1516000,2015-12-31
+NON-OPERATING INCOME,272000,2015-06-30
+NON-OPERATING INCOME,-132000,2015-09-30
+NON-OPERATING INCOME,1131000,2015-12-31
+NON-OPERATING INCOME,-22000,2016-03-31
+NON-OPERATING INCOME,1485000,2016-12-31
+NON-OPERATING INCOME,-10000,2016-06-30
+NON-OPERATING INCOME,1235000,2016-09-30
+NON-OPERATING INCOME,282000,2016-12-31
+us-gaap_InterestExpense,2897000,2014-12-31
+us-gaap_InterestExpense,617000,2015-03-31
+us-gaap_InterestExpense,2818000,2015-12-31
+us-gaap_InterestExpense,644000,2015-06-30
+us-gaap_InterestExpense,732000,2015-09-30
+us-gaap_InterestExpense,825000,2015-12-31
+us-gaap_InterestExpense,822000,2016-03-31
+us-gaap_InterestExpense,3641000,2016-12-31
+us-gaap_InterestExpense,910000,2016-06-30
+us-gaap_InterestExpense,927000,2016-09-30
+us-gaap_InterestExpense,982000,2016-12-31
+Total before tax,22212000,2014-12-31
+Total before tax,34928000,2015-12-31
+Total before tax,17772000,2016-12-31
+Current,1209000,2014-12-31
+Current,591000,2015-12-31
+Current,13000,2016-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,7512000,2014-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,12901000,2015-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,6658000,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,8721000,2014-12-31
+us-gaap_IncomeTaxExpenseBenefit,-3406000,2015-03-31
+us-gaap_IncomeTaxExpenseBenefit,13492000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,-4471000,2015-06-30
+us-gaap_IncomeTaxExpenseBenefit,-3567000,2015-09-30
+us-gaap_IncomeTaxExpenseBenefit,-2048000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,-1807000,2016-03-31
+us-gaap_IncomeTaxExpenseBenefit,6671000,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,-2442000,2016-06-30
+us-gaap_IncomeTaxExpenseBenefit,-2152000,2016-09-30
+us-gaap_IncomeTaxExpenseBenefit,-270000,2016-12-31
+NET INCOME,13491000,2014-12-31
+NET INCOME,5369000,2015-03-31
+NET INCOME,21436000,2015-12-31
+NET INCOME,7039000,2015-06-30
+NET INCOME,5795000,2015-09-30
+NET INCOME,3233000,2015-12-31
+NET INCOME,2935000,2016-03-31
+NET INCOME,11101000,2016-12-31
+NET INCOME,3992000,2016-06-30
+NET INCOME,3451000,2016-09-30
+NET INCOME,723000,2016-12-31
+Basic (in dollars per share),1.69,2014-12-31
+Basic (in dollars per share),0.72,2015-03-31
+Basic (in dollars per share),2.94,2015-12-31
+Basic (in dollars per share),0.95,2015-06-30
+Basic (in dollars per share),0.81,2015-09-30
+Basic (in dollars per share),0.45,2015-12-31
+Basic (in dollars per share),0.41,2016-03-31
+Basic (in dollars per share),1.68,2016-12-31
+Basic (in dollars per share),0.61,2016-06-30
+Basic (in dollars per share),0.54,2016-09-30
+Basic (in dollars per share),0.11,2016-12-31
+Diluted (in dollars per share),1.68,2014-12-31
+Diluted (in dollars per share),0.72,2015-03-31
+Diluted (in dollars per share),2.93,2015-12-31
+Diluted (in dollars per share),0.94,2015-06-30
+Diluted (in dollars per share),0.80,2015-09-30
+Diluted (in dollars per share),0.45,2015-12-31
+Diluted (in dollars per share),0.41,2016-03-31
+Diluted (in dollars per share),1.67,2016-12-31
+Diluted (in dollars per share),0.61,2016-06-30
+Diluted (in dollars per share),0.53,2016-09-30
+Diluted (in dollars per share),0.11,2016-12-31
+Basic (in shares),7990000,2014-12-31
+Basic (in shares),7425000,2015-03-31
+Basic (in shares),7288000,2015-12-31
+Basic (in shares),7431000,2015-06-30
+Basic (in shares),7186000,2015-09-30
+Basic (in shares),7116000,2015-12-31
+Basic (in shares),7121000,2016-03-31
+Basic (in shares),6627000,2016-12-31
+Basic (in shares),6551000,2016-06-30
+Basic (in shares),6439000,2016-09-30
+Basic (in shares),6400000,2016-12-31
+Diluted (in shares),8034000,2014-12-31
+Diluted (in shares),7467000,2015-03-31
+Diluted (in shares),7325000,2015-12-31
+Diluted (in shares),7474000,2015-06-30
+Diluted (in shares),7219000,2015-09-30
+Diluted (in shares),7144000,2015-12-31
+Diluted (in shares),7145000,2016-03-31
+Diluted (in shares),6649000,2016-12-31
+Diluted (in shares),6572000,2016-06-30
+Diluted (in shares),6458000,2016-09-30
+Diluted (in shares),6425000,2016-12-31

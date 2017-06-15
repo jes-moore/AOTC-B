@@ -1,0 +1,115 @@
+Metric,Amount,endDate
+Revenue From Cinema,238355000,2014-12-31
+Revenue From Cinema,242823000,2015-12-31
+Revenue From Cinema,256922000,2016-12-31
+Revenue From Real Estate,16887000,2014-12-31
+Revenue From Real Estate,15042000,2015-12-31
+Revenue From Real Estate,13551000,2016-12-31
+Revenue,66691000,2015-12-31
+Revenue,67451000,2016-12-31
+Revenue,255242000,2014-12-31
+Revenue,257865000,2015-12-31
+Revenue,60584000,2015-03-31
+Revenue,270473000,2016-12-31
+Revenue,64789000,2016-03-31
+Revenue,72802000,2015-06-30
+Revenue,66918000,2016-06-30
+Revenue,57788000,2015-09-30
+Revenue,71315000,2016-09-30
+"Operating Expenses,Cinema",188435000,2014-12-31
+"Operating Expenses,Cinema",190007000,2015-12-31
+"Operating Expenses,Cinema",198523000,2016-12-31
+Operating Expenses Real Estate,9770000,2014-12-31
+Operating Expenses Real Estate,10948000,2015-12-31
+Operating Expenses Real Estate,9044000,2016-12-31
+Depreciation and amortization,15468000,2014-12-31
+Depreciation and amortization,14562000,2015-12-31
+Depreciation and amortization,15689000,2016-12-31
+General and Administrative Expense,18902000,2014-12-31
+General and Administrative Expense,18652000,2015-12-31
+General and Administrative Expense,26906000,2016-12-31
+Operating Expenses,232575000,2014-12-31
+Operating Expenses,234169000,2015-12-31
+Operating Expenses,250162000,2016-12-31
+Operating Income Loss,22667000,2014-12-31
+Operating Income Loss,23696000,2015-12-31
+Operating Income Loss,20311000,2016-12-31
+"Interest Income, Operating",662000,2014-12-31
+"Interest Income, Operating",1268000,2015-12-31
+"Interest Income, Operating",86000,2016-12-31
+Interest Expense,9662000,2014-12-31
+Interest Expense,8572000,2015-12-31
+Interest Expense,6868000,2016-12-31
+"Policyholder Benefits and Claims Incurred, Net, Property, Casualty and Liability",1421000,2016-12-31
+"Policyholder Benefits and Claims Incurred, Net, Property, Casualty and Liability",2019000,2016-12-31
+Gain (Loss) on Disposition of Assets,25000,2014-12-31
+Gain (Loss) on Disposition of Assets,11023000,2015-12-31
+Gain (Loss) on Disposition of Assets,393000,2016-12-31
+Other Nonoperating Income (Expense),1646000,2014-12-31
+Other Nonoperating Income (Expense),-440000,2015-12-31
+Other Nonoperating Income (Expense),-63000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",15338000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",26975000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",12438000,2016-12-31
+"Income (Loss) from Subsidiaries, Net of Tax",1015000,2014-12-31
+"Income (Loss) from Subsidiaries, Net of Tax",1204000,2015-12-31
+"Income (Loss) from Subsidiaries, Net of Tax",999000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",16353000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",28179000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",13437000,2016-12-31
+Income Tax Expense (Benefit),-8925000,2014-12-31
+Income Tax Expense (Benefit),5148000,2015-12-31
+Income Tax Expense (Benefit),4020000,2016-12-31
+ProfitLoss,3595000,2015-12-31
+ProfitLoss,354000,2016-12-31
+ProfitLoss,25278000,2014-12-31
+ProfitLoss,23031000,2015-12-31
+ProfitLoss,3102000,2015-03-31
+ProfitLoss,9417000,2016-12-31
+ProfitLoss,2224000,2016-03-31
+ProfitLoss,16006000,2015-06-30
+ProfitLoss,2922000,2016-06-30
+ProfitLoss,328000,2015-09-30
+ProfitLoss,3917000,2016-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,-57000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-79000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,14000,2016-12-31
+Net income (loss),3614000,2015-12-31
+Net income (loss),352000,2016-12-31
+Net income (loss),25335000,2014-12-31
+Net income (loss),23110000,2015-12-31
+Net income (loss),3118000,2015-03-31
+Net income (loss),9403000,2016-12-31
+Net income (loss),2226000,2016-03-31
+Net income (loss),15997000,2015-06-30
+Net income (loss),2970000,2016-06-30
+Net income (loss),381000,2015-09-30
+Net income (loss),3855000,2016-09-30
+"Earnings Per Share, Basic",0.14,2015-12-31
+"Earnings Per Share, Basic",0.01,2016-12-31
+"Earnings Per Share, Basic",1.08,2014-12-31
+"Earnings Per Share, Basic",0.99,2015-12-31
+"Earnings Per Share, Basic",0.14,2015-03-31
+"Earnings Per Share, Basic",0.40,2016-12-31
+"Earnings Per Share, Basic",0.09,2016-03-31
+"Earnings Per Share, Basic",0.69,2015-06-30
+"Earnings Per Share, Basic",0.13,2016-06-30
+"Earnings Per Share, Basic",0.02,2015-09-30
+"Earnings Per Share, Basic",0.17,2016-09-30
+"Earnings Per Share, Diluted",0.14,2015-12-31
+"Earnings Per Share, Diluted",0.02,2016-12-31
+"Earnings Per Share, Diluted",1.07,2014-12-31
+"Earnings Per Share, Diluted",0.98,2015-12-31
+"Earnings Per Share, Diluted",0.14,2015-03-31
+"Earnings Per Share, Diluted",0.40,2016-12-31
+"Earnings Per Share, Diluted",0.09,2016-03-31
+"Earnings Per Share, Diluted",0.68,2015-06-30
+"Earnings Per Share, Diluted",0.13,2016-06-30
+"Earnings Per Share, Diluted",0.02,2015-09-30
+"Earnings Per Share, Diluted",0.16,2016-09-30
+Weighted average number of shares outstanding-basic,23431855,2014-12-31
+Weighted average number of shares outstanding-basic,23293696,2015-12-31
+Weighted average number of shares outstanding-basic,23320048,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",23749221,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",23495618,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",23521157,2016-12-31

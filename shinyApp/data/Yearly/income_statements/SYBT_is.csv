@@ -1,0 +1,241 @@
+Metric,Amount,endDate
+us-gaap_InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio,79884000,2014-12-31
+us-gaap_InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio,83371000,2015-12-31
+us-gaap_InterestAndFeeIncomeLoansAndLeasesHeldInPortfolio,91798000,2016-12-31
+Federal funds sold,292000,2014-12-31
+Federal funds sold,263000,2015-12-31
+Federal funds sold,491000,2016-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,174000,2014-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,249000,2015-12-31
+us-gaap_InterestAndFeeIncomeLoansHeldForSaleMortgages,237000,2016-12-31
+Taxable,7565000,2014-12-31
+Taxable,8120000,2015-12-31
+Taxable,8451000,2016-12-31
+Tax-exempt,1172000,2014-12-31
+Tax-exempt,1167000,2015-12-31
+Tax-exempt,1195000,2016-12-31
+us-gaap_InterestAndDividendIncomeOperating,21604000,2014-03-31
+us-gaap_InterestAndDividendIncomeOperating,89087000,2014-12-31
+us-gaap_InterestAndDividendIncomeOperating,22013000,2014-06-30
+us-gaap_InterestAndDividendIncomeOperating,22692000,2014-09-30
+us-gaap_InterestAndDividendIncomeOperating,22778000,2014-12-31
+us-gaap_InterestAndDividendIncomeOperating,22847000,2015-03-31
+us-gaap_InterestAndDividendIncomeOperating,93170000,2015-12-31
+us-gaap_InterestAndDividendIncomeOperating,23000000,2015-06-30
+us-gaap_InterestAndDividendIncomeOperating,23284000,2015-09-30
+us-gaap_InterestAndDividendIncomeOperating,24039000,2015-12-31
+us-gaap_InterestAndDividendIncomeOperating,24700000,2016-03-31
+us-gaap_InterestAndDividendIncomeOperating,102172000,2016-12-31
+us-gaap_InterestAndDividendIncomeOperating,25162000,2016-06-30
+us-gaap_InterestAndDividendIncomeOperating,25942000,2016-09-30
+us-gaap_InterestAndDividendIncomeOperating,26368000,2016-12-31
+Deposits,4321000,2014-12-31
+Deposits,3739000,2015-12-31
+Deposits,3943000,2016-12-31
+us-gaap_InterestExpenseSecuritiesSoldUnderAgreementsToRepurchase,140000,2014-12-31
+us-gaap_InterestExpenseSecuritiesSoldUnderAgreementsToRepurchase,149000,2015-12-31
+us-gaap_InterestExpenseSecuritiesSoldUnderAgreementsToRepurchase,136000,2016-12-31
+us-gaap_InterestExpenseFederalFundsPurchased,29000,2014-12-31
+us-gaap_InterestExpenseFederalFundsPurchased,25000,2015-12-31
+us-gaap_InterestExpenseFederalFundsPurchased,76000,2016-12-31
+us-gaap_InterestExpenseFederalHomeLoanBankAndFederalReserveBankAdvancesLongTerm,840000,2014-12-31
+us-gaap_InterestExpenseFederalHomeLoanBankAndFederalReserveBankAdvancesLongTerm,939000,2015-12-31
+us-gaap_InterestExpenseFederalHomeLoanBankAndFederalReserveBankAdvancesLongTerm,763000,2016-12-31
+us-gaap_InterestExpense,1376000,2014-03-31
+us-gaap_InterestExpense,5330000,2014-12-31
+us-gaap_InterestExpense,1358000,2014-06-30
+us-gaap_InterestExpense,1329000,2014-09-30
+us-gaap_InterestExpense,1267000,2014-12-31
+us-gaap_InterestExpense,1233000,2015-03-31
+us-gaap_InterestExpense,4852000,2015-12-31
+us-gaap_InterestExpense,1199000,2015-06-30
+us-gaap_InterestExpense,1203000,2015-09-30
+us-gaap_InterestExpense,1217000,2015-12-31
+us-gaap_InterestExpense,1231000,2016-03-31
+us-gaap_InterestExpense,4918000,2016-12-31
+us-gaap_InterestExpense,1212000,2016-06-30
+us-gaap_InterestExpense,1182000,2016-09-30
+us-gaap_InterestExpense,1293000,2016-12-31
+us-gaap_InterestIncomeExpenseNet,20228000,2014-03-31
+us-gaap_InterestIncomeExpenseNet,83757000,2014-12-31
+us-gaap_InterestIncomeExpenseNet,20655000,2014-06-30
+us-gaap_InterestIncomeExpenseNet,21363000,2014-09-30
+us-gaap_InterestIncomeExpenseNet,21511000,2014-12-31
+us-gaap_InterestIncomeExpenseNet,21614000,2015-03-31
+us-gaap_InterestIncomeExpenseNet,88318000,2015-12-31
+us-gaap_InterestIncomeExpenseNet,21801000,2015-06-30
+us-gaap_InterestIncomeExpenseNet,22081000,2015-09-30
+us-gaap_InterestIncomeExpenseNet,22822000,2015-12-31
+us-gaap_InterestIncomeExpenseNet,23469000,2016-03-31
+us-gaap_InterestIncomeExpenseNet,97254000,2016-12-31
+us-gaap_InterestIncomeExpenseNet,23950000,2016-06-30
+us-gaap_InterestIncomeExpenseNet,24760000,2016-09-30
+us-gaap_InterestIncomeExpenseNet,25075000,2016-12-31
+Provision (credit) for loan losses,350000,2014-03-31
+Provision (credit) for loan losses,-400000,2014-12-31
+Provision (credit) for loan losses,1350000,2014-06-30
+Provision (credit) for loan losses,-2100000,2014-09-30
+Provision (credit) for loan losses,,2014-12-31
+Provision (credit) for loan losses,,2015-03-31
+Provision (credit) for loan losses,750000,2015-12-31
+Provision (credit) for loan losses,,2015-06-30
+Provision (credit) for loan losses,,2015-09-30
+Provision (credit) for loan losses,750000,2015-12-31
+Provision (credit) for loan losses,500000,2016-03-31
+Provision (credit) for loan losses,3000000,2016-12-31
+Provision (credit) for loan losses,750000,2016-06-30
+Provision (credit) for loan losses,1250000,2016-09-30
+Provision (credit) for loan losses,500000,2016-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,19878000,2014-03-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,84157000,2014-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,19305000,2014-06-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,23463000,2014-09-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,21511000,2014-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,21614000,2015-03-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,87568000,2015-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,21801000,2015-06-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,22081000,2015-09-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,22072000,2015-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,22969000,2016-03-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,94254000,2016-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,23200000,2016-06-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,23510000,2016-09-30
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,24575000,2016-12-31
+Wealth management and trust services,18212000,2014-12-31
+Wealth management and trust services,18026000,2015-12-31
+Wealth management and trust services,19155000,2016-12-31
+Service charges on deposit accounts,8883000,2014-12-31
+Service charges on deposit accounts,8906000,2015-12-31
+Service charges on deposit accounts,9471000,2016-12-31
+Bankcard transactions,4673000,2014-12-31
+Bankcard transactions,4876000,2015-12-31
+Bankcard transactions,5655000,2016-12-31
+Mortgage banking,2653000,2014-12-31
+Mortgage banking,3488000,2015-12-31
+Mortgage banking,3897000,2016-12-31
+Securities brokerage,2060000,2014-12-31
+Securities brokerage,1994000,2015-12-31
+Securities brokerage,2145000,2016-12-31
+us-gaap_BankOwnedLifeInsuranceIncome,927000,2014-12-31
+us-gaap_BankOwnedLifeInsuranceIncome,889000,2015-12-31
+us-gaap_BankOwnedLifeInsuranceIncome,871000,2016-12-31
+us-gaap_NoninterestIncomeOther,1747000,2014-12-31
+us-gaap_NoninterestIncomeOther,1771000,2015-12-31
+us-gaap_NoninterestIncomeOther,2343000,2016-12-31
+us-gaap_NoninterestIncome,9475000,2014-03-31
+us-gaap_NoninterestIncome,39155000,2014-12-31
+us-gaap_NoninterestIncome,10057000,2014-06-30
+us-gaap_NoninterestIncome,9850000,2014-09-30
+us-gaap_NoninterestIncome,9773000,2014-12-31
+us-gaap_NoninterestIncome,9673000,2015-03-31
+us-gaap_NoninterestIncome,39950000,2015-12-31
+us-gaap_NoninterestIncome,10219000,2015-06-30
+us-gaap_NoninterestIncome,9985000,2015-09-30
+us-gaap_NoninterestIncome,10073000,2015-12-31
+us-gaap_NoninterestIncome,10082000,2016-03-31
+us-gaap_NoninterestIncome,43537000,2016-12-31
+us-gaap_NoninterestIncome,10778000,2016-06-30
+us-gaap_NoninterestIncome,11358000,2016-09-30
+us-gaap_NoninterestIncome,11319000,2016-12-31
+Salaries and employee benefits,44687000,2014-12-31
+Salaries and employee benefits,44709000,2015-12-31
+Salaries and employee benefits,49185000,2016-12-31
+Net occupancy,5963000,2014-12-31
+Net occupancy,5912000,2015-12-31
+Net occupancy,6279000,2016-12-31
+Data processing,6393000,2014-12-31
+Data processing,6348000,2015-12-31
+Data processing,7073000,2016-12-31
+Furniture and equipment,1016000,2014-12-31
+Furniture and equipment,1074000,2015-12-31
+Furniture and equipment,1143000,2016-12-31
+FDIC insurance,1314000,2014-12-31
+FDIC insurance,1258000,2015-12-31
+FDIC insurance,1181000,2016-12-31
+Other real estate owned,271000,2014-12-31
+Other real estate owned,-147000,2015-12-31
+Other real estate owned,409000,2016-12-31
+Amortization of investment in tax credit partnerships,1095000,2014-12-31
+Amortization of investment in tax credit partnerships,634000,2015-12-31
+Amortization of investment in tax credit partnerships,4458000,2016-12-31
+Other,13012000,2014-12-31
+Other,13316000,2015-12-31
+Other,12610000,2016-12-31
+us-gaap_NoninterestExpense,17544000,2014-03-31
+us-gaap_NoninterestExpense,73209000,2014-12-31
+us-gaap_NoninterestExpense,17701000,2014-06-30
+us-gaap_NoninterestExpense,18709000,2014-09-30
+us-gaap_NoninterestExpense,19255000,2014-12-31
+us-gaap_NoninterestExpense,17779000,2015-03-31
+us-gaap_NoninterestExpense,73398000,2015-12-31
+us-gaap_NoninterestExpense,18867000,2015-06-30
+us-gaap_NoninterestExpense,18430000,2015-09-30
+us-gaap_NoninterestExpense,18322000,2015-12-31
+us-gaap_NoninterestExpense,19540000,2016-03-31
+us-gaap_NoninterestExpense,81520000,2016-12-31
+us-gaap_NoninterestExpense,20193000,2016-06-30
+us-gaap_NoninterestExpense,20518000,2016-09-30
+us-gaap_NoninterestExpense,21269000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,11809000,2014-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,50103000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,11661000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,14604000,2014-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,12029000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13508000,2015-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,54120000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13153000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13636000,2015-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13823000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13511000,2016-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,56271000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,13785000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,14350000,2016-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,14625000,2016-12-31
+Income tax expense,3632000,2014-03-31
+Income tax expense,15281000,2014-12-31
+Income tax expense,3627000,2014-06-30
+Income tax expense,4715000,2014-09-30
+Income tax expense,3307000,2014-12-31
+Income tax expense,4253000,2015-03-31
+Income tax expense,16933000,2015-12-31
+Income tax expense,4151000,2015-06-30
+Income tax expense,4352000,2015-09-30
+Income tax expense,4177000,2015-12-31
+Income tax expense,3676000,2016-03-31
+Income tax expense,15244000,2016-12-31
+Income tax expense,3676000,2016-06-30
+Income tax expense,3883000,2016-09-30
+Income tax expense,4009000,2016-12-31
+Net income,34822000,2014-12-31
+Net income,37187000,2015-12-31
+Net income,41027000,2016-12-31
+"Net income per share, basic (in dollars per share)",0.37,2014-03-31
+"Net income per share, basic (in dollars per share)",1.59,2014-12-31
+"Net income per share, basic (in dollars per share)",0.37,2014-06-30
+"Net income per share, basic (in dollars per share)",0.45,2014-09-30
+"Net income per share, basic (in dollars per share)",0.40,2014-12-31
+"Net income per share, basic (in dollars per share)",0.42,2015-03-31
+"Net income per share, basic (in dollars per share)",1.68,2015-12-31
+"Net income per share, basic (in dollars per share)",0.41,2015-06-30
+"Net income per share, basic (in dollars per share)",0.42,2015-09-30
+"Net income per share, basic (in dollars per share)",0.43,2015-12-31
+"Net income per share, basic (in dollars per share)",0.44,2016-03-31
+"Net income per share, basic (in dollars per share)",1.84,2016-12-31
+"Net income per share, basic (in dollars per share)",0.45,2016-06-30
+"Net income per share, basic (in dollars per share)",0.47,2016-09-30
+"Net income per share, basic (in dollars per share)",0.47,2016-12-31
+"Net income per share, diluted (in dollars per share)",0.37,2014-03-31
+"Net income per share, diluted (in dollars per share)",1.57,2014-12-31
+"Net income per share, diluted (in dollars per share)",0.37,2014-06-30
+"Net income per share, diluted (in dollars per share)",0.45,2014-09-30
+"Net income per share, diluted (in dollars per share)",0.39,2014-12-31
+"Net income per share, diluted (in dollars per share)",0.42,2015-03-31
+"Net income per share, diluted (in dollars per share)",1.65,2015-12-31
+"Net income per share, diluted (in dollars per share)",0.40,2015-06-30
+"Net income per share, diluted (in dollars per share)",0.41,2015-09-30
+"Net income per share, diluted (in dollars per share)",0.43,2015-12-31
+"Net income per share, diluted (in dollars per share)",0.44,2016-03-31
+"Net income per share, diluted (in dollars per share)",1.80,2016-12-31
+"Net income per share, diluted (in dollars per share)",0.45,2016-06-30
+"Net income per share, diluted (in dollars per share)",0.46,2016-09-30
+"Net income per share, diluted (in dollars per share)",0.46,2016-12-31

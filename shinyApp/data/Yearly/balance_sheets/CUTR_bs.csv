@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+Cash and cash equivalents,16242000,2013-12-31
+Cash and cash equivalents,9803000,2014-12-31
+Cash and cash equivalents,10868000,2015-12-31
+Cash and cash equivalents,13775000,2016-12-31
+Marketable investments,37539000,2015-12-31
+Marketable investments,40299000,2016-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $21 and $4, respectively",11669000,2015-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $21 and $4, respectively",16547000,2016-12-31
+Inventories,12078000,2015-12-31
+Inventories,14977000,2016-12-31
+Other current assets and prepaid expenses,1675000,2015-12-31
+Other current assets and prepaid expenses,2251000,2016-12-31
+us-gaap_AssetsCurrent,73829000,2015-12-31
+us-gaap_AssetsCurrent,87849000,2016-12-31
+"Property and equipment, net",1473000,2015-12-31
+"Property and equipment, net",1907000,2016-12-31
+Deferred tax assets,350000,2015-12-31
+Deferred tax assets,377000,2016-12-31
+"Intangibles, net",143000,2015-12-31
+"Intangibles, net",2000,2016-12-31
+Goodwill,1339000,2015-12-31
+Goodwill,1339000,2016-12-31
+Other long-term assets,384000,2015-12-31
+Other long-term assets,380000,2016-12-31
+us-gaap_Assets,77518000,2015-12-31
+us-gaap_Assets,91854000,2016-12-31
+Accounts payable,1959000,2015-12-31
+Accounts payable,2598000,2016-12-31
+Accrued liabilities,13834000,2015-12-31
+Accrued liabilities,17397000,2016-12-31
+Deferred revenue,8638000,2015-12-31
+Deferred revenue,8394000,2016-12-31
+us-gaap_LiabilitiesCurrent,24431000,2015-12-31
+us-gaap_LiabilitiesCurrent,28389000,2016-12-31
+"Deferred revenue, net of current portion",2287000,2015-12-31
+"Deferred revenue, net of current portion",1705000,2016-12-31
+Income tax liability,182000,2015-12-31
+Income tax liability,168000,2016-12-31
+Other long-term liabilities,584000,2015-12-31
+Other long-term liabilities,582000,2016-12-31
+us-gaap_Liabilities,27484000,2015-12-31
+us-gaap_Liabilities,30844000,2016-12-31
+Commitments and contingencies (Note 10),,2015-12-31
+Commitments and contingencies (Note 10),,2016-12-31
+"Convertible preferred stock, $0.001 par value; Authorized: 5,000,000 shares; Issued and outstanding: none",,2015-12-31
+"Convertible preferred stock, $0.001 par value; Authorized: 5,000,000 shares; Issued and outstanding: none",,2016-12-31
+"Common stock, $0.001 par value; Authorized: 50,000,000 shares; Issued and outstanding: 13,773,389 and 12,980,807 shares at December 31, 2016 and 2015, respectively",13000,2015-12-31
+"Common stock, $0.001 par value; Authorized: 50,000,000 shares; Issued and outstanding: 13,773,389 and 12,980,807 shares at December 31, 2016 and 2015, respectively",14000,2016-12-31
+Additional paid-in capital,79782000,2015-12-31
+Additional paid-in capital,88114000,2016-12-31
+Accumulated deficit,-29672000,2015-12-31
+Accumulated deficit,-27046000,2016-12-31
+Accumulated other comprehensive loss,-89000,2015-12-31
+Accumulated other comprehensive loss,-72000,2016-12-31
+Total stockholders’ equity,84265000,2013-12-31
+Total stockholders’ equity,80508000,2014-12-31
+Total stockholders’ equity,50034000,2015-12-31
+Total stockholders’ equity,61010000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,77518000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,91854000,2016-12-31

@@ -1,0 +1,51 @@
+Metric,Amount,endDate
+Cash,3552000,2013-12-31
+Cash,13859000,2014-12-31
+Cash,8854000,2015-12-31
+Cash,9375000,2016-12-31
+"Prepaid Expense, Current",560000,2015-12-31
+"Prepaid Expense, Current",376000,2016-12-31
+Other Assets Current,179000,2015-12-31
+Other Assets Current,902000,2016-12-31
+"Assets, Current, Total",9593000,2015-12-31
+"Assets, Current, Total",10653000,2016-12-31
+"Property, Plant and Equipment, Gross",123000,2015-12-31
+"Property, Plant and Equipment, Gross",708000,2016-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",51000,2015-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",94000,2016-12-31
+"Property, Plant and Equipment, Net, Total",72000,2015-12-31
+"Property, Plant and Equipment, Net, Total",614000,2016-12-31
+Finite Lived License Agreements Gross,2500000,2015-12-31
+Finite Lived License Agreements Gross,2500000,2016-12-31
+Finite Lived Intangible Assets Accumulated Amortization,1410000,2015-12-31
+Finite Lived Intangible Assets Accumulated Amortization,1571000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill), Total",1090000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill), Total",929000,2016-12-31
+"Assets, Total",10755000,2015-12-31
+"Assets, Total",12196000,2016-12-31
+Accounts Payable Current,54000,2015-12-31
+Accounts Payable Current,69000,2016-12-31
+Accrued Liabilities Current,883000,2015-12-31
+Accrued Liabilities Current,969000,2016-12-31
+"Deferred Revenue, Current",0,2015-12-31
+"Deferred Revenue, Current",12000,2016-12-31
+"Liabilities, Current, Total",937000,2015-12-31
+"Liabilities, Current, Total",1050000,2016-12-31
+"Derivative Liability, Noncurrent",0,2015-12-31
+"Derivative Liability, Noncurrent",2906000,2016-12-31
+"Liabilities, Total",937000,2015-12-31
+"Liabilities, Total",3956000,2016-12-31
+Preferred Stock Value,0,2015-12-31
+Preferred Stock Value,0,2016-12-31
+Common Stock Value,90000,2015-12-31
+Common Stock Value,96000,2016-12-31
+Additional Paid In Capital,35112000,2015-12-31
+Additional Paid In Capital,40278000,2016-12-31
+"Retained Earnings (Accumulated Deficit), Total",-25384000,2015-12-31
+"Retained Earnings (Accumulated Deficit), Total",-32134000,2016-12-31
+Stockholders Equity,4783000,2013-12-31
+Stockholders Equity,14917000,2014-12-31
+Stockholders Equity,9818000,2015-12-31
+Stockholders Equity,8240000,2016-12-31
+Liabilities and Stockholders Equity,10755000,2015-12-31
+Liabilities and Stockholders Equity,12196000,2016-12-31

@@ -1,0 +1,90 @@
+Metric,Amount,endDate
+Cost of Goods Sold,62780000,2015-01-31
+Cost of Goods Sold,86506000,2016-01-31
+Cost of Goods Sold,110651000,2017-01-31
+Cost of Services,16173000,2015-01-31
+Cost of Services,26129000,2016-01-31
+Cost of Services,35002000,2017-01-31
+Cost of Revenue,78953000,2015-01-31
+Cost of Revenue,112635000,2016-01-31
+Cost of Revenue,145653000,2017-01-31
+Gross Profit,148720000,2015-01-31
+Gross Profit,209580000,2016-01-31
+Gross Profit,256944000,2017-01-31
+Gross Profit,46495000,2015-04-30
+Gross Profit,54819000,2016-04-30
+Gross Profit,52345000,2015-07-31
+Gross Profit,52690000,2015-10-31
+Gross Profit,58050000,2016-01-31
+Gross Profit,62743000,2016-07-31
+Gross Profit,65056000,2016-10-31
+Gross Profit,74326000,2017-01-31
+Operating Income (Loss),-96077000,2015-01-31
+Operating Income (Loss),-118636000,2016-01-31
+Operating Income (Loss),-156617000,2017-01-31
+"Interest Income (Expense), Nonoperating, Net",139000,2015-01-31
+"Interest Income (Expense), Nonoperating, Net",240000,2016-01-31
+"Interest Income (Expense), Nonoperating, Net",274000,2017-01-31
+Other Nonoperating Income (Expense),-2071000,2015-01-31
+Other Nonoperating Income (Expense),-656000,2016-01-31
+Other Nonoperating Income (Expense),-629000,2017-01-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-98009000,2015-01-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-119052000,2016-01-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-156972000,2017-01-31
+Income Tax Expense (Benefit),837000,2015-01-31
+Income Tax Expense (Benefit),1017000,2016-01-31
+Income Tax Expense (Benefit),1343000,2017-01-31
+Net Income (Loss) Attributable to Parent,-98846000,2015-01-31
+Net Income (Loss) Attributable to Parent,-120069000,2016-01-31
+Net Income (Loss) Attributable to Parent,-158315000,2017-01-31
+Net Income (Loss) Attributable to Parent,-28986000,2015-04-30
+Net Income (Loss) Attributable to Parent,-42682000,2016-04-30
+Net Income (Loss) Attributable to Parent,-30109000,2015-07-31
+Net Income (Loss) Attributable to Parent,-28574000,2015-10-31
+Net Income (Loss) Attributable to Parent,-32400000,2016-01-31
+Net Income (Loss) Attributable to Parent,-39950000,2016-07-31
+Net Income (Loss) Attributable to Parent,-39272000,2016-10-31
+Net Income (Loss) Attributable to Parent,-36411000,2017-01-31
+"Earnings Per Share, Basic and Diluted",-1.37,2015-01-31
+"Earnings Per Share, Basic and Diluted",-1.52,2016-01-31
+"Earnings Per Share, Basic and Diluted",-1.85,2017-01-31
+"Earnings Per Share, Basic and Diluted",-0.38,2015-04-30
+"Earnings Per Share, Basic and Diluted",-0.51,2016-04-30
+"Earnings Per Share, Basic and Diluted",-0.38,2015-07-31
+"Earnings Per Share, Basic and Diluted",-0.36,2015-10-31
+"Earnings Per Share, Basic and Diluted",-0.40,2016-01-31
+"Earnings Per Share, Basic and Diluted",-0.47,2016-07-31
+"Earnings Per Share, Basic and Diluted",-0.45,2016-10-31
+"Earnings Per Share, Basic and Diluted",-0.41,2017-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",72304000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",78932000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",85541000,2017-01-31
+Research and Development Expense,70338000,2015-01-31
+Research and Development Expense,93990000,2016-01-31
+Research and Development Expense,116222000,2017-01-31
+Selling and Marketing Expense,143575000,2015-01-31
+Selling and Marketing Expense,197979000,2016-01-31
+Selling and Marketing Expense,254919000,2017-01-31
+General and Administrative Expense,30884000,2015-01-31
+General and Administrative Expense,36247000,2016-01-31
+General and Administrative Expense,42420000,2017-01-31
+Operating Expenses,244797000,2015-01-31
+Operating Expenses,328216000,2016-01-31
+Operating Expenses,413561000,2017-01-31
+"Sales Revenue, Goods, Net",198129000,2015-01-31
+"Sales Revenue, Goods, Net",265602000,2016-01-31
+"Sales Revenue, Goods, Net",322114000,2017-01-31
+"Sales Revenue, Services, Net",29544000,2015-01-31
+"Sales Revenue, Services, Net",56613000,2016-01-31
+"Sales Revenue, Services, Net",80483000,2017-01-31
+Revenues,227673000,2015-01-31
+Revenues,322215000,2016-01-31
+Revenues,402597000,2017-01-31
+Revenues,71288000,2015-04-30
+Revenues,86417000,2016-04-30
+Revenues,80109000,2015-07-31
+Revenues,80727000,2015-10-31
+Revenues,90091000,2016-01-31
+Revenues,97111000,2016-07-31
+Revenues,102041000,2016-10-31
+Revenues,117028000,2017-01-31

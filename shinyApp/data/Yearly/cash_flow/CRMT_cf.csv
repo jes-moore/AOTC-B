@@ -1,0 +1,105 @@
+Metric,Amount,endDate
+Net income,29490000,2015-04-30
+Net income,11596000,2016-04-30
+Net income,20205000,2017-04-30
+us-gaap_ProvisionForLoanLossesExpensed,120289000,2015-04-30
+us-gaap_ProvisionForLoanLossesExpensed,144397000,2016-04-30
+us-gaap_ProvisionForLoanLossesExpensed,149097000,2017-04-30
+crmt_PaymentProtectionPlanLosses,10588000,2015-04-30
+crmt_PaymentProtectionPlanLosses,13521000,2016-04-30
+crmt_PaymentProtectionPlanLosses,15627000,2017-04-30
+us-gaap_DepreciationDepletionAndAmortization,3830000,2015-04-30
+us-gaap_DepreciationDepletionAndAmortization,4208000,2016-04-30
+us-gaap_DepreciationDepletionAndAmortization,4272000,2017-04-30
+Amortization of debt issuance costs,188000,2015-04-30
+Amortization of debt issuance costs,214000,2016-04-30
+Amortization of debt issuance costs,252000,2017-04-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-17000,2015-04-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-369000,2016-04-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-1204000,2017-04-30
+us-gaap_ShareBasedCompensation,780000,2015-04-30
+us-gaap_ShareBasedCompensation,1519000,2016-04-30
+us-gaap_ShareBasedCompensation,1293000,2017-04-30
+Deferred,3934000,2015-04-30
+Deferred,-898000,2016-04-30
+Deferred,638000,2017-04-30
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,1627000,2015-04-30
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,238000,2016-04-30
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,1183000,2017-04-30
+crmt_OriginationsOfFinancingReceivables,445405000,2015-04-30
+crmt_OriginationsOfFinancingReceivables,460499000,2016-04-30
+crmt_OriginationsOfFinancingReceivables,479099000,2017-04-30
+us-gaap_ProceedsFromCollectionOfFinanceReceivables,238845000,2015-04-30
+us-gaap_ProceedsFromCollectionOfFinanceReceivables,248166000,2016-04-30
+us-gaap_ProceedsFromCollectionOfFinanceReceivables,249264000,2017-04-30
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,172000,2015-04-30
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,-286000,2016-04-30
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,382000,2017-04-30
+us-gaap_IncreaseDecreaseInInventories,-40686000,2015-04-30
+us-gaap_IncreaseDecreaseInInventories,-48154000,2016-04-30
+us-gaap_IncreaseDecreaseInInventories,-42493000,2017-04-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,887000,2015-04-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-284000,2016-04-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,730000,2017-04-30
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,3862000,2015-04-30
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,1115000,2016-04-30
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,676000,2017-04-30
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,200000,2015-04-30
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,-11000,2016-04-30
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,2963000,2017-04-30
+Net cash provided by operating activities,12387000,2015-04-30
+Net cash provided by operating activities,14286000,2016-04-30
+Net cash provided by operating activities,7334000,2017-04-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4009000,2015-04-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4526000,2016-04-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,1587000,2017-04-30
+Proceeds from sale of property and equipment,112000,2015-04-30
+Proceeds from sale of property and equipment,7000,2016-04-30
+Proceeds from sale of property and equipment,932000,2017-04-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-3897000,2015-04-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-4519000,2016-04-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-655000,2017-04-30
+Exercise of stock options,4143000,2015-04-30
+Exercise of stock options,400000,2016-04-30
+Exercise of stock options,1895000,2017-04-30
+Excess tax benefits from stock based compensation,1627000,2015-04-30
+Excess tax benefits from stock based compensation,238000,2016-04-30
+Excess tax benefits from stock based compensation,1183000,2017-04-30
+us-gaap_ProceedsFromIssuanceOfCommonStock,146000,2015-04-30
+us-gaap_ProceedsFromIssuanceOfCommonStock,186000,2016-04-30
+us-gaap_ProceedsFromIssuanceOfCommonStock,142000,2017-04-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,20020000,2015-04-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,14214000,2016-04-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,20486000,2017-04-30
+us-gaap_PaymentsOfDividends,40000,2015-04-30
+us-gaap_PaymentsOfDividends,40000,2016-04-30
+us-gaap_PaymentsOfDividends,40000,2017-04-30
+crmt_PaymentsOfProceedsFromDebtIssuanceCosts,256000,2015-04-30
+crmt_PaymentsOfProceedsFromDebtIssuanceCosts,-146000,2016-04-30
+crmt_PaymentsOfProceedsFromDebtIssuanceCosts,449000,2017-04-30
+Change in cash overdrafts,502000,2015-04-30
+Change in cash overdrafts,-1587000,2016-04-30
+Change in cash overdrafts,669000,2017-04-30
+us-gaap_RepaymentsOfNotesPayable,,2015-04-30
+us-gaap_RepaymentsOfNotesPayable,34000,2016-04-30
+us-gaap_RepaymentsOfNotesPayable,104000,2017-04-30
+Proceeds from revolving credit facilities,377225000,2015-04-30
+Proceeds from revolving credit facilities,374214000,2016-04-30
+Proceeds from revolving credit facilities,387050000,2017-04-30
+us-gaap_RepaymentsOfLinesOfCredit,371316000,2015-04-30
+us-gaap_RepaymentsOfLinesOfCredit,369264000,2016-04-30
+us-gaap_RepaymentsOfLinesOfCredit,376707000,2017-04-30
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-7989000,2015-04-30
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-9955000,2016-04-30
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-6847000,2017-04-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,501000,2015-04-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-188000,2016-04-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-168000,2017-04-30
+Cash and cash equivalents,289000,2014-04-30
+Cash and cash equivalents,790000,2015-04-30
+Cash and cash equivalents,602000,2016-04-30
+Cash and cash equivalents,434000,2017-04-30
+Cash and cash equivalents,289000,2014-04-30
+Cash and cash equivalents,790000,2015-04-30
+Cash and cash equivalents,602000,2016-04-30
+Cash and cash equivalents,434000,2017-04-30

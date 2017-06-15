@@ -1,0 +1,156 @@
+Metric,Amount,endDate
+Net income,15307000,2014-03-31
+Net income,60646000,2014-12-31
+Net income,15157000,2014-06-30
+Net income,15154000,2014-09-30
+Net income,15028000,2014-12-31
+Net income,14557000,2015-03-31
+Net income,58753000,2015-12-31
+Net income,14761000,2015-06-30
+Net income,14857000,2015-09-30
+Net income,14578000,2015-12-31
+Net income,14226000,2016-03-31
+Net income,58853000,2016-12-31
+Net income,14546000,2016-06-30
+Net income,15628000,2016-09-30
+Net income,14453000,2016-12-31
+Depreciation and amortization/accretion,15502000,2014-12-31
+Depreciation and amortization/accretion,16402000,2015-12-31
+Depreciation and amortization/accretion,19939000,2016-12-31
+(Reversal of) Provision for Loan Losses,1000000,2014-03-31
+(Reversal of) Provision for Loan Losses,2800000,2014-12-31
+(Reversal of) Provision for Loan Losses,1000000,2014-06-30
+(Reversal of) Provision for Loan Losses,600000,2014-09-30
+(Reversal of) Provision for Loan Losses,200000,2014-12-31
+(Reversal of) Provision for Loan Losses,,2015-03-31
+(Reversal of) Provision for Loan Losses,,2015-12-31
+(Reversal of) Provision for Loan Losses,,2015-06-30
+(Reversal of) Provision for Loan Losses,,2015-09-30
+(Reversal of) Provision for Loan Losses,,2015-12-31
+(Reversal of) Provision for Loan Losses,,2016-03-31
+(Reversal of) Provision for Loan Losses,-3200000,2016-12-31
+(Reversal of) Provision for Loan Losses,,2016-06-30
+(Reversal of) Provision for Loan Losses,-3200000,2016-09-30
+(Reversal of) Provision for Loan Losses,,2016-12-31
+us-gaap_AmortizationOfDeferredLoanOriginationFeesNet,279000,2014-12-31
+us-gaap_AmortizationOfDeferredLoanOriginationFeesNet,310000,2015-12-31
+us-gaap_AmortizationOfDeferredLoanOriginationFeesNet,340000,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,469000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,780000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,1316000,2016-12-31
+wabc_LifeInsurancePremiumsPaid,751000,2014-12-31
+wabc_LifeInsurancePremiumsPaid,782000,2015-12-31
+wabc_LifeInsurancePremiumsPaid,828000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-1417000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-830000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-4380000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,2172000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,1046000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,2493000,2016-12-31
+Stock option compensation expense,1318000,2014-12-31
+Stock option compensation expense,1272000,2015-12-31
+Stock option compensation expense,1494000,2016-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsOperatingActivities,-447000,2014-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsOperatingActivities,-1284000,2015-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsOperatingActivities,394000,2016-12-31
+(Decrease) increase in income taxes payable,478000,2014-12-31
+(Decrease) increase in income taxes payable,265000,2015-12-31
+(Decrease) increase in income taxes payable,-40000,2016-12-31
+Decrease in interest expense payable,-111000,2014-12-31
+Decrease in interest expense payable,-86000,2015-12-31
+Decrease in interest expense payable,-52000,2016-12-31
+Increase (decrease) in other liabilities,4474000,2014-12-31
+Increase (decrease) in other liabilities,-5754000,2015-12-31
+Increase (decrease) in other liabilities,2026000,2016-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,400000,2014-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,,2015-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,,2016-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-76000,2014-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-109000,2015-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,-30000,2016-12-31
+wabc_GainLossOnSaleOfForeclosedAssets,665000,2014-12-31
+wabc_GainLossOnSaleOfForeclosedAssets,-247000,2015-12-31
+wabc_GainLossOnSaleOfForeclosedAssets,422000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,82311000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,70404000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,77637000,2016-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,-126414000,2014-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,-164093000,2015-12-31
+us-gaap_PaymentsForProceedsFromLoansAndLeases,-183506000,2016-12-31
+Net (payments) receipts under FDIC1 indemnification agreements,6703000,2014-12-31
+Net (payments) receipts under FDIC1 indemnification agreements,,2015-12-31
+Net (payments) receipts under FDIC1 indemnification agreements,-127000,2016-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,1126203000,2014-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,946794000,2015-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,1080959000,2016-12-31
+Proceeds from sale/maturity/calls of securities available for sale,604475000,2014-12-31
+Proceeds from sale/maturity/calls of securities available for sale,967118000,2015-12-31
+Proceeds from sale/maturity/calls of securities available for sale,737625000,2016-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,67725000,2014-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,437935000,2015-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,246956000,2016-12-31
+Proceeds from maturity/calls of securities held to maturity,153405000,2014-12-31
+Proceeds from maturity/calls of securities held to maturity,153014000,2015-12-31
+Proceeds from maturity/calls of securities held to maturity,204054000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,3791000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4474000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,1818000,2016-12-31
+Net change in FRB2/FHLB3 securities,3248000,2014-12-31
+Net change in FRB2/FHLB3 securities,940000,2015-12-31
+Net change in FRB2/FHLB3 securities,,2016-12-31
+Proceeds from sale of foreclosed assets,8212000,2014-12-31
+Proceeds from sale of foreclosed assets,1774000,2015-12-31
+Proceeds from sale of foreclosed assets,7412000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-295262000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-102264000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-197263000,2016-12-31
+Net increase in deposits,185508000,2014-12-31
+Net increase in deposits,191476000,2015-12-31
+Net increase in deposits,164082000,2016-12-31
+Net change in short-term borrowings and FHLB3 advances,26741000,2014-12-31
+Net change in short-term borrowings and FHLB3 advances,-56756000,2015-12-31
+Net change in short-term borrowings and FHLB3 advances,6050000,2016-12-31
+us-gaap_RepaymentsOfOtherDebt,10000000,2014-12-31
+us-gaap_RepaymentsOfOtherDebt,,2015-12-31
+us-gaap_RepaymentsOfOtherDebt,,2016-12-31
+Exercise of stock options/issuance of shares,12396000,2014-12-31
+Exercise of stock options/issuance of shares,4848000,2015-12-31
+Exercise of stock options/issuance of shares,24031000,2016-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,521000,2014-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,357000,2015-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,356000,2016-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsFinancingActivities,-447000,2014-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsFinancingActivities,-1284000,2015-12-31
+wabc_TaxBenefitIncreaseDecreaseUponExerciseOfStockOptionsFinancingActivities,394000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,52157000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,14735000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,5424000,2016-12-31
+us-gaap_PaymentsOfDividendsCommonStock,39761000,2014-12-31
+us-gaap_PaymentsOfDividendsCommonStock,39124000,2015-12-31
+us-gaap_PaymentsOfDividendsCommonStock,39924000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,121759000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,84068000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,148853000,2016-12-31
+Net change in cash,-91192000,2014-12-31
+Net change in cash,52208000,2015-12-31
+Net change in cash,29227000,2016-12-31
+Cash and due from banks,472028000,2013-12-31
+Cash and due from banks,380836000,2014-12-31
+Cash and due from banks,433044000,2015-12-31
+Cash and due from banks,462271000,2016-12-31
+Cash and due from banks,472028000,2013-12-31
+Cash and due from banks,380836000,2014-12-31
+Cash and due from banks,433044000,2015-12-31
+Cash and due from banks,462271000,2016-12-31
+Loan collateral transferred to other real estate owned,968000,2014-12-31
+Loan collateral transferred to other real estate owned,4911000,2015-12-31
+Loan collateral transferred to other real estate owned,821000,2016-12-31
+Securities purchases pending settlement,2892000,2014-12-31
+Securities purchases pending settlement,2885000,2015-12-31
+Securities purchases pending settlement,,2016-12-31
+Interest paid for the period,3822000,2014-12-31
+Interest paid for the period,2533000,2015-12-31
+Interest paid for the period,2202000,2016-12-31
+Income tax payments for the period,16412000,2014-12-31
+Income tax payments for the period,17666000,2015-12-31
+Income tax payments for the period,19264000,2016-12-31

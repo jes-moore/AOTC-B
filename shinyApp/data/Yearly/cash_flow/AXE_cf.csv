@@ -1,0 +1,127 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,194800000,2015-01-02
+Net Income (Loss) Attributable to Parent,19100000,2015-04-03
+Net Income (Loss) Attributable to Parent,71400000,2015-07-03
+Net Income (Loss) Attributable to Parent,32500000,2015-10-02
+Net Income (Loss) Attributable to Parent,4600000,2016-01-01
+Net Income (Loss) Attributable to Parent,127600000,2016-01-01
+Net Income (Loss) Attributable to Parent,22800000,2016-04-01
+Net Income (Loss) Attributable to Parent,20500000,2016-07-01
+Net Income (Loss) Attributable to Parent,40400000,2016-09-30
+Net Income (Loss) Attributable to Parent,36800000,2016-12-30
+Net Income (Loss) Attributable to Parent,120500000,2016-12-30
+Gain (Loss) on Disposition of Business,40300000,2016-12-30
+Gain (Loss) on Disposition of Business,0,2015-01-02
+Gain (Loss) on Disposition of Business,40000000,2016-01-01
+Gain (Loss) on Disposition of Business,0,2016-12-30
+Depreciation,24000000,2015-01-02
+Depreciation,23800000,2016-01-01
+Depreciation,27900000,2016-12-30
+Amortization of Intangible Assets,11700000,2015-01-02
+Amortization of Intangible Assets,25400000,2016-01-01
+Amortization of Intangible Assets,37600000,2016-12-30
+Share-based Compensation,13800000,2015-01-02
+Share-based Compensation,14500000,2016-01-01
+Share-based Compensation,16500000,2016-12-30
+Deferred Income Tax Expense (Benefit),25700000,2015-01-02
+Deferred Income Tax Expense (Benefit),5900000,2016-01-01
+Deferred Income Tax Expense (Benefit),700000,2016-12-30
+Amortization of Debt Discount (Premium),2300000,2015-01-02
+Amortization of Debt Discount (Premium),1800000,2016-01-01
+Amortization of Debt Discount (Premium),2200000,2016-12-30
+Amortization of Debt Issuance Costs,0,2015-01-02
+Amortization of Debt Issuance Costs,2000000,2016-01-01
+Amortization of Debt Issuance Costs,2400000,2016-12-30
+Pension Contributions,16800000,2015-01-02
+Pension Contributions,37700000,2016-01-01
+Pension Contributions,29000000,2016-12-30
+"Defined Benefit Plan, Net Periodic Benefit Cost",4600000,2015-01-02
+"Defined Benefit Plan, Net Periodic Benefit Cost",11400000,2016-01-01
+"Defined Benefit Plan, Net Periodic Benefit Cost",20800000,2016-12-30
+Gain (Loss) on Extinguishment of Debt,0,2015-01-02
+Gain (Loss) on Extinguishment of Debt,-900000,2016-01-01
+Gain (Loss) on Extinguishment of Debt,-900000,2016-01-01
+Gain (Loss) on Extinguishment of Debt,0,2016-12-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",5800000,2015-01-02
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",600000,2016-01-01
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",300000,2016-12-30
+Increase (Decrease) in Accounts and Notes Receivable,102900000,2015-01-02
+Increase (Decrease) in Accounts and Notes Receivable,5900000,2016-01-01
+Increase (Decrease) in Accounts and Notes Receivable,32600000,2016-12-30
+Increase (Decrease) in Inventories,49600000,2015-01-02
+Increase (Decrease) in Inventories,54000000,2016-01-01
+Increase (Decrease) in Inventories,5800000,2016-12-30
+Increase (Decrease) in Accounts Payable,54900000,2015-01-02
+Increase (Decrease) in Accounts Payable,-15300000,2016-01-01
+Increase (Decrease) in Accounts Payable,102400000,2016-12-30
+"Increase (Decrease) in Other Current Assets and Liabilities, Net",49000000,2015-01-02
+"Increase (Decrease) in Other Current Assets and Liabilities, Net",-31100000,2016-01-01
+"Increase (Decrease) in Other Current Assets and Liabilities, Net",-21800000,2016-12-30
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",3500000,2015-01-02
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-1000000,2016-01-01
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",6300000,2016-12-30
+Net Cash Provided by (Used in) Operating Activities,104200000,2015-01-02
+Net Cash Provided by (Used in) Operating Activities,91900000,2016-01-01
+Net Cash Provided by (Used in) Operating Activities,278800000,2016-12-30
+"Payments to Acquire Businesses, Net of Cash Acquired",418400000,2015-01-02
+"Payments to Acquire Businesses, Net of Cash Acquired",822500000,2016-01-01
+"Payments to Acquire Businesses, Net of Cash Acquired",4700000,2016-12-30
+Proceeds from Divestiture of Businesses,0,2015-01-02
+Proceeds from Divestiture of Businesses,371800000,2016-01-01
+Proceeds from Divestiture of Businesses,0,2016-12-30
+Payments for (Proceeds from) Productive Assets,40300000,2015-01-02
+Payments for (Proceeds from) Productive Assets,28600000,2016-01-01
+Payments for (Proceeds from) Productive Assets,32600000,2016-12-30
+Net Cash Provided by (Used in) Investing Activities,-458700000,2015-01-02
+Net Cash Provided by (Used in) Investing Activities,-479300000,2016-01-01
+Net Cash Provided by (Used in) Investing Activities,-37300000,2016-12-30
+Proceeds from Other Debt,1550400000,2015-01-02
+Proceeds from Other Debt,1442600000,2016-01-01
+Proceeds from Other Debt,1136500000,2016-12-30
+Repayments of Other Debt,1734200000,2015-01-02
+Repayments of Other Debt,1116500000,2016-01-01
+Repayments of Other Debt,1327900000,2016-12-30
+Repayments of Senior Debt,0,2015-01-02
+Repayments of Senior Debt,200000000,2016-01-01
+Repayments of Senior Debt,0,2016-12-30
+Proceeds from Issuance of Long-term Debt,394000000,2015-01-02
+Proceeds from Issuance of Long-term Debt,0,2016-01-01
+Proceeds from Issuance of Long-term Debt,0,2016-12-30
+Repayments of Long-term Debt,32300000,2015-01-02
+Repayments of Long-term Debt,0,2016-01-01
+Repayments of Long-term Debt,0,2016-12-30
+Payments of Debt Issuance Costs,2300000,2015-01-02
+Payments of Debt Issuance Costs,6700000,2016-01-01
+Payments of Debt Issuance Costs,0,2016-12-30
+Proceeds from Stock Options Exercised,7200000,2015-01-02
+Proceeds from Stock Options Exercised,0,2016-01-01
+Proceeds from Stock Options Exercised,2400000,2016-12-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",5800000,2015-01-02
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",600000,2016-01-01
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",300000,2016-12-30
+Proceeds from (Payments for) Other Financing Activities,-1700000,2015-01-02
+Proceeds from (Payments for) Other Financing Activities,-1000000,2016-01-01
+Proceeds from (Payments for) Other Financing Activities,-600000,2016-12-30
+Net Cash Provided by (Used in) Financing Activities,385700000,2015-01-02
+Net Cash Provided by (Used in) Financing Activities,449800000,2016-01-01
+Net Cash Provided by (Used in) Financing Activities,-273000000,2016-12-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",31200000,2015-01-02
+"Cash and Cash Equivalents, Period Increase (Decrease)",62400000,2016-01-01
+"Cash and Cash Equivalents, Period Increase (Decrease)",-31500000,2016-12-30
+Effect of Exchange Rate on Cash and Cash Equivalents,3500000,2015-01-02
+Effect of Exchange Rate on Cash and Cash Equivalents,-3100000,2016-01-01
+Effect of Exchange Rate on Cash and Cash Equivalents,-4700000,2016-12-30
+"Cash, Cash Equivalents, and Short-term Investments",57300000,2014-01-03
+"Cash, Cash Equivalents, and Short-term Investments",92000000,2015-01-02
+"Cash, Cash Equivalents, and Short-term Investments",151300000,2016-01-01
+"Cash, Cash Equivalents, and Short-term Investments",115100000,2016-12-30
+"Cash, Cash Equivalents, and Short-term Investments",57300000,2014-01-03
+"Cash, Cash Equivalents, and Short-term Investments",92000000,2015-01-02
+"Cash, Cash Equivalents, and Short-term Investments",151300000,2016-01-01
+"Cash, Cash Equivalents, and Short-term Investments",115100000,2016-12-30
+Interest Paid,37600000,2015-01-02
+Interest Paid,56100000,2016-01-01
+Interest Paid,75700000,2016-12-30
+"Income Taxes Paid, Net",117000000,2015-01-02
+"Income Taxes Paid, Net",103500000,2016-01-01
+"Income Taxes Paid, Net",63400000,2016-12-30

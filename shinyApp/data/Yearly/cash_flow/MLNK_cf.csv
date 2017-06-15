@@ -1,0 +1,109 @@
+Metric,Amount,endDate
+Depreciation,13179000,2014-07-31
+Depreciation,8668000,2015-07-31
+Depreciation,8119000,2016-07-31
+Amortization of Intangible Assets,1097000,2014-07-31
+Amortization of Intangible Assets,667000,2015-07-31
+Amortization of Debt Issuance Costs,1255000,2014-07-31
+Amortization of Debt Issuance Costs,557000,2015-07-31
+Amortization of Debt Issuance Costs,733000,2016-07-31
+"Interest Expense, Debt",1489000,2014-07-31
+"Interest Expense, Debt",4473000,2015-07-31
+"Interest Expense, Debt",4967000,2016-07-31
+Asset Impairment Charges,500000,2014-07-31
+Asset Impairment Charges,3360000,2015-07-31
+Asset Impairment Charges,305000,2016-07-31
+Share-based Compensation,2254000,2014-07-31
+Share-based Compensation,1757000,2015-07-31
+Share-based Compensation,1126000,2016-07-31
+Other Noncash Income (Expense),-50000,2014-07-31
+Other Noncash Income (Expense),15005000,2015-07-31
+Other Noncash Income (Expense),-4519000,2016-07-31
+Income (Loss) from Equity Method Investments and Impairment of Investments,-1554000,2014-07-31
+Income (Loss) from Equity Method Investments and Impairment of Investments,-7087000,2015-07-31
+Income (Loss) from Equity Method Investments and Impairment of Investments,747000,2016-07-31
+Increase (Decrease) in Accounts Receivable,-17698000,2014-07-31
+Increase (Decrease) in Accounts Receivable,14970000,2015-07-31
+Increase (Decrease) in Accounts Receivable,-19130000,2016-07-31
+Increase (Decrease) in Inventories,4403000,2014-07-31
+Increase (Decrease) in Inventories,-11839000,2015-07-31
+Increase (Decrease) in Inventories,-7752000,2016-07-31
+Increase (Decrease) in Prepaid Expense and Other Assets,511000,2014-07-31
+Increase (Decrease) in Prepaid Expense and Other Assets,26580000,2015-07-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-10763000,2016-07-31
+Increase Decrease In Accounts Payable Accrued Restructuring And Accrued Expenses,-2513000,2014-07-31
+Increase Decrease In Accounts Payable Accrued Restructuring And Accrued Expenses,22258000,2015-07-31
+Increase Decrease In Accounts Payable Accrued Restructuring And Accrued Expenses,-4245000,2016-07-31
+"Increase (Decrease) in Income Taxes Payable, Net of Income Taxes Receivable",-311000,2014-07-31
+"Increase (Decrease) in Income Taxes Payable, Net of Income Taxes Receivable",367000,2015-07-31
+"Increase (Decrease) in Income Taxes Payable, Net of Income Taxes Receivable",2660000,2016-07-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",4837000,2014-07-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-33145000,2015-07-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",13589000,2016-07-31
+"Cash Provided by (Used in) Operating Activities, Discontinued Operations",-324000,2014-07-31
+Net Cash Provided by (Used in) Discontinued Operations,-324000,2014-07-31
+Repayments of Notes Payable,20257000,2016-07-31
+Payment of Financing and Stock Issuance Costs,628000,2014-07-31
+Repayments of Long-term Capital Lease Obligations,130000,2014-07-31
+Repayments of Long-term Capital Lease Obligations,216000,2015-07-31
+Repayments of Long-term Capital Lease Obligations,228000,2016-07-31
+Proceeds from (Repayments of) Lines of Credit,4453000,2014-07-31
+Proceeds from (Repayments of) Lines of Credit,-4453000,2015-07-31
+Proceeds from Issuance of Common Stock,27700000,2013-03-12
+Proceeds from Issuance of Common Stock,1368000,2014-07-31
+Proceeds from Issuance of Common Stock,113000,2015-07-31
+Proceeds from Issuance of Common Stock,51000,2016-07-31
+Payments for Repurchase of Common Stock,127000,2016-07-31
+"Proceeds from Debt, Net of Issuance Costs",96570000,2014-07-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",101633000,2014-07-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-4556000,2015-07-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-20561000,2016-07-31
+"Payments to Acquire Property, Plant, and Equipment",4489000,2014-07-31
+"Payments to Acquire Property, Plant, and Equipment",8518000,2015-07-31
+"Payments to Acquire Property, Plant, and Equipment",7936000,2016-07-31
+"Proceeds from Sale of Property, Plant, and Equipment",1318000,2016-07-31
+Payments to Acquire Trading Securities Held-for-investment,395000,2014-07-31
+Payments to Acquire Trading Securities Held-for-investment,69221000,2015-07-31
+Payments to Acquire Trading Securities Held-for-investment,1220000,2016-07-31
+Proceeds from Sale of Trading Securities Held-for-investment,2325000,2015-07-31
+Proceeds from Sale of Trading Securities Held-for-investment,59327000,2016-07-31
+Payments to Acquire Businesses and Interest in Affiliates,756000,2014-07-31
+Payments to Acquire Businesses and Interest in Affiliates,323000,2015-07-31
+Payments to Acquire Businesses and Interest in Affiliates,42000,2016-07-31
+Proceeds from Contributions from Affiliates,408000,2015-07-31
+Proceeds from Contributions from Affiliates,789000,2016-07-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-5640000,2014-07-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-75329000,2015-07-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",52236000,2016-07-31
+Net Income (Loss) Attributable to Parent,-16282000,2014-07-31
+Net Income (Loss) Attributable to Parent,-18429000,2015-07-31
+Net Income (Loss) Attributable to Parent,-61281000,2016-07-31
+Net Income (Loss) Attributable to Parent,-12106000,2015-04-30
+Net Income (Loss) Attributable to Parent,-12849000,2016-04-30
+Net Income (Loss) Attributable to Parent,222000,2014-10-31
+Net Income (Loss) Attributable to Parent,-1556000,2015-01-31
+Net Income (Loss) Attributable to Parent,-4989000,2015-07-31
+Net Income (Loss) Attributable to Parent,-14773000,2015-10-31
+Net Income (Loss) Attributable to Parent,-13948000,2016-01-31
+Net Income (Loss) Attributable to Parent,-19711000,2016-07-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",80000,2014-07-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",-16362000,2014-07-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",-18429000,2015-07-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",-61281000,2016-07-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",10139000,2014-07-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",19194000,2015-07-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-19788000,2016-07-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-209000,2014-07-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-3393000,2015-07-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-528000,2016-07-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",105599000,2014-07-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-64084000,2015-07-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",11359000,2016-07-31
+"Cash and Cash Equivalents, at Carrying Value",77916000,2013-07-31
+"Cash and Cash Equivalents, at Carrying Value",183515000,2014-07-31
+"Cash and Cash Equivalents, at Carrying Value",119431000,2015-07-31
+"Cash and Cash Equivalents, at Carrying Value",130790000,2016-07-31
+"Cash and Cash Equivalents, at Carrying Value",77916000,2013-07-31
+"Cash and Cash Equivalents, at Carrying Value",183515000,2014-07-31
+"Cash and Cash Equivalents, at Carrying Value",119431000,2015-07-31
+"Cash and Cash Equivalents, at Carrying Value",130790000,2016-07-31

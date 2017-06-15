@@ -1,0 +1,100 @@
+Metric,Amount,endDate
+Revenues,186672000,2014-12-31
+Revenues,50424000,2015-03-31
+Revenues,56354000,2015-06-30
+Revenues,55009000,2015-09-30
+Revenues,54220000,2015-12-31
+Revenues,216007000,2015-12-31
+Revenues,56306000,2016-03-31
+Revenues,59227000,2016-06-30
+Revenues,59310000,2016-09-30
+Revenues,61791000,2016-12-31
+Revenues,236634000,2016-12-31
+Cost of Goods Sold,62800000,2014-12-31
+Cost of Goods Sold,71791000,2015-12-31
+Cost of Goods Sold,82178000,2016-12-31
+Gross Profit,123872000,2014-12-31
+Gross Profit,32927000,2015-03-31
+Gross Profit,37734000,2015-06-30
+Gross Profit,37619000,2015-09-30
+Gross Profit,35936000,2015-12-31
+Gross Profit,144216000,2015-12-31
+Gross Profit,36702000,2016-03-31
+Gross Profit,39596000,2016-06-30
+Gross Profit,39798000,2016-09-30
+Gross Profit,38360000,2016-12-31
+Gross Profit,154456000,2016-12-31
+Research and Development Expense,16302000,2014-12-31
+Research and Development Expense,19868000,2015-12-31
+Research and Development Expense,21547000,2016-12-31
+Selling and Marketing Expense,95323000,2014-12-31
+Selling and Marketing Expense,105635000,2015-12-31
+Selling and Marketing Expense,111376000,2016-12-31
+General and Administrative Expense,60216000,2014-12-31
+General and Administrative Expense,54983000,2015-12-31
+General and Administrative Expense,56264000,2016-12-31
+Operating Expenses,171841000,2014-12-31
+Operating Expenses,180486000,2015-12-31
+Operating Expenses,189187000,2016-12-31
+Operating Income (Loss),-47969000,2014-12-31
+Operating Income (Loss),-10045000,2015-03-31
+Operating Income (Loss),-8636000,2015-06-30
+Operating Income (Loss),-10010000,2015-09-30
+Operating Income (Loss),-7579000,2015-12-31
+Operating Income (Loss),-36270000,2015-12-31
+Operating Income (Loss),-9929000,2016-03-31
+Operating Income (Loss),-9342000,2016-06-30
+Operating Income (Loss),-6097000,2016-09-30
+Operating Income (Loss),-9363000,2016-12-31
+Operating Income (Loss),-34731000,2016-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-4752000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-1813000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-2430000,2016-12-31
+Related Party Discount on Prepayment of Debt,4825000,2014-05-13
+Related Party Discount on Prepayment of Debt,4825000,2014-12-31
+Related Party Discount on Prepayment of Debt,0,2015-12-31
+Related Party Discount on Prepayment of Debt,0,2016-12-31
+Interest Expense,2205000,2014-12-31
+Interest Expense,941000,2015-12-31
+Interest Expense,4425000,2016-12-31
+Nonoperating Income (Expense),-11782000,2014-12-31
+Nonoperating Income (Expense),-2754000,2015-12-31
+Nonoperating Income (Expense),-6855000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-59751000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-39024000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-41586000,2016-12-31
+Income Tax Expense (Benefit),-114000,2014-12-31
+Income Tax Expense (Benefit),192000,2015-12-31
+Income Tax Expense (Benefit),74000,2016-12-31
+Net Income (Loss) Attributable to Parent,-59637000,2014-12-31
+Net Income (Loss) Attributable to Parent,-14285000,2015-03-31
+Net Income (Loss) Attributable to Parent,-6222000,2015-06-30
+Net Income (Loss) Attributable to Parent,-10215000,2015-09-30
+Net Income (Loss) Attributable to Parent,-8494000,2015-12-31
+Net Income (Loss) Attributable to Parent,-39216000,2015-12-31
+Net Income (Loss) Attributable to Parent,-10185000,2016-03-31
+Net Income (Loss) Attributable to Parent,-11098000,2016-06-30
+Net Income (Loss) Attributable to Parent,-7910000,2016-09-30
+Net Income (Loss) Attributable to Parent,-12467000,2016-12-31
+Net Income (Loss) Attributable to Parent,-41660000,2016-12-31
+Preferred Stock Redemption Discount,0,2016-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",-6879000,2014-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",0,2015-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",0,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-52758000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-39216000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-41660000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-1.65,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.37,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.16,2015-06-30
+"Earnings Per Share, Basic and Diluted",-0.25,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.21,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.97,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.25,2016-03-31
+"Earnings Per Share, Basic and Diluted",-0.27,2016-06-30
+"Earnings Per Share, Basic and Diluted",-0.19,2016-09-30
+"Earnings Per Share, Basic and Diluted",-0.30,2016-12-31
+"Earnings Per Share, Basic and Diluted",-1.00,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31887246,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",40237848,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",41729013,2016-12-31

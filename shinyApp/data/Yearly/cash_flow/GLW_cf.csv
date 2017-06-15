@@ -1,0 +1,166 @@
+Metric,Amount,endDate
+Net income,2472000000,2014-12-31
+Net income,407000000,2015-03-31
+Net income,1339000000,2015-12-31
+Net income,496000000,2015-06-30
+Net income,212000000,2015-09-30
+Net income,224000000,2015-12-31
+Net income,-368000000,2016-03-31
+Net income,3695000000,2016-12-31
+Net income,2207000000,2016-06-30
+Net income,284000000,2016-09-30
+Net income,1572000000,2016-12-31
+Depreciation (1),1167000000,2014-12-31
+Depreciation (1),1130000000,2015-12-31
+Depreciation (1),1131000000,2016-12-31
+Amortization of purchased intangibles,33000000,2014-12-31
+Amortization of purchased intangibles,54000000,2015-12-31
+Amortization of purchased intangibles,64000000,2016-12-31
+"Restructuring, impairment and other charges (Note 2)",71000000,2014-12-31
+"Restructuring, impairment and other charges (Note 2)",0,2015-12-31
+"Restructuring, impairment and other charges (Note 2)",77000000,2016-12-31
+Stock compensation charges,58000000,2014-12-31
+Stock compensation charges,46000000,2015-12-31
+Stock compensation charges,42000000,2016-12-31
+Equity in earnings of affiliated companies (Note 7),266000000,2014-12-31
+Equity in earnings of affiliated companies (Note 7),94000000,2015-03-31
+Equity in earnings of affiliated companies (Note 7),299000000,2015-12-31
+Equity in earnings of affiliated companies (Note 7),62000000,2015-06-30
+Equity in earnings of affiliated companies (Note 7),39000000,2015-09-30
+Equity in earnings of affiliated companies (Note 7),104000000,2015-12-31
+Equity in earnings of affiliated companies (Note 7),59000000,2016-03-31
+Equity in earnings of affiliated companies (Note 7),284000000,2016-12-31
+Equity in earnings of affiliated companies (Note 7),41000000,2016-06-30
+Equity in earnings of affiliated companies (Note 7),19000000,2016-09-30
+Equity in earnings of affiliated companies (Note 7),165000000,2016-12-31
+Dividends received from affiliated companies,1704000000,2014-12-31
+Dividends received from affiliated companies,143000000,2015-12-31
+Dividends received from affiliated companies,85000000,2016-12-31
+Deferred tax (benefit) provision,612000000,2014-12-31
+Deferred tax (benefit) provision,54000000,2015-12-31
+Deferred tax (benefit) provision,-308000000,2016-12-31
+us-gaap_PaymentsForRestructuring,39000000,2014-12-31
+us-gaap_PaymentsForRestructuring,40000000,2015-12-31
+us-gaap_PaymentsForRestructuring,12000000,2016-12-31
+Customer deposits,,2014-12-31
+Customer deposits,197000000,2015-12-31
+Customer deposits,185000000,2016-12-31
+Employee benefit payments in excess of expense,-52000000,2014-12-31
+Employee benefit payments in excess of expense,-52000000,2015-12-31
+Employee benefit payments in excess of expense,-92000000,2016-12-31
+"Translated earnings contract (loss) gain, net",1369000000,2014-12-31
+"Translated earnings contract (loss) gain, net",80000000,2015-12-31
+"Translated earnings contract (loss) gain, net",-448000000,2016-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,-431000000,2014-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,-268000000,2015-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,-1000000,2016-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationAsset1,249000000,2014-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationAsset1,13000000,2015-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationAsset1,43000000,2016-12-31
+Gain on realignment of equity investment,,2014-12-31
+Gain on realignment of equity investment,,2015-12-31
+Gain on realignment of equity investment,2676000000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,16000000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,-162000000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,106000000,2016-12-31
+us-gaap_IncreaseDecreaseInInventories,-2000000,2014-12-31
+us-gaap_IncreaseDecreaseInInventories,77000000,2015-12-31
+us-gaap_IncreaseDecreaseInInventories,68000000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,16000000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,57000000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,-18000000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,-3000000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,-146000000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,243000000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-169000000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-180000000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-121000000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,4709000000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,2809000000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,2521000000,2016-12-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,1076000000,2014-12-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,1250000000,2015-12-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,1130000000,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,-66000000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,732000000,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,333000000,2016-12-31
+Proceeds from sale of a business,,2014-12-31
+Proceeds from sale of a business,12000000,2015-12-31
+Proceeds from sale of a business,,2016-12-31
+us-gaap_PaymentsToAcquireInterestInJointVenture,109000000,2014-12-31
+us-gaap_PaymentsToAcquireInterestInJointVenture,33000000,2015-12-31
+us-gaap_PaymentsToAcquireInterestInJointVenture,24000000,2016-12-31
+Cash received on realignment of equity investment,,2014-12-31
+Cash received on realignment of equity investment,0,2015-12-31
+Cash received on realignment of equity investment,4818000000,2016-12-31
+Proceeds from sale of assets to related party,,2014-12-31
+Proceeds from sale of assets to related party,,2015-12-31
+Proceeds from sale of assets to related party,42000000,2016-12-31
+(Payments) repayments of loans to unconsolidated entities,23000000,2014-12-31
+(Payments) repayments of loans to unconsolidated entities,6000000,2015-12-31
+(Payments) repayments of loans to unconsolidated entities,-23000000,2016-12-31
+us-gaap_PaymentsToAcquireShortTermInvestments,1398000000,2014-12-31
+us-gaap_PaymentsToAcquireShortTermInvestments,969000000,2015-12-31
+us-gaap_PaymentsToAcquireShortTermInvestments,20000000,2016-12-31
+Short-term investments – liquidations,1167000000,2014-12-31
+Short-term investments – liquidations,1629000000,2015-12-31
+Short-term investments – liquidations,121000000,2016-12-31
+Realized gains on translated earnings contracts,361000000,2014-12-31
+Realized gains on translated earnings contracts,653000000,2015-12-31
+Realized gains on translated earnings contracts,201000000,2016-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-4000000,2014-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,1000000,2015-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-10000000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-962000000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-685000000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,3662000000,2016-12-31
+Net repayments of short-term borrowings and current portion of long-term debt,-52000000,2014-12-31
+Net repayments of short-term borrowings and current portion of long-term debt,-12000000,2015-12-31
+Net repayments of short-term borrowings and current portion of long-term debt,-85000000,2016-12-31
+Proceeds from issuance of long-term debt,,2014-12-31
+Proceeds from issuance of long-term debt,745000000,2015-12-31
+Proceeds from issuance of long-term debt,0,2016-12-31
+"Proceeds from issuance of short-term debt, net",29000000,2014-12-31
+"Proceeds from issuance of short-term debt, net",3000000,2015-12-31
+"Proceeds from issuance of short-term debt, net",0,2016-12-31
+(Payments) proceeds from issuance of commercial paper,,2014-12-31
+(Payments) proceeds from issuance of commercial paper,481000000,2015-12-31
+(Payments) proceeds from issuance of commercial paper,-481000000,2016-12-31
+us-gaap_PaymentsForProceedsFromDerivativeInstrumentFinancingActivities,,2014-12-31
+us-gaap_PaymentsForProceedsFromDerivativeInstrumentFinancingActivities,10000000,2015-12-31
+us-gaap_PaymentsForProceedsFromDerivativeInstrumentFinancingActivities,,2016-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,6000000,2014-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,6000000,2015-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,7000000,2016-12-31
+Proceeds from issuance of preferred stock (1),400000000,2014-12-31
+Proceeds from issuance of preferred stock (1),,2015-12-31
+Proceeds from issuance of preferred stock (1),,2016-12-31
+"Proceeds received for asset financing and related incentives, net",1000000,2014-12-31
+"Proceeds received for asset financing and related incentives, net",1000000,2015-12-31
+"Proceeds received for asset financing and related incentives, net",1000000,2016-12-31
+Proceeds from the exercise of stock options,116000000,2014-12-31
+Proceeds from the exercise of stock options,102000000,2015-12-31
+Proceeds from the exercise of stock options,138000000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,2483000000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,3228000000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,4227000000,2016-12-31
+us-gaap_PaymentsOfOrdinaryDividends,591000000,2014-12-31
+us-gaap_PaymentsOfOrdinaryDividends,679000000,2015-12-31
+us-gaap_PaymentsOfOrdinaryDividends,645000000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-2586000000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-2603000000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-5306000000,2016-12-31
+Effect of exchange rates on cash,-556000000,2014-12-31
+Effect of exchange rates on cash,-330000000,2015-12-31
+Effect of exchange rates on cash,-86000000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,605000000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-809000000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,791000000,2016-12-31
+Cash and cash equivalents,4704000000,2013-12-31
+Cash and cash equivalents,5309000000,2014-12-31
+Cash and cash equivalents,4500000000,2015-12-31
+Cash and cash equivalents,5291000000,2016-12-31
+Cash and cash equivalents,4704000000,2013-12-31
+Cash and cash equivalents,5309000000,2014-12-31
+Cash and cash equivalents,4500000000,2015-12-31
+Cash and cash equivalents,5291000000,2016-12-31

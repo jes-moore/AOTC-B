@@ -1,0 +1,69 @@
+Metric,Amount,endDate
+"Revenue, Net",2335405000,2014-12-31
+"Revenue, Net",559566000,2015-03-31
+"Revenue, Net",560709000,2015-06-30
+"Revenue, Net",540933000,2015-09-30
+"Revenue, Net",479622000,2015-12-31
+"Revenue, Net",2140830000,2015-12-31
+"Revenue, Net",509927000,2016-03-31
+"Revenue, Net",521807000,2016-06-30
+"Revenue, Net",516090000,2016-09-30
+"Revenue, Net",501627000,2016-12-31
+"Revenue, Net",2049451000,2016-12-31
+Cost of Goods Sold,1669982000,2014-12-31
+Cost of Goods Sold,1461774000,2015-12-31
+Cost of Goods Sold,1368690000,2016-12-31
+Gross Profit,665423000,2014-12-31
+Gross Profit,181272000,2015-03-31
+Gross Profit,169708000,2015-06-30
+Gross Profit,174771000,2015-09-30
+Gross Profit,153305000,2015-12-31
+Gross Profit,679056000,2015-12-31
+Gross Profit,175550000,2016-03-31
+Gross Profit,178400000,2016-06-30
+Gross Profit,177401000,2016-09-30
+Gross Profit,149410000,2016-12-31
+Gross Profit,680761000,2016-12-31
+"Selling, General and Administrative Expense",163520000,2014-12-31
+"Selling, General and Administrative Expense",164082000,2015-12-31
+"Selling, General and Administrative Expense",161112000,2016-12-31
+Research and Development Expense,139183000,2014-12-31
+Research and Development Expense,158254000,2015-12-31
+Research and Development Expense,156959000,2016-12-31
+Operating Income (Loss),362720000,2014-12-31
+Operating Income (Loss),356720000,2015-12-31
+Operating Income (Loss),362690000,2016-12-31
+Interest Expense,16567000,2014-12-31
+Interest Expense,14652000,2015-12-31
+Interest Expense,16785000,2016-12-31
+Other Nonoperating Income (Expense),-7054000,2014-12-31
+Other Nonoperating Income (Expense),-3097000,2015-12-31
+Other Nonoperating Income (Expense),-2697000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",339099000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",338971000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",343208000,2016-12-31
+Income Tax Expense (Benefit),105844000,2014-12-31
+Income Tax Expense (Benefit),100368000,2015-12-31
+Income Tax Expense (Benefit),99767000,2016-12-31
+Net Income (Loss) Attributable to Parent,233255000,2014-12-31
+Net Income (Loss) Attributable to Parent,63947000,2015-03-31
+Net Income (Loss) Attributable to Parent,58733000,2015-06-30
+Net Income (Loss) Attributable to Parent,62009000,2015-09-30
+Net Income (Loss) Attributable to Parent,53914000,2015-12-31
+Net Income (Loss) Attributable to Parent,238603000,2015-12-31
+Net Income (Loss) Attributable to Parent,61931000,2016-03-31
+Net Income (Loss) Attributable to Parent,64389000,2016-06-30
+Net Income (Loss) Attributable to Parent,71449000,2016-09-30
+Net Income (Loss) Attributable to Parent,45672000,2016-12-31
+Net Income (Loss) Attributable to Parent,243441000,2016-12-31
+"Earnings Per Share, Basic and Diluted",18.38,2014-12-31
+"Earnings Per Share, Basic and Diluted",5.14,2015-03-31
+"Earnings Per Share, Basic and Diluted",4.72,2015-06-30
+"Earnings Per Share, Basic and Diluted",5.08,2015-09-30
+"Earnings Per Share, Basic and Diluted",4.50,2015-12-31
+"Earnings Per Share, Basic and Diluted",19.45,2015-12-31
+"Earnings Per Share, Basic and Diluted",5.22,2016-03-31
+"Earnings Per Share, Basic and Diluted",5.43,2016-06-30
+"Earnings Per Share, Basic and Diluted",6.03,2016-09-30
+"Earnings Per Share, Basic and Diluted",3.86,2016-12-31
+"Earnings Per Share, Basic and Diluted",20.54,2016-12-31

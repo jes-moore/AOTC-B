@@ -1,0 +1,68 @@
+Metric,Amount,endDate
+Cash and cash equivalents,224128000,2013-12-31
+Cash and cash equivalents,263314000,2014-12-31
+Cash and cash equivalents,7837000,2015-12-31
+Cash and cash equivalents,1785000,2016-12-31
+"Accounts receivable, net",61467000,2015-12-31
+"Accounts receivable, net",56302000,2016-12-31
+Inventories,5631000,2015-12-31
+Inventories,3112000,2016-12-31
+Prepaid expenses,11712000,2015-12-31
+Prepaid expenses,15431000,2016-12-31
+Other current assets,3312000,2015-12-31
+Other current assets,5938000,2016-12-31
+us-gaap_AssetsCurrent,89959000,2015-12-31
+us-gaap_AssetsCurrent,82568000,2016-12-31
+"Property, plant and equipment, net",931914000,2015-12-31
+"Property, plant and equipment, net",789710000,2016-12-31
+"Other intangible assets, net",35309000,2015-12-31
+"Other intangible assets, net",28039000,2016-12-31
+Other noncurrent assets,9347000,2015-12-31
+Other noncurrent assets,10129000,2016-12-31
+us-gaap_Assets,1829161000,2014-12-31
+us-gaap_Assets,1066529000,2015-12-31
+us-gaap_Assets,910446000,2016-12-31
+Accounts payable,24609000,2015-12-31
+Accounts payable,21119000,2016-12-31
+Accrued liabilities,14834000,2015-12-31
+Accrued liabilities,14378000,2016-12-31
+Income taxes,1104000,2015-12-31
+Income taxes,111000,2016-12-31
+Current portion of long-term debt,17461000,2015-12-31
+Current portion of long-term debt,15471000,2016-12-31
+Deferred revenue,7747000,2015-12-31
+Deferred revenue,6792000,2016-12-31
+Other current liabilities,493000,2015-12-31
+Other current liabilities,2572000,2016-12-31
+us-gaap_LiabilitiesCurrent,66248000,2015-12-31
+us-gaap_LiabilitiesCurrent,60443000,2016-12-31
+"Long-term debt, less current maturities",379416000,2015-12-31
+"Long-term debt, less current maturities",337800000,2016-12-31
+Deferred income taxes,25391000,2015-12-31
+Deferred income taxes,9194000,2016-12-31
+Other noncurrent liabilities,31704000,2015-12-31
+Other noncurrent liabilities,27019000,2016-12-31
+us-gaap_Liabilities,502759000,2015-12-31
+us-gaap_Liabilities,434456000,2016-12-31
+Commitments and contingencies (Note 13),,2015-12-31
+Commitments and contingencies (Note 13),,2016-12-31
+"Common shares (no par value; 550,000,000 shares authorized, 108,171,329 shares and 107,470,861 shares issued, respectively, and 108,103,048 shares and 107,470,861 shares outstanding, respectively)",0,2015-12-31
+"Common shares (no par value; 550,000,000 shares authorized, 108,171,329 shares and 107,470,861 shares issued, respectively, and 108,103,048 shares and 107,470,861 shares outstanding, respectively)",0,2016-12-31
+Additional paid-in capital,1305930000,2015-12-31
+Additional paid-in capital,1311226000,2016-12-31
+Accumulated deficit,-376376000,2015-12-31
+Accumulated deficit,-472764000,2016-12-31
+us-gaap_TreasuryStockValue,,2015-12-31
+us-gaap_TreasuryStockValue,65000,2016-12-31
+Accumulated other comprehensive loss,-366309000,2015-12-31
+Accumulated other comprehensive loss,-362930000,2016-12-31
+us-gaap_StockholdersEquity,563245000,2015-12-31
+us-gaap_StockholdersEquity,475467000,2016-12-31
+Noncontrolling interest,525000,2015-12-31
+Noncontrolling interest,523000,2016-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,1592745000,2013-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,860109000,2014-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,563770000,2015-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,475990000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1066529000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,910446000,2016-12-31

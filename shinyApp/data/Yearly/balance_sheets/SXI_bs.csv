@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+Cash and cash equivalents,51064000,2013-06-30
+Cash and cash equivalents,74260000,2014-06-30
+Cash and cash equivalents,96128000,2015-06-30
+Cash and cash equivalents,121988000,2016-06-30
+"Accounts receivable, net",110478000,2015-06-30
+"Accounts receivable, net",103974000,2016-06-30
+Inventories,108305000,2015-06-30
+Inventories,105402000,2016-06-30
+Prepaid expenses and other current assets,7070000,2015-06-30
+Prepaid expenses and other current assets,4784000,2016-06-30
+Income taxes receivable,747000,2015-06-30
+Income taxes receivable,1325000,2016-06-30
+us-gaap_DeferredTaxAssetsNetCurrent,12674000,2015-06-30
+us-gaap_DeferredTaxAssetsNetCurrent,16013000,2016-06-30
+Assets held for sale,,2015-06-30
+Assets held for sale,2363000,2016-06-30
+us-gaap_AssetsCurrent,335402000,2015-06-30
+us-gaap_AssetsCurrent,355849000,2016-06-30
+"Property, plant and equipment, net",108536000,2015-06-30
+"Property, plant and equipment, net",106686000,2016-06-30
+"Intangible assets, net",38048000,2015-06-30
+"Intangible assets, net",40412000,2016-06-30
+Goodwill,125965000,2014-06-30
+Goodwill,154732000,2015-06-30
+Goodwill,157354000,2016-06-30
+us-gaap_DeferredTaxAssetsNetNoncurrent,917000,2015-06-30
+us-gaap_DeferredTaxAssetsNetNoncurrent,11361000,2016-06-30
+us-gaap_OtherAssetsNoncurrent,21428000,2015-06-30
+us-gaap_OtherAssetsNoncurrent,18795000,2016-06-30
+us-gaap_AssetsNoncurrent,323661000,2015-06-30
+us-gaap_AssetsNoncurrent,334608000,2016-06-30
+us-gaap_Assets,659063000,2015-06-30
+us-gaap_Assets,690457000,2016-06-30
+Accounts payable,80764000,2015-06-30
+Accounts payable,77099000,2016-06-30
+Accrued liabilities,47742000,2015-06-30
+Accrued liabilities,50785000,2016-06-30
+Income taxes payable,10285000,2015-06-30
+Income taxes payable,4695000,2016-06-30
+Liabilities held for sale,,2015-06-30
+Liabilities held for sale,1528000,2016-06-30
+us-gaap_LiabilitiesCurrent,138791000,2015-06-30
+us-gaap_LiabilitiesCurrent,134107000,2016-06-30
+Long-term debt,101753000,2015-06-30
+Long-term debt,92114000,2016-06-30
+us-gaap_DeferredTaxLiabilitiesNoncurrent,7368000,2015-06-30
+us-gaap_DeferredTaxLiabilitiesNoncurrent,5941000,2016-06-30
+Pension obligations,53422000,2015-06-30
+Pension obligations,78013000,2016-06-30
+Other non-current liabilities,9159000,2015-06-30
+Other non-current liabilities,10323000,2016-06-30
+us-gaap_LiabilitiesNoncurrent,171702000,2015-06-30
+us-gaap_LiabilitiesNoncurrent,186391000,2016-06-30
+Commitments and Contingencies (Notes 11 and 12),,2015-06-30
+Commitments and Contingencies (Notes 11 and 12),,2016-06-30
+"Common stock, par value $1.50 per share - 60,000,000 shares authorized, 27,984,278 issued, 12,674,458 and 12,651,488 shares outstanding in 2016 and 2015",41976000,2015-06-30
+"Common stock, par value $1.50 per share - 60,000,000 shares authorized, 27,984,278 issued, 12,674,458 and 12,651,488 shares outstanding in 2016 and 2015",41976000,2016-06-30
+Additional paid-in capital,47254000,2015-06-30
+Additional paid-in capital,52374000,2016-06-30
+Retained earnings,632864000,2015-06-30
+Retained earnings,678002000,2016-06-30
+Accumulated other comprehensive loss,-93017000,2015-06-30
+Accumulated other comprehensive loss,-117975000,2016-06-30
+us-gaap_TreasuryStockValue,280507000,2015-06-30
+us-gaap_TreasuryStockValue,284418000,2016-06-30
+us-gaap_StockholdersEquity,348570000,2015-06-30
+us-gaap_StockholdersEquity,369959000,2016-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,659063000,2015-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,690457000,2016-06-30

@@ -1,0 +1,93 @@
+Metric,Amount,endDate
+Net loss,-19398000,2014-12-31
+Net loss,-21283000,2015-12-31
+Net loss,-17710000,2016-12-31
+us-gaap_Depreciation,1285000,2014-12-31
+us-gaap_Depreciation,1615000,2015-12-31
+us-gaap_Depreciation,2180000,2016-12-31
+us-gaap_ShareBasedCompensation,4664000,2014-12-31
+us-gaap_ShareBasedCompensation,7794000,2015-12-31
+us-gaap_ShareBasedCompensation,12938000,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets,10000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets,4000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets,2000,2016-12-31
+us-gaap_AmortizationOfFinancingCosts,187000,2014-12-31
+us-gaap_AmortizationOfFinancingCosts,,2015-12-31
+us-gaap_AmortizationOfFinancingCosts,,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,9601000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,9567000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,6425000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-19000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-796000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,1028000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,540000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-91000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-1324000,2016-12-31
+Accrued expenses and other short term liabilities,5541000,2014-12-31
+Accrued expenses and other short term liabilities,6270000,2015-12-31
+Accrued expenses and other short term liabilities,5302000,2016-12-31
+Severance pay,348000,2014-12-31
+Severance pay,79000,2015-12-31
+Severance pay,136000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,8517000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,11554000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,13269000,2016-12-31
+Other long term liabilities,798000,2014-12-31
+Other long term liabilities,108000,2015-12-31
+Other long term liabilities,11000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,-7110000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,-2729000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,7347000,2016-12-31
+vrns_IncreaseDecreaseInShortTermDeposits,30758000,2014-12-31
+vrns_IncreaseDecreaseInShortTermDeposits,22001000,2015-12-31
+vrns_IncreaseDecreaseInShortTermDeposits,8390000,2016-12-31
+vrns_IncreaseDecreaseInLongTermDeposits,-39000,2014-12-31
+vrns_IncreaseDecreaseInLongTermDeposits,-11000,2015-12-31
+vrns_IncreaseDecreaseInLongTermDeposits,111000,2016-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,-230000,2014-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,156000,2015-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,21000,2016-12-31
+Proceeds from sale of property and equipment,,2014-12-31
+Proceeds from sale of property and equipment,4000,2015-12-31
+Proceeds from sale of property and equipment,2000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,2333000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4536000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,3825000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-32822000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-26678000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-12345000,2016-12-31
+"Proceeds from employee stock plans, net",382000,2014-12-31
+"Proceeds from employee stock plans, net",2055000,2015-12-31
+"Proceeds from employee stock plans, net",4072000,2016-12-31
+us-gaap_PaymentsOfStockIssuanceCosts,1937000,2014-12-31
+us-gaap_PaymentsOfStockIssuanceCosts,,2015-12-31
+us-gaap_PaymentsOfStockIssuanceCosts,,2016-12-31
+Net proceeds from initial public offering,108447000,2014-12-31
+Net proceeds from initial public offering,,2015-12-31
+Net proceeds from initial public offering,,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,106892000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,2055000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,4072000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,66960000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-27352000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-926000,2016-12-31
+Cash and cash equivalents,9633000,2013-12-31
+Cash and cash equivalents,76593000,2014-12-31
+Cash and cash equivalents,49241000,2015-12-31
+Cash and cash equivalents,48315000,2016-12-31
+Cash and cash equivalents,9633000,2013-12-31
+Cash and cash equivalents,76593000,2014-12-31
+Cash and cash equivalents,49241000,2015-12-31
+Cash and cash equivalents,48315000,2016-12-31
+Deferred rent fixed asset additions,1071000,2014-12-31
+Deferred rent fixed asset additions,1355000,2015-12-31
+Deferred rent fixed asset additions,583000,2016-12-31
+Conversion of preferred stock to common stock,43775000,2014-12-31
+Conversion of preferred stock to common stock,,2015-12-31
+Conversion of preferred stock to common stock,,2016-12-31
+Conversion of liability warrants to equity,2866000,2014-12-31
+Conversion of liability warrants to equity,,2015-12-31
+Conversion of liability warrants to equity,,2016-12-31
+Cash paid for income taxes,304000,2014-12-31
+Cash paid for income taxes,354000,2015-12-31
+Cash paid for income taxes,246000,2016-12-31

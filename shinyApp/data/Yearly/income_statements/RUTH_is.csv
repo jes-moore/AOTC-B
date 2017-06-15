@@ -1,0 +1,217 @@
+Metric,Amount,endDate
+Restaurant sales,325437000,2014-12-28
+Restaurant sales,351875000,2015-12-27
+Restaurant sales,363147000,2016-12-25
+Franchise income,15763000,2014-12-28
+Franchise income,16661000,2015-12-27
+Franchise income,17301000,2016-12-25
+Other operating income,4897000,2014-12-28
+Other operating income,4897000,2015-12-27
+Other operating income,5499000,2016-12-25
+Total revenues,346097000,2014-12-28
+Total revenues,97344000,2015-03-29
+Total revenues,373433000,2015-12-27
+Total revenues,91049000,2015-06-28
+Total revenues,80292000,2015-09-27
+Total revenues,104747000,2015-12-27
+Total revenues,101890000,2016-03-27
+Total revenues,385947000,2016-12-25
+Total revenues,92654000,2016-06-26
+Total revenues,83774000,2016-09-25
+Total revenues,107629000,2016-12-25
+Food and beverage costs,103259000,2014-12-28
+Food and beverage costs,108101000,2015-12-27
+Food and beverage costs,107075000,2016-12-25
+Restaurant operating expenses,156242000,2014-12-28
+Restaurant operating expenses,165847000,2015-12-27
+Restaurant operating expenses,172999000,2016-12-25
+Marketing and advertising,10076000,2014-12-28
+Marketing and advertising,10925000,2015-12-27
+Marketing and advertising,11406000,2016-12-25
+General and administrative costs,24311000,2014-12-28
+General and administrative costs,30242000,2015-12-27
+General and administrative costs,31488000,2016-12-25
+Depreciation and amortization expenses,10917000,2014-12-28
+Depreciation and amortization expenses,12520000,2015-12-27
+Depreciation and amortization expenses,13434000,2016-12-25
+Pre-opening costs,1630000,2014-12-28
+Pre-opening costs,1032000,2015-12-27
+Pre-opening costs,1986000,2016-12-25
+us-gaap_CostsAndExpenses,306435000,2014-12-28
+us-gaap_CostsAndExpenses,81136000,2015-03-29
+us-gaap_CostsAndExpenses,328667000,2015-12-27
+us-gaap_CostsAndExpenses,79645000,2015-06-28
+us-gaap_CostsAndExpenses,76137000,2015-09-27
+us-gaap_CostsAndExpenses,91750000,2015-12-27
+us-gaap_CostsAndExpenses,85456000,2016-03-27
+us-gaap_CostsAndExpenses,338388000,2016-12-25
+us-gaap_CostsAndExpenses,82193000,2016-06-26
+us-gaap_CostsAndExpenses,78173000,2016-09-25
+us-gaap_CostsAndExpenses,92566000,2016-12-25
+Operating income,39662000,2014-12-28
+Operating income,16208000,2015-03-29
+Operating income,44766000,2015-12-27
+Operating income,11404000,2015-06-28
+Operating income,4155000,2015-09-27
+Operating income,12997000,2015-12-27
+Operating income,16434000,2016-03-27
+Operating income,47559000,2016-12-25
+Operating income,10461000,2016-06-26
+Operating income,5601000,2016-09-25
+Operating income,15063000,2016-12-25
+us-gaap_InterestExpense,1159000,2014-12-28
+us-gaap_InterestExpense,226000,2015-03-29
+us-gaap_InterestExpense,790000,2015-12-27
+us-gaap_InterestExpense,174000,2015-06-28
+us-gaap_InterestExpense,188000,2015-09-27
+us-gaap_InterestExpense,202000,2015-12-27
+us-gaap_InterestExpense,213000,2016-03-27
+us-gaap_InterestExpense,1154000,2016-12-25
+us-gaap_InterestExpense,253000,2016-06-26
+us-gaap_InterestExpense,333000,2016-09-25
+us-gaap_InterestExpense,355000,2016-12-25
+Other,37000,2014-12-28
+Other,358000,2015-12-27
+Other,7000,2016-03-27
+Other,10000,2016-12-25
+Other,144000,2016-06-26
+Other,-92000,2016-09-25
+Other,-50000,2016-12-25
+Income from continuing operations before income tax expense,38540000,2014-12-28
+Income from continuing operations before income tax expense,15997000,2015-03-29
+Income from continuing operations before income tax expense,44334000,2015-12-27
+Income from continuing operations before income tax expense,11246000,2015-06-28
+Income from continuing operations before income tax expense,3976000,2015-09-27
+Income from continuing operations before income tax expense,13113000,2015-12-27
+Income from continuing operations before income tax expense,16228000,2016-03-27
+Income from continuing operations before income tax expense,46415000,2016-12-25
+Income from continuing operations before income tax expense,10352000,2016-06-26
+Income from continuing operations before income tax expense,5176000,2016-09-25
+Income from continuing operations before income tax expense,14658000,2016-12-25
+,11830000,2014-12-28
+,5229000,2015-03-29
+,14168000,2015-12-27
+,3577000,2015-06-28
+,1338000,2015-09-27
+,4023000,2015-12-27
+,5346000,2016-03-27
+,15660000,2016-12-25
+,3396000,2016-06-26
+,1668000,2016-09-25
+,5250000,2016-12-25
+Income from continuing operations,26710000,2014-12-28
+Income from continuing operations,10768000,2015-03-29
+Income from continuing operations,30166000,2015-12-27
+Income from continuing operations,7669000,2015-06-28
+Income from continuing operations,2638000,2015-09-27
+Income from continuing operations,9090000,2015-12-27
+Income from continuing operations,10882000,2016-03-27
+Income from continuing operations,30755000,2016-12-25
+Income from continuing operations,6956000,2016-06-26
+Income from continuing operations,3508000,2016-09-25
+Income from continuing operations,9408000,2016-12-25
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-10255000,2014-12-28
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-357000,2015-03-29
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-162000,2015-12-27
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-153000,2015-06-28
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-73000,2015-09-27
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",420000,2015-12-27
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-120000,2016-03-27
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-290000,2016-12-25
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-48000,2016-06-26
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",75000,2016-09-25
+"Loss from discontinued operations, net of income tax benefit: 2016-($186); 2015-($869); 2014-($7,472)",-197000,2016-12-25
+Net income (loss),16455000,2014-12-28
+Net income (loss),10411000,2015-03-29
+Net income (loss),30004000,2015-12-27
+Net income (loss),7516000,2015-06-28
+Net income (loss),2565000,2015-09-27
+Net income (loss),9510000,2015-12-27
+Net income (loss),10762000,2016-03-27
+Net income (loss),30465000,2016-12-25
+Net income (loss),6908000,2016-06-26
+Net income (loss),3583000,2016-09-25
+Net income (loss),9211000,2016-12-25
+Continuing operations (in dollars per share),0.76,2014-12-28
+Continuing operations (in dollars per share),0.31,2015-03-29
+Continuing operations (in dollars per share),0.88,2015-12-27
+Continuing operations (in dollars per share),0.22,2015-06-28
+Continuing operations (in dollars per share),0.08,2015-09-27
+Continuing operations (in dollars per share),0.27,2015-12-27
+Continuing operations (in dollars per share),0.33,2016-03-27
+Continuing operations (in dollars per share),0.97,2016-12-25
+Continuing operations (in dollars per share),0.22,2016-06-26
+Continuing operations (in dollars per share),0.11,2016-09-25
+Continuing operations (in dollars per share),0.31,2016-12-25
+Discontinued operations (in dollars per share),-0.29,2014-12-28
+Discontinued operations (in dollars per share),-0.01,2015-03-29
+Discontinued operations (in dollars per share),0,2015-12-27
+Discontinued operations (in dollars per share),0,2015-06-28
+Discontinued operations (in dollars per share),0,2015-09-27
+Discontinued operations (in dollars per share),0.01,2015-12-27
+Discontinued operations (in dollars per share),0,2016-03-27
+Discontinued operations (in dollars per share),-0.01,2016-12-25
+Discontinued operations (in dollars per share),0,2016-06-26
+Discontinued operations (in dollars per share),0,2016-09-25
+Discontinued operations (in dollars per share),-0.01,2016-12-25
+Basic earnings per share (in dollars per share),0.47,2014-12-28
+Basic earnings per share (in dollars per share),0.30,2015-03-29
+Basic earnings per share (in dollars per share),0.88,2015-12-27
+Basic earnings per share (in dollars per share),0.22,2015-06-28
+Basic earnings per share (in dollars per share),0.08,2015-09-27
+Basic earnings per share (in dollars per share),0.28,2015-12-27
+Basic earnings per share (in dollars per share),0.33,2016-03-27
+Basic earnings per share (in dollars per share),0.96,2016-12-25
+Basic earnings per share (in dollars per share),0.22,2016-06-26
+Basic earnings per share (in dollars per share),0.11,2016-09-25
+Basic earnings per share (in dollars per share),0.30,2016-12-25
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.75,2014-12-28
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.31,2015-03-29
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.87,2015-12-27
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.22,2015-06-28
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.08,2015-09-27
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.27,2015-12-27
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.33,2016-03-27
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.96,2016-12-25
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.21,2016-06-26
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.11,2016-09-25
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.31,2016-12-25
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,-0.29,2014-12-28
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,-0.01,2015-03-29
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2015-12-27
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2015-06-28
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2015-09-27
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0.01,2015-12-27
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2016-03-27
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,-0.01,2016-12-25
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2016-06-26
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0,2016-09-25
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,-0.01,2016-12-25
+Diluted earnings per common share (in dollars per share),0.46,2014-12-28
+Diluted earnings per common share (in dollars per share),0.30,2015-03-29
+Diluted earnings per common share (in dollars per share),0.87,2015-12-27
+Diluted earnings per common share (in dollars per share),0.22,2015-06-28
+Diluted earnings per common share (in dollars per share),0.08,2015-09-27
+Diluted earnings per common share (in dollars per share),0.28,2015-12-27
+Diluted earnings per common share (in dollars per share),0.33,2016-03-27
+Diluted earnings per common share (in dollars per share),0.95,2016-12-25
+Diluted earnings per common share (in dollars per share),0.21,2016-06-26
+Diluted earnings per common share (in dollars per share),0.11,2016-09-25
+Diluted earnings per common share (in dollars per share),0.30,2016-12-25
+Basic (in shares),34955760,2014-12-28
+Basic (in shares),34018582,2015-12-27
+Basic (in shares),31670189,2016-12-25
+Diluted (in shares),35415483,2014-12-28
+Diluted (in shares),34434407,2015-12-27
+Diluted (in shares),32108965,2016-12-25
+Dividends declared per common share (in dollars per share),0.20,2014-12-28
+Dividends declared per common share (in dollars per share),0.06,2015-03-29
+Dividends declared per common share (in dollars per share),0.24,2015-12-27
+Dividends declared per common share (in dollars per share),0.06,2015-06-28
+Dividends declared per common share (in dollars per share),0.06,2015-09-27
+Dividends declared per common share (in dollars per share),0.06,2015-12-27
+Dividends declared per common share (in dollars per share),0.07,2016-03-27
+Dividends declared per common share (in dollars per share),0.28,2016-12-25
+Dividends declared per common share (in dollars per share),0.07,2016-06-26
+Dividends declared per common share (in dollars per share),0.07,2016-09-25
+Dividends declared per common share (in dollars per share),0.07,2016-12-25

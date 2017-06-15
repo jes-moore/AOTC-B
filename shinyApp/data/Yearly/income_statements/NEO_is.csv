@@ -1,0 +1,129 @@
+Metric,Amount,endDate
+Clinical Testing Revenue,86408000,2014-12-31
+Clinical Testing Revenue,98595000,2015-12-31
+Clinical Testing Revenue,222015000,2016-12-31
+Pharma Services,661000,2014-12-31
+Pharma Services,1207000,2015-12-31
+Pharma Services,22068000,2016-12-31
+Sales Revenue Services Net,87069000,2014-12-31
+Sales Revenue Services Net,23026000,2015-03-31
+Sales Revenue Services Net,99802000,2015-12-31
+Sales Revenue Services Net,24370000,2015-06-30
+Sales Revenue Services Net,25126000,2015-09-30
+Sales Revenue Services Net,27280000,2015-12-31
+Sales Revenue Services Net,59704000,2016-03-31
+Sales Revenue Services Net,244083000,2016-12-31
+Sales Revenue Services Net,63129000,2016-06-30
+Sales Revenue Services Net,60761000,2016-09-30
+Sales Revenue Services Net,60489000,2016-12-31
+Cost Of Services,46355000,2014-12-31
+Cost Of Services,56046000,2015-12-31
+Cost Of Services,133704000,2016-12-31
+Gross Profit,40714000,2014-12-31
+Gross Profit,9544000,2015-03-31
+Gross Profit,43756000,2015-12-31
+Gross Profit,10813000,2015-06-30
+Gross Profit,11171000,2015-09-30
+Gross Profit,12228000,2015-12-31
+Gross Profit,27173000,2016-03-31
+Gross Profit,110379000,2016-12-31
+Gross Profit,28605000,2016-06-30
+Gross Profit,27345000,2016-09-30
+Gross Profit,27256000,2016-12-31
+General And Administrative Expense,23808000,2014-12-31
+General And Administrative Expense,33631000,2015-12-31
+General And Administrative Expense,75782000,2016-12-31
+Research And Development Expense,2689000,2014-12-31
+Research And Development Expense,4198000,2015-12-31
+Research And Development Expense,4649000,2016-12-31
+Selling And Marketing Expense,11999000,2014-12-31
+Selling And Marketing Expense,11562000,2015-12-31
+Selling And Marketing Expense,23910000,2016-12-31
+Impairment Of Intangible Assets Finitelived,3464000,2016-12-31
+Operating Expenses,38496000,2014-12-31
+Operating Expenses,49391000,2015-12-31
+Operating Expenses,107805000,2016-12-31
+Operating Income Loss,2218000,2014-12-31
+Operating Income Loss,-5635000,2015-12-31
+Operating Income Loss,2574000,2016-12-31
+Interest And Debt Expense,985000,2014-12-31
+Interest And Debt Expense,854000,2015-12-31
+Interest And Debt Expense,9998000,2016-12-31
+Other Nonoperating Income Expense,56000,2014-12-31
+Other Nonoperating Income Expense,2000000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,1289000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-4489000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-7424000,2016-12-31
+Income Tax Expense Benefit,157000,2014-12-31
+Income Tax Expense Benefit,-1954000,2015-12-31
+Income Tax Expense Benefit,-1701000,2016-12-31
+Net Income Loss,1132000,2014-12-31
+Net Income Loss,-761000,2015-03-31
+Net Income Loss,-2535000,2015-12-31
+Net Income Loss,-176000,2015-06-30
+Net Income Loss,-125000,2015-09-30
+Net Income Loss,-1473000,2015-12-31
+Net Income Loss,155000,2016-03-31
+Net Income Loss,-5723000,2016-12-31
+Net Income Loss,413000,2016-06-30
+Net Income Loss,-67000,2016-09-30
+Net Income Loss,-6224000,2016-12-31
+Redeemable Preferred Stock Dividends,40000,2015-12-31
+Redeemable Preferred Stock Dividends,18011000,2016-12-31
+Amortization Of Preferred Stock Beneficial Conversion Feature,82000,2015-12-31
+Amortization Of Preferred Stock Beneficial Conversion Feature,6663000,2016-12-31
+Net Income Loss Available To Common Stockholders Basic,1132000,2014-12-31
+Net Income Loss Available To Common Stockholders Basic,-761000,2015-03-31
+Net Income Loss Available To Common Stockholders Basic,-2657000,2015-12-31
+Net Income Loss Available To Common Stockholders Basic,-176000,2015-06-30
+Net Income Loss Available To Common Stockholders Basic,-125000,2015-09-30
+Net Income Loss Available To Common Stockholders Basic,-1595000,2015-12-31
+Net Income Loss Available To Common Stockholders Basic,-5412000,2016-03-31
+Net Income Loss Available To Common Stockholders Basic,-30397000,2016-12-31
+Net Income Loss Available To Common Stockholders Basic,-5154000,2016-06-30
+Net Income Loss Available To Common Stockholders Basic,-5634000,2016-09-30
+Net Income Loss Available To Common Stockholders Basic,-14197000,2016-12-31
+Income Loss From Continuing Operations Per Basic Share,0.02,2014-12-31
+Income Loss From Continuing Operations Per Basic Share,-0.01,2015-03-31
+Income Loss From Continuing Operations Per Basic Share,-0.04,2015-12-31
+Income Loss From Continuing Operations Per Basic Share,0.00,2015-06-30
+Income Loss From Continuing Operations Per Basic Share,0.00,2015-09-30
+Income Loss From Continuing Operations Per Basic Share,-0.03,2015-12-31
+Income Loss From Continuing Operations Per Basic Share,-0.07,2016-03-31
+Income Loss From Continuing Operations Per Basic Share,-0.39,2016-12-31
+Income Loss From Continuing Operations Per Basic Share,-0.07,2016-06-30
+Income Loss From Continuing Operations Per Basic Share,-0.07,2016-09-30
+Income Loss From Continuing Operations Per Basic Share,-0.18,2016-12-31
+Income Loss From Continuing Operations Per Diluted Share,0.02,2014-12-31
+Income Loss From Continuing Operations Per Diluted Share,-0.01,2015-03-31
+Income Loss From Continuing Operations Per Diluted Share,-0.04,2015-12-31
+Income Loss From Continuing Operations Per Diluted Share,0.00,2015-06-30
+Income Loss From Continuing Operations Per Diluted Share,0.00,2015-09-30
+Income Loss From Continuing Operations Per Diluted Share,-0.03,2015-12-31
+Income Loss From Continuing Operations Per Diluted Share,-0.07,2016-03-31
+Income Loss From Continuing Operations Per Diluted Share,-0.39,2016-12-31
+Income Loss From Continuing Operations Per Diluted Share,-0.07,2016-06-30
+Income Loss From Continuing Operations Per Diluted Share,-0.07,2016-09-30
+Income Loss From Continuing Operations Per Diluted Share,-0.18,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,53483000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,60277000,2015-03-31
+Weighted Average Number Of Shares Outstanding Basic,60526000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,60425000,2015-06-30
+Weighted Average Number Of Shares Outstanding Basic,60537000,2015-09-30
+Weighted Average Number Of Shares Outstanding Basic,60859000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,76068000,2016-03-31
+Weighted Average Number Of Shares Outstanding Basic,77542000,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,77448000,2016-06-30
+Weighted Average Number Of Shares Outstanding Basic,78145000,2016-09-30
+Weighted Average Number Of Shares Outstanding Basic,78490000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,56016000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,60277000,2015-03-31
+Weighted Average Number Of Diluted Shares Outstanding,60526000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,60425000,2015-06-30
+Weighted Average Number Of Diluted Shares Outstanding,60537000,2015-09-30
+Weighted Average Number Of Diluted Shares Outstanding,60859000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,76068000,2016-03-31
+Weighted Average Number Of Diluted Shares Outstanding,77542000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,77448000,2016-06-30
+Weighted Average Number Of Diluted Shares Outstanding,78145000,2016-09-30
+Weighted Average Number Of Diluted Shares Outstanding,78490000,2016-12-31

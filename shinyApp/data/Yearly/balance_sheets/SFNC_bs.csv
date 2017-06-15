@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+Cash and non-interest bearing balances due from banks,97656000,2015-12-31
+Cash and non-interest bearing balances due from banks,117007000,2016-12-31
+us-gaap_InterestBearingDepositsInBanks,154606000,2015-12-31
+us-gaap_InterestBearingDepositsInBanks,168652000,2016-12-31
+Cash and cash equivalents,252262000,2015-12-31
+Cash and cash equivalents,285659000,2016-12-31
+Interest bearing balances due from banks – time,14107000,2015-12-31
+Interest bearing balances due from banks – time,4563000,2016-12-31
+Held-to-maturity,705373000,2015-12-31
+Held-to-maturity,462096000,2016-12-31
+Available-for-sale,821407000,2015-12-31
+Available-for-sale,1157354000,2016-12-31
+Investment securities,1526780000,2015-12-31
+Investment securities,1619450000,2016-12-31
+Mortgage loans held for sale,30265000,2015-12-31
+Mortgage loans held for sale,27788000,2016-12-31
+us-gaap_TradingSecurities,4422000,2015-12-31
+us-gaap_TradingSecurities,41000,2016-12-31
+Legacy loans,3246454000,2015-12-31
+Legacy loans,4327207000,2016-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,31351000,2015-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,36286000,2016-12-31
+"Loans acquired, net of discount and allowance",1672901000,2015-12-31
+"Loans acquired, net of discount and allowance",1305683000,2016-12-31
+Loans,4888004000,2015-12-31
+Loans,5596604000,2016-12-31
+Premises and equipment,193618000,2015-12-31
+Premises and equipment,199359000,2016-12-31
+Premises held for sale,923000,2015-12-31
+Premises held for sale,6052000,2016-12-31
+Foreclosed assets,44820000,2015-12-31
+Foreclosed assets,26895000,2016-12-31
+Interest receivable,25793000,2015-12-31
+Interest receivable,27788000,2016-12-31
+Bank owned life insurance,131536000,2015-12-31
+Bank owned life insurance,138620000,2016-12-31
+Goodwill,327686000,2015-12-31
+Goodwill,348505000,2016-12-31
+Other intangible assets,53237000,2015-12-31
+Other intangible assets,52959000,2016-12-31
+Other assets,66205000,2015-12-31
+Other assets,65773000,2016-12-31
+TOTAL ASSETS,7559658000,2015-12-31
+TOTAL ASSETS,8400056000,2016-12-31
+Non-interest bearing transaction accounts,1280234000,2015-12-31
+Non-interest bearing transaction accounts,1491676000,2016-12-31
+Interest bearing transaction accounts and savings deposits,3485845000,2015-12-31
+Interest bearing transaction accounts and savings deposits,3956483000,2016-12-31
+Time deposits,1320017000,2015-12-31
+Time deposits,1287060000,2016-12-31
+us-gaap_Deposits,6086096000,2015-12-31
+us-gaap_Deposits,6735219000,2016-12-31
+Federal funds purchased and securities sold under agreements to repurchase,99398000,2015-12-31
+Federal funds purchased and securities sold under agreements to repurchase,115029000,2016-12-31
+Other borrowings,162289000,2015-12-31
+Other borrowings,273159000,2016-12-31
+Subordinated debentures,60570000,2015-12-31
+Subordinated debentures,60397000,2016-12-31
+us-gaap_AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent,74450000,2015-12-31
+us-gaap_AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent,65141000,2016-12-31
+Total liabilities,6482803000,2015-12-31
+Total liabilities,7248945000,2016-12-31
+"Preferred stock, 40,040,000 shares authorized; Series A, $0.01 par value, $1,000 liquidation value per share; 30,852 shares issued and outstanding at December 31, 2015",30852000,2015-12-31
+"Preferred stock, 40,040,000 shares authorized; Series A, $0.01 par value, $1,000 liquidation value per share; 30,852 shares issued and outstanding at December 31, 2015",,2016-12-31
+"Common stock, Class A, $0.01 par value; 120,000,000 shares authorized; 31,277,723 and 30,278,432 shares issued and outstanding at December 31, 2016 and 2015, respectively",303000,2015-12-31
+"Common stock, Class A, $0.01 par value; 120,000,000 shares authorized; 31,277,723 and 30,278,432 shares issued and outstanding at December 31, 2016 and 2015, respectively",313000,2016-12-31
+Surplus,662378000,2015-12-31
+Surplus,711976000,2016-12-31
+Undivided profits,385987000,2015-12-31
+Undivided profits,454034000,2016-12-31
+Accumulated other comprehensive loss,-2665000,2015-12-31
+Accumulated other comprehensive loss,-15212000,2016-12-31
+Total stockholders’ equity,403832000,2013-12-31
+Total stockholders’ equity,494319000,2014-12-31
+Total stockholders’ equity,1076855000,2015-12-31
+Total stockholders’ equity,1151111000,2016-12-31
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY,7559658000,2015-12-31
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY,8400056000,2016-12-31

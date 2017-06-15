@@ -1,0 +1,94 @@
+Metric,Amount,endDate
+Net income,126333000,2014-12-31
+Net income,95262000,2015-12-31
+Net income,82734000,2016-12-31
+Depreciation and amortization,70206000,2014-12-31
+Depreciation and amortization,73329000,2015-12-31
+Depreciation and amortization,73390000,2016-12-31
+Stock-based compensation,25759000,2014-12-31
+Stock-based compensation,25489000,2015-12-31
+Stock-based compensation,25832000,2016-12-31
+"Deferred Income Tax Expense (Benefit), Net",-3240000,2014-12-31
+"Deferred Income Tax Expense (Benefit), Net",11019000,2015-12-31
+"Deferred Income Tax Expense (Benefit), Net",-5430000,2016-12-31
+Tax (benefit) expense from stock option plans,1242000,2014-12-31
+Tax (benefit) expense from stock option plans,967000,2015-12-31
+Tax (benefit) expense from stock option plans,442000,2016-12-31
+Purchase price adjustment,1585000,2016-12-31
+Accounts receivable,21649000,2014-12-31
+Accounts receivable,11760000,2015-12-31
+Accounts receivable,12441000,2016-12-31
+Increase (Decrease) in Inventories,943000,2014-12-31
+Increase (Decrease) in Inventories,8381000,2015-12-31
+Increase (Decrease) in Inventories,8412000,2016-12-31
+Prepaid expenses and other assets,16864000,2014-12-31
+Prepaid expenses and other assets,13126000,2015-12-31
+Prepaid expenses and other assets,-14211000,2016-12-31
+Accounts payable,1989000,2014-12-31
+Accounts payable,-9003000,2015-12-31
+Accounts payable,-2170000,2016-12-31
+Increase Decrease In Deferred Revenue,14910000,2014-12-31
+Increase Decrease In Deferred Revenue,5656000,2015-12-31
+Increase Decrease In Deferred Revenue,5338000,2016-12-31
+Taxes Accrued Expenses And Other Liabilities,149000,2014-12-31
+Taxes Accrued Expenses And Other Liabilities,4881000,2015-12-31
+Taxes Accrued Expenses And Other Liabilities,-21645000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,195110000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,162637000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,195840000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",44944000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",33987000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",44425000,2016-12-31
+Capitalization of internally developed software,25781000,2014-12-31
+Capitalization of internally developed software,31356000,2015-12-31
+Capitalization of internally developed software,31859000,2016-12-31
+Payments to Acquire Intangible Assets,2834000,2014-12-31
+Payments to Acquire Intangible Assets,2811000,2015-12-31
+Payments to Acquire Intangible Assets,2342000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",125612000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",549000,2016-12-31
+Payments to Acquire Investments,123849000,2014-12-31
+Payments to Acquire Investments,36063000,2015-12-31
+Payments to Acquire Investments,39097000,2016-12-31
+Sales and maturities of short-term investments,89835000,2014-12-31
+Sales and maturities of short-term investments,151437000,2015-12-31
+Sales and maturities of short-term investments,47769000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-107573000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-78392000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-70503000,2016-12-31
+Proceeds from Lines of Credit,54000000,2015-12-31
+Proceeds from Lines of Credit,15000000,2016-12-31
+Repayments of Lines of Credit,17000000,2015-12-31
+Repayments of Lines of Credit,27000000,2016-12-31
+Proceeds from issuance of common stock,31275000,2014-12-31
+Proceeds from issuance of common stock,27785000,2015-12-31
+Proceeds from issuance of common stock,28907000,2016-12-31
+Payments for Repurchase of Common Stock,75255000,2015-12-31
+Payments for Repurchase of Common Stock,5635000,2016-12-31
+"Payments of Dividends, Common Stock",76287000,2014-12-31
+"Payments of Dividends, Common Stock",97643000,2015-12-31
+"Payments of Dividends, Common Stock",102897000,2016-12-31
+Tax benefit (expense) from stock option plans,1242000,2014-12-31
+Tax benefit (expense) from stock option plans,967000,2015-12-31
+Tax benefit (expense) from stock option plans,442000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-43770000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,-107146000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,-91183000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",43767000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-22901000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",34154000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",230263000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",274030000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",251129000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",285283000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",230263000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",274030000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",251129000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",285283000,2016-12-31
+"Noncash or Part Noncash Acquisition, Noncash Financial or Equity Instrument Consideration, Shares Issued",13778000,2015-12-31
+"Interest Paid, Net",144000,2014-12-31
+"Interest Paid, Net",287000,2015-12-31
+"Interest Paid, Net",520000,2016-12-31
+"Income Taxes Paid, Net",28003000,2014-12-31
+"Income Taxes Paid, Net",29038000,2015-12-31
+"Income Taxes Paid, Net",2902000,2016-12-31

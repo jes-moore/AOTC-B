@@ -1,0 +1,75 @@
+Metric,Amount,endDate
+"Cash and Cash Equivalents, at Carrying Value",24100000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",76000000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",50700000,2016-12-31
+"Accounts Receivable, Net, Current",73000000,2015-12-31
+"Accounts Receivable, Net, Current",81300000,2016-12-31
+"Inventory, Net",87200000,2015-12-31
+"Inventory, Net",120100000,2016-12-31
+"Prepaid Expense, Current",15100000,2015-12-31
+"Prepaid Expense, Current",7500000,2016-12-31
+"Disposal Group, Including Discontinued Operation, Assets, Current",63800000,2015-12-31
+"Disposal Group, Including Discontinued Operation, Assets, Current",0,2016-12-31
+"Assets, Current",315100000,2015-12-31
+"Assets, Current",259600000,2016-12-31
+"Property, Plant and Equipment, Net",45000000,2015-12-31
+"Property, Plant and Equipment, Net",42900000,2016-12-31
+"Property Subject to or Available for Operating Lease, Net",7900000,2015-12-31
+"Property Subject to or Available for Operating Lease, Net",80800000,2016-12-31
+Goodwill,235200000,2014-12-31
+Goodwill,231600000,2015-12-31
+Goodwill,236500000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",200000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",10200000,2016-12-31
+"Deferred Tax Assets, Net, Noncurrent",20100000,2015-12-31
+"Deferred Tax Assets, Net, Noncurrent",8200000,2016-12-31
+Deferred Charges And Other Assets,3300000,2015-12-31
+Deferred Charges And Other Assets,3900000,2016-12-31
+"Disposal Group, Including Discontinued Operation, Assets, Noncurrent",43300000,2015-12-31
+"Disposal Group, Including Discontinued Operation, Assets, Noncurrent",1100000,2016-12-31
+Assets,658700000,2014-12-31
+Assets,666500000,2015-12-31
+Assets,643200000,2016-12-31
+"Long-term Debt and Capital Lease Obligations, Current",400000,2015-12-31
+"Long-term Debt and Capital Lease Obligations, Current",500000,2016-12-31
+"Accounts Payable, Current",38000000,2015-12-31
+"Accounts Payable, Current",35300000,2016-12-31
+"Employee-related Liabilities, Current",18600000,2015-12-31
+"Employee-related Liabilities, Current",13800000,2016-12-31
+"Other Accrued Liabilities, Current",27900000,2015-12-31
+"Other Accrued Liabilities, Current",28700000,2016-12-31
+"Disposal Group, Including Discontinued Operation, Liabilities, Current",28600000,2015-12-31
+"Disposal Group, Including Discontinued Operation, Liabilities, Current",2100000,2016-12-31
+"Liabilities, Current",117200000,2015-12-31
+"Liabilities, Current",84900000,2016-12-31
+Long-term Debt and Capital Lease Obligations,43700000,2015-12-31
+Long-term Debt and Capital Lease Obligations,63500000,2016-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",55200000,2015-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",61100000,2016-12-31
+"Sale Leaseback Transaction, Deferred Gain, Net",12600000,2015-12-31
+"Sale Leaseback Transaction, Deferred Gain, Net",10700000,2016-12-31
+"Other Liabilities, Noncurrent",16900000,2015-12-31
+"Other Liabilities, Noncurrent",26900000,2016-12-31
+"Disposal Group, Including Discontinued Operation, Liabilities, Noncurrent",15300000,2015-12-31
+"Disposal Group, Including Discontinued Operation, Liabilities, Noncurrent",2000000,2016-12-31
+Liabilities,260900000,2015-12-31
+Liabilities,249100000,2016-12-31
+"Common Stock, Value, Issued",64800000,2015-12-31
+"Common Stock, Value, Issued",65400000,2016-12-31
+"Additional Paid in Capital, Common Stock",195600000,2015-12-31
+"Additional Paid in Capital, Common Stock",200300000,2016-12-31
+Retained Earnings (Accumulated Deficit),274900000,2015-12-31
+Retained Earnings (Accumulated Deficit),301800000,2016-12-31
+"Treasury Stock, Value",40900000,2015-12-31
+"Treasury Stock, Value",81400000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-79500000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-88800000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-92000000,2016-12-31
+Stockholders' Equity Attributable to Parent,351000000,2013-12-31
+Stockholders' Equity Attributable to Parent,371600000,2014-12-31
+Stockholders' Equity Attributable to Parent,405600000,2015-12-31
+Stockholders' Equity Attributable to Parent,394100000,2016-12-31
+Liabilities and Equity,666500000,2015-12-31
+Liabilities and Equity,643200000,2016-12-31
+"Customer Deposits, Current",3700000,2015-12-31
+"Customer Deposits, Current",4500000,2016-12-31

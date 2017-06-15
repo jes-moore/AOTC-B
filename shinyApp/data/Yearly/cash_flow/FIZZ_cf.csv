@@ -1,0 +1,89 @@
+Metric,Amount,endDate
+Net income,43635000,2014-05-03
+Net income,15363000,2014-08-02
+Net income,49311000,2015-05-02
+Net income,12958000,2014-11-01
+Net income,8808000,2015-01-31
+Net income,12182000,2015-05-02
+Net income,17113000,2015-08-02
+Net income,61198000,2016-04-30
+Net income,15312000,2015-11-01
+Net income,11236000,2016-01-30
+Net income,17537000,2016-04-30
+Depreciation and amortization,11708000,2014-05-03
+Depreciation and amortization,11580000,2015-05-02
+Depreciation and amortization,12056000,2016-04-30
+Deferred income tax (benefit) provision,79000,2014-05-03
+Deferred income tax (benefit) provision,1076000,2015-05-02
+Deferred income tax (benefit) provision,-1299000,2016-04-30
+us-gaap_GainLossOnDispositionOfAssets1,-51000,2014-05-03
+us-gaap_GainLossOnDispositionOfAssets1,1188000,2015-05-02
+us-gaap_GainLossOnDispositionOfAssets1,-129000,2016-04-30
+us-gaap_ShareBasedCompensation,95000,2014-05-03
+us-gaap_ShareBasedCompensation,307000,2015-05-02
+us-gaap_ShareBasedCompensation,228000,2016-04-30
+us-gaap_IncreaseDecreaseInAccountsReceivable,-5864000,2014-05-03
+us-gaap_IncreaseDecreaseInAccountsReceivable,1746000,2015-05-02
+us-gaap_IncreaseDecreaseInAccountsReceivable,1095000,2016-04-30
+us-gaap_IncreaseDecreaseInInventories,4680000,2014-05-03
+us-gaap_IncreaseDecreaseInInventories,-990000,2015-05-02
+us-gaap_IncreaseDecreaseInInventories,4998000,2016-04-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,2548000,2014-05-03
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,605000,2015-05-02
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,485000,2016-04-30
+Accounts payable,1345000,2014-05-03
+Accounts payable,-710000,2015-05-02
+Accounts payable,4495000,2016-04-30
+Accrued and other liabilities,-3167000,2014-05-03
+Accrued and other liabilities,-995000,2015-05-02
+Accrued and other liabilities,8726000,2016-04-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,52382000,2014-05-03
+us-gaap_NetCashProvidedByUsedInOperatingActivities,58020000,2015-05-02
+us-gaap_NetCashProvidedByUsedInOperatingActivities,78955000,2016-04-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,12124000,2014-05-03
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,11630000,2015-05-02
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,12140000,2016-04-30
+"Proceeds from sale of property, plant and equipment",62000,2014-05-03
+"Proceeds from sale of property, plant and equipment",1905000,2015-05-02
+"Proceeds from sale of property, plant and equipment",116000,2016-04-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-12062000,2014-05-03
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-9725000,2015-05-02
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-12024000,2016-04-30
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,659000,2014-05-03
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,239000,2015-05-02
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,186000,2016-04-30
+"Repayments under credit facilities, net",-20000000,2014-05-03
+"Repayments under credit facilities, net",-20000000,2015-05-02
+"Repayments under credit facilities, net",-10000000,2016-04-30
+Redemption of preferred stock,-8000000,2014-05-03
+Redemption of preferred stock,-6000000,2015-05-02
+Redemption of preferred stock,-6000000,2016-04-30
+Proceeds from stock options exercised,47000,2014-05-03
+Proceeds from stock options exercised,228000,2015-05-02
+Proceeds from stock options exercised,848000,2016-04-30
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,17000,2014-05-03
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,240000,2015-05-02
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationFinancingActivities,1528000,2016-04-30
+us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,-60000,2014-05-03
+us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,,2015-05-02
+us-gaap_ProceedsFromPaymentsForOtherFinancingActivities,,2016-04-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-28655000,2014-05-03
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-25771000,2015-05-02
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-13810000,2016-04-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,11665000,2014-05-03
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,22524000,2015-05-02
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,53121000,2016-04-30
+Cash and equivalents,18267000,2013-04-27
+Cash and equivalents,29932000,2014-05-03
+Cash and equivalents,52456000,2015-05-02
+Cash and equivalents,105577000,2016-04-30
+Cash and equivalents,18267000,2013-04-27
+Cash and equivalents,29932000,2014-05-03
+Cash and equivalents,52456000,2015-05-02
+Cash and equivalents,105577000,2016-04-30
+Interest paid,723000,2014-05-03
+Interest paid,380000,2015-05-02
+Interest paid,116000,2016-04-30
+Income taxes paid,23079000,2014-05-03
+Income taxes paid,24745000,2015-05-02
+Income taxes paid,29473000,2016-04-30

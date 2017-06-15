@@ -1,0 +1,58 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",318121000,2014-06-30
+"Sales Revenue, Goods, Net",327935000,2015-06-30
+"Sales Revenue, Goods, Net",335661000,2016-06-30
+Cost of Goods Sold,259050000,2014-06-30
+Cost of Goods Sold,267453000,2015-06-30
+Cost of Goods Sold,269839000,2016-06-30
+Gross Profit,59071000,2014-06-30
+Gross Profit,60482000,2015-06-30
+Gross Profit,65822000,2016-06-30
+Research and Development Expense,24409000,2014-06-30
+Research and Development Expense,27075000,2015-06-30
+Research and Development Expense,26006000,2016-06-30
+"Selling, General and Administrative Expense",34554000,2014-06-30
+"Selling, General and Administrative Expense",37625000,2015-06-30
+"Selling, General and Administrative Expense",37874000,2016-06-30
+Asset Impairment Charges,0,2014-06-30
+Asset Impairment Charges,0,2015-06-30
+Asset Impairment Charges,432000,2016-06-30
+Operating Expenses,58963000,2014-06-30
+Operating Expenses,64700000,2015-06-30
+Operating Expenses,64312000,2016-06-30
+Operating Income (Loss),108000,2014-06-30
+Operating Income (Loss),-4218000,2015-06-30
+Operating Income (Loss),1510000,2016-06-30
+Other Nonoperating Income (Expense),-177000,2014-06-30
+Other Nonoperating Income (Expense),533000,2015-06-30
+Other Nonoperating Income (Expense),-498000,2016-06-30
+Interest Expense,266000,2014-06-30
+Interest Expense,181000,2015-06-30
+Interest Expense,23000,2016-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-335000,2014-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-3866000,2015-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",989000,2016-06-30
+Income Tax Expense (Benefit),2769000,2014-06-30
+Income Tax Expense (Benefit),3897000,2015-06-30
+Income Tax Expense (Benefit),4021000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-3104000,2014-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-7763000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-3032000,2016-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2014-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,-104000,2016-06-30
+Net Income (Loss) Attributable to Parent,-3104000,2014-06-30
+Net Income (Loss) Attributable to Parent,-7763000,2015-06-30
+Net Income (Loss) Attributable to Parent,-2928000,2016-06-30
+"Earnings Per Share, Basic",-0.12,2014-06-30
+"Earnings Per Share, Basic",-0.29,2015-06-30
+"Earnings Per Share, Basic",-0.13,2016-06-30
+"Earnings Per Share, Diluted",-0.12,2014-06-30
+"Earnings Per Share, Diluted",-0.29,2015-06-30
+"Earnings Per Share, Diluted",-0.13,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",25952000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",26429000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",22452000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",25952000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",26429000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",22452000,2016-06-30

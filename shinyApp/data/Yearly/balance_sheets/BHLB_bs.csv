@@ -1,0 +1,97 @@
+Metric,Amount,endDate
+Cash and Due from Banks,72918000,2015-12-31
+Cash and Due from Banks,71494000,2016-12-31
+"Cash Equivalents, at Carrying Value",30644000,2015-12-31
+"Cash Equivalents, at Carrying Value",41581000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",103562000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",113075000,2016-12-31
+Trading Securities,14189000,2015-12-31
+Trading Securities,14200000,2015-12-31
+Trading Securities,13200000,2016-12-31
+Trading Securities,13229000,2016-12-31
+Available-for-sale Securities,1154457000,2015-12-31
+Available-for-sale Securities,1209537000,2016-12-31
+Held-to-maturity Securities,131652000,2015-12-31
+Held-to-maturity Securities,334368000,2016-12-31
+Federal Home Loan Bank Stock and Other Restricted Securities at Cost,71018000,2015-12-31
+Federal Home Loan Bank Stock and Other Restricted Securities at Cost,71112000,2016-12-31
+Investments,1371316000,2015-12-31
+Investments,1628246000,2016-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",13191000,2015-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",120673000,2016-12-31
+"Loans Receivable, Gross, Commercial, Real Estate",2059767000,2015-12-31
+"Loans Receivable, Gross, Commercial, Real Estate",2616438000,2016-12-31
+"Loans Receivable, Gross, Commercial and Industrial",1048263000,2015-12-31
+"Loans Receivable, Gross, Commercial and Industrial",1062038000,2016-12-31
+"Loans and Leases Receivable, Gross, Consumer, Mortgage",1815035000,2015-12-31
+"Loans and Leases Receivable, Gross, Consumer, Mortgage",1893131000,2016-12-31
+"Loans and Leases Receivable, Gross, Consumer, Real Estate",802171000,2015-12-31
+"Loans and Leases Receivable, Gross, Consumer, Real Estate",978180000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",5725236000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",6549787000,2016-12-31
+"Loans and Leases Receivable, Allowance",39308000,2015-12-31
+"Loans and Leases Receivable, Allowance",43998000,2016-12-31
+"Loans and Leases Receivable, Net Amount",5685928000,2015-12-31
+"Loans and Leases Receivable, Net Amount",6505789000,2016-12-31
+"Property, Plant and Equipment, Net",88072000,2015-12-31
+"Property, Plant and Equipment, Net",93215000,2016-12-31
+Real Estate Acquired Through Foreclosure,1725000,2015-12-31
+Real Estate Acquired Through Foreclosure,151000,2016-12-31
+Goodwill,264742000,2014-12-31
+Goodwill,323943000,2015-12-31
+Goodwill,403106000,2016-12-31
+Goodwill,58036000,2016-12-02
+"Intangible Assets, Net (Excluding Goodwill)",10664000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",19445000,2016-12-31
+Bank Owned Life Insurance,125233000,2015-12-31
+Bank Owned Life Insurance,139257000,2016-12-31
+"Deferred Tax Assets, Net",42526000,2015-12-31
+"Deferred Tax Assets, Net",41128000,2016-12-31
+Other Assets,64926000,2015-12-31
+Other Assets,98457000,2016-12-31
+Assets,7831086000,2015-12-31
+Assets,9162542000,2016-12-31
+Demand Deposit Accounts,1081860000,2015-12-31
+Demand Deposit Accounts,1278875000,2016-12-31
+"Deposits, Negotiable Order of Withdrawal (NOW)",510807000,2015-12-31
+"Deposits, Negotiable Order of Withdrawal (NOW)",570583000,2016-12-31
+"Deposits, Money Market Deposits",1408107000,2015-12-31
+"Deposits, Money Market Deposits",1781605000,2016-12-31
+"Deposits, Savings Deposits",601761000,2015-12-31
+"Deposits, Savings Deposits",657486000,2016-12-31
+Time Deposits,1986600000,2015-12-31
+Time Deposits,2333543000,2016-12-31
+Deposits,5589135000,2015-12-31
+Deposits,6622092000,2016-12-31
+Short-term Debt,1071200000,2015-12-31
+Short-term Debt,1082044000,2016-12-31
+Long-term Federal Home Loan Bank Advances,103135000,2015-12-31
+Long-term Federal Home Loan Bank Advances,142792000,2016-12-31
+Junior Subordinated Notes,88983000,2015-12-31
+Junior Subordinated Notes,89161000,2016-12-31
+Debt and Capital Lease Obligations,1263318000,2015-12-31
+Debt and Capital Lease Obligations,1313997000,2016-12-31
+Other Liabilities,91444000,2015-12-31
+Other Liabilities,133155000,2016-12-31
+Liabilities,6943897000,2015-12-31
+Liabilities,8069244000,2016-12-31
+"Common Stock, Value, Issued",322000,2015-12-31
+"Common Stock, Value, Issued",366000,2016-12-31
+"Additional Paid in Capital, Common Stock",742619000,2015-12-31
+"Additional Paid in Capital, Common Stock",898989000,2016-12-31
+Deferred Compensation Equity,6997000,2015-12-31
+Deferred Compensation Equity,6374000,2016-12-31
+Retained Earnings (Accumulated Deficit),183885000,2015-12-31
+Retained Earnings (Accumulated Deficit),217494000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-9057000,2013-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",6579000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-3305000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",9766000,2016-12-31
+"Treasury Stock, Value",29335000,2015-12-31
+"Treasury Stock, Value",26943000,2016-12-31
+Stockholders' Equity Attributable to Parent,678062000,2013-12-31
+Stockholders' Equity Attributable to Parent,709287000,2014-12-31
+Stockholders' Equity Attributable to Parent,887189000,2015-12-31
+Stockholders' Equity Attributable to Parent,1093298000,2016-12-31
+Liabilities and Equity,7831086000,2015-12-31
+Liabilities and Equity,9162542000,2016-12-31

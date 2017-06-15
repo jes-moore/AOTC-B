@@ -1,0 +1,113 @@
+Metric,Amount,endDate
+Net Earnings,7051000,2014-06-30
+Net Earnings,2459000,2014-09-30
+Net Earnings,9055000,2015-06-30
+Net Earnings,3557000,2014-12-31
+Net Earnings,1678000,2015-03-31
+Net Earnings,1360000,2015-06-30
+Net Earnings,1724000,2015-09-30
+Net Earnings,8648000,2016-06-30
+Net Earnings,1558000,2015-12-31
+Net Earnings,1611000,2016-03-31
+Net Earnings,3755000,2016-06-30
+Provision for credit losses,200000,2014-06-30
+Provision for credit losses,1175000,2015-06-30
+Provision for credit losses,1475000,2016-06-30
+Depreciation and net amortization (accretion),76000,2014-06-30
+Depreciation and net amortization (accretion),-496000,2015-06-30
+Depreciation and net amortization (accretion),-129000,2016-06-30
+Write-down of repossessed assets,,2014-06-30
+Write-down of repossessed assets,,2015-06-30
+Write-down of repossessed assets,397000,2016-06-30
+us-gaap_GainLossOnSaleOfLeasedAssetsNetOperatingLeases,396000,2014-06-30
+us-gaap_GainLossOnSaleOfLeasedAssetsNetOperatingLeases,2033000,2015-06-30
+us-gaap_GainLossOnSaleOfLeasedAssetsNetOperatingLeases,1834000,2016-06-30
+us-gaap_GainLossOnSaleOfInvestments,0,2014-06-30
+us-gaap_GainLossOnSaleOfInvestments,481000,2015-06-30
+us-gaap_GainLossOnSaleOfInvestments,23000,2016-06-30
+"Deferred income taxes, including income taxes payable",-3178000,2014-06-30
+"Deferred income taxes, including income taxes payable",-3240000,2015-06-30
+"Deferred income taxes, including income taxes payable",17000,2016-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-1643000,2014-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-1427000,2015-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-110000,2016-06-30
+Net increase (decrease) in accounts payable and accrued liabilities,397000,2014-06-30
+Net increase (decrease) in accounts payable and accrued liabilities,-275000,2015-06-30
+Net increase (decrease) in accounts payable and accrued liabilities,1344000,2016-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-673000,2014-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-37000,2015-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,320000,2016-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,6466000,2014-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,5169000,2015-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,9685000,2016-06-30
+us-gaap_PaymentsToAcquireLoansAndLeasesHeldForInvestment,283904000,2014-06-30
+us-gaap_PaymentsToAcquireLoansAndLeasesHeldForInvestment,381763000,2015-06-30
+us-gaap_PaymentsToAcquireLoansAndLeasesHeldForInvestment,349231000,2016-06-30
+Payments received on lease receivables and loans,170147000,2014-06-30
+Payments received on lease receivables and loans,224830000,2015-06-30
+Payments received on lease receivables and loans,214331000,2016-06-30
+Proceeds from sales of leased property and sales-type leases,5796000,2014-06-30
+Proceeds from sales of leased property and sales-type leases,4457000,2015-06-30
+Proceeds from sales of leased property and sales-type leases,5395000,2016-06-30
+Proceeds from sales and assignments of leases,35573000,2014-06-30
+Proceeds from sales and assignments of leases,75926000,2015-06-30
+Proceeds from sales and assignments of leases,27817000,2016-06-30
+us-gaap_PaymentsToAcquireMarketableSecurities,8229000,2014-06-30
+us-gaap_PaymentsToAcquireMarketableSecurities,68294000,2015-06-30
+us-gaap_PaymentsToAcquireMarketableSecurities,22798000,2016-06-30
+Pay down on investment securities,26188000,2014-06-30
+Pay down on investment securities,12067000,2015-06-30
+Pay down on investment securities,4414000,2016-06-30
+Proceeds from sale of investment securities,,2014-06-30
+Proceeds from sale of investment securities,994000,2015-06-30
+Proceeds from sale of investment securities,4769000,2016-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,1000,2014-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,113000,2015-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,1806000,2016-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-54430000,2014-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-131896000,2015-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-117109000,2016-06-30
+Net increase in time certificates of deposit,16145000,2014-06-30
+Net increase in time certificates of deposit,111232000,2015-06-30
+Net increase in time certificates of deposit,149699000,2016-06-30
+Net increase (decrease) in demand and savings deposits,-6363000,2014-06-30
+Net increase (decrease) in demand and savings deposits,4864000,2015-06-30
+Net increase (decrease) in demand and savings deposits,11542000,2016-06-30
+Net (decrease) increase in short-term borrowings,6858000,2014-06-30
+Net (decrease) increase in short-term borrowings,35142000,2015-06-30
+Net (decrease) increase in short-term borrowings,-2000000,2016-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,,2014-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,,2015-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,2360000,2016-06-30
+us-gaap_PaymentsOfDividends,4179000,2014-06-30
+us-gaap_PaymentsOfDividends,4393000,2015-06-30
+us-gaap_PaymentsOfDividends,4603000,2016-06-30
+us-gaap_ProceedsFromStockOptionsExercised,156000,2014-06-30
+us-gaap_ProceedsFromStockOptionsExercised,,2015-06-30
+us-gaap_ProceedsFromStockOptionsExercised,,2016-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,12617000,2014-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,146845000,2015-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,152278000,2016-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-35347000,2014-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,20118000,2015-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,44854000,2016-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,75469000,2013-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,40122000,2014-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,60240000,2015-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,105094000,2016-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,75469000,2013-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,40122000,2014-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,60240000,2015-06-30
+us-gaap_CashAndCashEquivalentsAtCarryingValue,105094000,2016-06-30
+(Decrease) increase in lease rentals assigned to lenders and related non-recourse debt,7872000,2014-06-30
+(Decrease) increase in lease rentals assigned to lenders and related non-recourse debt,1553000,2015-06-30
+(Decrease) increase in lease rentals assigned to lenders and related non-recourse debt,-5744000,2016-06-30
+cfnb_EstimatedResidualValueOnLeases,3556000,2014-06-30
+cfnb_EstimatedResidualValueOnLeases,2565000,2015-06-30
+cfnb_EstimatedResidualValueOnLeases,579000,2016-06-30
+Interest,3045000,2014-06-30
+Interest,3875000,2015-06-30
+Interest,6124000,2016-06-30
+Income Taxes,5557000,2014-06-30
+Income Taxes,7573000,2015-06-30
+Income Taxes,5293000,2016-06-30

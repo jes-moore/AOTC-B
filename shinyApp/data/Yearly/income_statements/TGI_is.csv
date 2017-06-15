@@ -1,0 +1,99 @@
+Metric,Amount,endDate
+"Revenue, Net",3888722000,2015-03-31
+"Revenue, Net",959638000,2015-06-30
+"Revenue, Net",954774000,2015-09-30
+"Revenue, Net",913866000,2015-12-31
+"Revenue, Net",1057794000,2016-03-31
+"Revenue, Net",3886072000,2016-03-31
+"Revenue, Net",893253000,2016-06-30
+"Revenue, Net",874769000,2016-09-30
+"Revenue, Net",844863000,2016-12-31
+"Revenue, Net",919914000,2017-03-31
+"Revenue, Net",3532799000,2017-03-31
+Cost of Goods and Services Sold,3141453000,2015-03-31
+Cost of Goods and Services Sold,3597299000,2016-03-31
+Cost of Goods and Services Sold,2689818000,2017-03-31
+"Selling, General and Administrative Expense",285773000,2015-03-31
+"Selling, General and Administrative Expense",287349000,2016-03-31
+"Selling, General and Administrative Expense",281547000,2017-03-31
+"Depreciation, Depletion and Amortization",158323000,2015-03-31
+"Depreciation, Depletion and Amortization",177755000,2016-03-31
+"Depreciation, Depletion and Amortization",176946000,2017-03-31
+Asset Impairment Charges,0,2015-03-31
+Asset Impairment Charges,645161000,2016-03-31
+Asset Impairment Charges,874361000,2016-03-31
+Asset Impairment Charges,266298000,2017-03-31
+Restructuring Charges,3193000,2015-03-31
+Restructuring Charges,36182000,2016-03-31
+Restructuring Charges,42177000,2017-03-31
+Gain (Loss) on Disposition of Business,0,2015-03-31
+Gain (Loss) on Disposition of Business,0,2016-03-31
+Gain (Loss) on Disposition of Business,-19124000,2017-03-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Curtailments",0,2015-03-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Curtailments",1244000,2016-03-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Curtailments",0,2017-03-31
+Gain (Loss) Related to Litigation Settlement,-134693000,2015-03-31
+Gain (Loss) Related to Litigation Settlement,-5476000,2016-03-31
+Gain (Loss) Related to Litigation Settlement,0,2017-03-31
+Operating Expenses,3454049000,2015-03-31
+Operating Expenses,4977178000,2016-03-31
+Operating Expenses,3475910000,2017-03-31
+Operating Income (Loss),434673000,2015-03-31
+Operating Income (Loss),107866000,2015-06-30
+Operating Income (Loss),110047000,2015-09-30
+Operating Income (Loss),-126250000,2015-12-31
+Operating Income (Loss),-1182769000,2016-03-31
+Operating Income (Loss),-1091106000,2016-03-31
+Operating Income (Loss),46726000,2016-06-30
+Operating Income (Loss),70486000,2016-09-30
+Operating Income (Loss),55166000,2016-12-31
+Operating Income (Loss),-115489000,2017-03-31
+Operating Income (Loss),56889000,2017-03-31
+Interest Expense and Other,85379000,2015-03-31
+Interest Expense and Other,68041000,2016-03-31
+Interest Expense and Other,80501000,2017-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",349294000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-1159147000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-23612000,2017-03-31
+Income Tax Expense (Benefit),110597000,2015-03-31
+Income Tax Expense (Benefit),-111187000,2016-03-31
+Income Tax Expense (Benefit),19340000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",238697000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",62732000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",61612000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-88649000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-1083655000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-1047960000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",19734000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",34807000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",29332000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-126825000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-42952000,2017-03-31
+"Earnings Per Share, Basic",4.70,2015-03-31
+"Earnings Per Share, Basic",1.28,2015-06-30
+"Earnings Per Share, Basic",1.25,2015-09-30
+"Earnings Per Share, Basic",-1.80,2015-12-31
+"Earnings Per Share, Basic",-22.01,2016-03-31
+"Earnings Per Share, Basic",-21.29,2016-03-31
+"Earnings Per Share, Basic",0.40,2016-06-30
+"Earnings Per Share, Basic",0.71,2016-09-30
+"Earnings Per Share, Basic",0.59,2016-12-31
+"Earnings Per Share, Basic",-2.57,2017-03-31
+"Earnings Per Share, Basic",-0.87,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",50796000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",49218000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",49303000,2017-03-31
+"Earnings Per Share, Diluted",4.68,2015-03-31
+"Earnings Per Share, Diluted",1.27,2015-06-30
+"Earnings Per Share, Diluted",1.25,2015-09-30
+"Earnings Per Share, Diluted",-1.80,2015-12-31
+"Earnings Per Share, Diluted",-22.01,2016-03-31
+"Earnings Per Share, Diluted",-21.29,2016-03-31
+"Earnings Per Share, Diluted",0.40,2016-06-30
+"Earnings Per Share, Diluted",0.70,2016-09-30
+"Earnings Per Share, Diluted",0.59,2016-12-31
+"Earnings Per Share, Diluted",-2.57,2017-03-31
+"Earnings Per Share, Diluted",-0.87,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",51005000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",49218000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",49303000,2017-03-31

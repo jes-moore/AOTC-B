@@ -1,0 +1,95 @@
+Metric,Amount,endDate
+"Sales Revenue, Services, Net",901396000,2014-12-31
+"Sales Revenue, Services, Net",213974000,2015-03-31
+"Sales Revenue, Services, Net",214098000,2015-06-30
+"Sales Revenue, Services, Net",221569000,2015-09-30
+"Sales Revenue, Services, Net",209824000,2015-12-31
+"Sales Revenue, Services, Net",859465000,2015-12-31
+"Sales Revenue, Services, Net",206816000,2016-03-31
+"Sales Revenue, Services, Net",206557000,2016-06-30
+"Sales Revenue, Services, Net",207141000,2016-09-30
+"Sales Revenue, Services, Net",203929000,2016-12-31
+"Sales Revenue, Services, Net",824443000,2016-12-31
+"Cost of Services, Excluding Depreciation, Depletion, and Amortization",440979000,2014-12-31
+"Cost of Services, Excluding Depreciation, Depletion, and Amortization",430308000,2015-12-31
+"Cost of Services, Excluding Depreciation, Depletion, and Amortization",389316000,2016-12-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",75282000,2014-12-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-6898000,2015-03-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-52460000,2015-06-30
+"Defined Benefit Plan, Net Periodic Benefit Cost",-57568000,2015-09-30
+"Defined Benefit Plan, Net Periodic Benefit Cost",-53412000,2015-12-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-170338000,2015-12-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-53228000,2016-03-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-53486000,2016-06-30
+"Defined Benefit Plan, Net Periodic Benefit Cost",-67428000,2016-09-30
+"Defined Benefit Plan, Net Periodic Benefit Cost",-39618000,2016-12-31
+"Defined Benefit Plan, Net Periodic Benefit Cost",-213760000,2016-12-31
+"Selling, General and Administrative Expense",257627000,2014-12-31
+"Selling, General and Administrative Expense",206046000,2015-12-31
+"Selling, General and Administrative Expense",197239000,2016-12-31
+"Depreciation, Depletion and Amortization",220678000,2014-12-31
+"Depreciation, Depletion and Amortization",223819000,2015-12-31
+"Depreciation, Depletion and Amortization",222303000,2016-12-31
+"Debtor Reorganization Items, Other Expense (Income)",104000,2014-12-31
+"Debtor Reorganization Items, Other Expense (Income)",38000,2015-12-31
+"Debtor Reorganization Items, Other Expense (Income)",0,2016-12-31
+Operating Expenses,994670000,2014-12-31
+Operating Expenses,689873000,2015-12-31
+Operating Expenses,595098000,2016-12-31
+Operating Income (Loss),-93274000,2014-12-31
+Operating Income (Loss),169592000,2015-12-31
+Operating Income (Loss),229345000,2016-12-31
+Interest Expense,80371000,2014-12-31
+Interest Expense,80718000,2015-12-31
+Interest Expense,82697000,2016-12-31
+Other Nonoperating Income (Expense),7548000,2014-12-31
+Other Nonoperating Income (Expense),485000,2015-12-31
+Other Nonoperating Income (Expense),296000,2016-12-31
+Nonoperating Income (Expense),-72823000,2014-12-31
+Nonoperating Income (Expense),-80233000,2015-12-31
+Nonoperating Income (Expense),-82401000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-166097000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",89359000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",146944000,2016-12-31
+Income Tax Expense (Benefit),-29778000,2014-12-31
+Income Tax Expense (Benefit),-1057000,2015-12-31
+Income Tax Expense (Benefit),42849000,2016-12-31
+Net Income (Loss) Attributable to Parent,-136319000,2014-12-31
+Net Income (Loss) Attributable to Parent,-45213000,2015-03-31
+Net Income (Loss) Attributable to Parent,40265000,2015-06-30
+Net Income (Loss) Attributable to Parent,53054000,2015-09-30
+Net Income (Loss) Attributable to Parent,42310000,2015-12-31
+Net Income (Loss) Attributable to Parent,90416000,2015-12-31
+Net Income (Loss) Attributable to Parent,18568000,2016-03-31
+Net Income (Loss) Attributable to Parent,29315000,2016-06-30
+Net Income (Loss) Attributable to Parent,40207000,2016-09-30
+Net Income (Loss) Attributable to Parent,16005000,2016-12-31
+Net Income (Loss) Attributable to Parent,104095000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",26449408,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",26652240,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",26854396,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",26449408,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",26972879,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",27119437,2016-12-31
+"Earnings Per Share, Basic",-5.15,2014-12-31
+"Earnings Per Share, Basic",-1.70,2015-03-31
+"Earnings Per Share, Basic",1.51,2015-06-30
+"Earnings Per Share, Basic",1.99,2015-09-30
+"Earnings Per Share, Basic",1.59,2015-12-31
+"Earnings Per Share, Basic",3.39,2015-12-31
+"Earnings Per Share, Basic",0.69,2016-03-31
+"Earnings Per Share, Basic",1.09,2016-06-30
+"Earnings Per Share, Basic",1.50,2016-09-30
+"Earnings Per Share, Basic",0.60,2016-12-31
+"Earnings Per Share, Basic",3.88,2016-12-31
+"Earnings Per Share, Diluted",-5.15,2014-12-31
+"Earnings Per Share, Diluted",-1.70,2015-03-31
+"Earnings Per Share, Diluted",1.49,2015-06-30
+"Earnings Per Share, Diluted",1.96,2015-09-30
+"Earnings Per Share, Diluted",1.56,2015-12-31
+"Earnings Per Share, Diluted",3.35,2015-12-31
+"Earnings Per Share, Diluted",0.68,2016-03-31
+"Earnings Per Share, Diluted",1.08,2016-06-30
+"Earnings Per Share, Diluted",1.48,2016-09-30
+"Earnings Per Share, Diluted",0.59,2016-12-31
+"Earnings Per Share, Diluted",3.84,2016-12-31

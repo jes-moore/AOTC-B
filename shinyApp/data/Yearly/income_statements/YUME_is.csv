@@ -1,0 +1,62 @@
+Metric,Amount,endDate
+Revenue,177779000,2014-12-31
+Revenue,173254000,2015-12-31
+Revenue,160411000,2016-12-31
+Cost of revenue,93096000,2014-12-31
+Cost of revenue,95028000,2015-12-31
+Cost of revenue,80190000,2016-12-31
+us-gaap_GrossProfit,84683000,2014-12-31
+us-gaap_GrossProfit,78226000,2015-12-31
+us-gaap_GrossProfit,80221000,2016-12-31
+Sales and marketing,65112000,2014-12-31
+Sales and marketing,59912000,2015-12-31
+Sales and marketing,51676000,2016-12-31
+Research and development,5908000,2014-12-31
+Research and development,10937000,2015-12-31
+Research and development,10968000,2016-12-31
+General and administrative,21736000,2014-12-31
+General and administrative,23584000,2015-12-31
+General and administrative,22513000,2016-12-31
+Asset impairment,,2014-12-31
+Asset impairment,,2015-12-31
+Asset impairment,922000,2016-12-31
+Restructuring,,2014-12-31
+Restructuring,,2015-12-31
+Restructuring,1577000,2016-12-31
+Restructuring,1600000,2016-12-31
+us-gaap_OperatingExpenses,92756000,2014-12-31
+us-gaap_OperatingExpenses,94433000,2015-12-31
+us-gaap_OperatingExpenses,87656000,2016-12-31
+us-gaap_OperatingIncomeLoss,-8073000,2014-12-31
+us-gaap_OperatingIncomeLoss,-16207000,2015-12-31
+us-gaap_OperatingIncomeLoss,-7435000,2016-12-31
+us-gaap_InterestExpense,8000,2014-12-31
+us-gaap_InterestExpense,8000,2015-12-31
+us-gaap_InterestExpense,7000,2016-12-31
+"Other expense, net",-888000,2014-12-31
+"Other expense, net",-230000,2015-12-31
+"Other expense, net",-299000,2016-12-31
+yume_InterestAndOtherIncomeExpense,-896000,2014-12-31
+yume_InterestAndOtherIncomeExpense,-238000,2015-12-31
+yume_InterestAndOtherIncomeExpense,-306000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-8969000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-16445000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-7741000,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,-224000,2014-12-31
+us-gaap_IncomeTaxExpenseBenefit,300000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,-20000,2016-12-31
+Net loss,-8745000,2014-12-31
+Net loss,-16745000,2015-12-31
+Net loss,-7721000,2016-12-31
+Basic (in dollars per share),-0.27,2014-12-31
+Basic (in dollars per share),-0.49,2015-12-31
+Basic (in dollars per share),-0.22,2016-12-31
+Diluted (in dollars per share),-0.27,2014-12-31
+Diluted (in dollars per share),-0.49,2015-12-31
+Diluted (in dollars per share),-0.22,2016-12-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,32591000,2014-12-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,33829000,2015-12-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,34441000,2016-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,32591000,2014-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,33829000,2015-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,34441000,2016-12-31

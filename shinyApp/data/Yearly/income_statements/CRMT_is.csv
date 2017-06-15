@@ -1,0 +1,82 @@
+Metric,Amount,endDate
+Sales,472569000,2015-04-30
+Sales,506517000,2016-04-30
+Sales,520149000,2017-04-30
+Interest and other income,57752000,2015-04-30
+Interest and other income,61389000,2016-04-30
+Interest and other income,67602000,2017-04-30
+us-gaap_SalesRevenueNet,530321000,2015-04-30
+us-gaap_SalesRevenueNet,567906000,2016-04-30
+us-gaap_SalesRevenueNet,587751000,2017-04-30
+"Cost of sales, excluding depreciation",272446000,2015-04-30
+"Cost of sales, excluding depreciation",304886000,2016-04-30
+"Cost of sales, excluding depreciation",304927000,2017-04-30
+"Selling, general and administrative",83802000,2015-04-30
+"Selling, general and administrative",92242000,2016-04-30
+"Selling, general and administrative",91940000,2017-04-30
+Provision for credit losses,120289000,2015-04-30
+Provision for credit losses,144397000,2016-04-30
+Provision for credit losses,149097000,2017-04-30
+Interest expense,2903000,2015-04-30
+Interest expense,3306000,2016-04-30
+Interest expense,4069000,2017-04-30
+Depreciation and amortization,3830000,2015-04-30
+Depreciation and amortization,4208000,2016-04-30
+Depreciation and amortization,4272000,2017-04-30
+us-gaap_GainLossOnDispositionOfAssets,-17000,2015-04-30
+us-gaap_GainLossOnDispositionOfAssets,-369000,2016-04-30
+us-gaap_GainLossOnDispositionOfAssets,-1204000,2017-04-30
+us-gaap_CostsAndExpenses,483287000,2015-04-30
+us-gaap_CostsAndExpenses,549408000,2016-04-30
+us-gaap_CostsAndExpenses,555509000,2017-04-30
+Income before income taxes,47034000,2015-04-30
+Income before income taxes,18498000,2016-04-30
+Income before income taxes,32242000,2017-04-30
+Provision for income taxes,17544000,2015-04-30
+Provision for income taxes,6902000,2016-04-30
+Provision for income taxes,12037000,2017-04-30
+Net income,29490000,2015-04-30
+Net income,11596000,2016-04-30
+Net income,20205000,2017-04-30
+Less: Dividends on mandatorily redeemable preferred stock,40000,2015-04-30
+Less: Dividends on mandatorily redeemable preferred stock,40000,2016-04-30
+Less: Dividends on mandatorily redeemable preferred stock,40000,2017-04-30
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,29450000,2015-04-30
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,4606000,2015-07-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,11556000,2016-04-30
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,-495000,2015-10-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,4092000,2016-01-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,3353000,2016-04-30
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,7099000,2016-07-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,20165000,2017-04-30
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,5008000,2016-10-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,2826000,2017-01-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,5232000,2017-04-30
+Basic (in dollars per share),3.42,2015-04-30
+Basic (in dollars per share),0.54,2015-07-31
+Basic (in dollars per share),1.38,2016-04-30
+Basic (in dollars per share),-0.06,2015-10-31
+Basic (in dollars per share),0.49,2016-01-31
+Basic (in dollars per share),0.41,2016-04-30
+Basic (in dollars per share),0.89,2016-07-31
+Basic (in dollars per share),2.57,2017-04-30
+Basic (in dollars per share),0.64,2016-10-31
+Basic (in dollars per share),0.36,2017-01-31
+Basic (in dollars per share),0.68,2017-04-30
+Diluted (in dollars per share),3.25,2015-04-30
+Diluted (in dollars per share),0.52,2015-07-31
+Diluted (in dollars per share),1.33,2016-04-30
+Diluted (in dollars per share),-0.06,2015-10-31
+Diluted (in dollars per share),0.47,2016-01-31
+Diluted (in dollars per share),0.40,2016-04-30
+Diluted (in dollars per share),0.87,2016-07-31
+Diluted (in dollars per share),2.49,2017-04-30
+Diluted (in dollars per share),0.62,2016-10-31
+Diluted (in dollars per share),0.35,2017-01-31
+Diluted (in dollars per share),0.66,2017-04-30
+Basic (in shares),8617864,2015-04-30
+Basic (in shares),8370478,2016-04-30
+Basic (in shares),7854238,2017-04-30
+Diluted (in shares),9048957,2015-04-30
+Diluted (in shares),8666031,2016-04-30
+Diluted (in shares),8110777,2017-04-30

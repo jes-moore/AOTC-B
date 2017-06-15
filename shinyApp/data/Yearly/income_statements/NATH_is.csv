@@ -1,0 +1,123 @@
+Metric,Amount,endDate
+Sales,75520000,2015-03-29
+Sales,76031000,2016-03-27
+Sales,71216000,2017-03-26
+License royalties,18011000,2015-03-29
+License royalties,19815000,2016-03-27
+License royalties,20368000,2017-03-26
+Franchise fees and royalties,5581000,2015-03-29
+Franchise fees and royalties,5044000,2016-03-27
+Franchise fees and royalties,5068000,2017-03-26
+us-gaap_Revenues,99112000,2015-03-29
+us-gaap_Revenues,30654000,2015-06-28
+us-gaap_Revenues,100890000,2016-03-27
+us-gaap_Revenues,30619000,2015-09-27
+us-gaap_Revenues,20564000,2015-12-27
+us-gaap_Revenues,19053000,2016-03-27
+us-gaap_Revenues,29416000,2016-06-26
+us-gaap_Revenues,96652000,2017-03-26
+us-gaap_Revenues,28013000,2016-09-25
+us-gaap_Revenues,19937000,2016-12-25
+us-gaap_Revenues,19286000,2017-03-26
+Cost of sales,61951000,2015-03-29
+Cost of sales,57998000,2016-03-27
+Cost of sales,52030000,2017-03-26
+Restaurant operating expenses,3747000,2015-03-29
+Restaurant operating expenses,3557000,2016-03-27
+Restaurant operating expenses,3386000,2017-03-26
+Depreciation and amortization,1253000,2015-03-29
+Depreciation and amortization,1255000,2016-03-27
+Depreciation and amortization,1297000,2017-03-26
+General and administrative expenses,12203000,2015-03-29
+General and administrative expenses,13117000,2016-03-27
+General and administrative expenses,13659000,2017-03-26
+us-gaap_CostsAndExpenses,79154000,2015-03-29
+us-gaap_CostsAndExpenses,75927000,2016-03-27
+us-gaap_CostsAndExpenses,70372000,2017-03-26
+us-gaap_OperatingIncomeLoss,19958000,2015-03-29
+us-gaap_OperatingIncomeLoss,7616000,2015-06-28
+us-gaap_OperatingIncomeLoss,24963000,2016-03-27
+us-gaap_OperatingIncomeLoss,8426000,2015-09-27
+us-gaap_OperatingIncomeLoss,4435000,2015-12-27
+us-gaap_OperatingIncomeLoss,4486000,2016-03-27
+us-gaap_OperatingIncomeLoss,8824000,2016-06-26
+us-gaap_OperatingIncomeLoss,26280000,2017-03-26
+us-gaap_OperatingIncomeLoss,8031000,2016-09-25
+us-gaap_OperatingIncomeLoss,4754000,2016-12-25
+us-gaap_OperatingIncomeLoss,4671000,2017-03-26
+us-gaap_InterestExpenseOther,816000,2015-03-29
+us-gaap_InterestExpenseOther,14630000,2016-03-27
+us-gaap_InterestExpenseOther,14665000,2017-03-26
+Interest income,176000,2015-03-29
+Interest income,52000,2016-03-27
+Interest income,104000,2017-03-26
+Impairment charge – long-term investment,,2015-03-29
+Impairment charge – long-term investment,100000,2016-03-27
+Impairment charge – long-term investment,,2017-03-26
+"Other income, net",87000,2015-03-29
+"Other income, net",99000,2016-03-27
+"Other income, net",85000,2017-03-26
+Income before provision for income taxes,19405000,2015-03-29
+Income before provision for income taxes,10384000,2016-03-27
+Income before provision for income taxes,11804000,2017-03-26
+Provision for income taxes,7702000,2015-03-29
+Provision for income taxes,4288000,2016-03-27
+Provision for income taxes,4319000,2017-03-26
+Net income,11703000,2015-03-29
+Net income,2310000,2015-06-28
+Net income,6096000,2016-03-27
+Net income,2847000,2015-09-27
+Net income,432000,2015-12-27
+Net income,507000,2016-03-27
+Net income,3550000,2016-06-26
+Net income,7485000,2017-03-26
+Net income,2507000,2016-09-25
+Net income,699000,2016-12-25
+Net income,729000,2017-03-26
+us-gaap_EarningsPerShareBasic,2.61,2015-03-29
+us-gaap_EarningsPerShareBasic,0.50,2015-06-28
+us-gaap_EarningsPerShareBasic,1.38,2016-03-27
+us-gaap_EarningsPerShareBasic,0.64,2015-09-27
+us-gaap_EarningsPerShareBasic,0.10,2015-12-27
+us-gaap_EarningsPerShareBasic,0.12,2016-03-27
+us-gaap_EarningsPerShareBasic,0.85,2016-06-26
+us-gaap_EarningsPerShareBasic,1.79,2017-03-26
+us-gaap_EarningsPerShareBasic,0.60,2016-09-25
+us-gaap_EarningsPerShareBasic,0.17,2016-12-25
+us-gaap_EarningsPerShareBasic,0.17,2017-03-26
+us-gaap_EarningsPerShareDiluted,2.55,2015-03-29
+us-gaap_EarningsPerShareDiluted,0.50,2015-06-28
+us-gaap_EarningsPerShareDiluted,1.37,2016-03-27
+us-gaap_EarningsPerShareDiluted,0.64,2015-09-27
+us-gaap_EarningsPerShareDiluted,0.10,2015-12-27
+us-gaap_EarningsPerShareDiluted,0.12,2016-03-27
+us-gaap_EarningsPerShareDiluted,0.85,2016-06-26
+us-gaap_EarningsPerShareDiluted,1.78,2017-03-26
+us-gaap_EarningsPerShareDiluted,0.60,2016-09-25
+us-gaap_EarningsPerShareDiluted,0.17,2016-12-25
+us-gaap_EarningsPerShareDiluted,0.17,2017-03-26
+Cash dividends declared per share (in dollars per share),25,2015-03-29
+Cash dividends declared per share (in dollars per share),,2016-03-27
+Cash dividends declared per share (in dollars per share),,2017-03-26
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4486000,2015-03-29
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4584000,2015-06-28
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4430000,2016-03-27
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4432000,2015-09-27
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4408000,2015-12-27
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4297000,2016-03-27
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4166000,2016-06-26
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4172000,2017-03-26
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4172000,2016-09-25
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4175000,2016-12-25
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,4176000,2017-03-26
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4588000,2015-03-29
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4621000,2015-06-28
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4463000,2016-03-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4449000,2015-09-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4444000,2015-12-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4337000,2016-03-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4191000,2016-06-26
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4206000,2017-03-26
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4207000,2016-09-25
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4209000,2016-12-25
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,4217000,2017-03-26

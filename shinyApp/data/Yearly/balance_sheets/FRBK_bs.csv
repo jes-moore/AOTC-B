@@ -1,0 +1,73 @@
+Metric,Amount,endDate
+Cash and due from banks,13777000,2015-12-31
+Cash and due from banks,19830000,2016-12-31
+Interest bearing deposits with banks,13362000,2015-12-31
+Interest bearing deposits with banks,14724000,2016-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,27139000,2015-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,34554000,2016-12-31
+"Investment securities available for sale, at fair value",284795000,2015-12-31
+"Investment securities available for sale, at fair value",369739000,2016-12-31
+"Investment securities held to maturity, at amortized cost (fair value of $425,183 and $171,845, respectively)",172277000,2015-12-31
+"Investment securities held to maturity, at amortized cost (fair value of $425,183 and $171,845, respectively)",432499000,2016-12-31
+"Restricted stock, at cost",3059000,2015-12-31
+"Restricted stock, at cost",1366000,2016-12-31
+Loans held for sale,3653000,2015-12-31
+Loans held for sale,28065000,2016-12-31
+"Loans receivable (net of allowance for loan losses of $9,155 and $8,703, respectively)",866066000,2015-12-31
+"Loans receivable (net of allowance for loan losses of $9,155 and $8,703, respectively)",955817000,2016-12-31
+"Premises and equipment, net",46164000,2015-12-31
+"Premises and equipment, net",57040000,2016-12-31
+"Other real estate owned, net",11313000,2015-12-31
+"Other real estate owned, net",10174000,2016-12-31
+Accrued interest receivable,4216000,2015-12-31
+Accrued interest receivable,5497000,2016-12-31
+Goodwill,0,2015-12-31
+Goodwill,5011000,2016-12-31
+Intangible asset,,2015-12-31
+Intangible asset,61000,2016-12-31
+Other assets,20142000,2015-12-31
+Other assets,24108000,2016-12-31
+Total Assets,1438824000,2015-12-31
+Total Assets,1923931000,2016-12-31
+Demand - non-interest bearing,243695000,2015-12-31
+Demand - non-interest bearing,324912000,2016-12-31
+Demand - interest bearing,381499000,2015-12-31
+Demand - interest bearing,605950000,2016-12-31
+Money market and savings,556526000,2015-12-31
+Money market and savings,635644000,2016-12-31
+Time deposits,67578000,2015-12-31
+Time deposits,111164000,2016-12-31
+us-gaap_Deposits,1249298000,2015-12-31
+us-gaap_Deposits,1677670000,2016-12-31
+Short-term borrowings,47000000,2015-12-31
+Short-term borrowings,,2016-12-31
+Accrued interest payable,245000,2015-12-31
+Accrued interest payable,444000,2016-12-31
+Other liabilities,7049000,2015-12-31
+Other liabilities,8883000,2016-12-31
+Subordinated debt,21857000,2015-12-31
+Subordinated debt,21881000,2016-12-31
+Total Liabilities,1325449000,2015-12-31
+Total Liabilities,1708878000,2016-12-31
+"Preferred stock, par value $0.01 per share: 10,000,000 shares authorized; no shares issued and outstanding",0,2015-12-31
+"Preferred stock, par value $0.01 per share: 10,000,000 shares authorized; no shares issued and outstanding",0,2016-12-31
+"Common stock, par value $0.01 per share: 100,000,000 shares authorized; shares issued 57,283,712 as of December 31, 2016 and 38,365,848 as of December 31, 2015; shares outstanding 56,754,867 as of December 31, 2016 and 37,837,003 as of December 31, 2015",384000,2015-12-31
+"Common stock, par value $0.01 per share: 100,000,000 shares authorized; shares issued 57,283,712 as of December 31, 2016 and 38,365,848 as of December 31, 2015; shares outstanding 56,754,867 as of December 31, 2016 and 37,837,003 as of December 31, 2015",573000,2016-12-31
+Additional paid in capital,152897000,2015-12-31
+Additional paid in capital,253570000,2016-12-31
+Accumulated deficit,-32833000,2015-12-31
+Accumulated deficit,-27888000,2016-12-31
+us-gaap_TreasuryStockValue,3725000,2015-12-31
+us-gaap_TreasuryStockValue,3725000,2016-12-31
+us-gaap_DeferredCompensationEquity,183000,2015-12-31
+us-gaap_DeferredCompensationEquity,183000,2016-12-31
+Accumulated other comprehensive loss,-2828000,2013-12-31
+Accumulated other comprehensive loss,-632000,2014-12-31
+Accumulated other comprehensive loss,-3165000,2015-12-31
+Accumulated other comprehensive loss,-7294000,2016-12-31
+Total Shareholders’ Equity,62899000,2013-12-31
+Total Shareholders’ Equity,112811000,2014-12-31
+Total Shareholders’ Equity,113375000,2015-12-31
+Total Shareholders’ Equity,215053000,2016-12-31
+Total Liabilities and Shareholders’ Equity,1438824000,2015-12-31
+Total Liabilities and Shareholders’ Equity,1923931000,2016-12-31

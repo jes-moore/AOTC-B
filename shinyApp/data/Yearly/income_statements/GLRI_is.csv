@@ -1,0 +1,75 @@
+Metric,Amount,endDate
+Oil and Gas Sales Revenue,11724000,2014-12-31
+Oil and Gas Sales Revenue,7397000,2015-12-31
+"Sales Revenue, Services, Net",4135000,2014-12-31
+"Sales Revenue, Services, Net",1605000,2015-12-31
+"Revenue, Net",1002000,2014-03-31
+"Revenue, Net",5556000,2014-06-30
+"Revenue, Net",5458000,2014-09-30
+"Revenue, Net",3843000,2014-12-31
+"Revenue, Net",15859000,2014-12-31
+"Revenue, Net",2567000,2015-03-31
+"Revenue, Net",2632000,2015-06-30
+"Revenue, Net",2019000,2015-09-30
+"Revenue, Net",1784000,2015-12-31
+"Revenue, Net",9002000,2015-12-31
+"Cost of Goods Sold, Oil and Gas",10777000,2014-12-31
+"Cost of Goods Sold, Oil and Gas",9974000,2015-12-31
+Oil And Gas Services Expense,3528000,2014-12-31
+Oil And Gas Services Expense,1771000,2015-12-31
+Science And Technology,1868000,2014-12-31
+Science And Technology,1940000,2015-12-31
+"Selling, General and Administrative Expense",5920000,2014-12-31
+"Selling, General and Administrative Expense",5884000,2015-12-31
+Impairment of Oil and Gas Properties,13160000,2014-12-31
+Impairment of Oil and Gas Properties,22600000,2015-12-31
+"Depreciation, Depletion and Amortization",4624000,2014-12-31
+"Depreciation, Depletion and Amortization",5507000,2015-12-31
+Operating Expenses,39877000,2014-12-31
+Operating Expenses,47676000,2015-12-31
+Operating Income (Loss),-2796000,2014-03-31
+Operating Income (Loss),-1880000,2014-06-30
+Operating Income (Loss),-1633000,2014-09-30
+Operating Income (Loss),-17709000,2014-12-31
+Operating Income (Loss),-24018000,2014-12-31
+Operating Income (Loss),-3606000,2015-03-31
+Operating Income (Loss),-3604000,2015-06-30
+Operating Income (Loss),-3867000,2015-09-30
+Operating Income (Loss),-27597000,2015-12-31
+Operating Income (Loss),-38674000,2015-12-31
+Interest Expense,3023000,2014-12-31
+Interest Expense,2169000,2015-12-31
+Fair Value Adjustment of Warrants,-2454000,2014-12-31
+Fair Value Adjustment of Warrants,0,2015-12-31
+"Derivative, Gain (Loss) on Derivative, Net",6023000,2014-12-31
+"Derivative, Gain (Loss) on Derivative, Net",3961000,2015-12-31
+Other Nonoperating Income (Expense),17000,2014-12-31
+Other Nonoperating Income (Expense),445000,2015-12-31
+Nonoperating Income (Expense),5471000,2014-12-31
+Nonoperating Income (Expense),2237000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-18547000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-36437000,2015-12-31
+Income Tax Expense (Benefit),209000,2014-12-31
+Income Tax Expense (Benefit),-182000,2015-12-31
+Net Income (Loss) Attributable to Parent,-18756000,2014-12-31
+Net Income (Loss) Attributable to Parent,-36255000,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.60,2014-03-31
+"Earnings Per Share, Basic and Diluted",-0.20,2014-06-30
+"Earnings Per Share, Basic and Diluted",-0.01,2014-09-30
+"Earnings Per Share, Basic and Diluted",-0.37,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.65,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.09,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.15,2015-06-30
+"Earnings Per Share, Basic and Diluted",-0.04,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.85,2015-12-31
+"Earnings Per Share, Basic and Diluted",-1.14,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",1137000,2014-03-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",29642000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31475000,2014-09-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31499000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",28855000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31563000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31803000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31845000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31859000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31769000,2015-12-31

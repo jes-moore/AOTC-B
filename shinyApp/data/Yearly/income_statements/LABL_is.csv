@@ -1,0 +1,103 @@
+Metric,Amount,endDate
+"Revenue, Net",810772000,2015-03-31
+"Revenue, Net",923295000,2017-03-31
+"Revenue, Net",870825000,2016-03-31
+"Revenue, Net",244003000,2017-03-31
+"Revenue, Net",217920000,2015-06-30
+"Revenue, Net",227093000,2016-03-31
+"Revenue, Net",236494000,2016-06-30
+"Revenue, Net",219784000,2015-09-30
+"Revenue, Net",206028000,2015-12-31
+"Revenue, Net",232140000,2016-09-30
+"Revenue, Net",210658000,2016-12-31
+Cost of Revenue,637498000,2015-03-31
+Cost of Revenue,726486000,2017-03-31
+Cost of Revenue,689199000,2016-03-31
+Gross Profit,173274000,2015-03-31
+Gross Profit,196809000,2017-03-31
+Gross Profit,181626000,2016-03-31
+Gross Profit,53546000,2017-03-31
+Gross Profit,46835000,2015-06-30
+Gross Profit,48050000,2016-03-31
+Gross Profit,52093000,2016-06-30
+Gross Profit,47131000,2015-09-30
+Gross Profit,39610000,2015-12-31
+Gross Profit,49953000,2016-09-30
+Gross Profit,41217000,2016-12-31
+"Selling, General and Administrative Expense",68012000,2015-03-31
+"Selling, General and Administrative Expense",84922000,2017-03-31
+"Selling, General and Administrative Expense",81998000,2016-03-31
+Facility Closure Expenses,7399000,2015-03-31
+Facility Closure Expenses,921000,2017-03-31
+Facility Closure Expenses,5200000,2016-03-31
+"Goodwill, Impairment Loss",951000,2015-03-31
+Operating Income (Loss),96912000,2015-03-31
+Operating Income (Loss),110966000,2017-03-31
+Operating Income (Loss),94428000,2016-03-31
+Interest Expense,26386000,2015-03-31
+Interest Expense,25488000,2017-03-31
+Interest Expense,25751000,2016-03-31
+Other Nonoperating Income (Expense),346000,2015-03-31
+Other Nonoperating Income (Expense),2735000,2017-03-31
+Other Nonoperating Income (Expense),-1867000,2016-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",70872000,2015-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",88213000,2017-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",66810000,2016-03-31
+Income Tax Expense (Benefit),25156000,2015-03-31
+Income Tax Expense (Benefit),26848000,2017-03-31
+Income Tax Expense (Benefit),18981000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",45716000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",61365000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",47829000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",16726000,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",13254000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",8284000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",15910000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",16654000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",9637000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",16534000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",12195000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,369000,2017-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,90000,2016-03-31
+Net Income (Loss) Attributable to Parent,45716000,2015-03-31
+Net Income (Loss) Attributable to Parent,60996000,2017-03-31
+Net Income (Loss) Attributable to Parent,47739000,2016-03-31
+Net Income (Loss) Attributable to Parent,16722000,2017-03-31
+Net Income (Loss) Attributable to Parent,13254000,2015-06-30
+Net Income (Loss) Attributable to Parent,8287000,2016-03-31
+Net Income (Loss) Attributable to Parent,15805000,2016-06-30
+Net Income (Loss) Attributable to Parent,16570000,2015-09-30
+Net Income (Loss) Attributable to Parent,9628000,2015-12-31
+Net Income (Loss) Attributable to Parent,16343000,2016-09-30
+Net Income (Loss) Attributable to Parent,12126000,2016-12-31
+"Earnings Per Share, Basic",2.75,2015-03-31
+"Earnings Per Share, Basic",3.61,2017-03-31
+"Earnings Per Share, Basic",2.85,2016-03-31
+"Earnings Per Share, Basic",0.99,2017-03-31
+"Earnings Per Share, Basic",0.80,2015-06-30
+"Earnings Per Share, Basic",0.49,2016-03-31
+"Earnings Per Share, Basic",0.94,2016-06-30
+"Earnings Per Share, Basic",0.99,2015-09-30
+"Earnings Per Share, Basic",0.57,2015-12-31
+"Earnings Per Share, Basic",0.97,2016-09-30
+"Earnings Per Share, Basic",0.72,2016-12-31
+"Earnings Per Share, Diluted",2.71,2015-03-31
+"Earnings Per Share, Diluted",3.58,2017-03-31
+"Earnings Per Share, Diluted",2.82,2016-03-31
+"Earnings Per Share, Diluted",0.98,2017-03-31
+"Earnings Per Share, Diluted",0.79,2015-06-30
+"Earnings Per Share, Diluted",0.49,2016-03-31
+"Earnings Per Share, Diluted",0.93,2016-06-30
+"Earnings Per Share, Diluted",0.98,2015-09-30
+"Earnings Per Share, Diluted",0.57,2015-12-31
+"Earnings Per Share, Diluted",0.96,2016-09-30
+"Earnings Per Share, Diluted",0.71,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",0.20,2015-03-31
+"Common Stock, Dividends, Per Share, Declared",0.20,2017-03-31
+"Common Stock, Dividends, Per Share, Declared",0.20,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",16623000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",16879000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",16750000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",16877000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",17024000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",16952000,2016-03-31

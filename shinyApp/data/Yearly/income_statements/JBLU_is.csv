@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+Passenger Revenue,5343000000,2014-12-31
+Passenger Revenue,5893000000,2015-12-31
+Passenger Revenue,6013000000,2016-12-31
+"Other Revenue, Net",474000000,2014-12-31
+"Other Revenue, Net",523000000,2015-12-31
+"Other Revenue, Net",619000000,2016-12-31
+"Sales Revenue, Services, Net",5817000000,2014-12-31
+"Sales Revenue, Services, Net",6416000000,2015-12-31
+"Sales Revenue, Services, Net",6632000000,2016-12-31
+Fuel Costs,1912000000,2014-12-31
+Fuel Costs,1348000000,2015-12-31
+Fuel Costs,1074000000,2016-12-31
+Labor and Related Expense,1294000000,2014-12-31
+Labor and Related Expense,1540000000,2015-12-31
+Labor and Related Expense,1698000000,2016-12-31
+Landing Fees and Other Rentals,321000000,2014-12-31
+Landing Fees and Other Rentals,342000000,2015-12-31
+Landing Fees and Other Rentals,357000000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",320000000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",345000000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",393000000,2016-12-31
+Aircraft Rental,124000000,2014-12-31
+Aircraft Rental,122000000,2015-12-31
+Aircraft Rental,110000000,2016-12-31
+Selling and Marketing Expense,231000000,2014-12-31
+Selling and Marketing Expense,264000000,2015-12-31
+Selling and Marketing Expense,259000000,2016-12-31
+"Aircraft Maintenance, Materials, and Repairs",418000000,2014-12-31
+"Aircraft Maintenance, Materials, and Repairs",490000000,2015-12-31
+"Aircraft Maintenance, Materials, and Repairs",563000000,2016-12-31
+"Other Cost and Expense, Operating",682000000,2014-12-31
+"Other Cost and Expense, Operating",749000000,2015-12-31
+"Other Cost and Expense, Operating",866000000,2016-12-31
+Costs and Expenses,5302000000,2014-12-31
+Costs and Expenses,5200000000,2015-12-31
+Costs and Expenses,5320000000,2016-12-31
+Operating Income (Loss),515000000,2014-12-31
+Operating Income (Loss),1216000000,2015-12-31
+Operating Income (Loss),1312000000,2016-12-31
+Interest Costs Incurred,148000000,2014-12-31
+Interest Costs Incurred,128000000,2015-12-31
+Interest Costs Incurred,111000000,2016-12-31
+Interest Costs Capitalized Adjustment,14000000,2014-12-31
+Interest Costs Capitalized Adjustment,8000000,2015-12-31
+Interest Costs Capitalized Adjustment,8000000,2016-12-31
+Interest Income And Other,1000000,2014-12-31
+Interest Income And Other,1000000,2015-12-31
+Interest Income And Other,7000000,2016-12-31
+Gain (Loss) on Disposition of Assets,241000000,2014-12-31
+Gain (Loss) on Disposition of Assets,0,2015-12-31
+Gain (Loss) on Disposition of Assets,0,2016-12-31
+Nonoperating Income (Expense),108000000,2014-12-31
+Nonoperating Income (Expense),-119000000,2015-12-31
+Nonoperating Income (Expense),-96000000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",623000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1097000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1216000000,2016-12-31
+Income Tax Expense (Benefit),222000000,2014-12-31
+Income Tax Expense (Benefit),420000000,2015-12-31
+Income Tax Expense (Benefit),457000000,2016-12-31
+Net Income (Loss) Attributable to Parent,401000000,2014-12-31
+Net Income (Loss) Attributable to Parent,677000000,2015-12-31
+Net Income (Loss) Attributable to Parent,759000000,2016-12-31
+"Earnings Per Share, Basic",1.36,2014-12-31
+"Earnings Per Share, Basic",2.15,2015-12-31
+"Earnings Per Share, Basic",2.32,2016-12-31
+"Earnings Per Share, Diluted",1.19,2014-12-31
+"Earnings Per Share, Diluted",1.98,2015-12-31
+"Earnings Per Share, Diluted",2.22,2016-12-31

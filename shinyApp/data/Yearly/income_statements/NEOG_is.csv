@@ -1,0 +1,113 @@
+Metric,Amount,endDate
+Cost of Goods Sold,106067000,2014-05-31
+Cost of Goods Sold,120377000,2015-05-31
+Cost of Goods Sold,137766000,2016-05-31
+Cost of Services,18740000,2014-05-31
+Cost of Services,23012000,2015-05-31
+Cost of Services,30445000,2016-05-31
+Cost of Revenue,124807000,2014-05-31
+Cost of Revenue,143389000,2015-05-31
+Cost of Revenue,168211000,2016-05-31
+"Earnings Per Share, Basic",0.77,2014-05-31
+"Earnings Per Share, Basic",0.91,2015-05-31
+"Earnings Per Share, Basic",0.98,2016-05-31
+"Earnings Per Share, Basic",0.20,2015-02-28
+"Earnings Per Share, Basic",0.21,2014-11-30
+"Earnings Per Share, Basic",0.24,2015-11-30
+"Earnings Per Share, Basic",0.22,2016-02-29
+"Earnings Per Share, Basic",0.24,2014-08-31
+"Earnings Per Share, Basic",0.26,2015-05-31
+"Earnings Per Share, Basic",0.25,2015-08-31
+"Earnings Per Share, Basic",0.27,2016-05-31
+"Earnings Per Share, Diluted",0.76,2014-05-31
+"Earnings Per Share, Diluted",0.90,2015-05-31
+"Earnings Per Share, Diluted",0.97,2016-05-31
+"Earnings Per Share, Diluted",0.20,2015-02-28
+"Earnings Per Share, Diluted",0.21,2014-11-30
+"Earnings Per Share, Diluted",0.24,2015-11-30
+"Earnings Per Share, Diluted",0.22,2016-02-29
+"Earnings Per Share, Diluted",0.24,2014-08-31
+"Earnings Per Share, Diluted",0.25,2015-05-31
+"Earnings Per Share, Diluted",0.25,2015-08-31
+"Earnings Per Share, Diluted",0.26,2016-05-31
+"Investment Income, Interest",115000,2014-05-31
+"Investment Income, Interest",228000,2015-05-31
+"Investment Income, Interest",322000,2016-05-31
+"Royalty Income, Nonoperating",231000,2014-05-31
+"Royalty Income, Nonoperating",150000,2015-05-31
+"Royalty Income, Nonoperating",217000,2016-05-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",38000,2014-05-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",-297000,2015-05-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",0,2016-05-31
+Other Nonoperating Income (Expense),-744000,2014-05-31
+Other Nonoperating Income (Expense),-1123000,2015-05-31
+Other Nonoperating Income (Expense),-1412000,2016-05-31
+Nonoperating Income (Expense),-360000,2014-05-31
+Nonoperating Income (Expense),-1042000,2015-05-31
+Nonoperating Income (Expense),-873000,2016-05-31
+Selling and Marketing Expense,46432000,2014-05-31
+Selling and Marketing Expense,51757000,2015-05-31
+Selling and Marketing Expense,57599000,2016-05-31
+General and Administrative Expense,24449000,2014-05-31
+General and Administrative Expense,25233000,2015-05-31
+General and Administrative Expense,29189000,2016-05-31
+Research and Development Expense,8326000,2014-05-31
+Research and Development Expense,9577000,2015-05-31
+Research and Development Expense,9890000,2016-05-31
+Operating Expenses,79207000,2014-05-31
+Operating Expenses,86567000,2015-05-31
+Operating Expenses,96678000,2016-05-31
+"Sales Revenue, Goods, Net",216148000,2014-05-31
+"Sales Revenue, Goods, Net",243909000,2015-05-31
+"Sales Revenue, Goods, Net",273570000,2016-05-31
+"Sales Revenue, Services, Net",31257000,2014-05-31
+"Sales Revenue, Services, Net",39165000,2015-05-31
+"Sales Revenue, Services, Net",47705000,2016-05-31
+"Revenue, Net",247405000,2014-05-31
+"Revenue, Net",283074000,2015-05-31
+"Revenue, Net",321275000,2016-05-31
+"Revenue, Net",68409000,2015-02-28
+"Revenue, Net",68455000,2014-11-30
+"Revenue, Net",79610000,2015-11-30
+"Revenue, Net",76725000,2016-02-29
+"Revenue, Net",67599000,2014-08-31
+"Revenue, Net",78611000,2015-05-31
+"Revenue, Net",74860000,2015-08-31
+"Revenue, Net",90080000,2016-05-31
+Gross Profit,122598000,2014-05-31
+Gross Profit,139685000,2015-05-31
+Gross Profit,153064000,2016-05-31
+Gross Profit,33703000,2015-02-28
+Gross Profit,34208000,2014-11-30
+Gross Profit,38224000,2015-11-30
+Gross Profit,35196000,2016-02-29
+Gross Profit,34076000,2014-08-31
+Gross Profit,37698000,2015-05-31
+Gross Profit,37792000,2015-08-31
+Gross Profit,41852000,2016-05-31
+Operating Income (Loss),43391000,2014-05-31
+Operating Income (Loss),53118000,2015-05-31
+Operating Income (Loss),56386000,2016-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",43031000,2014-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",52076000,2015-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",55513000,2016-05-31
+Income Tax Expense (Benefit),15000000,2014-05-31
+Income Tax Expense (Benefit),18500000,2015-05-31
+Income Tax Expense (Benefit),18975000,2016-05-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",28031000,2014-05-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",33576000,2015-05-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",36538000,2016-05-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-127000,2014-05-31
+Net Income (Loss) Attributable to Noncontrolling Interest,50000,2015-05-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-26000,2016-05-31
+Net Income (Loss) Attributable to Parent,28158000,2014-05-31
+Net Income (Loss) Attributable to Parent,33526000,2015-05-31
+Net Income (Loss) Attributable to Parent,36564000,2016-05-31
+Net Income (Loss) Attributable to Parent,7409000,2015-02-28
+Net Income (Loss) Attributable to Parent,7826000,2014-11-30
+Net Income (Loss) Attributable to Parent,9142000,2015-11-30
+Net Income (Loss) Attributable to Parent,8289000,2016-02-29
+Net Income (Loss) Attributable to Parent,8909000,2014-08-31
+Net Income (Loss) Attributable to Parent,9432000,2015-05-31
+Net Income (Loss) Attributable to Parent,9289000,2015-08-31
+Net Income (Loss) Attributable to Parent,9818000,2016-05-31

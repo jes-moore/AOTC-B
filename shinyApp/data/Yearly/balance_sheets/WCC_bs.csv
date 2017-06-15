@@ -1,0 +1,86 @@
+Metric,Amount,endDate
+"Cash and Cash Equivalents, at Carrying Value",123725000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",128319000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",160279000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",110131000,2016-12-31
+"Accounts Receivable, Net, Current",1075257000,2015-12-31
+"Accounts Receivable, Net, Current",1034402000,2016-12-31
+"Other Receivables, Net, Current",81242000,2015-12-31
+"Other Receivables, Net, Current",85019000,2016-12-31
+"Inventory, Net",810067000,2015-12-31
+"Inventory, Net",821441000,2016-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Current",8455000,2015-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Current",0,2016-12-31
+"Income Taxes Receivable, Current",73814000,2015-12-31
+"Income Taxes Receivable, Current",72881000,2016-12-31
+"Prepaid Expense and Other Assets, Current",48420000,2015-12-31
+"Prepaid Expense and Other Assets, Current",48583000,2016-12-31
+"Assets, Current",2257534000,2015-12-31
+"Assets, Current",2172457000,2016-12-31
+"Property, Plant and Equipment, Net",166739000,2015-12-31
+"Property, Plant and Equipment, Net",157607000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",403649000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",393362000,2016-12-31
+Goodwill,1735440000,2014-12-31
+Goodwill,1681662000,2015-12-31
+Goodwill,1720714000,2016-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",18221000,2015-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",15803000,2016-12-31
+"Other Assets, Noncurrent",41921000,2015-12-31
+"Other Assets, Noncurrent",31041000,2016-12-31
+Assets,4569726000,2015-12-31
+Assets,4490984000,2016-12-31
+"Accounts Payable, Current",715519000,2015-12-31
+"Accounts Payable, Current",684721000,2016-12-31
+"Employee-related Liabilities, Current",51258000,2015-12-31
+"Employee-related Liabilities, Current",49250000,2016-12-31
+Short-term Debt,43314000,2015-12-31
+Short-term Debt,20920000,2016-12-31
+"Long-term Debt, Current Maturities",1025000,2015-12-31
+"Long-term Debt, Current Maturities",1218000,2016-12-31
+Bank Overdrafts,34170000,2015-12-31
+Bank Overdrafts,29384000,2016-12-31
+"Taxes Payable, Current",29212000,2015-12-31
+"Taxes Payable, Current",32879000,2016-12-31
+"Other Liabilities, Current",73303000,2015-12-31
+"Other Liabilities, Current",78425000,2016-12-31
+"Liabilities, Current",947801000,2015-12-31
+"Liabilities, Current",896797000,2016-12-31
+Long-term Debt and Capital Lease Obligations,1439062000,2015-12-31
+Long-term Debt and Capital Lease Obligations,1363135000,2016-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",364838000,2015-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",158009000,2016-12-31
+"Other Liabilities, Noncurrent",44154000,2015-12-31
+"Other Liabilities, Noncurrent",63031000,2016-12-31
+Liabilities,2795855000,2015-12-31
+Liabilities,2480972000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+"Preferred Stock, Value, Issued",0,2015-12-31
+"Preferred Stock, Value, Issued",0,2016-12-31
+"Additional Paid in Capital, Common Stock",1082772000,2013-12-31
+"Additional Paid in Capital, Common Stock",1102369000,2014-12-31
+"Additional Paid in Capital, Common Stock",1117421000,2015-12-31
+"Additional Paid in Capital, Common Stock",986020000,2016-12-31
+Retained Earnings (Accumulated Deficit),1368386000,2013-12-31
+Retained Earnings (Accumulated Deficit),1643914000,2014-12-31
+Retained Earnings (Accumulated Deficit),1854456000,2015-12-31
+Retained Earnings (Accumulated Deficit),1956532000,2016-12-31
+"Treasury Stock, Value",610430000,2013-12-31
+"Treasury Stock, Value",616366000,2014-12-31
+"Treasury Stock, Value",772679000,2015-12-31
+"Treasury Stock, Value",542537000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-76543000,2013-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-201892000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-423155000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-387365000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1773871000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",2010012000,2016-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,-18000,2013-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,-487000,2014-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,-2801000,2015-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,-3269000,2016-12-31
+Stockholders' Equity Attributable to Parent,1776672000,2015-12-31
+Stockholders' Equity Attributable to Parent,2013281000,2016-12-31
+Liabilities and Equity,4569726000,2015-12-31
+Liabilities and Equity,4490984000,2016-12-31

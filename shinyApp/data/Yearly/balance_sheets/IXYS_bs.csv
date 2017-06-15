@@ -1,0 +1,63 @@
+Metric,Amount,endDate
+Cash and cash equivalents,155806000,2016-03-31
+Cash and cash equivalents,167904000,2017-03-31
+Restricted cash,277000,2016-03-31
+Restricted cash,1330000,2017-03-31
+"Accounts receivable, net",38440000,2016-03-31
+"Accounts receivable, net",41167000,2017-03-31
+Inventories,89604000,2016-03-31
+Inventories,89436000,2017-03-31
+Prepaid expenses and other current assets,4203000,2016-03-31
+Prepaid expenses and other current assets,3977000,2017-03-31
+us-gaap_AssetsCurrent,288330000,2016-03-31
+us-gaap_AssetsCurrent,303814000,2017-03-31
+"Property, plant and equipment, net",42545000,2015-03-31
+"Property, plant and equipment, net",42623000,2016-03-31
+"Property, plant and equipment, net",42240000,2017-03-31
+Acquired intangible assets,7607000,2016-03-31
+Acquired intangible assets,2984000,2017-03-31
+Goodwill,27375000,2015-03-31
+Goodwill,42355000,2016-03-31
+Goodwill,42227000,2017-03-31
+Deferred income taxes,28024000,2016-03-31
+Deferred income taxes,24739000,2017-03-31
+Other assets,13762000,2016-03-31
+Other assets,17975000,2017-03-31
+us-gaap_Assets,422701000,2016-03-31
+us-gaap_Assets,433979000,2017-03-31
+Less: current portion,1804000,2016-03-31
+Less: current portion,1058000,2017-03-31
+Accounts payable,11416000,2016-03-31
+Accounts payable,11409000,2017-03-31
+Accrued expenses and other current liabilities,21290000,2016-03-31
+Accrued expenses and other current liabilities,25347000,2017-03-31
+us-gaap_LiabilitiesCurrent,34510000,2016-03-31
+us-gaap_LiabilitiesCurrent,37814000,2017-03-31
+"Long term loans, net of current portion",85253000,2016-03-31
+"Long term loans, net of current portion",76791000,2017-03-31
+Pension liabilities,16307000,2016-03-31
+Pension liabilities,14901000,2017-03-31
+Other long term liabilities,7336000,2016-03-31
+Other long term liabilities,6618000,2017-03-31
+us-gaap_Liabilities,143406000,2016-03-31
+us-gaap_Liabilities,136124000,2017-03-31
+Commitments and contingencies (Note 17),,2016-03-31
+Commitments and contingencies (Note 17),,2017-03-31
+"Preferred stock, $0.01 par value:Authorized: 5,000,000 shares; none issued and outstanding",,2016-03-31
+"Preferred stock, $0.01 par value:Authorized: 5,000,000 shares; none issued and outstanding",,2017-03-31
+"Common stock, $0.01 par value: Authorized: 80,000,000 shares; 38,326,329 issued and 31,912,021 outstanding at March 31, 2017 and 38,214,158 issued and 31,375,524 outstanding at March 31, 2016",382000,2016-03-31
+"Common stock, $0.01 par value: Authorized: 80,000,000 shares; 38,326,329 issued and 31,912,021 outstanding at March 31, 2017 and 38,214,158 issued and 31,375,524 outstanding at March 31, 2016",383000,2017-03-31
+Additional paid-in capital,214045000,2016-03-31
+Additional paid-in capital,217355000,2017-03-31
+us-gaap_TreasuryStockValue,61845000,2016-03-31
+us-gaap_TreasuryStockValue,58347000,2017-03-31
+Retained earnings,146979000,2016-03-31
+Retained earnings,167009000,2017-03-31
+Accumulated other comprehensive income (loss),-20266000,2016-03-31
+Accumulated other comprehensive income (loss),-28545000,2017-03-31
+us-gaap_StockholdersEquity,270632000,2014-03-31
+us-gaap_StockholdersEquity,267301000,2015-03-31
+us-gaap_StockholdersEquity,279295000,2016-03-31
+us-gaap_StockholdersEquity,297855000,2017-03-31
+us-gaap_LiabilitiesAndStockholdersEquity,422701000,2016-03-31
+us-gaap_LiabilitiesAndStockholdersEquity,433979000,2017-03-31

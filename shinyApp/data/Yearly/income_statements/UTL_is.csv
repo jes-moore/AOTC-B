@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+"Utilities Operating Expense, Gas and Petroleum Purchased",104000000,2014-12-31
+"Utilities Operating Expense, Gas and Petroleum Purchased",100700000,2015-12-31
+"Utilities Operating Expense, Gas and Petroleum Purchased",77600000,2016-12-31
+"Utilities Operating Expense, Purchased Power",137900000,2014-12-31
+"Utilities Operating Expense, Purchased Power",132500000,2015-12-31
+"Utilities Operating Expense, Purchased Power",108000000,2016-12-31
+"Utilities Operating Expense, Maintenance and Operations",64600000,2014-12-31
+"Utilities Operating Expense, Maintenance and Operations",67100000,2015-12-31
+"Utilities Operating Expense, Maintenance and Operations",66300000,2016-12-31
+"Utilities Operating Expense, Depreciation and Amortization",42100000,2014-12-31
+"Utilities Operating Expense, Depreciation and Amortization",45700000,2015-12-31
+"Utilities Operating Expense, Depreciation and Amortization",46600000,2016-12-31
+"Utilities Operating Expense, Taxes",17200000,2014-12-31
+"Utilities Operating Expense, Taxes",17700000,2015-12-31
+"Utilities Operating Expense, Taxes",19600000,2016-12-31
+Utilities Operating Expense,365800000,2014-12-31
+Utilities Operating Expense,363700000,2015-12-31
+Utilities Operating Expense,318100000,2016-12-31
+"Regulated Operating Revenue, Gas",201400000,2014-12-31
+"Regulated Operating Revenue, Gas",202600000,2015-12-31
+"Regulated Operating Revenue, Gas",181200000,2016-12-31
+"Regulated Operating Revenue, Electric, Non-Nuclear",218700000,2014-12-31
+"Regulated Operating Revenue, Electric, Non-Nuclear",218000000,2015-12-31
+"Regulated Operating Revenue, Electric, Non-Nuclear",196100000,2016-12-31
+"Other Revenue, Net",5700000,2014-12-31
+"Other Revenue, Net",6200000,2015-12-31
+"Other Revenue, Net",6100000,2016-12-31
+Regulated and Unregulated Operating Revenue,425800000,2014-12-31
+Regulated and Unregulated Operating Revenue,426800000,2015-12-31
+Regulated and Unregulated Operating Revenue,383400000,2016-12-31
+Regulated and Unregulated Operating Revenue,172200000,2015-03-31
+Regulated and Unregulated Operating Revenue,77500000,2015-06-30
+Regulated and Unregulated Operating Revenue,125800000,2016-03-31
+Regulated and Unregulated Operating Revenue,74500000,2016-06-30
+Regulated and Unregulated Operating Revenue,74700000,2015-09-30
+Regulated and Unregulated Operating Revenue,102400000,2015-12-31
+Regulated and Unregulated Operating Revenue,78800000,2016-09-30
+Regulated and Unregulated Operating Revenue,104300000,2016-12-31
+Operating Income (Loss),60000000,2014-12-31
+Operating Income (Loss),63100000,2015-12-31
+Operating Income (Loss),65300000,2016-12-31
+Operating Income (Loss),28400000,2015-03-31
+Operating Income (Loss),8900000,2015-06-30
+Operating Income (Loss),23400000,2016-03-31
+Operating Income (Loss),9500000,2016-06-30
+Operating Income (Loss),7300000,2015-09-30
+Operating Income (Loss),18500000,2015-12-31
+Operating Income (Loss),11100000,2016-09-30
+Operating Income (Loss),21300000,2016-12-31
+"Interest Income (Expense), Nonoperating, Net",-20900000,2014-12-31
+"Interest Income (Expense), Nonoperating, Net",-21900000,2015-12-31
+"Interest Income (Expense), Nonoperating, Net",-22500000,2016-12-31
+Other Nonoperating Income (Expense),-400000,2014-12-31
+Other Nonoperating Income (Expense),500000,2015-12-31
+Other Nonoperating Income (Expense),-300000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",38700000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",41700000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",42500000,2016-12-31
+Income Tax Expense (Benefit),13995000,2014-12-31
+Income Tax Expense (Benefit),15443000,2015-12-31
+Income Tax Expense (Benefit),15354000,2016-12-31
+Net Income (Loss) Attributable to Parent,24700000,2014-12-31
+Net Income (Loss) Attributable to Parent,26300000,2015-12-31
+Net Income (Loss) Attributable to Parent,27100000,2016-12-31
+"Earnings Per Share, Basic and Diluted",1.79,2014-12-31
+"Earnings Per Share, Basic and Diluted",1.89,2015-12-31
+"Earnings Per Share, Basic and Diluted",1.94,2016-12-31
+"Earnings Per Share, Basic and Diluted",0.98,2015-03-31
+"Earnings Per Share, Basic and Diluted",0.12,2015-06-30
+"Earnings Per Share, Basic and Diluted",0.78,2016-03-31
+"Earnings Per Share, Basic and Diluted",0.18,2016-06-30
+"Earnings Per Share, Basic and Diluted",0.12,2015-09-30
+"Earnings Per Share, Basic and Diluted",0.67,2015-12-31
+"Earnings Per Share, Basic and Diluted",0.25,2016-09-30
+"Earnings Per Share, Basic and Diluted",0.73,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",13800000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",13900000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",14000000,2016-12-31

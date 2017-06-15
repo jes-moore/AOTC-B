@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+Sales Revenue Net,414020000,2015-01-31
+Sales Revenue Net,104405000,2015-05-02
+Sales Revenue Net,442221000,2016-01-30
+Sales Revenue Net,114147000,2015-08-01
+Sales Revenue Net,99625000,2015-10-31
+Sales Revenue Net,124044000,2016-01-30
+Sales Revenue Net,450283000,2017-01-28
+Sales Revenue Net,107891000,2016-04-30
+Sales Revenue Net,117875000,2016-07-30
+Sales Revenue Net,101871000,2016-10-29
+Sales Revenue Net,122646000,2017-01-28
+Cost Of Merchandise Sales Buying And Occupancy Costs,224006000,2015-01-31
+Cost Of Merchandise Sales Buying And Occupancy Costs,238382000,2016-01-30
+Cost Of Merchandise Sales Buying And Occupancy Costs,245402000,2017-01-28
+Gross Profit,190014000,2015-01-31
+Gross Profit,48239000,2015-05-02
+Gross Profit,203839000,2016-01-30
+Gross Profit,53883000,2015-08-01
+Gross Profit,44864000,2015-10-31
+Gross Profit,56853000,2016-01-30
+Gross Profit,204881000,2017-01-28
+Gross Profit,49766000,2016-04-30
+Gross Profit,54843000,2016-07-30
+Gross Profit,45238000,2016-10-29
+Gross Profit,55034000,2017-01-28
+Selling General And Administrative Expense,174814000,2015-01-31
+Selling General And Administrative Expense,180570000,2016-01-30
+Selling General And Administrative Expense,173283000,2017-01-28
+Depreciation And Amortization,24002000,2015-01-31
+Depreciation And Amortization,28359000,2016-01-30
+Depreciation And Amortization,30621000,2017-01-28
+Operating Expenses,198816000,2015-01-31
+Operating Expenses,208929000,2016-01-30
+Operating Expenses,203904000,2017-01-28
+Operating Income Loss,-8802000,2015-01-31
+Operating Income Loss,248000,2015-05-02
+Operating Income Loss,-5090000,2016-01-30
+Operating Income Loss,-166000,2015-08-01
+Operating Income Loss,-4626000,2015-10-31
+Operating Income Loss,-546000,2016-01-30
+Operating Income Loss,977000,2017-01-28
+Operating Income Loss,1055000,2016-04-30
+Operating Income Loss,1017000,2016-07-30
+Operating Income Loss,-3639000,2016-10-29
+Operating Income Loss,2544000,2017-01-28
+Interest Income Expense Net,-2132000,2015-01-31
+Interest Income Expense Net,-3058000,2016-01-30
+Interest Income Expense Net,-3067000,2017-01-28
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-10934000,2015-01-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-513000,2015-05-02
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-8148000,2016-01-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-912000,2015-08-01
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-5409000,2015-10-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-1314000,2016-01-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-2090000,2017-01-28
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,271000,2016-04-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,234000,2016-07-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-4418000,2016-10-29
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,1823000,2017-01-28
+Income Tax Expense Benefit,243000,2015-01-31
+Income Tax Expense Benefit,61000,2015-05-02
+Income Tax Expense Benefit,260000,2016-01-30
+Income Tax Expense Benefit,67000,2015-08-01
+Income Tax Expense Benefit,63000,2015-10-31
+Income Tax Expense Benefit,69000,2016-01-30
+Income Tax Expense Benefit,166000,2017-01-28
+Income Tax Expense Benefit,57000,2016-04-30
+Income Tax Expense Benefit,35000,2016-07-30
+Income Tax Expense Benefit,34000,2016-10-29
+Income Tax Expense Benefit,40000,2017-01-28
+Income Loss From Continuing Operations,-11177000,2015-01-31
+Income Loss From Continuing Operations,-8408000,2016-01-30
+Income Loss From Continuing Operations,-2256000,2017-01-28
+Income Loss From Discontinued Operations Net Of Tax,-1118000,2015-01-31
+Net Income Loss,-12295000,2015-01-31
+Net Income Loss,-574000,2015-05-02
+Net Income Loss,-8408000,2016-01-30
+Net Income Loss,-979000,2015-08-01
+Net Income Loss,-5472000,2015-10-31
+Net Income Loss,-1383000,2016-01-30
+Net Income Loss,-2256000,2017-01-28
+Net Income Loss,214000,2016-04-30
+Net Income Loss,199000,2016-07-30
+Net Income Loss,-4452000,2016-10-29
+Net Income Loss,1783000,2017-01-28
+Income Loss From Continuing Operations Per Basic And Diluted Share,-0.23,2015-01-31
+Income Loss From Continuing Operations Per Basic And Diluted Share,-0.17,2016-01-30
+Income Loss From Continuing Operations Per Basic And Diluted Share,-0.05,2017-01-28
+Income Loss From Discontinued Operations Net Of Tax Per Basic And Diluted Share,-0.02,2015-01-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic And Diluted Share,0.00,2016-01-30
+Income Loss From Discontinued Operations Net Of Tax Per Basic And Diluted Share,0.00,2017-01-28
+Earnings Per Share Basic And Diluted,-0.25,2015-01-31
+Earnings Per Share Basic And Diluted,-0.01,2015-05-02
+Earnings Per Share Basic And Diluted,-0.17,2016-01-30
+Earnings Per Share Basic And Diluted,-0.02,2015-08-01
+Earnings Per Share Basic And Diluted,-0.11,2015-10-31
+Earnings Per Share Basic And Diluted,-0.03,2016-01-30
+Earnings Per Share Basic And Diluted,-0.05,2017-01-28
+Earnings Per Share Basic And Diluted,0.00,2016-04-30
+Earnings Per Share Basic And Diluted,0.00,2016-07-30
+Earnings Per Share Basic And Diluted,-0.09,2016-10-29
+Earnings Per Share Basic And Diluted,0.04,2017-01-28
+Weighted Average Number Of Shares Outstanding Basic,48740000,2015-01-31
+Weighted Average Number Of Shares Outstanding Basic,49089000,2016-01-30
+Weighted Average Number Of Shares Outstanding Basic,49544000,2017-01-28
+Weighted Average Number Of Shares Outstanding Basic,49544000,2017-01-28
+Weighted Average Number Of Diluted Shares Outstanding,48740000,2015-01-31
+Weighted Average Number Of Diluted Shares Outstanding,49089000,2016-01-30
+Weighted Average Number Of Diluted Shares Outstanding,49544000,2017-01-28
+Weighted Average Number Of Diluted Shares Outstanding,49544000,2017-01-28

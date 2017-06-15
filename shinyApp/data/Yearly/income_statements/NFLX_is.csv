@@ -1,0 +1,78 @@
+Metric,Amount,endDate
+Revenues,5504656000,2014-12-31
+Revenues,1573129000,2015-03-31
+Revenues,1644694000,2015-06-30
+Revenues,1738355000,2015-09-30
+Revenues,1823333000,2015-12-31
+Revenues,6779511000,2015-12-31
+Revenues,1957736000,2016-03-31
+Revenues,2105204000,2016-06-30
+Revenues,2290188000,2016-09-30
+Revenues,2477541000,2016-12-31
+Revenues,8830669000,2016-12-31
+Cost of Revenue,3752760000,2014-12-31
+Cost of Revenue,4591476000,2015-12-31
+Cost of Revenue,6029901000,2016-12-31
+Marketing Expense,607186000,2014-12-31
+Marketing Expense,824092000,2015-12-31
+Marketing Expense,991078000,2016-12-31
+Technology and Development Expense,472321000,2014-12-31
+Technology and Development Expense,650788000,2015-12-31
+Technology and Development Expense,852098000,2016-12-31
+General and Administrative Expense,269741000,2014-12-31
+General and Administrative Expense,407329000,2015-12-31
+General and Administrative Expense,577799000,2016-12-31
+Operating Income (Loss),402648000,2014-12-31
+Operating Income (Loss),305826000,2015-12-31
+Operating Income (Loss),379793000,2016-12-31
+Interest Expense,50219000,2014-12-31
+Interest Expense,132716000,2015-12-31
+Interest Expense,150114000,2016-12-31
+Nonoperating Income (Expense),-3060000,2014-12-31
+Nonoperating Income (Expense),-31225000,2015-12-31
+Nonoperating Income (Expense),30828000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",349369000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",141885000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",260507000,2016-12-31
+Income Tax Expense (Benefit),82570000,2014-12-31
+Income Tax Expense (Benefit),19244000,2015-12-31
+Income Tax Expense (Benefit),73829000,2016-12-31
+Net Income (Loss) Attributable to Parent,266799000,2014-12-31
+Net Income (Loss) Attributable to Parent,23696000,2015-03-31
+Net Income (Loss) Attributable to Parent,26335000,2015-06-30
+Net Income (Loss) Attributable to Parent,29432000,2015-09-30
+Net Income (Loss) Attributable to Parent,43178000,2015-12-31
+Net Income (Loss) Attributable to Parent,122641000,2015-12-31
+Net Income (Loss) Attributable to Parent,27658000,2016-03-31
+Net Income (Loss) Attributable to Parent,40755000,2016-06-30
+Net Income (Loss) Attributable to Parent,51517000,2016-09-30
+Net Income (Loss) Attributable to Parent,66748000,2016-12-31
+Net Income (Loss) Attributable to Parent,186678000,2016-12-31
+"Earnings Per Share, Basic",0.63,2014-12-31
+"Earnings Per Share, Basic",0.06,2015-03-31
+"Earnings Per Share, Basic",0.06,2015-06-30
+"Earnings Per Share, Basic",0.07,2015-09-30
+"Earnings Per Share, Basic",0.10,2015-12-31
+"Earnings Per Share, Basic",0.29,2015-12-31
+"Earnings Per Share, Basic",0.06,2016-03-31
+"Earnings Per Share, Basic",0.10,2016-06-30
+"Earnings Per Share, Basic",0.12,2016-09-30
+"Earnings Per Share, Basic",0.16,2016-12-31
+"Earnings Per Share, Basic",0.44,2016-12-31
+"Earnings Per Share, Diluted",0.62,2014-12-31
+"Earnings Per Share, Diluted",0.05,2015-03-31
+"Earnings Per Share, Diluted",0.06,2015-06-30
+"Earnings Per Share, Diluted",0.07,2015-09-30
+"Earnings Per Share, Diluted",0.10,2015-12-31
+"Earnings Per Share, Diluted",0.28,2015-12-31
+"Earnings Per Share, Diluted",0.06,2016-03-31
+"Earnings Per Share, Diluted",0.09,2016-06-30
+"Earnings Per Share, Diluted",0.12,2016-09-30
+"Earnings Per Share, Diluted",0.15,2016-12-31
+"Earnings Per Share, Diluted",0.43,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",420544000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",425889000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",428822000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",431894000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",436456000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",438652000,2016-12-31

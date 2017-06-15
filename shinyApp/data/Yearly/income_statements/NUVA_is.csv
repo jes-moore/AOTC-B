@@ -1,0 +1,117 @@
+Metric,Amount,endDate
+Sales Revenue Goods Net,762415000,2014-12-31
+Sales Revenue Goods Net,192383000,2015-03-31
+Sales Revenue Goods Net,811113000,2015-12-31
+Sales Revenue Goods Net,202910000,2015-06-30
+Sales Revenue Goods Net,200538000,2015-09-30
+Sales Revenue Goods Net,215282000,2015-12-31
+Sales Revenue Goods Net,215104000,2016-03-31
+Sales Revenue Goods Net,962072000,2016-12-31
+Sales Revenue Goods Net,236210000,2016-06-30
+Sales Revenue Goods Net,239649000,2016-09-30
+Sales Revenue Goods Net,271109000,2016-12-31
+Cost Of Goods Sold,182358000,2014-12-31
+Cost Of Goods Sold,194479000,2015-12-31
+Cost Of Goods Sold,240093000,2016-12-31
+Gross Profit,580057000,2014-12-31
+Gross Profit,146719000,2015-03-31
+Gross Profit,616634000,2015-12-31
+Gross Profit,154495000,2015-06-30
+Gross Profit,151371000,2015-09-30
+Gross Profit,164049000,2015-12-31
+Gross Profit,160878000,2016-03-31
+Gross Profit,721979000,2016-12-31
+Gross Profit,176465000,2016-06-30
+Gross Profit,180453000,2016-09-30
+Gross Profit,204183000,2016-12-31
+Selling General And Administrative Expense,456700000,2014-12-31
+Selling General And Administrative Expense,457280000,2015-12-31
+Selling General And Administrative Expense,533624000,2016-12-31
+Research And Development Expense,37486000,2014-12-31
+Research And Development Expense,35833000,2015-12-31
+Research And Development Expense,47999000,2016-12-31
+Amortization Of Intangible Assets Exclude Cost Of Goods Sold Amortization,13571000,2014-12-31
+Amortization Of Intangible Assets Exclude Cost Of Goods Sold Amortization,12516000,2015-12-31
+Amortization Of Intangible Assets Exclude Cost Of Goods Sold Amortization,42001000,2016-12-31
+Impairment Of Intangible Assets Finitelived,10708000,2014-12-31
+Gain Loss Related To Litigation Settlement,-30000000,2014-12-31
+Gain Loss Related To Litigation Settlement,41826000,2015-12-31
+Gain Loss Related To Litigation Settlement,43310000,2016-12-31
+Business Combination Integration Related Costs Recoveries,13448000,2014-12-31
+Business Combination Integration Related Costs Recoveries,13748000,2015-12-31
+Business Combination Integration Related Costs Recoveries,18138000,2016-12-31
+Operating Expenses,561913000,2014-12-31
+Operating Expenses,477551000,2015-12-31
+Operating Expenses,598452000,2016-12-31
+Investment Income Interest,968000,2014-12-31
+Investment Income Interest,1589000,2015-12-31
+Investment Income Interest,1091000,2016-12-31
+Interest Expense Debt,27911000,2014-12-31
+Interest Expense Debt,29078000,2015-12-31
+Interest Expense Debt,40520000,2016-12-31
+Gain Loss On Repurchase Of Debt Instrument,-19085000,2016-12-31
+Other Nonoperating Income Expense,-2411000,2014-12-31
+Other Nonoperating Income Expense,425000,2015-12-31
+Other Nonoperating Income Expense,-305000,2016-12-31
+Nonoperating Income Expense,-29354000,2014-12-31
+Nonoperating Income Expense,-27064000,2015-12-31
+Nonoperating Income Expense,-58819000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-11210000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,112019000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,64708000,2016-12-31
+Income Tax Expense Benefit,6286000,2014-12-31
+Income Tax Expense Benefit,46729000,2015-12-31
+Income Tax Expense Benefit,29282000,2016-12-31
+Profit Loss,-17496000,2014-12-31
+Profit Loss,31397000,2015-03-31
+Profit Loss,65290000,2015-12-31
+Profit Loss,10040000,2015-06-30
+Profit Loss,12750000,2015-09-30
+Profit Loss,11103000,2015-12-31
+Profit Loss,-3825000,2016-03-31
+Profit Loss,35426000,2016-12-31
+Profit Loss,29790000,2016-06-30
+Profit Loss,3495000,2016-09-30
+Profit Loss,5966000,2016-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-776000,2014-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-1001000,2015-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-1721000,2016-12-31
+Net Income Loss,-16720000,2014-12-31
+Net Income Loss,31560000,2015-03-31
+Net Income Loss,66291000,2015-12-31
+Net Income Loss,10268000,2015-06-30
+Net Income Loss,12960000,2015-09-30
+Net Income Loss,11503000,2015-12-31
+Net Income Loss,-3368000,2016-03-31
+Net Income Loss,37147000,2016-12-31
+Net Income Loss,30213000,2016-06-30
+Net Income Loss,3926000,2016-09-30
+Net Income Loss,6376000,2016-12-31
+Earnings Per Share Basic,-0.36,2014-12-31
+Earnings Per Share Basic,0.66,2015-03-31
+Earnings Per Share Basic,1.36,2015-12-31
+Earnings Per Share Basic,0.21,2015-06-30
+Earnings Per Share Basic,0.26,2015-09-30
+Earnings Per Share Basic,0.23,2015-12-31
+Earnings Per Share Basic,-0.07,2016-03-31
+Earnings Per Share Basic,0.74,2016-12-31
+Earnings Per Share Basic,0.60,2016-06-30
+Earnings Per Share Basic,0.08,2016-09-30
+Earnings Per Share Basic,0.13,2016-12-31
+Earnings Per Share Diluted,-0.36,2014-12-31
+Earnings Per Share Diluted,0.61,2015-03-31
+Earnings Per Share Diluted,1.26,2015-12-31
+Earnings Per Share Diluted,0.20,2015-06-30
+Earnings Per Share Diluted,0.24,2015-09-30
+Earnings Per Share Diluted,0.22,2015-12-31
+Earnings Per Share Diluted,-0.07,2016-03-31
+Earnings Per Share Diluted,0.69,2016-12-31
+Earnings Per Share Diluted,0.57,2016-06-30
+Earnings Per Share Diluted,0.07,2016-09-30
+Earnings Per Share Diluted,0.11,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,46715000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,48687000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,50077000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,46715000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,52424000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,54102000,2016-12-31

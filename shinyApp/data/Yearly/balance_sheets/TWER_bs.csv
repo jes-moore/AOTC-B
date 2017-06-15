@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+Cash and cash equivalents,38027509,2014-12-31
+Cash and cash equivalents,15116531,2015-12-31
+Cash and cash equivalents,12272444,2016-12-31
+"Accounts receivable, net of reserves for uncollectable accounts of $64,824 and $92,863, respectively",308551,2015-12-31
+"Accounts receivable, net of reserves for uncollectable accounts of $64,824 and $92,863, respectively",505074,2016-12-31
+Prepaid expenses and other current assets,474029,2015-12-31
+Prepaid expenses and other current assets,434444,2016-12-31
+Current assets of discontinued operations,1248569,2015-12-31
+Current assets of discontinued operations,231978,2016-12-31
+Current assets held for sale,5315107,2015-12-31
+Current assets held for sale,,2016-12-31
+us-gaap_AssetsCurrent,22462787,2015-12-31
+us-gaap_AssetsCurrent,13443940,2016-12-31
+"Property and equipment, net",21235384,2015-12-31
+"Property and equipment, net",15252357,2016-12-31
+"Intangible assets, net",1273030,2015-12-31
+"Intangible assets, net",3652490,2016-12-31
+Goodwill,1674281,2015-12-31
+Goodwill,1674281,2016-12-31
+us-gaap_OtherAssetsNoncurrent,384357,2015-12-31
+us-gaap_OtherAssetsNoncurrent,369769,2016-12-31
+us-gaap_Assets,47029839,2015-12-31
+us-gaap_Assets,34392837,2016-12-31
+us-gaap_AccountsPayableCurrent,877134,2015-12-31
+us-gaap_AccountsPayableCurrent,323625,2016-12-31
+"Accrued Liabilities, Current",1629218,2015-12-31
+"Accrued Liabilities, Current",911210,2016-12-31
+us-gaap_DeferredRevenueCurrent,1486754,2015-12-31
+us-gaap_DeferredRevenueCurrent,1161520,2016-12-31
+Current maturities of capital lease obligations,992690,2015-12-31
+Current maturities of capital lease obligations,791009,2016-12-31
+Current liabilities of discontinued operations,3907368,2015-12-31
+Current liabilities of discontinued operations,1240000,2016-12-31
+us-gaap_DeferredRentCreditCurrent,63012,2015-12-31
+us-gaap_DeferredRentCreditCurrent,110738,2016-12-31
+us-gaap_LiabilitiesCurrent,8956176,2015-12-31
+us-gaap_LiabilitiesCurrent,4538102,2016-12-31
+"Long-term debt, net of debt discounts and deferred financing costs of $1,803,742 and $3,744,941, respectively",33003962,2015-12-31
+"Long-term debt, net of debt discounts and deferred financing costs of $1,803,742 and $3,744,941, respectively",31487253,2016-12-31
+us-gaap_CapitalLeaseObligationsNoncurrent,932826,2015-12-31
+us-gaap_CapitalLeaseObligationsNoncurrent,158703,2016-12-31
+us-gaap_OtherLiabilitiesNoncurrent,1591188,2015-12-31
+us-gaap_OtherLiabilitiesNoncurrent,1062237,2016-12-31
+us-gaap_LiabilitiesNoncurrent,35527976,2015-12-31
+us-gaap_LiabilitiesNoncurrent,32708193,2016-12-31
+us-gaap_Liabilities,44484152,2015-12-31
+us-gaap_Liabilities,37246295,2016-12-31
+Commitments (Note 15),,2015-12-31
+Commitments (Note 15),,2016-12-31
+"Common stock, par value $0.001; 200,000,000 shares authorized; 18,327,263 and 3,342,391 shares issued and outstanding as of December 31, 2016 and 2015, respectively",3343,2015-12-31
+"Common stock, par value $0.001; 200,000,000 shares authorized; 18,327,263 and 3,342,391 shares issued and outstanding as of December 31, 2016 and 2015, respectively",18327,2016-12-31
+Additional paid-in-capital,158761075,2015-12-31
+Additional paid-in-capital,173782939,2016-12-31
+Accumulated deficit,-156218731,2015-12-31
+Accumulated deficit,-176655227,2016-12-31
+Total Stockholders' (Deficit)/Equity,41962027,2014-12-31
+Total Stockholders' (Deficit)/Equity,2545687,2015-12-31
+Total Stockholders' (Deficit)/Equity,-2853458,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,47029839,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,34392837,2016-12-31

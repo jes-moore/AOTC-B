@@ -1,0 +1,145 @@
+Metric,Amount,endDate
+Net sales,980392000,2014-12-31
+Net sales,227589000,2015-03-31
+Net sales,971975000,2015-12-31
+Net sales,269382000,2015-06-30
+Net sales,270037000,2015-09-30
+Net sales,204967000,2015-12-31
+Net sales,238911000,2016-03-31
+Net sales,1058482000,2016-12-31
+Net sales,288977000,2016-06-30
+Net sales,300795000,2016-09-30
+Net sales,229799000,2016-12-31
+Cost of sales,690762000,2014-12-31
+Cost of sales,690987000,2015-12-31
+Cost of sales,735995000,2016-12-31
+Gross Profit,289630000,2014-12-31
+Gross Profit,63889000,2015-03-31
+Gross Profit,280988000,2015-12-31
+Gross Profit,72760000,2015-06-30
+Gross Profit,81553000,2015-09-30
+Gross Profit,62786000,2015-12-31
+Gross Profit,72996000,2016-03-31
+Gross Profit,322487000,2016-12-31
+Gross Profit,87076000,2016-06-30
+Gross Profit,95644000,2016-09-30
+Gross Profit,66771000,2016-12-31
+"Selling, general and administrative expenses",193525000,2014-12-31
+"Selling, general and administrative expenses",206287000,2015-12-31
+"Selling, general and administrative expenses",221658000,2016-12-31
+Litigation charge,10650000,2014-12-31
+Litigation charge,0,2015-12-31
+Litigation charge,0,2016-12-31
+"Restructuring, Settlement and Impairment Provisions",1197000,2014-12-31
+"Restructuring, Settlement and Impairment Provisions",-134000,2015-12-31
+"Restructuring, Settlement and Impairment Provisions",3957000,2016-12-31
+Other Operating Income,1080000,2014-12-31
+Other Operating Income,1025000,2015-12-31
+Other Operating Income,1195000,2016-12-31
+Operating income,85338000,2014-12-31
+Operating income,75860000,2015-12-31
+Operating income,98067000,2016-12-31
+Other Nonoperating Income (Expense),-1969000,2014-12-31
+Other Nonoperating Income (Expense),-220000,2015-12-31
+Other Nonoperating Income (Expense),2059000,2016-12-31
+Interest expense,1616000,2014-12-31
+Interest expense,1537000,2015-12-31
+Interest expense,1556000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",81753000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",74103000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",98570000,2016-12-31
+Provision for income taxes,28854000,2014-12-31
+Provision for income taxes,25983000,2015-12-31
+Provision for income taxes,36158000,2016-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",52899000,2014-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",9339000,2015-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",48120000,2015-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",13808000,2015-06-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",19194000,2015-09-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",5779000,2015-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",12656000,2016-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",62412000,2016-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",19862000,2016-06-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",21055000,2016-09-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",8839000,2016-12-31
+"Loss from discontinued operations, net of taxes",-9870000,2014-12-31
+"Loss from discontinued operations, net of taxes",-391000,2015-03-31
+"Loss from discontinued operations, net of taxes",-2102000,2015-12-31
+"Loss from discontinued operations, net of taxes",-430000,2015-06-30
+"Loss from discontinued operations, net of taxes",-728000,2015-09-30
+"Loss from discontinued operations, net of taxes",-553000,2015-12-31
+"Loss from discontinued operations, net of taxes",-452000,2016-03-31
+"Loss from discontinued operations, net of taxes",-1982000,2016-12-31
+"Loss from discontinued operations, net of taxes",-618000,2016-06-30
+"Loss from discontinued operations, net of taxes",-425000,2016-09-30
+"Loss from discontinued operations, net of taxes",-487000,2016-12-31
+Net earnings,43029000,2014-12-31
+Net earnings,8948000,2015-03-31
+Net earnings,46018000,2015-12-31
+Net earnings,13378000,2015-06-30
+Net earnings,18466000,2015-09-30
+Net earnings,5226000,2015-12-31
+Net earnings,12204000,2016-03-31
+Net earnings,60430000,2016-12-31
+Net earnings,19244000,2016-06-30
+Net earnings,20630000,2016-09-30
+Net earnings,8352000,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.31,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.41,2015-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.11,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.60,2015-06-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.84,2015-09-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.26,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.56,2016-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.75,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.87,2016-06-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.93,2016-09-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.39,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.43,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.09,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.09,2016-12-31
+Basic (in dollars per share),1.88,2014-12-31
+Basic (in dollars per share),0.39,2015-03-31
+Basic (in dollars per share),2.02,2015-12-31
+Basic (in dollars per share),0.58,2015-06-30
+Basic (in dollars per share),0.81,2015-09-30
+Basic (in dollars per share),0.23,2015-12-31
+Basic (in dollars per share),0.54,2016-03-31
+Basic (in dollars per share),2.66,2016-12-31
+Basic (in dollars per share),0.85,2016-06-30
+Basic (in dollars per share),0.91,2016-09-30
+Basic (in dollars per share),0.37,2016-12-31
+Earnings from continuing operations (in dollars per share),2.28,2014-12-31
+Earnings from continuing operations (in dollars per share),0.40,2015-03-31
+Earnings from continuing operations (in dollars per share),2.08,2015-12-31
+Earnings from continuing operations (in dollars per share),0.59,2015-06-30
+Earnings from continuing operations (in dollars per share),0.83,2015-09-30
+Earnings from continuing operations (in dollars per share),0.25,2015-12-31
+Earnings from continuing operations (in dollars per share),0.55,2016-03-31
+Earnings from continuing operations (in dollars per share),2.70,2016-12-31
+Earnings from continuing operations (in dollars per share),0.86,2016-06-30
+Earnings from continuing operations (in dollars per share),0.91,2016-09-30
+Earnings from continuing operations (in dollars per share),0.38,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.43,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.09,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.08,2016-12-31
+Diluted (in dollars per share),1.85,2014-12-31
+Diluted (in dollars per share),0.39,2015-03-31
+Diluted (in dollars per share),1.99,2015-12-31
+Diluted (in dollars per share),0.58,2015-06-30
+Diluted (in dollars per share),0.80,2015-09-30
+Diluted (in dollars per share),0.23,2015-12-31
+Diluted (in dollars per share),0.53,2016-03-31
+Diluted (in dollars per share),2.62,2016-12-31
+Diluted (in dollars per share),0.84,2016-06-30
+Diluted (in dollars per share),0.89,2016-09-30
+Diluted (in dollars per share),0.36,2016-12-31
+Dividend declared per share (in dollars per share),0.52,2014-12-31
+Dividend declared per share (in dollars per share),0.60,2015-12-31
+Dividend declared per share (in dollars per share),0.68,2016-12-31
+Average number of common shares (in shares),22899516,2014-12-31
+Average number of common shares (in shares),22811862,2015-12-31
+Average number of common shares (in shares),22722517,2016-12-31
+Average number of common shares and dilutive common shares (in shares),23239925,2014-12-31
+Average number of common shares and dilutive common shares (in shares),23142394,2015-12-31
+Average number of common shares and dilutive common shares (in shares),23082578,2016-12-31

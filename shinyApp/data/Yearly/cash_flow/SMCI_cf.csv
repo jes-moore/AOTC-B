@@ -1,0 +1,119 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,54157000,2014-06-30
+Net Income (Loss) Attributable to Parent,20863000,2014-09-30
+Net Income (Loss) Attributable to Parent,31242000,2014-12-31
+Net Income (Loss) Attributable to Parent,23056000,2015-03-31
+Net Income (Loss) Attributable to Parent,26702000,2015-06-30
+Net Income (Loss) Attributable to Parent,101863000,2015-06-30
+Net Income (Loss) Attributable to Parent,13699000,2015-09-30
+Net Income (Loss) Attributable to Parent,34689000,2015-12-31
+Net Income (Loss) Attributable to Parent,16662000,2016-03-31
+Net Income (Loss) Attributable to Parent,6971000,2016-06-30
+Net Income (Loss) Attributable to Parent,72021000,2016-06-30
+"Depreciation, Depletion and Amortization",6364000,2014-06-30
+"Depreciation, Depletion and Amortization",8133000,2015-06-30
+"Depreciation, Depletion and Amortization",13282000,2016-06-30
+Share-based Compensation,11062000,2014-06-30
+Share-based Compensation,13699000,2015-06-30
+Share-based Compensation,16131000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",2992000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",8089000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",2855000,2016-06-30
+Provision for Doubtful Accounts,1476000,2014-06-30
+Provision for Doubtful Accounts,326000,2015-06-30
+Provision for Doubtful Accounts,1278000,2016-06-30
+Inventory Write-down,2254000,2014-06-30
+Inventory Write-down,5928000,2015-06-30
+Inventory Write-down,9313000,2016-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",96000,2014-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",675000,2015-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",1233000,2016-06-30
+Deferred Income Taxes and Tax Credits,65000,2014-06-30
+Deferred Income Taxes and Tax Credits,632000,2015-06-30
+Deferred Income Taxes and Tax Credits,-6133000,2016-06-30
+Increase (Decrease) in Accounts Receivable,64874000,2014-06-30
+Increase (Decrease) in Accounts Receivable,110182000,2015-06-30
+Increase (Decrease) in Accounts Receivable,-32375000,2016-06-30
+Increase (Decrease) in Inventories,63921000,2014-06-30
+Increase (Decrease) in Inventories,153584000,2015-06-30
+Increase (Decrease) in Inventories,-5200000,2016-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,-618000,2014-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,2741000,2015-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,8210000,2016-06-30
+Increase (Decrease) in Accounts Payable,46298000,2014-06-30
+Increase (Decrease) in Accounts Payable,75520000,2015-06-30
+Increase (Decrease) in Accounts Payable,-54301000,2016-06-30
+Increase (Decrease) in Income Taxes Payable,10880000,2014-06-30
+Increase (Decrease) in Income Taxes Payable,11951000,2015-06-30
+Increase (Decrease) in Income Taxes Payable,-3260000,2016-06-30
+Increase (Decrease) in Accrued Liabilities,3293000,2014-06-30
+Increase (Decrease) in Accrued Liabilities,9551000,2015-06-30
+Increase (Decrease) in Accrued Liabilities,9027000,2016-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,1954000,2014-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,3032000,2015-06-30
+Increase (Decrease) in Other Noncurrent Liabilities,24874000,2016-06-30
+Net Cash Provided by (Used in) Operating Activities,6538000,2014-06-30
+Net Cash Provided by (Used in) Operating Activities,-44636000,2015-06-30
+Net Cash Provided by (Used in) Operating Activities,107509000,2016-06-30
+"Payments to Acquire Property, Plant, and Equipment",40567000,2014-06-30
+"Payments to Acquire Property, Plant, and Equipment",35100000,2015-06-30
+"Payments to Acquire Property, Plant, and Equipment",34108000,2016-06-30
+Increase (Decrease) in Restricted Cash,-406000,2014-06-30
+Increase (Decrease) in Restricted Cash,416000,2015-06-30
+Increase (Decrease) in Restricted Cash,1020000,2016-06-30
+Payments to Acquire Other Investments,0,2014-06-30
+Payments to Acquire Other Investments,661000,2015-06-30
+Payments to Acquire Other Investments,0,2016-06-30
+Net Cash Provided by (Used in) Investing Activities,-40161000,2014-06-30
+Net Cash Provided by (Used in) Investing Activities,-36177000,2015-06-30
+Net Cash Provided by (Used in) Investing Activities,-35128000,2016-06-30
+Proceeds from Issuance of Debt,17354000,2014-06-30
+Proceeds from Issuance of Debt,84900000,2015-06-30
+Proceeds from Issuance of Debt,34200000,2016-06-30
+Repayments of Debt,6320000,2014-06-30
+Repayments of Debt,36000000,2015-06-30
+Repayments of Debt,34100000,2016-06-30
+Proceeds from Stock Options Exercised,23928000,2014-06-30
+Proceeds from Stock Options Exercised,23338000,2015-06-30
+Proceeds from Stock Options Exercised,12186000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",2992000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",8089000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",2855000,2016-06-30
+Repayments of Long-term Capital Lease Obligations,47000,2014-06-30
+Repayments of Long-term Capital Lease Obligations,134000,2015-06-30
+Repayments of Long-term Capital Lease Obligations,189000,2016-06-30
+Payments to (Advances from) Receivable Financing Arrangements,4000,2014-06-30
+Payments to (Advances from) Receivable Financing Arrangements,-33000,2015-06-30
+Payments to (Advances from) Receivable Financing Arrangements,21000,2016-06-30
+Payments Related to Tax Withholding for Share-based Compensation,681000,2014-06-30
+Payments Related to Tax Withholding for Share-based Compensation,175000,2015-06-30
+Payments Related to Tax Withholding for Share-based Compensation,1786000,2016-06-30
+Net Cash Provided by (Used in) Financing Activities,37222000,2014-06-30
+Net Cash Provided by (Used in) Financing Activities,80051000,2015-06-30
+Net Cash Provided by (Used in) Financing Activities,13145000,2016-06-30
+Effect of Exchange Rate on Cash and Cash Equivalents,235000,2014-06-30
+Effect of Exchange Rate on Cash and Cash Equivalents,-668000,2015-06-30
+Effect of Exchange Rate on Cash and Cash Equivalents,-4000,2016-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",3834000,2014-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",-1430000,2015-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",85522000,2016-06-30
+"Cash and Cash Equivalents, at Carrying Value",93038000,2013-06-30
+"Cash and Cash Equivalents, at Carrying Value",96872000,2014-06-30
+"Cash and Cash Equivalents, at Carrying Value",95442000,2015-06-30
+"Cash and Cash Equivalents, at Carrying Value",180964000,2016-06-30
+"Cash and Cash Equivalents, at Carrying Value",93038000,2013-06-30
+"Cash and Cash Equivalents, at Carrying Value",96872000,2014-06-30
+"Cash and Cash Equivalents, at Carrying Value",95442000,2015-06-30
+"Cash and Cash Equivalents, at Carrying Value",180964000,2016-06-30
+"Interest Paid, Net",757000,2014-06-30
+"Interest Paid, Net",933000,2015-06-30
+"Interest Paid, Net",1632000,2016-06-30
+"Income Taxes Paid, Net",13096000,2014-06-30
+"Income Taxes Paid, Net",30671000,2015-06-30
+"Income Taxes Paid, Net",36951000,2016-06-30
+Capital Lease Obligations Incurred,283000,2014-06-30
+Capital Lease Obligations Incurred,442000,2015-06-30
+Capital Lease Obligations Incurred,299000,2016-06-30
+Capital Expenditures Incurred but Not yet Paid,2021000,2014-06-30
+Capital Expenditures Incurred but Not yet Paid,6826000,2015-06-30
+Capital Expenditures Incurred but Not yet Paid,10888000,2016-06-30

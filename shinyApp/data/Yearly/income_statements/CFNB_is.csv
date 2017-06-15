@@ -1,0 +1,141 @@
+Metric,Amount,endDate
+Finance and loan income,18370000,2014-06-30
+Finance and loan income,5257000,2014-09-30
+Finance and loan income,21489000,2015-06-30
+Finance and loan income,5714000,2014-12-31
+Finance and loan income,5787000,2015-03-31
+Finance and loan income,6247000,2015-06-30
+Finance and loan income,25471000,2016-06-30
+Investment interest income,1371000,2014-06-30
+Investment interest income,1516000,2015-06-30
+Investment interest income,2230000,2016-06-30
+Total interest income,19741000,2014-06-30
+Total interest income,23005000,2015-06-30
+Total interest income,6250000,2015-09-30
+Total interest income,27701000,2016-06-30
+Total interest income,6570000,2015-12-31
+Total interest income,6837000,2016-03-31
+Total interest income,8044000,2016-06-30
+us-gaap_InterestExpenseDeposits,3036000,2014-06-30
+us-gaap_InterestExpenseDeposits,3883000,2015-06-30
+us-gaap_InterestExpenseDeposits,6003000,2016-06-30
+Borrowings,1000,2014-06-30
+Borrowings,62000,2015-06-30
+Borrowings,207000,2016-06-30
+us-gaap_InterestIncomeExpenseNet,16704000,2014-06-30
+us-gaap_InterestIncomeExpenseNet,19060000,2015-06-30
+us-gaap_InterestIncomeExpenseNet,21491000,2016-06-30
+Provision for credit losses,200000,2014-06-30
+Provision for credit losses,1175000,2015-06-30
+Provision for credit losses,1475000,2016-06-30
+Net interest income after provision for credit losses,16504000,2014-06-30
+Net interest income after provision for credit losses,4124000,2014-09-30
+Net interest income after provision for credit losses,17885000,2015-06-30
+Net interest income after provision for credit losses,4403000,2014-12-31
+Net interest income after provision for credit losses,4674000,2015-03-31
+Net interest income after provision for credit losses,4684000,2015-06-30
+Net interest income after provision for credit losses,4457000,2015-09-30
+Net interest income after provision for credit losses,20016000,2016-06-30
+Net interest income after provision for credit losses,4556000,2015-12-31
+Net interest income after provision for credit losses,5022000,2016-03-31
+Net interest income after provision for credit losses,5981000,2016-06-30
+Operating and sales-type lease income,2152000,2014-06-30
+Operating and sales-type lease income,305000,2015-06-30
+Operating and sales-type lease income,1146000,2016-06-30
+"Gain on sale of leases, loans and leased property",2980000,2014-06-30
+"Gain on sale of leases, loans and leased property",4791000,2015-06-30
+"Gain on sale of leases, loans and leased property",3497000,2016-06-30
+Realized gain on sale of investment securities,,2014-06-30
+Realized gain on sale of investment securities,481000,2015-06-30
+Realized gain on sale of investment securities,23000,2016-06-30
+Recovery realized on TFT-LCD settlement,,2014-06-30
+Recovery realized on TFT-LCD settlement,2744000,2015-06-30
+Recovery realized on TFT-LCD settlement,,2016-06-30
+Other fee income,432000,2014-06-30
+Other fee income,388000,2015-06-30
+Other fee income,220000,2016-06-30
+us-gaap_NoninterestIncome,5564000,2014-06-30
+us-gaap_NoninterestIncome,2547000,2014-09-30
+us-gaap_NoninterestIncome,8709000,2015-06-30
+us-gaap_NoninterestIncome,4665000,2014-12-31
+us-gaap_NoninterestIncome,967000,2015-03-31
+us-gaap_NoninterestIncome,530000,2015-06-30
+us-gaap_NoninterestIncome,896000,2015-09-30
+us-gaap_NoninterestIncome,4886000,2016-06-30
+us-gaap_NoninterestIncome,708000,2015-12-31
+us-gaap_NoninterestIncome,497000,2016-03-31
+us-gaap_NoninterestIncome,2785000,2016-06-30
+Compensation and employee benefits,7796000,2014-06-30
+Compensation and employee benefits,8582000,2015-06-30
+Compensation and employee benefits,7254000,2016-06-30
+Occupancy,682000,2014-06-30
+Occupancy,634000,2015-06-30
+Occupancy,685000,2016-06-30
+Professional services,590000,2014-06-30
+Professional services,664000,2015-06-30
+Professional services,771000,2016-06-30
+Write-down of repossessed assets,,2014-06-30
+Write-down of repossessed assets,,2015-06-30
+Write-down of repossessed assets,397000,2016-06-30
+Other general and administrative,1927000,2014-06-30
+Other general and administrative,1899000,2015-06-30
+Other general and administrative,1727000,2016-06-30
+us-gaap_NoninterestExpense,10995000,2014-06-30
+us-gaap_NoninterestExpense,11779000,2015-06-30
+us-gaap_NoninterestExpense,10834000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,11073000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,14815000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,14068000,2016-06-30
+Income taxes,4022000,2014-06-30
+Income taxes,5760000,2015-06-30
+Income taxes,5420000,2016-06-30
+Net Earnings,7051000,2014-06-30
+Net Earnings,2459000,2014-09-30
+Net Earnings,9055000,2015-06-30
+Net Earnings,3557000,2014-12-31
+Net Earnings,1678000,2015-03-31
+Net Earnings,1360000,2015-06-30
+Net Earnings,1724000,2015-09-30
+Net Earnings,8648000,2016-06-30
+Net Earnings,1558000,2015-12-31
+Net Earnings,1611000,2016-03-31
+Net Earnings,3755000,2016-06-30
+Basic earnings per common share (in dollars per share),0.67,2014-06-30
+Basic earnings per common share (in dollars per share),0.24,2014-09-30
+Basic earnings per common share (in dollars per share),0.87,2015-06-30
+Basic earnings per common share (in dollars per share),0.34,2014-12-31
+Basic earnings per common share (in dollars per share),0.16,2015-03-31
+Basic earnings per common share (in dollars per share),0.13,2015-06-30
+Basic earnings per common share (in dollars per share),0.16,2015-09-30
+Basic earnings per common share (in dollars per share),0.83,2016-06-30
+Basic earnings per common share (in dollars per share),0.15,2015-12-31
+Basic earnings per common share (in dollars per share),0.15,2016-03-31
+Basic earnings per common share (in dollars per share),0.37,2016-06-30
+Diluted earnings per common share (in dollars per share),0.67,2014-06-30
+Diluted earnings per common share (in dollars per share),0.24,2014-09-30
+Diluted earnings per common share (in dollars per share),0.87,2015-06-30
+Diluted earnings per common share (in dollars per share),0.34,2014-12-31
+Diluted earnings per common share (in dollars per share),0.16,2015-03-31
+Diluted earnings per common share (in dollars per share),0.13,2015-06-30
+Diluted earnings per common share (in dollars per share),0.16,2015-09-30
+Diluted earnings per common share (in dollars per share),0.83,2016-06-30
+Diluted earnings per common share (in dollars per share),0.15,2015-12-31
+Diluted earnings per common share (in dollars per share),0.15,2016-03-31
+Diluted earnings per common share (in dollars per share),0.37,2016-06-30
+Dividends declared per common share outstanding (in dollars per share),0.40,2014-06-30
+Dividends declared per common share outstanding (in dollars per share),,2014-09-30
+Dividends declared per common share outstanding (in dollars per share),0.42,2015-06-30
+Dividends declared per common share outstanding (in dollars per share),0.42,2014-12-31
+Dividends declared per common share outstanding (in dollars per share),,2015-03-31
+Dividends declared per common share outstanding (in dollars per share),,2015-06-30
+Dividends declared per common share outstanding (in dollars per share),,2015-09-30
+Dividends declared per common share outstanding (in dollars per share),0.44,2016-06-30
+Dividends declared per common share outstanding (in dollars per share),0.44,2015-12-31
+Dividends declared per common share outstanding (in dollars per share),,2016-03-31
+Dividends declared per common share outstanding (in dollars per share),,2016-06-30
+Average common shares outstanding – basic (in shares),10453107,2014-06-30
+Average common shares outstanding – basic (in shares),10459924,2015-06-30
+Average common shares outstanding – basic (in shares),10399393,2016-06-30
+Average common shares outstanding – diluted (in shares),10456359,2014-06-30
+Average common shares outstanding – diluted (in shares),10459924,2015-06-30
+Average common shares outstanding – diluted (in shares),10399393,2016-06-30

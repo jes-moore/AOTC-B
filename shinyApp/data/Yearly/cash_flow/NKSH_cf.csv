@@ -1,0 +1,147 @@
+Metric,Amount,endDate
+Net income,16914000,2014-12-31
+Net income,15833000,2015-12-31
+Net income,14942000,2016-12-31
+Provision for loan losses,1641000,2014-12-31
+Provision for loan losses,2009000,2015-12-31
+Provision for loan losses,1650000,2016-12-31
+Deferred income tax expense,73000,2014-12-31
+Deferred income tax expense,10000,2015-12-31
+Deferred income tax expense,18000,2016-12-31
+Depreciation of premises and equipment,732000,2014-12-31
+Depreciation of premises and equipment,749000,2015-12-31
+Depreciation of premises and equipment,801000,2016-12-31
+Intangible assets amortization,1075000,2014-12-31
+Intangible assets amortization,999000,2015-12-31
+Intangible assets amortization,257000,2016-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-138000,2014-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-117000,2015-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-89000,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets1,-94000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets1,-15000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets1,,2016-12-31
+us-gaap_AvailableforsaleSecuritiesGrossRealizedGainLossExcludingOtherThanTemporaryImpairments,2000,2014-12-31
+us-gaap_AvailableforsaleSecuritiesGrossRealizedGainLossExcludingOtherThanTemporaryImpairments,33000,2015-12-31
+us-gaap_AvailableforsaleSecuritiesGrossRealizedGainLossExcludingOtherThanTemporaryImpairments,186000,2016-12-31
+nksh_HeldToMaturitySecuritiesRecalledSecurityRealizedGainLossExcludingOtherThanTemporaryImpairments,,2014-12-31
+nksh_HeldToMaturitySecuritiesRecalledSecurityRealizedGainLossExcludingOtherThanTemporaryImpairments,,2015-12-31
+nksh_HeldToMaturitySecuritiesRecalledSecurityRealizedGainLossExcludingOtherThanTemporaryImpairments,46000,2016-12-31
+nksh_LossesAndWriteDownsOnOtherRealEstateOwned,-129000,2014-12-31
+nksh_LossesAndWriteDownsOnOtherRealEstateOwned,-426000,2015-12-31
+nksh_LossesAndWriteDownsOnOtherRealEstateOwned,-355000,2016-12-31
+us-gaap_LifeInsuranceCorporateOrBankOwnedChangeInValue,616000,2014-12-31
+us-gaap_LifeInsuranceCorporateOrBankOwnedChangeInValue,603000,2015-12-31
+us-gaap_LifeInsuranceCorporateOrBankOwnedChangeInValue,597000,2016-12-31
+us-gaap_GainLossOnSaleOfMortgageLoans,159000,2014-12-31
+us-gaap_GainLossOnSaleOfMortgageLoans,273000,2015-12-31
+us-gaap_GainLossOnSaleOfMortgageLoans,280000,2016-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,9104000,2014-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,17641000,2015-12-31
+us-gaap_PaymentsForOriginationOfMortgageLoansHeldForSale,17090000,2016-12-31
+Sale of mortgage loans held for sale,10248000,2014-12-31
+Sale of mortgage loans held for sale,17571000,2015-12-31
+Sale of mortgage loans held for sale,17526000,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,-201000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,21000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedInterestReceivableNet,-509000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,574000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,-420000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,373000,2016-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,-24000,2014-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,-12000,2015-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,-1000,2016-12-31
+Net change in other liabilities,-428000,2014-12-31
+Net change in other liabilities,963000,2015-12-31
+Net change in other liabilities,-41000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,20338000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,20529000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,17533000,2016-12-31
+Net change in interest-bearing deposits,-4482000,2014-12-31
+Net change in interest-bearing deposits,-28263000,2015-12-31
+Net change in interest-bearing deposits,50543000,2016-12-31
+Proceeds from repayments of mortgage-backed securities,902000,2014-12-31
+Proceeds from repayments of mortgage-backed securities,717000,2015-12-31
+Proceeds from repayments of mortgage-backed securities,415000,2016-12-31
+Proceeds from calls and maturities of securities available for sale,11088000,2014-12-31
+Proceeds from calls and maturities of securities available for sale,64556000,2015-12-31
+Proceeds from calls and maturities of securities available for sale,220581000,2016-12-31
+Proceeds from calls and maturities of securities held to maturity,8677000,2014-12-31
+Proceeds from calls and maturities of securities held to maturity,9205000,2015-12-31
+Proceeds from calls and maturities of securities held to maturity,16945000,2016-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,33905000,2014-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,80093000,2015-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,290296000,2016-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,6381000,2014-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,,2015-12-31
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,,2016-12-31
+us-gaap_IncreaseDecreaseOfRestrictedInvestments,-325000,2014-12-31
+us-gaap_IncreaseDecreaseOfRestrictedInvestments,40000,2015-12-31
+us-gaap_IncreaseDecreaseOfRestrictedInvestments,41000,2016-12-31
+us-gaap_PaymentsToAcquireLoansReceivable,200000,2014-12-31
+us-gaap_PaymentsToAcquireLoansReceivable,1001000,2015-12-31
+us-gaap_PaymentsToAcquireLoansReceivable,3800000,2016-12-31
+Collections of loan participations,1539000,2014-12-31
+Collections of loan participations,1978000,2015-12-31
+Collections of loan participations,820000,2016-12-31
+"Loan originations and principal collections, net",-13880000,2014-12-31
+"Loan originations and principal collections, net",-17259000,2015-12-31
+"Loan originations and principal collections, net",-27792000,2016-12-31
+Proceeds from disposal of other real estate owned,744000,2014-12-31
+Proceeds from disposal of other real estate owned,773000,2015-12-31
+Proceeds from disposal of other real estate owned,877000,2016-12-31
+Recoveries on loans charged off,255000,2014-12-31
+Recoveries on loans charged off,145000,2015-12-31
+Recoveries on loans charged off,159000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,459000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,663000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,634000,2016-12-31
+Proceeds from sale of premises and equipment,453000,2014-12-31
+Proceeds from sale of premises and equipment,,2015-12-31
+Proceeds from sale of premises and equipment,,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-35324000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-49945000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-32223000,2016-12-31
+Net change in time deposits,-24963000,2014-12-31
+Net change in time deposits,-24363000,2015-12-31
+Net change in time deposits,-22942000,2016-12-31
+Net change in other deposits,47355000,2014-12-31
+Net change in other deposits,60794000,2015-12-31
+Net change in other deposits,47525000,2016-12-31
+us-gaap_PaymentsOfDividends,7853000,2014-12-31
+us-gaap_PaymentsOfDividends,7930000,2015-12-31
+us-gaap_PaymentsOfDividends,8071000,2016-12-31
+Stock options exercised,58000,2014-12-31
+Stock options exercised,173000,2015-12-31
+Stock options exercised,,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,14597000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,28674000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,16512000,2016-12-31
+Net change in cash,-389000,2014-12-31
+Net change in cash,-742000,2015-12-31
+Net change in cash,1822000,2016-12-31
+Cash and due from banks,13283000,2013-12-31
+Cash and due from banks,12894000,2014-12-31
+Cash and due from banks,12152000,2015-12-31
+Cash and due from banks,13974000,2016-12-31
+Cash and due from banks,13283000,2013-12-31
+Cash and due from banks,12894000,2014-12-31
+Cash and due from banks,12152000,2015-12-31
+Cash and due from banks,13974000,2016-12-31
+Interest paid on deposits and borrowed funds,4923000,2014-12-31
+Interest paid on deposits and borrowed funds,4195000,2015-12-31
+Interest paid on deposits and borrowed funds,4167000,2016-12-31
+Income taxes paid,5282000,2014-12-31
+Income taxes paid,4790000,2015-12-31
+Income taxes paid,3940000,2016-12-31
+Loans charged against the allowance for loan losses,1860000,2014-12-31
+Loans charged against the allowance for loan losses,2120000,2015-12-31
+Loans charged against the allowance for loan losses,1806000,2016-12-31
+Loans transferred to other real estate owned,905000,2014-12-31
+Loans transferred to other real estate owned,620000,2015-12-31
+Loans transferred to other real estate owned,222000,2016-12-31
+Unrealized gain (loss) on securities available for sale,19121000,2014-12-31
+Unrealized gain (loss) on securities available for sale,-1668000,2015-12-31
+Unrealized gain (loss) on securities available for sale,-1417000,2016-12-31
+Minimum pension liability adjustment,1750000,2014-12-31
+Minimum pension liability adjustment,-1815000,2015-12-31
+Minimum pension liability adjustment,293000,2016-12-31

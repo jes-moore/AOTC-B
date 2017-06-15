@@ -1,0 +1,77 @@
+Metric,Amount,endDate
+Cost of Goods Sold,88139000,2014-06-30
+Cost of Goods Sold,64772000,2015-06-30
+Cost of Goods Sold,82683000,2016-06-30
+Manufacturing Costs,14864000,2014-06-30
+Manufacturing Costs,10907000,2015-06-30
+Manufacturing Costs,10063000,2016-06-30
+Direct Costs of Leased and Rented Property or Equipment,55078000,2014-06-30
+Direct Costs of Leased and Rented Property or Equipment,76770000,2015-06-30
+Direct Costs of Leased and Rented Property or Equipment,69134000,2016-06-30
+"Selling, General and Administrative Expense",62612000,2014-06-30
+"Selling, General and Administrative Expense",70602000,2015-06-30
+"Selling, General and Administrative Expense",68697000,2016-06-30
+Goodwill and Intangible Asset Impairment,3068000,2016-06-30
+"Depreciation, Depletion and Amortization, Nonproduction",26371000,2014-06-30
+"Depreciation, Depletion and Amortization, Nonproduction",37731000,2015-06-30
+"Depreciation, Depletion and Amortization, Nonproduction",37823000,2016-06-30
+Operating Income (Loss),40041000,2014-06-30
+Operating Income (Loss),43043000,2015-06-30
+Operating Income (Loss),14383000,2016-06-30
+"Investment Income, Interest",52000,2014-06-30
+"Investment Income, Interest",68000,2015-06-30
+"Investment Income, Interest",97000,2016-06-30
+Interest Expense,11952000,2014-06-30
+Interest Expense,21096000,2015-06-30
+Interest Expense,19648000,2016-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",-1372000,2014-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",-273000,2015-06-30
+"Foreign Currency Transaction Gain (Loss), before Tax",-309000,2016-06-30
+Nonoperating Income (Expense),-13272000,2014-06-30
+Nonoperating Income (Expense),-21301000,2015-06-30
+Nonoperating Income (Expense),-19860000,2016-06-30
+"Earnings Per Share, Basic",0.16,2014-06-30
+"Earnings Per Share, Basic",0.13,2015-06-30
+"Earnings Per Share, Basic",-0.35,2016-06-30
+"Earnings Per Share, Diluted",0.15,2014-06-30
+"Earnings Per Share, Diluted",0.13,2015-06-30
+"Earnings Per Share, Diluted",-0.35,2016-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",26769000,2014-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",21742000,2015-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-5477000,2016-06-30
+Income Tax Expense (Benefit),11620000,2014-06-30
+Income Tax Expense (Benefit),8697000,2015-06-30
+Income Tax Expense (Benefit),-2191000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",15149000,2014-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",13045000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-3286000,2016-06-30
+"Preferred Stock Dividends, Income Statement Impact",3489000,2014-06-30
+"Preferred Stock Dividends, Income Statement Impact",3658000,2015-06-30
+"Preferred Stock Dividends, Income Statement Impact",3668000,2016-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,7756000,2014-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,5912000,2015-06-30
+Net Income (Loss) Attributable to Noncontrolling Interest,2071000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",3904000,2014-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",3475000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-9025000,2016-06-30
+"Operating Leases, Income Statement, Lease Revenue",151010000,2014-06-30
+"Operating Leases, Income Statement, Lease Revenue",199569000,2015-06-30
+"Operating Leases, Income Statement, Lease Revenue",168233000,2016-06-30
+Revenues,287105000,2014-06-30
+Revenues,303825000,2015-06-30
+Revenues,285851000,2016-06-30
+"Sales Revenue, Goods, Gross",116448000,2014-06-30
+"Sales Revenue, Goods, Gross",90275000,2015-06-30
+"Sales Revenue, Goods, Gross",111439000,2016-06-30
+Manufacturing Revenue,19647000,2014-06-30
+Manufacturing Revenue,13981000,2015-06-30
+Manufacturing Revenue,6179000,2016-06-30
+"Sales Revenue, Goods, Net",136095000,2014-06-30
+"Sales Revenue, Goods, Net",104256000,2015-06-30
+"Sales Revenue, Goods, Net",117618000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",24631284,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",25805679,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",26060823,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",25643565,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",26233144,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",26060823,2016-06-30

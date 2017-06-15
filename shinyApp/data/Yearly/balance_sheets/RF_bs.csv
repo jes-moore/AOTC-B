@@ -1,0 +1,80 @@
+Metric,Amount,endDate
+Cash and Due from Banks,1382000000,2015-12-31
+Cash and Due from Banks,1853000000,2016-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,3932000000,2015-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,3583000000,2016-12-31
+Federal Funds Sold and Securities Purchased under Agreements to Resell,0,2015-12-31
+Federal Funds Sold and Securities Purchased under Agreements to Resell,15000000,2016-12-31
+Trading Securities,143000000,2015-12-31
+Trading Securities,124000000,2016-12-31
+Held-to-maturity Securities,1946000000,2015-12-31
+Held-to-maturity Securities,1362000000,2016-12-31
+Available-for-sale Securities,22710000000,2015-12-31
+Available-for-sale Securities,23781000000,2016-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",448000000,2015-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",718000000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",77307000000,2014-12-31
+"Loans and Leases Receivable, Net of Deferred Income",81162000000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",80095000000,2016-12-31
+"Loans and Leases Receivable, Allowance",1341000000,2013-12-31
+"Loans and Leases Receivable, Allowance",1103000000,2014-12-31
+"Loans and Leases Receivable, Allowance",1106000000,2015-12-31
+"Loans and Leases Receivable, Allowance",1091000000,2016-12-31
+"Loans and Leases Receivable, Net Amount",80056000000,2015-12-31
+"Loans and Leases Receivable, Net Amount",79004000000,2016-12-31
+Other Interest Earning Assets,1652000000,2015-12-31
+Other Interest Earning Assets,1644000000,2016-12-31
+"Property, Plant and Equipment, Net",2152000000,2015-12-31
+"Property, Plant and Equipment, Net",2096000000,2016-12-31
+Interest Receivable,319000000,2015-12-31
+Interest Receivable,319000000,2016-12-31
+Goodwill,4878000000,2015-12-31
+Goodwill,4904000000,2016-12-31
+"Servicing Asset at Fair Value, Amount",297000000,2013-12-31
+"Servicing Asset at Fair Value, Amount",257000000,2014-12-31
+"Servicing Asset at Fair Value, Amount",252000000,2015-12-31
+"Servicing Asset at Fair Value, Amount",324000000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",259000000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",221000000,2016-12-31
+Other Assets,5921000000,2015-12-31
+Other Assets,6020000000,2016-12-31
+Assets,126050000000,2015-12-31
+Assets,125968000000,2016-12-31
+"Noninterest-bearing Domestic Deposit, Demand",34862000000,2015-12-31
+"Noninterest-bearing Domestic Deposit, Demand",36046000000,2016-12-31
+Interest-bearing Deposit Liabilities,63568000000,2015-12-31
+Interest-bearing Deposit Liabilities,62989000000,2016-12-31
+Deposits,98430000000,2015-12-31
+Deposits,99035000000,2016-12-31
+Other Short-term Borrowings,10000000,2015-12-31
+Other Short-term Borrowings,0,2016-12-31
+Short-term Debt,10000000,2015-12-31
+Short-term Debt,0,2016-12-31
+Long-term Debt,8349000000,2015-12-31
+Long-term Debt,7763000000,2016-12-31
+Debt and Capital Lease Obligations,8359000000,2015-12-31
+Debt and Capital Lease Obligations,7763000000,2016-12-31
+Other Liabilities,2417000000,2015-12-31
+Other Liabilities,2506000000,2016-12-31
+Liabilities,109206000000,2015-12-31
+Liabilities,109304000000,2016-12-31
+"Preferred Stock, Value, Outstanding",820000000,2015-12-31
+"Preferred Stock, Value, Outstanding",820000000,2016-12-31
+"Common Stock, Value, Issued",13000000,2015-12-31
+"Common Stock, Value, Issued",13000000,2016-12-31
+Additional Paid in Capital,17883000000,2015-12-31
+Additional Paid in Capital,17092000000,2016-12-31
+Retained Earnings (Accumulated Deficit),-115000000,2015-12-31
+Retained Earnings (Accumulated Deficit),666000000,2016-12-31
+"Treasury Stock, Value",1377000000,2015-12-31
+"Treasury Stock, Value",1377000000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-319000000,2013-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-238000000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-380000000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-550000000,2016-12-31
+Stockholders' Equity Attributable to Parent,15660000000,2013-12-31
+Stockholders' Equity Attributable to Parent,16873000000,2014-12-31
+Stockholders' Equity Attributable to Parent,16844000000,2015-12-31
+Stockholders' Equity Attributable to Parent,16664000000,2016-12-31
+Liabilities and Equity,126050000000,2015-12-31
+Liabilities and Equity,125968000000,2016-12-31

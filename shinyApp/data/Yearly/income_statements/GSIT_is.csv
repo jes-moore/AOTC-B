@@ -1,0 +1,87 @@
+Metric,Amount,endDate
+"Revenue, Net",12921000,2015-12-31
+"Revenue, Net",11484000,2016-12-31
+"Revenue, Net",12213000,2016-03-31
+"Revenue, Net",10392000,2017-03-31
+"Revenue, Net",53498000,2015-03-31
+"Revenue, Net",52736000,2016-03-31
+"Revenue, Net",14025000,2015-06-30
+"Revenue, Net",48180000,2017-03-31
+"Revenue, Net",12946000,2016-06-30
+"Revenue, Net",13577000,2015-09-30
+"Revenue, Net",13358000,2016-09-30
+Cost of Revenue,28375000,2015-03-31
+Cost of Revenue,25999000,2016-03-31
+Cost of Revenue,21764000,2017-03-31
+Gross Profit,6386000,2015-12-31
+Gross Profit,6495000,2016-12-31
+Gross Profit,6139000,2016-03-31
+Gross Profit,5856000,2017-03-31
+Gross Profit,25123000,2015-03-31
+Gross Profit,26737000,2016-03-31
+Gross Profit,7295000,2015-06-30
+Gross Profit,26416000,2017-03-31
+Gross Profit,6722000,2016-06-30
+Gross Profit,6917000,2015-09-30
+Gross Profit,7343000,2016-09-30
+Research and Development Expense,11917000,2015-03-31
+Research and Development Expense,12095000,2016-03-31
+Research and Development Expense,15803000,2017-03-31
+"Selling, General and Administrative Expense",19247000,2015-03-31
+"Selling, General and Administrative Expense",17663000,2016-03-31
+"Selling, General and Administrative Expense",11140000,2017-03-31
+Operating Expenses,31164000,2015-03-31
+Operating Expenses,29758000,2016-03-31
+Operating Expenses,26943000,2017-03-31
+Operating Income (Loss),-6041000,2015-03-31
+Operating Income (Loss),-3021000,2016-03-31
+Operating Income (Loss),-527000,2017-03-31
+"Investment Income, Net",324000,2015-03-31
+"Investment Income, Net",307000,2016-03-31
+"Investment Income, Net",312000,2017-03-31
+Nonoperating Income (Expense),64000,2015-03-31
+Nonoperating Income (Expense),-97000,2016-03-31
+Nonoperating Income (Expense),166000,2017-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-5653000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-2811000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-49000,2017-03-31
+Provision (benefit) for income taxes,-675000,2015-03-31
+Provision (benefit) for income taxes,-641000,2016-03-31
+Provision (benefit) for income taxes,66000,2017-03-31
+Net Income (Loss) Attributable to Parent,-819000,2015-12-31
+Net Income (Loss) Attributable to Parent,348000,2016-12-31
+Net Income (Loss) Attributable to Parent,-87000,2016-03-31
+Net Income (Loss) Attributable to Parent,-1349000,2017-03-31
+Net Income (Loss) Attributable to Parent,-4978000,2015-03-31
+Net Income (Loss) Attributable to Parent,-2170000,2016-03-31
+Net Income (Loss) Attributable to Parent,-917000,2015-06-30
+Net Income (Loss) Attributable to Parent,-115000,2017-03-31
+Net Income (Loss) Attributable to Parent,260000,2016-06-30
+Net Income (Loss) Attributable to Parent,-347000,2015-09-30
+Net Income (Loss) Attributable to Parent,626000,2016-09-30
+"Earnings Per Share, Basic",-0.04,2015-12-31
+"Earnings Per Share, Basic",0.02,2016-12-31
+"Earnings Per Share, Basic",-0.07,2017-03-31
+"Earnings Per Share, Basic",-0.20,2015-03-31
+"Earnings Per Share, Basic",-0.10,2016-03-31
+"Earnings Per Share, Basic",-0.04,2015-06-30
+"Earnings Per Share, Basic",-0.01,2017-03-31
+"Earnings Per Share, Basic",0.01,2016-06-30
+"Earnings Per Share, Basic",-0.02,2015-09-30
+"Earnings Per Share, Basic",0.03,2016-09-30
+"Earnings Per Share, Diluted",-0.04,2015-12-31
+"Earnings Per Share, Diluted",0.02,2016-12-31
+"Earnings Per Share, Diluted",-0.07,2017-03-31
+"Earnings Per Share, Diluted",-0.20,2015-03-31
+"Earnings Per Share, Diluted",-0.10,2016-03-31
+"Earnings Per Share, Diluted",-0.04,2015-06-30
+"Earnings Per Share, Diluted",-0.01,2017-03-31
+"Earnings Per Share, Diluted",0.01,2016-06-30
+"Earnings Per Share, Diluted",-0.02,2015-09-30
+"Earnings Per Share, Diluted",0.03,2016-09-30
+Weighted average shares-Basic,25029000,2015-03-31
+Weighted average shares-Basic,22593000,2016-03-31
+Weighted average shares-Basic,20652000,2017-03-31
+Weighted average shares-Dilutive,25029000,2015-03-31
+Weighted average shares-Dilutive,22593000,2016-03-31
+Weighted average shares-Dilutive,20652000,2017-03-31

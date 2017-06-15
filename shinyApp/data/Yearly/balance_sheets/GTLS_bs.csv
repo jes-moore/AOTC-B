@@ -1,0 +1,84 @@
+Metric,Amount,endDate
+"Cash and Cash Equivalents, at Carrying Value",137345000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",103656000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",123708000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",281959000,2016-12-31
+"Accounts Receivable, Net, Current",183514000,2015-12-31
+"Accounts Receivable, Net, Current",142762000,2016-12-31
+"Inventory, Net",199302000,2015-12-31
+"Inventory, Net",169683000,2016-12-31
+"Costs in Excess of Billings, Current",59283000,2015-12-31
+"Costs in Excess of Billings, Current",26736000,2016-12-31
+"Prepaid Expense, Current",8494000,2015-12-31
+"Prepaid Expense, Current",16762000,2016-12-31
+"Other Assets, Current",12929000,2015-12-31
+"Other Assets, Current",15075000,2016-12-31
+"Assets, Current",587230000,2015-12-31
+"Assets, Current",652977000,2016-12-31
+"Property, Plant and Equipment, Net",266277000,2015-12-31
+"Property, Plant and Equipment, Net",251049000,2016-12-31
+Goodwill,405522000,2014-12-31
+Goodwill,218390000,2015-12-31
+Goodwill,217970000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",106714000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",93443000,2016-12-31
+"Other Assets, Noncurrent",21529000,2015-12-31
+"Other Assets, Noncurrent",17643000,2016-12-31
+Assets,1459517000,2014-12-31
+Assets,1200140000,2015-12-31
+Assets,1233082000,2016-12-31
+"Accounts Payable, Current",97413000,2015-12-31
+"Accounts Payable, Current",79953000,2016-12-31
+"Deferred Revenue and Credits, Current",71030000,2015-12-31
+"Deferred Revenue and Credits, Current",74702000,2016-12-31
+"Accrued Salaries, Current",33886000,2015-12-31
+"Accrued Salaries, Current",41746000,2016-12-31
+"Product Warranty Accrual, Current",15341000,2015-12-31
+"Product Warranty Accrual, Current",15293000,2016-12-31
+Short-term Debt,6160000,2015-12-31
+Short-term Debt,6487000,2016-12-31
+"Other Liabilities, Current",38209000,2015-12-31
+"Other Liabilities, Current",43353000,2016-12-31
+"Liabilities, Current",262039000,2015-12-31
+"Liabilities, Current",261534000,2016-12-31
+"Long-term Debt, Excluding Current Maturities",213798000,2015-12-31
+"Long-term Debt, Excluding Current Maturities",233711000,2016-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",5146000,2015-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",4241000,2016-12-31
+"Product Warranty Accrual, Noncurrent",5634000,2015-12-31
+"Product Warranty Accrual, Noncurrent",2978000,2016-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",17283000,2015-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",14362000,2016-12-31
+"Other Liabilities, Noncurrent",20504000,2015-12-31
+"Other Liabilities, Noncurrent",17579000,2016-12-31
+Liabilities,524404000,2015-12-31
+Liabilities,534405000,2016-12-31
+"Common Stock, Value, Issued",305000,2015-12-31
+"Common Stock, Value, Issued",306000,2016-12-31
+Additional Paid in Capital,387100000,2015-12-31
+Additional Paid in Capital,395843000,2016-12-31
+Retained Earnings (Accumulated Deficit),308091000,2015-12-31
+Retained Earnings (Accumulated Deficit),336328000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-8686000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-24904000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-35212000,2016-12-31
+Stockholders' Equity Attributable to Parent,670592000,2015-12-31
+Stockholders' Equity Attributable to Parent,697265000,2016-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,5144000,2015-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,1412000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",762020000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",887080000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",675736000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",698677000,2016-12-31
+Liabilities and Equity,1200140000,2015-12-31
+Liabilities and Equity,1233082000,2016-12-31
+"Common Stock, Shares Authorized",150000000,2015-12-31
+"Common Stock, Shares Authorized",150000000,2016-12-31
+"Common Stock, Shares, Outstanding",30545657,2015-12-31
+"Common Stock, Shares, Outstanding",30613166,2016-12-31
+"Common Stock, Par or Stated Value Per Share",0.01,2015-12-31
+"Common Stock, Par or Stated Value Per Share",0.01,2016-12-31
+"Common Stock, Shares, Issued",30545657,2015-12-31
+"Common Stock, Shares, Issued",30613166,2016-12-31
+"Allowance for Doubtful Accounts Receivable, Current",6965000,2015-12-31
+"Allowance for Doubtful Accounts Receivable, Current",10217000,2016-12-31

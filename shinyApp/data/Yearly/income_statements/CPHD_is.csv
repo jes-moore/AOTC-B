@@ -1,0 +1,188 @@
+Metric,Amount,endDate
+Revenues,401292000,2013-12-31
+Revenues,106907000,2014-03-31
+Revenues,116503000,2014-06-30
+Revenues,115209000,2014-09-30
+Revenues,131522000,2014-12-31
+Revenues,470141000,2014-12-31
+Revenues,132637000,2015-03-31
+Revenues,132475000,2015-06-30
+Revenues,126465000,2015-09-30
+Revenues,146999000,2015-12-31
+Revenues,538576000,2015-12-31
+Cost of Goods Sold,207933000,2013-12-31
+Cost of Goods Sold,53083000,2014-03-31
+Cost of Goods Sold,59568000,2014-06-30
+Cost of Goods Sold,56791000,2014-09-30
+Cost of Goods Sold,59885000,2014-12-31
+Cost of Goods Sold,229327000,2014-12-31
+Cost of Goods Sold,61201000,2015-03-31
+Cost of Goods Sold,69377000,2015-06-30
+Cost of Goods Sold,67681000,2015-09-30
+Cost of Goods Sold,71605000,2015-12-31
+Cost of Goods Sold,269864000,2015-12-31
+Contract Revenue Cost,7512000,2013-12-31
+Contract Revenue Cost,7500000,2013-12-31
+Contract Revenue Cost,1291000,2014-03-31
+Contract Revenue Cost,649000,2014-06-30
+Contract Revenue Cost,1291000,2014-09-30
+Contract Revenue Cost,1923000,2014-12-31
+Contract Revenue Cost,5154000,2014-12-31
+Contract Revenue Cost,5200000,2014-12-31
+Contract Revenue Cost,1267000,2015-03-31
+Contract Revenue Cost,1326000,2015-06-30
+Contract Revenue Cost,1286000,2015-09-30
+Contract Revenue Cost,1947000,2015-12-31
+Contract Revenue Cost,5826000,2015-12-31
+Contract Revenue Cost,5800000,2015-12-31
+Research and Development Expense,80197000,2013-12-31
+Research and Development Expense,21740000,2014-03-31
+Research and Development Expense,23998000,2014-06-30
+Research and Development Expense,23541000,2014-09-30
+Research and Development Expense,27572000,2014-12-31
+Research and Development Expense,96851000,2014-12-31
+Research and Development Expense,23986000,2015-03-31
+Research and Development Expense,28092000,2015-06-30
+Research and Development Expense,32909000,2015-09-30
+Research and Development Expense,30769000,2015-12-31
+Research and Development Expense,115756000,2015-12-31
+Selling and Marketing Expense,79941000,2013-12-31
+Selling and Marketing Expense,23458000,2014-03-31
+Selling and Marketing Expense,23502000,2014-06-30
+Selling and Marketing Expense,23913000,2014-09-30
+Selling and Marketing Expense,26975000,2014-12-31
+Selling and Marketing Expense,97848000,2014-12-31
+Selling and Marketing Expense,25936000,2015-03-31
+Selling and Marketing Expense,28078000,2015-06-30
+Selling and Marketing Expense,28664000,2015-09-30
+Selling and Marketing Expense,32690000,2015-12-31
+Selling and Marketing Expense,115368000,2015-12-31
+General and Administrative Expense,41719000,2013-12-31
+General and Administrative Expense,13667000,2014-03-31
+General and Administrative Expense,14340000,2014-06-30
+General and Administrative Expense,13069000,2014-09-30
+General and Administrative Expense,13971000,2014-12-31
+General and Administrative Expense,55047000,2014-12-31
+General and Administrative Expense,15642000,2015-03-31
+General and Administrative Expense,16352000,2015-06-30
+General and Administrative Expense,15401000,2015-09-30
+General and Administrative Expense,15229000,2015-12-31
+General and Administrative Expense,62624000,2015-12-31
+Gain (Loss) Related to Litigation Settlement,0,2013-12-31
+Gain (Loss) Related to Litigation Settlement,0,2014-03-31
+Gain (Loss) Related to Litigation Settlement,0,2014-06-30
+Gain (Loss) Related to Litigation Settlement,0,2014-09-30
+Gain (Loss) Related to Litigation Settlement,-20000000,2014-12-31
+Gain (Loss) Related to Litigation Settlement,-20000000,2014-12-31
+Gain (Loss) Related to Litigation Settlement,0,2015-12-31
+Costs and Expenses,417302000,2013-12-31
+Costs and Expenses,113239000,2014-03-31
+Costs and Expenses,122057000,2014-06-30
+Costs and Expenses,118605000,2014-09-30
+Costs and Expenses,150326000,2014-12-31
+Costs and Expenses,504227000,2014-12-31
+Costs and Expenses,128032000,2015-03-31
+Costs and Expenses,143225000,2015-06-30
+Costs and Expenses,145941000,2015-09-30
+Costs and Expenses,152240000,2015-12-31
+Costs and Expenses,569438000,2015-12-31
+Operating Income (Loss),-16010000,2013-12-31
+Operating Income (Loss),-6332000,2014-03-31
+Operating Income (Loss),-5554000,2014-06-30
+Operating Income (Loss),-3396000,2014-09-30
+Operating Income (Loss),-18804000,2014-12-31
+Operating Income (Loss),-34086000,2014-12-31
+Operating Income (Loss),4605000,2015-03-31
+Operating Income (Loss),-10750000,2015-06-30
+Operating Income (Loss),-19476000,2015-09-30
+Operating Income (Loss),-5241000,2015-12-31
+Operating Income (Loss),-30862000,2015-12-31
+"Investment Income, Interest",45000,2013-12-31
+"Investment Income, Interest",1119000,2014-12-31
+"Investment Income, Interest",1898000,2015-12-31
+Interest Expense,137000,2013-12-31
+Interest Expense,12609000,2014-12-31
+Interest Expense,14659000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-715000,2013-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-2016000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-3644000,2015-12-31
+Nonoperating Income (Expense),-807000,2013-12-31
+Nonoperating Income (Expense),-2291000,2014-03-31
+Nonoperating Income (Expense),-3370000,2014-06-30
+Nonoperating Income (Expense),-3573000,2014-09-30
+Nonoperating Income (Expense),-4272000,2014-12-31
+Nonoperating Income (Expense),-13506000,2014-12-31
+Nonoperating Income (Expense),-4175000,2015-03-31
+Nonoperating Income (Expense),-4726000,2015-06-30
+Nonoperating Income (Expense),-3601000,2015-09-30
+Nonoperating Income (Expense),-3903000,2015-12-31
+Nonoperating Income (Expense),-16405000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-16817000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-47592000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-47267000,2015-12-31
+Income Tax Expense (Benefit),1148000,2013-12-31
+Income Tax Expense (Benefit),680000,2014-03-31
+Income Tax Expense (Benefit),919000,2014-06-30
+Income Tax Expense (Benefit),266000,2014-09-30
+Income Tax Expense (Benefit),692000,2014-12-31
+Income Tax Expense (Benefit),2557000,2014-12-31
+Income Tax Expense (Benefit),-476000,2015-03-31
+Income Tax Expense (Benefit),1254000,2015-06-30
+Income Tax Expense (Benefit),-176000,2015-09-30
+Income Tax Expense (Benefit),661000,2015-12-31
+Income Tax Expense (Benefit),1263000,2015-12-31
+Net Income (Loss) Attributable to Parent,-17965000,2013-12-31
+Net Income (Loss) Attributable to Parent,-9303000,2014-03-31
+Net Income (Loss) Attributable to Parent,-9843000,2014-06-30
+Net Income (Loss) Attributable to Parent,-7235000,2014-09-30
+Net Income (Loss) Attributable to Parent,-23768000,2014-12-31
+Net Income (Loss) Attributable to Parent,-50149000,2014-12-31
+Net Income (Loss) Attributable to Parent,906000,2015-03-31
+Net Income (Loss) Attributable to Parent,-16730000,2015-06-30
+Net Income (Loss) Attributable to Parent,-22901000,2015-09-30
+Net Income (Loss) Attributable to Parent,-9805000,2015-12-31
+Net Income (Loss) Attributable to Parent,-48530000,2015-12-31
+"Earnings Per Share, Basic",-0.27,2013-12-31
+"Earnings Per Share, Basic",-0.13,2014-03-31
+"Earnings Per Share, Basic",-0.14,2014-06-30
+"Earnings Per Share, Basic",-0.10,2014-09-30
+"Earnings Per Share, Basic",-0.34,2014-12-31
+"Earnings Per Share, Basic",-0.72,2014-12-31
+"Earnings Per Share, Basic",0.01,2015-03-31
+"Earnings Per Share, Basic",-0.23,2015-06-30
+"Earnings Per Share, Basic",-0.32,2015-09-30
+"Earnings Per Share, Basic",-0.14,2015-12-31
+"Earnings Per Share, Basic",-0.67,2015-12-31
+"Earnings Per Share, Diluted",-0.27,2013-12-31
+"Earnings Per Share, Diluted",-0.13,2014-03-31
+"Earnings Per Share, Diluted",-0.14,2014-06-30
+"Earnings Per Share, Diluted",-0.10,2014-09-30
+"Earnings Per Share, Diluted",-0.34,2014-12-31
+"Earnings Per Share, Diluted",-0.72,2014-12-31
+"Earnings Per Share, Diluted",0.01,2015-03-31
+"Earnings Per Share, Diluted",-0.23,2015-06-30
+"Earnings Per Share, Diluted",-0.32,2015-09-30
+"Earnings Per Share, Diluted",-0.14,2015-12-31
+"Earnings Per Share, Diluted",-0.67,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",67485000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",69272000,2014-03-31
+"Weighted Average Number of Shares Outstanding, Basic",69968000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",70326000,2014-09-30
+"Weighted Average Number of Shares Outstanding, Basic",70689000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",70069000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",71262000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",71861000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",72199000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic",72374000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",71928000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",67485000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",69272000,2014-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",69968000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",70326000,2014-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",70689000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",70069000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",73189000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",71861000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",72199000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",72374000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",71928000,2015-12-31

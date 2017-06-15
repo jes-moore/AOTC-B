@@ -1,0 +1,128 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,32445000,2014-12-31
+Net Income (Loss) Attributable to Parent,9567000,2015-03-31
+Net Income (Loss) Attributable to Parent,12074000,2015-06-30
+Net Income (Loss) Attributable to Parent,15162000,2015-09-30
+Net Income (Loss) Attributable to Parent,14762000,2015-12-31
+Net Income (Loss) Attributable to Parent,51565000,2015-12-31
+Net Income (Loss) Attributable to Parent,13820000,2016-03-31
+Net Income (Loss) Attributable to Parent,16375000,2016-06-30
+Net Income (Loss) Attributable to Parent,16050000,2016-09-30
+Net Income (Loss) Attributable to Parent,15488000,2016-12-31
+Net Income (Loss) Attributable to Parent,61733000,2016-12-31
+"Depreciation, Depletion and Amortization",28028000,2014-12-31
+"Depreciation, Depletion and Amortization",31465000,2015-12-31
+"Depreciation, Depletion and Amortization",34580000,2016-12-31
+Share-based Compensation,11011000,2014-12-31
+Share-based Compensation,16047000,2015-12-31
+Share-based Compensation,19770000,2016-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",424000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",3798000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",1001000,2016-12-31
+Deferred Income Tax Expense (Benefit),76000,2014-12-31
+Deferred Income Tax Expense (Benefit),2238000,2015-12-31
+Deferred Income Tax Expense (Benefit),-3384000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1181000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1458000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",4326000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2014-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2015-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",-4060000,2016-12-31
+Other Noncash Income (Expense),-295000,2014-12-31
+Other Noncash Income (Expense),278000,2015-12-31
+Other Noncash Income (Expense),107000,2016-12-31
+Increase (Decrease) in Restricted Cash for Operating Activities,747000,2014-12-31
+Increase (Decrease) in Restricted Cash for Operating Activities,787000,2015-12-31
+Increase (Decrease) in Restricted Cash for Operating Activities,2137000,2016-12-31
+Increase (Decrease) in Accounts Receivable,-3261000,2014-12-31
+Increase (Decrease) in Accounts Receivable,9087000,2015-12-31
+Increase (Decrease) in Accounts Receivable,18062000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,3930000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,3112000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,5421000,2016-12-31
+Increase (Decrease) in Accounts Payable,-146000,2014-12-31
+Increase (Decrease) in Accounts Payable,44000,2015-12-31
+Increase (Decrease) in Accounts Payable,-2628000,2016-12-31
+Increase (Decrease) in Deferred Revenue,-947000,2014-12-31
+Increase (Decrease) in Deferred Revenue,2566000,2015-12-31
+Increase (Decrease) in Deferred Revenue,5726000,2016-12-31
+Increase (Decrease) in Other Employee-Related Liabilities,179000,2014-12-31
+Increase (Decrease) in Other Employee-Related Liabilities,8528000,2015-12-31
+Increase (Decrease) in Other Employee-Related Liabilities,5304000,2016-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,8426000,2014-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,-4699000,2015-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,9080000,2016-12-31
+Increase (Decrease) in Income Taxes Payable,-7841000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,8865000,2015-12-31
+Increase (Decrease) in Income Taxes Payable,437000,2016-12-31
+Increase (Decrease) in Other Operating Assets,1846000,2014-12-31
+Increase (Decrease) in Other Operating Assets,1408000,2015-12-31
+Increase (Decrease) in Other Operating Assets,-4754000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,66659000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,96691000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,100258000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",27678000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",25585000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",25850000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",58185000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",44270000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",28666000,2016-12-31
+Payments to Acquire Short-term Investments,9134000,2014-12-31
+Payments to Acquire Short-term Investments,129050000,2015-12-31
+Payments to Acquire Short-term Investments,182471000,2016-12-31
+Proceeds from Sale of Short-term Investments,6735000,2014-12-31
+Proceeds from Sale of Short-term Investments,125365000,2015-12-31
+Proceeds from Sale of Short-term Investments,182320000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-88262000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-73540000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-54667000,2016-12-31
+Repayments of Long-term Capital Lease Obligations,967000,2014-12-31
+Repayments of Long-term Capital Lease Obligations,720000,2015-12-31
+Repayments of Long-term Capital Lease Obligations,348000,2016-12-31
+Proceeds from Issuance of Long-term Debt,50000000,2014-12-31
+Proceeds from Issuance of Long-term Debt,30000000,2015-12-31
+Proceeds from Issuance of Long-term Debt,0,2016-12-31
+Repayments of Debt,0,2014-12-31
+Repayments of Debt,10000000,2015-12-31
+Repayments of Debt,25000000,2016-12-31
+Proceeds from Noncontrolling Interests,0,2014-12-31
+Proceeds from Noncontrolling Interests,176000,2015-12-31
+Proceeds from Noncontrolling Interests,0,2016-12-31
+Payments of Debt Issuance Costs,405000,2014-12-31
+Payments of Debt Issuance Costs,74000,2015-12-31
+Payments of Debt Issuance Costs,0,2016-12-31
+Payments for Repurchase of Common Stock,3322000,2014-12-31
+Payments for Repurchase of Common Stock,14195000,2015-12-31
+Payments for Repurchase of Common Stock,18203000,2016-12-31
+Proceeds from Stock Options Exercised,6459000,2014-12-31
+Proceeds from Stock Options Exercised,3375000,2015-12-31
+Proceeds from Stock Options Exercised,6499000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1181000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1458000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",4326000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,52946000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,10020000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,-32726000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-2909000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-4347000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-5033000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",28434000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",28824000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",7832000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",148065000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",176499000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",205323000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",213155000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",148065000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",176499000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",205323000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",213155000,2016-12-31
+"Interest Paid, Net",355000,2014-12-31
+"Interest Paid, Net",1188000,2015-12-31
+"Interest Paid, Net",1178000,2016-12-31
+"Income Taxes Paid, Net",11204000,2014-12-31
+"Income Taxes Paid, Net",11505000,2015-12-31
+"Income Taxes Paid, Net",15667000,2016-12-31
+Capital Lease Obligations Incurred,366000,2014-12-31
+Capital Lease Obligations Incurred,215000,2015-12-31
+Capital Lease Obligations Incurred,334000,2016-12-31

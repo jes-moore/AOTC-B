@@ -1,0 +1,123 @@
+Metric,Amount,endDate
+Brokerage Commissions Revenue,2118494000,2014-12-31
+Brokerage Commissions Revenue,1976845000,2015-12-31
+Brokerage Commissions Revenue,1737435000,2016-12-31
+Investment Advisory Fees,1337959000,2014-12-31
+Investment Advisory Fees,1352454000,2015-12-31
+Investment Advisory Fees,1289681000,2016-12-31
+Asset Based Fees,476595000,2014-12-31
+Asset Based Fees,493687000,2015-12-31
+Asset Based Fees,556475000,2016-12-31
+Transaction And Other Fees,369821000,2014-12-31
+Transaction And Other Fees,401948000,2015-12-31
+Transaction And Other Fees,415715000,2016-12-31
+"Interest Income (Expense), Net",18982000,2014-12-31
+"Interest Income (Expense), Net",19192000,2015-12-31
+"Interest Income (Expense), Net",21282000,2016-12-31
+Other Income,51811000,2014-12-31
+Other Income,30928000,2015-12-31
+Other Income,28795000,2016-12-31
+Revenues,4373662000,2014-12-31
+Revenues,1109302000,2015-03-31
+Revenues,1090661000,2015-06-30
+Revenues,1054745000,2015-09-30
+Revenues,1020346000,2015-12-31
+Revenues,4275054000,2015-12-31
+Revenues,1005305000,2016-03-31
+Revenues,1019181000,2016-06-30
+Revenues,1017440000,2016-09-30
+Revenues,1007457000,2016-12-31
+Revenues,4049383000,2016-12-31
+Commissions And Advisory Fees,2998702000,2014-12-31
+Commissions And Advisory Fees,2864813000,2015-12-31
+Commissions And Advisory Fees,2600624000,2016-12-31
+Labor and Related Expense,421829000,2014-12-31
+Labor and Related Expense,440049000,2015-12-31
+Labor and Related Expense,436557000,2016-12-31
+Promotional Expenses,124677000,2014-12-31
+Promotional Expenses,139198000,2015-12-31
+Promotional Expenses,148612000,2016-12-31
+"Depreciation, Depletion and Amortization",58000000,2014-12-31
+"Depreciation, Depletion and Amortization",57977000,2014-12-31
+"Depreciation, Depletion and Amortization",73400000,2015-12-31
+"Depreciation, Depletion and Amortization",73383000,2015-12-31
+"Depreciation, Depletion and Amortization",75928000,2016-12-31
+"Depreciation, Depletion and Amortization",75900000,2016-12-31
+Amortization of Intangible Assets,38900000,2014-12-31
+Amortization of Intangible Assets,38868000,2014-12-31
+Amortization of Intangible Assets,38200000,2015-12-31
+Amortization of Intangible Assets,38239000,2015-12-31
+Amortization of Intangible Assets,38000000,2016-12-31
+Amortization of Intangible Assets,38035000,2016-12-31
+Professional Fees,62184000,2014-12-31
+Professional Fees,64522000,2015-12-31
+Professional Fees,67128000,2016-12-31
+"Occupancy, Net",82430000,2014-12-31
+"Occupancy, Net",84112000,2015-12-31
+"Occupancy, Net",92956000,2016-12-31
+"Floor Brokerage, Exchange and Clearance Fees",49015000,2014-12-31
+"Floor Brokerage, Exchange and Clearance Fees",52516000,2015-12-31
+"Floor Brokerage, Exchange and Clearance Fees",54509000,2016-12-31
+Communications and Information Technology,43823000,2014-12-31
+Communications and Information Technology,46871000,2015-12-31
+Communications and Information Technology,44453000,2016-12-31
+Restructuring Charges,34652000,2014-12-31
+Restructuring Charges,11967000,2015-12-31
+Restructuring Charges,0,2016-12-31
+Other Expenses,109327000,2014-12-31
+Other Expenses,117693000,2015-12-31
+Other Expenses,96587000,2016-12-31
+Operating Expenses,4023484000,2014-12-31
+Operating Expenses,3933363000,2015-12-31
+Operating Expenses,3655389000,2016-12-31
+"Interest Expense, Subordinated Notes and Debentures",51538000,2014-12-31
+"Interest Expense, Subordinated Notes and Debentures",59136000,2015-12-31
+"Interest Expense, Subordinated Notes and Debentures",96478000,2016-12-31
+Gain (Loss) on Extinguishment of Debt,-3943000,2014-12-31
+Gain (Loss) on Extinguishment of Debt,0,2015-12-31
+Gain (Loss) on Extinguishment of Debt,0,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",294697000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",282555000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",297516000,2016-12-31
+Income Tax Expense (Benefit),116654000,2014-12-31
+Income Tax Expense (Benefit),113771000,2015-12-31
+Income Tax Expense (Benefit),105585000,2016-12-31
+Net Income (Loss) Attributable to Parent,178043000,2014-12-31
+Net Income (Loss) Attributable to Parent,50678000,2015-03-31
+Net Income (Loss) Attributable to Parent,50242000,2015-06-30
+Net Income (Loss) Attributable to Parent,41052000,2015-09-30
+Net Income (Loss) Attributable to Parent,26812000,2015-12-31
+Net Income (Loss) Attributable to Parent,168784000,2015-12-31
+Net Income (Loss) Attributable to Parent,50392000,2016-03-31
+Net Income (Loss) Attributable to Parent,47849000,2016-06-30
+Net Income (Loss) Attributable to Parent,51954000,2016-09-30
+Net Income (Loss) Attributable to Parent,41736000,2016-12-31
+Net Income (Loss) Attributable to Parent,191931000,2016-12-31
+"Earnings Per Share, Basic",1.78,2014-12-31
+"Earnings Per Share, Basic",0.52,2015-03-31
+"Earnings Per Share, Basic",0.52,2015-06-30
+"Earnings Per Share, Basic",0.43,2015-09-30
+"Earnings Per Share, Basic",0.29,2015-12-31
+"Earnings Per Share, Basic",1.77,2015-12-31
+"Earnings Per Share, Basic",0.57,2016-03-31
+"Earnings Per Share, Basic",0.54,2016-06-30
+"Earnings Per Share, Basic",0.58,2016-09-30
+"Earnings Per Share, Basic",0.47,2016-12-31
+"Earnings Per Share, Basic",2.15,2016-12-31
+"Earnings Per Share, Diluted",1.75,2014-12-31
+"Earnings Per Share, Diluted",0.52,2015-03-31
+"Earnings Per Share, Diluted",0.52,2015-06-30
+"Earnings Per Share, Diluted",0.43,2015-09-30
+"Earnings Per Share, Diluted",0.28,2015-12-31
+"Earnings Per Share, Diluted",1.74,2015-12-31
+"Earnings Per Share, Diluted",0.56,2016-03-31
+"Earnings Per Share, Diluted",0.53,2016-06-30
+"Earnings Per Share, Diluted",0.58,2016-09-30
+"Earnings Per Share, Diluted",0.46,2016-12-31
+"Earnings Per Share, Diluted",2.13,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",99847000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",95273000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",89072000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",101651000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",96786000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",90013000,2016-12-31

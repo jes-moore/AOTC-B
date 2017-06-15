@@ -1,0 +1,68 @@
+Metric,Amount,endDate
+Cash and cash equivalents,97343000,2013-12-31
+Cash and cash equivalents,110046000,2014-12-31
+Cash and cash equivalents,82010000,2015-12-31
+Cash and cash equivalents,79342000,2016-12-31
+"Accounts receivable, net",39783000,2015-12-31
+"Accounts receivable, net",29444000,2016-12-31
+Prepaid and refundable income taxes,8520000,2015-12-31
+Prepaid and refundable income taxes,7384000,2016-12-31
+"Inventories, net",8711000,2015-12-31
+"Inventories, net",8212000,2016-12-31
+Prepaid expenses,3862000,2015-12-31
+Prepaid expenses,3527000,2016-12-31
+us-gaap_AssetsCurrent,142886000,2015-12-31
+us-gaap_AssetsCurrent,127909000,2016-12-31
+Notes Receivable,1303000,2015-12-31
+Notes Receivable,1143000,2016-12-31
+Other Assets (Note 2),23258000,2015-12-31
+Other Assets (Note 2),23142000,2016-12-31
+Net,1019650000,2015-12-31
+Net,1000230000,2016-12-31
+Other intangibles,298394000,2015-12-31
+Other intangibles,298393000,2016-12-31
+Goodwill,49680000,2014-12-31
+Goodwill,47342000,2015-12-31
+Goodwill,47342000,2016-12-31
+Total assets,1532833000,2015-12-31
+Total assets,1498149000,2016-12-31
+Current maturities of long-term debt,7677000,2015-12-31
+Current maturities of long-term debt,7657000,2016-12-31
+Accounts payable,12112000,2015-12-31
+Accounts payable,13497000,2016-12-31
+"Deferred race event and other income, net",57549000,2015-12-31
+"Deferred race event and other income, net",44782000,2016-12-31
+Accrued interest,4291000,2015-12-31
+Accrued interest,4311000,2016-12-31
+Accrued expenses and other current liabilities,26740000,2015-12-31
+Accrued expenses and other current liabilities,24424000,2016-12-31
+us-gaap_LiabilitiesCurrent,108369000,2015-12-31
+us-gaap_LiabilitiesCurrent,94671000,2016-12-31
+"Long-term debt, excluding current maturities",307342000,2015-12-31
+"Long-term debt, excluding current maturities",254398000,2016-12-31
+"Preferred seat license fees, net",4581000,2015-12-31
+"Preferred seat license fees, net",3742000,2016-12-31
+"Deferred Income Taxes, Net",321046000,2015-12-31
+"Deferred Income Taxes, Net",329398000,2016-12-31
+Other Liabilities,6655000,2015-12-31
+Other Liabilities,18157000,2016-12-31
+us-gaap_Liabilities,747993000,2015-12-31
+us-gaap_Liabilities,700366000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+"Preferred Stock, $.10 par value, shares authorized – 3,000,000, no shares issued",,2015-12-31
+"Preferred Stock, $.10 par value, shares authorized – 3,000,000, no shares issued",,2016-12-31
+"Common Stock, $.01 par value, shares authorized – 200,000,000, issued and outstanding – 41,098,000 in 2016 and 41,235,000 in 2015",458000,2015-12-31
+"Common Stock, $.01 par value, shares authorized – 200,000,000, issued and outstanding – 41,098,000 in 2016 and 41,235,000 in 2015",459000,2016-12-31
+Additional Paid-in Capital,255294000,2015-12-31
+Additional Paid-in Capital,258880000,2016-12-31
+Retained Earnings,629115000,2015-12-31
+Retained Earnings,644308000,2016-12-31
+us-gaap_TreasuryStockValue,100027000,2015-12-31
+us-gaap_TreasuryStockValue,105864000,2016-12-31
+us-gaap_StockholdersEquity,842594000,2013-12-31
+us-gaap_StockholdersEquity,847782000,2014-12-31
+us-gaap_StockholdersEquity,784840000,2015-12-31
+us-gaap_StockholdersEquity,797783000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1532833000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1498149000,2016-12-31

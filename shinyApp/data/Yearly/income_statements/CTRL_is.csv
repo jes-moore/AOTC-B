@@ -1,0 +1,58 @@
+Metric,Amount,endDate
+Revenues,148800000,2014-12-31
+Revenues,163179000,2015-12-31
+Revenues,208802000,2016-12-31
+Cost of Revenue.,72443000,2014-12-31
+Cost of Revenue.,81645000,2015-12-31
+Cost of Revenue.,105123000,2016-12-31
+Gross Profit,76357000,2014-12-31
+Gross Profit,81534000,2015-12-31
+Gross Profit,103679000,2016-12-31
+Research and Development Expense,27365000,2014-12-31
+Research and Development Expense,32385000,2015-12-31
+Research and Development Expense,35985000,2016-12-31
+Selling and Marketing Expense,25887000,2014-12-31
+Selling and Marketing Expense,32594000,2015-12-31
+Selling and Marketing Expense,42198000,2016-12-31
+General and Administrative Expense,14195000,2014-12-31
+General and Administrative Expense,17355000,2015-12-31
+General and Administrative Expense,20309000,2016-12-31
+"Litigation Settlement, Expense",47000,2014-12-31
+"Litigation Settlement, Expense",21000,2015-12-31
+"Litigation Settlement, Expense",475000,2016-12-31
+Operating Expenses,67494000,2014-12-31
+Operating Expenses,82355000,2015-12-31
+Operating Expenses,98967000,2016-12-31
+Operating Income (Loss),8863000,2014-12-31
+Operating Income (Loss),-821000,2015-12-31
+Operating Income (Loss),4712000,2016-12-31
+"Interest Income (Expense), Net",62000,2014-12-31
+"Interest Income (Expense), Net",202000,2015-12-31
+"Interest Income (Expense), Net",45000,2016-12-31
+Other Nonoperating Income (Expense),-358000,2014-12-31
+Other Nonoperating Income (Expense),-765000,2015-12-31
+Other Nonoperating Income (Expense),-587000,2016-12-31
+Nonoperating Income (Expense),-296000,2014-12-31
+Nonoperating Income (Expense),-563000,2015-12-31
+Nonoperating Income (Expense),-542000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",8567000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-1384000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",4170000,2016-12-31
+Income Tax Expense (Benefit),411000,2014-12-31
+Income Tax Expense (Benefit),268000,2015-12-31
+Income Tax Expense (Benefit),-8784000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",8156000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-1652000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",12954000,2016-12-31
+"Earnings Per Share, Basic",0.34,2014-12-31
+"Earnings Per Share, Basic",-0.07,2015-12-31
+"Earnings Per Share, Basic",0.55,2016-12-31
+"Earnings Per Share, Diluted",0.32,2014-12-31
+"Earnings Per Share, Diluted",-0.07,2015-12-31
+"Earnings Per Share, Diluted",0.53,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",23685000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",24121000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",23402000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",25646000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",24121000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",24360000,2016-12-31

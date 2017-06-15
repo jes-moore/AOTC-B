@@ -1,0 +1,55 @@
+Metric,Amount,endDate
+Net sales,408978000,2014-09-27
+Net sales,447504000,2015-10-03
+Net sales,418547000,2016-10-01
+Cost of sales,360205000,2014-09-27
+Cost of sales,389171000,2015-10-03
+Cost of sales,333359000,2016-10-01
+us-gaap_GrossProfit,48773000,2014-09-27
+us-gaap_GrossProfit,58333000,2015-10-03
+us-gaap_GrossProfit,85188000,2016-10-01
+"Selling, general and administrative expense",23371000,2014-09-27
+"Selling, general and administrative expense",25824000,2015-10-03
+"Selling, general and administrative expense",26069000,2016-10-01
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,,2014-09-27
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,,2015-10-03
+us-gaap_DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1,-2539000,2016-10-01
+"Restructuring charges, net",1247000,2014-09-27
+"Restructuring charges, net",349000,2015-10-03
+"Restructuring charges, net",115000,2016-10-01
+Acquisition costs,612000,2014-09-27
+Acquisition costs,,2015-10-03
+Acquisition costs,,2016-10-01
+us-gaap_OtherNonoperatingIncomeExpense,1907000,2014-09-27
+us-gaap_OtherNonoperatingIncomeExpense,1113000,2015-10-03
+us-gaap_OtherNonoperatingIncomeExpense,-183000,2016-10-01
+Interest expense,252000,2014-09-27
+Interest expense,320000,2015-10-03
+Interest expense,158000,2016-10-01
+us-gaap_InvestmentIncomeInterest,10000,2014-09-27
+us-gaap_InvestmentIncomeInterest,11000,2015-10-03
+us-gaap_InvestmentIncomeInterest,166000,2016-10-01
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,25208000,2014-09-27
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,32964000,2015-10-03
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,56290000,2016-10-01
+"Pension Plan Settlement, Income Taxes",8567000,2014-09-27
+"Pension Plan Settlement, Income Taxes",11254000,2015-10-03
+"Pension Plan Settlement, Income Taxes",19045000,2016-10-01
+Net earnings,16641000,2014-09-27
+Net earnings,21710000,2015-10-03
+Net earnings,37245000,2016-10-01
+Basic (in dollars per share),0.91,2014-09-27
+Basic (in dollars per share),1.18,2015-10-03
+Basic (in dollars per share),1.99,2016-10-01
+Diluted (in dollars per share),0.89,2014-09-27
+Diluted (in dollars per share),1.15,2015-10-03
+Diluted (in dollars per share),1.95,2016-10-01
+Cash dividends declared (in dollars per share),0.12,2014-09-27
+Cash dividends declared (in dollars per share),0.12,2015-10-03
+Cash dividends declared (in dollars per share),1.12,2016-10-01
+Basic weighted average shares outstanding (in shares),18257000,2014-09-27
+Basic weighted average shares outstanding (in shares),18418000,2015-10-03
+Basic weighted average shares outstanding (in shares),18754000,2016-10-01
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,18665000,2014-09-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,18803000,2015-10-03
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,19055000,2016-10-01

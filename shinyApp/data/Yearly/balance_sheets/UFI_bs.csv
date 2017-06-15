@@ -1,0 +1,66 @@
+Metric,Amount,endDate
+Cash and cash equivalents,8755000,2013-06-30
+Cash and cash equivalents,15907000,2014-06-29
+Cash and cash equivalents,10013000,2015-06-28
+Cash and cash equivalents,16646000,2016-06-26
+"Receivables, net",83863000,2015-06-28
+"Receivables, net",83422000,2016-06-26
+Inventories,111615000,2015-06-28
+Inventories,103532000,2016-06-26
+Income taxes receivable,1451000,2015-06-28
+Income taxes receivable,3502000,2016-06-26
+Other current assets,6022000,2015-06-28
+Other current assets,4790000,2016-06-26
+us-gaap_AssetsCurrent,212964000,2015-06-28
+us-gaap_AssetsCurrent,211892000,2016-06-26
+"Property, plant and equipment, net",136222000,2015-06-28
+"Property, plant and equipment, net",185101000,2016-06-26
+Deferred income taxes,3922000,2015-06-28
+Deferred income taxes,2387000,2016-06-26
+"Intangible assets, net",5388000,2015-06-28
+"Intangible assets, net",3741000,2016-06-26
+Investments in unconsolidated affiliates,113901000,2015-06-28
+Investments in unconsolidated affiliates,117412000,2016-06-26
+Other non-current assets,3975000,2015-06-28
+Other non-current assets,6330000,2016-06-26
+Assets,468682000,2014-06-29
+Assets,476372000,2015-06-28
+Assets,526863000,2016-06-26
+Accounts payable,45023000,2015-06-28
+Accounts payable,41593000,2016-06-26
+Accrued expenses,16640000,2015-06-28
+Accrued expenses,18474000,2016-06-26
+Income taxes payable,676000,2015-06-28
+Income taxes payable,1455000,2016-06-26
+Current portion of long-term debt,12385000,2015-06-28
+Current portion of long-term debt,13786000,2016-06-26
+us-gaap_LiabilitiesCurrent,74724000,2015-06-28
+us-gaap_LiabilitiesCurrent,75308000,2016-06-26
+Long-term debt,91725000,2015-06-28
+Long-term debt,109226000,2016-06-26
+Other long-term liabilities,10740000,2015-06-28
+Other long-term liabilities,10393000,2016-06-26
+us-gaap_DeferredTaxLiabilitiesNoncurrent,90000,2015-06-28
+us-gaap_DeferredTaxLiabilitiesNoncurrent,4991000,2016-06-26
+us-gaap_Liabilities,177279000,2015-06-28
+us-gaap_Liabilities,199918000,2016-06-26
+"Common stock, $0.10 par (500,000,000 shares authorized, 17,847,416 and 18,007,749 shares outstanding)",1801000,2015-06-28
+"Common stock, $0.10 par (500,000,000 shares authorized, 17,847,416 and 18,007,749 shares outstanding)",1785000,2016-06-26
+Capital in excess of par value,44261000,2015-06-28
+Capital in excess of par value,45932000,2016-06-26
+Retained earnings,278331000,2015-06-28
+Retained earnings,307065000,2016-06-26
+Accumulated other comprehensive loss,-5500000,2013-06-30
+Accumulated other comprehensive loss,-4619000,2014-06-29
+Accumulated other comprehensive loss,-26899000,2015-06-28
+Accumulated other comprehensive loss,-29751000,2016-06-26
+us-gaap_StockholdersEquity,297494000,2015-06-28
+us-gaap_StockholdersEquity,325031000,2016-06-26
+Non-controlling interest,1599000,2015-06-28
+Non-controlling interest,1914000,2016-06-26
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,286480000,2013-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,286738000,2014-06-29
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,299093000,2015-06-28
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,326945000,2016-06-26
+us-gaap_LiabilitiesAndStockholdersEquity,476372000,2015-06-28
+us-gaap_LiabilitiesAndStockholdersEquity,526863000,2016-06-26

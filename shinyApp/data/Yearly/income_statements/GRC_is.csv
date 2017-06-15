@@ -1,0 +1,40 @@
+Metric,Amount,endDate
+Net sales,434925000,2014-12-31
+Net sales,406150000,2015-12-31
+Net sales,382071000,2016-12-31
+Cost of products sold,327366000,2014-12-31
+Cost of products sold,313570000,2015-12-31
+Cost of products sold,290046000,2016-12-31
+us-gaap_GrossProfit,107559000,2014-12-31
+us-gaap_GrossProfit,92580000,2015-12-31
+us-gaap_GrossProfit,92025000,2016-12-31
+"Selling, general and administrative expenses",54254000,2014-12-31
+"Selling, general and administrative expenses",56189000,2015-12-31
+"Selling, general and administrative expenses",54528000,2016-12-31
+Impairment of goodwill,0,2014-12-31
+Impairment of goodwill,0,2015-12-31
+Impairment of goodwill,1800000,2016-12-31
+us-gaap_OperatingIncomeLoss,53305000,2014-12-31
+us-gaap_OperatingIncomeLoss,36391000,2015-12-31
+us-gaap_OperatingIncomeLoss,35697000,2016-12-31
+Other income,940000,2014-12-31
+Other income,1157000,2015-12-31
+Other income,859000,2016-12-31
+us-gaap_OtherExpenses,511000,2014-12-31
+us-gaap_OtherExpenses,282000,2015-12-31
+us-gaap_OtherExpenses,74000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,53734000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,37266000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,36482000,2016-12-31
+Income taxes,17593000,2014-12-31
+Income taxes,12157000,2015-12-31
+Income taxes,11599000,2016-12-31
+Net income,36141000,2014-12-31
+Net income,25109000,2015-12-31
+Net income,24883000,2016-12-31
+Earnings per share (in dollars per share),1.38,2014-12-31
+Earnings per share (in dollars per share),0.96,2015-12-31
+Earnings per share (in dollars per share),0.95,2016-12-31
+Average number of shares outstanding (in shares),26256824,2014-12-31
+Average number of shares outstanding (in shares),26192072,2015-12-31
+Average number of shares outstanding (in shares),26087721,2016-12-31

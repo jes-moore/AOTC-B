@@ -1,0 +1,81 @@
+Metric,Amount,endDate
+Net Sales,85219000,2014-12-31
+Net Sales,20973000,2015-03-31
+Net Sales,93278000,2015-12-31
+Net Sales,21636000,2015-06-30
+Net Sales,24556000,2015-09-30
+Net Sales,26113000,2015-12-31
+Net Sales,20626000,2016-03-31
+Net Sales,94051000,2016-12-31
+Net Sales,23840000,2016-06-30
+Net Sales,23942000,2016-09-30
+Net Sales,25643000,2016-12-31
+Cost of Goods Sold,35193000,2014-12-31
+Cost of Goods Sold,36132000,2015-12-31
+Cost of Goods Sold,36167000,2016-12-31
+Gross Profit,50026000,2014-12-31
+Gross Profit,12390000,2015-03-31
+Gross Profit,57146000,2015-12-31
+Gross Profit,13338000,2015-06-30
+Gross Profit,15286000,2015-09-30
+Gross Profit,16132000,2015-12-31
+Gross Profit,12492000,2016-03-31
+Gross Profit,57884000,2016-12-31
+Gross Profit,14689000,2016-06-30
+Gross Profit,14777000,2016-09-30
+Gross Profit,15926000,2016-12-31
+Selling Expense,14109000,2014-12-31
+Selling Expense,15252000,2015-12-31
+Selling Expense,15694000,2016-12-31
+General and Administrative Expense,12351000,2014-12-31
+General and Administrative Expense,15707000,2015-12-31
+General and Administrative Expense,17108000,2016-12-31
+Engineering Expense,2921000,2014-12-31
+Engineering Expense,2684000,2015-12-31
+Engineering Expense,3185000,2016-12-31
+Operating Income (Loss),20645000,2014-12-31
+Operating Income (Loss),23503000,2015-12-31
+Operating Income (Loss),21897000,2016-12-31
+Interest Income,36000,2014-12-31
+Interest Income,73000,2015-12-31
+Interest Income,98000,2016-12-31
+Other Nonoperating Expense,82000,2014-12-31
+Other Nonoperating Expense,12000,2015-12-31
+Other Nonoperating Expense,474000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",20599000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",23564000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",21521000,2016-12-31
+Income Tax Expense (Benefit),-6994000,2014-12-31
+Income Tax Expense (Benefit),-7603000,2015-12-31
+Income Tax Expense (Benefit),-6975000,2016-12-31
+Net Income,13605000,2014-12-31
+Net Income,15961000,2015-12-31
+Net Income,14546000,2016-12-31
+Noncontrolling interest net of tax,143000,2014-12-31
+Noncontrolling interest net of tax,173000,2015-12-31
+Noncontrolling interest net of tax,169000,2016-12-31
+"Net Income attributable to Omega Flex, Inc.",13462000,2014-12-31
+"Net Income attributable to Omega Flex, Inc.",3143000,2015-03-31
+"Net Income attributable to Omega Flex, Inc.",15788000,2015-12-31
+"Net Income attributable to Omega Flex, Inc.",3670000,2015-06-30
+"Net Income attributable to Omega Flex, Inc.",4232000,2015-09-30
+"Net Income attributable to Omega Flex, Inc.",4744000,2015-12-31
+"Net Income attributable to Omega Flex, Inc.",2643000,2016-03-31
+"Net Income attributable to Omega Flex, Inc.",14377000,2016-12-31
+"Net Income attributable to Omega Flex, Inc.",3713000,2016-06-30
+"Net Income attributable to Omega Flex, Inc.",3888000,2016-09-30
+"Net Income attributable to Omega Flex, Inc.",4133000,2016-12-31
+Basic and Diluted Earnings per Common Share,1.33,2014-12-31
+Basic and Diluted Earnings per Common Share,0.31,2015-03-31
+Basic and Diluted Earnings per Common Share,1.56,2015-12-31
+Basic and Diluted Earnings per Common Share,0.36,2015-06-30
+Basic and Diluted Earnings per Common Share,0.42,2015-09-30
+Basic and Diluted Earnings per Common Share,0.47,2015-12-31
+Basic and Diluted Earnings per Common Share,0.26,2016-03-31
+Basic and Diluted Earnings per Common Share,1.42,2016-12-31
+Basic and Diluted Earnings per Common Share,0.37,2016-06-30
+Basic and Diluted Earnings per Common Share,0.39,2016-09-30
+Basic and Diluted Earnings per Common Share,0.41,2016-12-31
+Basic and Diluted Weighted Average Shares Outstanding,10092,2014-12-31
+Basic and Diluted Weighted Average Shares Outstanding,10092,2015-12-31
+Basic and Diluted Weighted Average Shares Outstanding,10092,2016-12-31

@@ -1,0 +1,93 @@
+Metric,Amount,endDate
+Sales Revenue Goods Net,5566200000,2014-12-31
+Sales Revenue Goods Net,5312100000,2015-12-31
+Sales Revenue Goods Net,5288100000,2016-12-31
+Sales Revenue Services Net,1606500000,2014-12-31
+Sales Revenue Services Net,1625200000,2015-12-31
+Sales Revenue Services Net,1607600000,2016-12-31
+Sales Revenue Net,7172700000,2014-12-31
+Sales Revenue Net,6937300000,2015-12-31
+Sales Revenue Net,6895700000,2016-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization,4362300000,2014-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization,4178900000,2015-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization,4164400000,2016-12-31
+Cost Of Services Excluding Depreciation Depletion And Amortization,1336500000,2014-12-31
+Cost Of Services Excluding Depreciation Depletion And Amortization,1353300000,2015-12-31
+Cost Of Services Excluding Depreciation Depletion And Amortization,1354500000,2016-12-31
+Cost Of Goods And Services Sold Excluding Depreciation Depletion And Amortization,5698800000,2014-12-31
+Cost Of Goods And Services Sold Excluding Depreciation Depletion And Amortization,5532200000,2015-12-31
+Cost Of Goods And Services Sold Excluding Depreciation Depletion And Amortization,5518900000,2016-12-31
+Products Gross Profit Excluding Depreciation Depletion And Amortization,1203900000,2014-12-31
+Products Gross Profit Excluding Depreciation Depletion And Amortization,1133200000,2015-12-31
+Products Gross Profit Excluding Depreciation Depletion And Amortization,1123700000,2016-12-31
+Services Gross Profit Excluding Depreciation Depletion And Amortization,270000000,2014-12-31
+Services Gross Profit Excluding Depreciation Depletion And Amortization,271900000,2015-12-31
+Services Gross Profit Excluding Depreciation Depletion And Amortization,253100000,2016-12-31
+Gross Profit Excluding Depreciation Depletion And Amortization,1473900000,2014-12-31
+Gross Profit Excluding Depreciation Depletion And Amortization,1405100000,2015-12-31
+Gross Profit Excluding Depreciation Depletion And Amortization,1376800000,2016-12-31
+Selling General And Administrative Expense Excluding Depreciation Depletion And Amortization,933100000,2014-12-31
+Selling General And Administrative Expense Excluding Depreciation Depletion And Amortization,872600000,2015-12-31
+Selling General And Administrative Expense Excluding Depreciation Depletion And Amortization,900800000,2016-12-31
+Restructuring Settlement And Impairment Provisions,72300000,2014-12-31
+Restructuring Settlement And Impairment Provisions,62700000,2015-12-31
+Restructuring Settlement And Impairment Provisions,584300000,2016-12-31
+Depreciation And Amortization,254600000,2014-12-31
+Depreciation And Amortization,232500000,2015-12-31
+Depreciation And Amortization,204200000,2016-12-31
+Other Operating Income,11900000,2016-12-31
+Operating Income Loss,213900000,2014-12-31
+Operating Income Loss,237300000,2015-12-31
+Operating Income Loss,-300600000,2016-12-31
+Interest Expense,211200000,2014-12-31
+Interest Expense,204100000,2015-12-31
+Interest Expense,198700000,2016-12-31
+Other Nonoperating Income Expense,-22100000,2014-12-31
+Other Nonoperating Income Expense,-43900000,2015-12-31
+Other Nonoperating Income Expense,2100000,2016-12-31
+Gains Losses On Extinguishment Of Debt Continuing Operations,-77100000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-96500000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-10700000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-497200000,2016-12-31
+Income Tax Expense Benefit,-56200000,2014-12-31
+Income Tax Expense Benefit,21000000,2015-12-31
+Income Tax Expense Benefit,-12300000,2016-12-31
+Income Loss From Continuing Operations Including Portion Attributable To Noncontrolling Interest,-40300000,2014-12-31
+Income Loss From Continuing Operations Including Portion Attributable To Noncontrolling Interest,-31700000,2015-12-31
+Income Loss From Continuing Operations Including Portion Attributable To Noncontrolling Interest,-484900000,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax,161100000,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax,170100000,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax,-9700000,2016-12-31
+Profit Loss,120800000,2014-12-31
+Profit Loss,138400000,2015-12-31
+Profit Loss,-494600000,2016-12-31
+Net Income Loss Attributable To Noncontrolling Interest,3400000,2014-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-12700000,2015-12-31
+Net Income Loss Attributable To Noncontrolling Interest,1300000,2016-12-31
+Net Income Loss,117400000,2014-12-31
+Net Income Loss,151100000,2015-12-31
+Net Income Loss,-495900000,2016-12-31
+Income Loss From Continuing Operations Per Basic Share,-0.66,2014-12-31
+Income Loss From Continuing Operations Per Basic Share,-0.28,2015-12-31
+Income Loss From Continuing Operations Per Basic Share,-6.95,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,2.43,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,2.48,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,-0.14,2016-12-31
+Earnings Per Share Basic,1.77,2014-12-31
+Earnings Per Share Basic,2.20,2015-12-31
+Earnings Per Share Basic,-7.09,2016-12-31
+Income Loss From Continuing Operations Per Diluted Share,-0.66,2014-12-31
+Income Loss From Continuing Operations Per Diluted Share,-0.28,2015-12-31
+Income Loss From Continuing Operations Per Diluted Share,-6.95,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,2.43,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,2.48,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,-0.14,2016-12-31
+Earnings Per Share Diluted,1.77,2014-12-31
+Earnings Per Share Diluted,2.20,2015-12-31
+Earnings Per Share Diluted,-7.09,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,66200000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,68500000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,70000000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,66200000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,68500000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,70000000,2016-12-31

@@ -1,0 +1,160 @@
+Metric,Amount,endDate
+Revenue From New Vehicles,5124029000,2014-12-31
+Revenue From New Vehicles,5265401000,2015-12-31
+Revenue From New Vehicles,5234505000,2016-12-31
+Revenue From Used Vehicles,2310247000,2014-12-31
+Revenue From Used Vehicles,2512024000,2015-12-31
+Revenue From Used Vehicles,2533122000,2016-12-31
+Revenue From Wholesale Vehicles,166158000,2014-12-31
+Revenue From Wholesale Vehicles,155339000,2015-12-31
+Revenue From Wholesale Vehicles,211048000,2016-12-31
+Sales Revenue Goods Net,7600434000,2014-12-31
+Sales Revenue Goods Net,7932764000,2015-12-31
+Sales Revenue Goods Net,7978675000,2016-12-31
+Sales Revenue Services Net,1296570000,2014-12-31
+Sales Revenue Services Net,1364947000,2015-12-31
+Sales Revenue Services Net,1409819000,2016-12-31
+Financial Services Revenue,300095000,2014-12-31
+Financial Services Revenue,326588000,2015-12-31
+Financial Services Revenue,343285000,2016-12-31
+Revenues,9197099000,2014-12-31
+Revenues,2235516000,2015-03-31
+Revenues,9624299000,2015-12-31
+Revenues,2423740000,2015-06-30
+Revenues,2494408000,2015-09-30
+Revenues,2470635000,2015-12-31
+Revenues,2234626000,2016-03-31
+Revenues,9731779000,2016-12-31
+Revenues,2382312000,2016-06-30
+Revenues,2557928000,2016-09-30
+Revenues,2556913000,2016-12-31
+New Vehicles Cost Of Sales,4835403000,2014-12-31
+New Vehicles Cost Of Sales,4997472000,2015-12-31
+New Vehicles Cost Of Sales,4973911000,2016-12-31
+Used Vehicles Cost Of Sales,2153001000,2014-12-31
+Used Vehicles Cost Of Sales,2349982000,2015-12-31
+Used Vehicles Cost Of Sales,2374537000,2016-12-31
+Wholesale Vehicles Cost Of Sales,169774000,2014-12-31
+Wholesale Vehicles Cost Of Sales,162707000,2015-12-31
+Wholesale Vehicles Cost Of Sales,218364000,2016-12-31
+Cost Of Goods Sold,7158178000,2014-12-31
+Cost Of Goods Sold,7510161000,2015-12-31
+Cost Of Goods Sold,7566812000,2016-12-31
+Cost Of Services,673021000,2014-12-31
+Cost Of Services,699526000,2015-12-31
+Cost Of Services,735693000,2016-12-31
+Cost Of Goods And Services Sold,7831199000,2014-12-31
+Cost Of Goods And Services Sold,8209687000,2015-12-31
+Cost Of Goods And Services Sold,8302505000,2016-12-31
+Gross Profit,1365900000,2014-12-31
+Gross Profit,334959000,2015-03-31
+Gross Profit,1414612000,2015-12-31
+Gross Profit,355554000,2015-06-30
+Gross Profit,360251000,2015-09-30
+Gross Profit,363848000,2015-12-31
+Gross Profit,345150000,2016-03-31
+Gross Profit,1429274000,2016-12-31
+Gross Profit,353305000,2016-06-30
+Gross Profit,359085000,2016-09-30
+Gross Profit,371734000,2016-12-31
+Selling General And Administrative Expense,1067433000,2014-12-31
+Selling General And Administrative Expense,1110565000,2015-12-31
+Selling General And Administrative Expense,1110856000,2016-12-31
+Asset Impairment Charges,6594000,2014-12-31
+Asset Impairment Charges,6200000,2015-03-31
+Asset Impairment Charges,17955000,2015-12-31
+Asset Impairment Charges,10500000,2015-06-30
+Asset Impairment Charges,1300000,2015-12-31
+Asset Impairment Charges,8063000,2016-12-31
+Asset Impairment Charges,6100000,2016-09-30
+Asset Impairment Charges,1800000,2016-12-31
+Depreciation And Amortization,58260000,2014-12-31
+Depreciation And Amortization,68799000,2015-12-31
+Depreciation And Amortization,77446000,2016-12-31
+Operating Income Loss,233613000,2014-12-31
+Operating Income Loss,217293000,2015-12-31
+Operating Income Loss,232909000,2016-12-31
+Floor Plan Interest Expense,18793000,2014-12-31
+Floor Plan Interest Expense,21326000,2015-12-31
+Floor Plan Interest Expense,27716000,2016-12-31
+Interest Expense Other,53190000,2014-12-31
+Interest Expense Other,50910000,2015-12-31
+Interest Expense Other,50106000,2016-12-31
+Other Nonoperating Income Expense,97000,2014-12-31
+Other Nonoperating Income Expense,99000,2015-12-31
+Other Nonoperating Income Expense,125000,2016-12-31
+Nonoperating Income Expense,-71886000,2014-12-31
+Nonoperating Income Expense,-72137000,2015-12-31
+Nonoperating Income Expense,-77697000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,161727000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,145156000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,155212000,2016-12-31
+Income Tax Expense Benefit,63168000,2014-12-31
+Income Tax Expense Benefit,57065000,2015-12-31
+Income Tax Expense Benefit,60696000,2016-12-31
+Income Loss From Continuing Operations,98559000,2014-12-31
+Income Loss From Continuing Operations,88091000,2015-12-31
+Income Loss From Continuing Operations,94516000,2016-12-31
+Discontinued Operation Income Loss From Discontinued Operation Before Income Tax,-2164000,2014-12-31
+Discontinued Operation Income Loss From Discontinued Operation Before Income Tax,-2883000,2015-12-31
+Discontinued Operation Income Loss From Discontinued Operation Before Income Tax,-2121000,2016-12-31
+Discontinued Operation Tax Effect Of Discontinued Operation,-822000,2014-12-31
+Discontinued Operation Tax Effect Of Discontinued Operation,-1103000,2015-12-31
+Discontinued Operation Tax Effect Of Discontinued Operation,-798000,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax,-1342000,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax,-1780000,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax,-1323000,2016-12-31
+Net Income Loss,97217000,2014-12-31
+Net Income Loss,13967000,2015-03-31
+Net Income Loss,86311000,2015-12-31
+Net Income Loss,14781000,2015-06-30
+Net Income Loss,26505000,2015-09-30
+Net Income Loss,31058000,2015-12-31
+Net Income Loss,14624000,2016-03-31
+Net Income Loss,93193000,2016-12-31
+Net Income Loss,22822000,2016-06-30
+Net Income Loss,18111000,2016-09-30
+Net Income Loss,37636000,2016-12-31
+Income Loss From Continuing Operations Per Basic Share,1.89,2014-12-31
+Income Loss From Continuing Operations Per Basic Share,1.74,2015-12-31
+Income Loss From Continuing Operations Per Basic Share,2.07,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,-0.03,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,-0.03,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Basic Share,-0.03,2016-12-31
+Earnings Per Share Basic,1.86,2014-12-31
+Earnings Per Share Basic,0.27,2015-03-31
+Earnings Per Share Basic,1.71,2015-12-31
+Earnings Per Share Basic,0.29,2015-06-30
+Earnings Per Share Basic,0.53,2015-09-30
+Earnings Per Share Basic,0.62,2015-12-31
+Earnings Per Share Basic,0.31,2016-03-31
+Earnings Per Share Basic,2.04,2016-12-31
+Earnings Per Share Basic,0.50,2016-06-30
+Earnings Per Share Basic,0.40,2016-09-30
+Earnings Per Share Basic,0.84,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,52065000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,50489000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,45637000,2016-12-31
+Income Loss From Continuing Operations Per Diluted Share,1.87,2014-12-31
+Income Loss From Continuing Operations Per Diluted Share,1.73,2015-12-31
+Income Loss From Continuing Operations Per Diluted Share,2.06,2016-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,-0.03,2014-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,-0.03,2015-12-31
+Income Loss From Discontinued Operations Net Of Tax Per Diluted Share,-0.03,2016-12-31
+Earnings Per Share Diluted,1.84,2014-12-31
+Earnings Per Share Diluted,0.27,2015-03-31
+Earnings Per Share Diluted,1.70,2015-12-31
+Earnings Per Share Diluted,0.29,2015-06-30
+Earnings Per Share Diluted,0.52,2015-09-30
+Earnings Per Share Diluted,0.62,2015-12-31
+Earnings Per Share Diluted,0.31,2016-03-31
+Earnings Per Share Diluted,2.03,2016-12-31
+Earnings Per Share Diluted,0.50,2016-06-30
+Earnings Per Share Diluted,0.40,2016-09-30
+Earnings Per Share Diluted,0.83,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,52563000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,50883000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,45948000,2016-12-31
+Common Stock Dividends Per Share Declared,0.10,2014-12-31
+Common Stock Dividends Per Share Declared,0.11,2015-12-31
+Common Stock Dividends Per Share Declared,0.20,2016-12-31

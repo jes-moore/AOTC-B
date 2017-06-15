@@ -1,0 +1,73 @@
+Metric,Amount,endDate
+Cash,13609000,2016-02-27
+Cash,24994000,2015-02-28
+Cash,18046000,2014-03-01
+Cash,10736000,2017-04-01
+Cash,8809000,2016-04-02
+"Accounts Receivable, Net, Current",28843000,2016-02-27
+"Accounts Receivable, Net, Current",27476000,2017-04-01
+"Inventory, Net",86435000,2016-02-27
+"Inventory, Net",103120000,2017-04-01
+"Prepaid Expense, Current",8692000,2016-02-27
+"Prepaid Expense, Current",10550000,2017-04-01
+"Income Taxes Receivable, Current",157000,2016-02-27
+"Income Taxes Receivable, Current",16000,2017-04-01
+"Other Assets, Current",8695000,2016-02-27
+"Other Assets, Current",10787000,2017-04-01
+"Assets, Current",146431000,2016-02-27
+"Assets, Current",162685000,2017-04-01
+"Property, Plant and Equipment, Net",176117000,2016-02-27
+"Property, Plant and Equipment, Net",165498000,2017-04-01
+Goodwill,202815000,2016-02-27
+Goodwill,202815000,2015-02-28
+Goodwill,202815000,2017-04-01
+Goodwill,202815000,2016-04-02
+Indefinite-Lived Trade Names,228368000,2016-02-27
+Indefinite-Lived Trade Names,226685000,2017-04-01
+"Debt Issuance Costs, Line of Credit Arrangements, Net",419000,2016-02-27
+"Debt Issuance Costs, Line of Credit Arrangements, Net",320000,2017-04-01
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",2090000,2016-02-27
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",2139000,2017-04-01
+"Other Assets, Noncurrent",1879000,2016-02-27
+"Other Assets, Noncurrent",1692000,2017-04-01
+"Assets, Noncurrent",611688000,2016-02-27
+"Assets, Noncurrent",599149000,2017-04-01
+Assets,758119000,2016-02-27
+Assets,761834000,2017-04-01
+"Accounts Payable, Current",40274000,2016-02-27
+"Accounts Payable, Current",44762000,2017-04-01
+"Accrued Liabilities, Current",69635000,2016-02-27
+"Accrued Liabilities, Current",60107000,2017-04-01
+"Line of Credit, Current",721000,2016-02-27
+"Long-term Debt, Current Maturities",5373000,2016-02-27
+"Long-term Debt, Current Maturities",5445000,2017-04-01
+"Accrued Income Taxes, Current",2738000,2017-04-01
+"Liabilities, Current",116003000,2016-02-27
+"Liabilities, Current",113052000,2017-04-01
+Long-term Debt and Capital Lease Obligations,316135000,2016-02-27
+Long-term Debt and Capital Lease Obligations,312026000,2017-04-01
+"Deferred Tax Liabilities, Net, Noncurrent",80720000,2016-02-27
+"Deferred Tax Liabilities, Net, Noncurrent",80679000,2017-04-01
+Deferred Rent and Other Long Term Liabilities,38193000,2016-02-27
+Deferred Rent and Other Long Term Liabilities,34287000,2017-04-01
+"Liabilities, Noncurrent",435048000,2016-02-27
+"Liabilities, Noncurrent",426992000,2017-04-01
+Liabilities,551051000,2016-02-27
+Liabilities,540044000,2017-04-01
+Commitments and Contingencies.,,2016-02-27
+Commitments and Contingencies.,,2017-04-01
+"Common Stock, Value, Issued",480000,2016-02-27
+"Common Stock, Value, Issued",480000,2017-04-01
+Additional Paid in Capital,856879000,2016-02-27
+Additional Paid in Capital,859102000,2017-04-01
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-19835000,2016-02-27
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-22643000,2017-04-01
+Retained Earnings (Accumulated Deficit),-630456000,2016-02-27
+Retained Earnings (Accumulated Deficit),-615149000,2017-04-01
+Stockholders' Equity Attributable to Parent,207068000,2016-02-27
+Stockholders' Equity Attributable to Parent,201862000,2015-02-28
+Stockholders' Equity Attributable to Parent,197186000,2014-03-01
+Stockholders' Equity Attributable to Parent,221790000,2017-04-01
+Stockholders' Equity Attributable to Parent,211568000,2016-04-02
+Liabilities and Equity,758119000,2016-02-27
+Liabilities and Equity,761834000,2017-04-01

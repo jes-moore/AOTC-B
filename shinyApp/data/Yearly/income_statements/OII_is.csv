@@ -1,0 +1,52 @@
+Metric,Amount,endDate
+Revenues,3659624000,2014-12-31
+Revenues,3062754000,2015-12-31
+Revenues,2271603000,2016-12-31
+Cost of Goods and Services Sold,2800423000,2014-12-31
+Cost of Goods and Services Sold,2457325000,2015-12-31
+Cost of Goods and Services Sold,1992376000,2016-12-31
+Gross Profit,859201000,2014-12-31
+Gross Profit,605429000,2015-12-31
+Gross Profit,279227000,2016-12-31
+"Selling, General and Administrative Expense",230871000,2014-12-31
+"Selling, General and Administrative Expense",231619000,2015-12-31
+"Selling, General and Administrative Expense",208463000,2016-12-31
+Operating Income (Loss),628330000,2014-12-31
+Operating Income (Loss),373810000,2015-12-31
+Operating Income (Loss),70764000,2016-12-31
+"Investment Income, Interest",293000,2014-12-31
+"Investment Income, Interest",607000,2015-12-31
+"Investment Income, Interest",3900000,2016-12-31
+Interest Expense,4708000,2014-12-31
+Interest Expense,25050000,2015-12-31
+Interest Expense,25318000,2016-12-31
+Income (Loss) from Equity Method Investments,-51000,2014-12-31
+Income (Loss) from Equity Method Investments,2230000,2015-12-31
+Income (Loss) from Equity Method Investments,244000,2016-12-31
+Other Nonoperating Income (Expense),-387000,2014-12-31
+Other Nonoperating Income (Expense),-15336000,2015-12-31
+Other Nonoperating Income (Expense),-6244000,2016-12-31
+Income Including Equity Affiliate Earnings Before Income Taxes,623477000,2014-12-31
+Income Including Equity Affiliate Earnings Before Income Taxes,336261000,2015-12-31
+Income Including Equity Affiliate Earnings Before Income Taxes,43346000,2016-12-31
+Income Tax Expense (Benefit),195148000,2014-12-31
+Income Tax Expense (Benefit),105250000,2015-12-31
+Income Tax Expense (Benefit),18760000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",428329000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",231011000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",24586000,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.03,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",1.08,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.96,2016-12-31
+"Earnings Per Share, Basic",4.02,2014-12-31
+"Earnings Per Share, Basic",2.35,2015-12-31
+"Earnings Per Share, Basic",0.25,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",106593000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",98417000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",98035000,2016-12-31
+"Earnings Per Share, Diluted",4.00,2014-12-31
+"Earnings Per Share, Diluted",2.34,2015-12-31
+"Earnings Per Share, Diluted",0.25,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",107091000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",98808000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",98424000,2016-12-31

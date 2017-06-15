@@ -1,0 +1,122 @@
+Metric,Amount,endDate
+Net Income,30681000,2014-06-30
+Net Income,8047000,2014-09-30
+Net Income,37217000,2015-06-30
+Net Income,8543000,2014-12-31
+Net Income,8592000,2015-03-31
+Net Income,12035000,2015-06-30
+Net Income,11367000,2015-09-30
+Net Income,24844000,2016-06-30
+Net Income,6615000,2015-12-31
+Net Income,5239000,2016-03-31
+Net Income,1623000,2016-06-30
+us-gaap_DepreciationAmortizationAndAccretionNet,64800000,2014-06-30
+us-gaap_DepreciationAmortizationAndAccretionNet,75624000,2015-06-30
+us-gaap_DepreciationAmortizationAndAccretionNet,79606000,2016-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,6736000,2014-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,23619000,2015-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,22395000,2016-06-30
+us-gaap_GainLossOnSaleOfEquityInvestments,17143000,2014-06-30
+us-gaap_GainLossOnSaleOfEquityInvestments,,2015-06-30
+us-gaap_GainLossOnSaleOfEquityInvestments,,2016-06-30
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-5210000,2014-06-30
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-32391000,2015-06-30
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-8259000,2016-06-30
+Provision for doubtful accounts,100000,2014-06-30
+Provision for doubtful accounts,240000,2015-06-30
+Provision for doubtful accounts,825000,2016-06-30
+Stock based compensation expense,2077000,2014-06-30
+Stock based compensation expense,2772000,2015-06-30
+Stock based compensation expense,2855000,2016-06-30
+us-gaap_IncreaseDecreaseInAccountsReceivable,17125000,2014-06-30
+us-gaap_IncreaseDecreaseInAccountsReceivable,6198000,2015-06-30
+us-gaap_IncreaseDecreaseInAccountsReceivable,-165000,2016-06-30
+Income tax receivable and payable,7905000,2014-06-30
+Income tax receivable and payable,-11426000,2015-06-30
+Income tax receivable and payable,17589000,2016-06-30
+us-gaap_IncreaseDecreaseInInventories,1917000,2014-06-30
+us-gaap_IncreaseDecreaseInInventories,-860000,2015-06-30
+us-gaap_IncreaseDecreaseInInventories,2771000,2016-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,10409000,2014-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,4538000,2015-06-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,5461000,2016-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,-886000,2014-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,-240000,2015-06-30
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,34944000,2016-06-30
+us-gaap_IncreaseDecreaseInAssetsHeldForSale,,2014-06-30
+us-gaap_IncreaseDecreaseInAssetsHeldForSale,85331000,2015-06-30
+us-gaap_IncreaseDecreaseInAssetsHeldForSale,60707000,2016-06-30
+Accounts payable and accrued expenses,11988000,2014-06-30
+Accounts payable and accrued expenses,26333000,2015-06-30
+Accounts payable and accrued expenses,-13076000,2016-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,70317000,2014-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,44565000,2015-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,-5211000,2016-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,82826000,2014-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,118422000,2015-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,87597000,2016-06-30
+Proceeds on sale of property and equipment,103926000,2014-06-30
+Proceeds on sale of property and equipment,172354000,2015-06-30
+Proceeds on sale of property and equipment,143688000,2016-06-30
+us-gaap_PaymentsForProceedsFromBusinessesAndInterestInAffiliates,-21000000,2014-06-30
+us-gaap_PaymentsForProceedsFromBusinessesAndInterestInAffiliates,,2015-06-30
+us-gaap_PaymentsForProceedsFromBusinessesAndInterestInAffiliates,,2016-06-30
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,,2014-06-30
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,,2015-06-30
+us-gaap_PaymentsToAcquireBusinessesAndInterestInAffiliates,2000000,2016-06-30
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,36602000,2014-06-30
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,114682000,2015-06-30
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,18264000,2016-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,5498000,2014-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-60750000,2015-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,35827000,2016-06-30
+Proceeds from issuance of common stock,2985000,2014-06-30
+Proceeds from issuance of common stock,85353000,2015-06-30
+Proceeds from issuance of common stock,51000,2016-06-30
+Borrowings on long-term debt,325520000,2014-06-30
+Borrowings on long-term debt,847285000,2015-06-30
+Borrowings on long-term debt,824750000,2016-06-30
+us-gaap_RepaymentsOfLongTermDebt,358466000,2014-06-30
+us-gaap_RepaymentsOfLongTermDebt,789847000,2015-06-30
+us-gaap_RepaymentsOfLongTermDebt,807762000,2016-06-30
+Borrowings on other long-term liabilities,,2014-06-30
+Borrowings on other long-term liabilities,,2015-06-30
+Borrowings on other long-term liabilities,29980000,2016-06-30
+us-gaap_RepaymentsOfOtherLongTermDebt,,2014-06-30
+us-gaap_RepaymentsOfOtherLongTermDebt,,2015-06-30
+us-gaap_RepaymentsOfOtherLongTermDebt,597000,2016-06-30
+us-gaap_PaymentsOfDividends,1837000,2014-06-30
+us-gaap_PaymentsOfDividends,1873000,2015-06-30
+us-gaap_PaymentsOfDividends,2200000,2016-06-30
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,29190000,2014-06-30
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,113624000,2015-06-30
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,90638000,2016-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-60988000,2014-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,27294000,2015-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-46416000,2016-06-30
+Effect of exchange rates on cash and cash equivalents,-634000,2014-06-30
+Effect of exchange rates on cash and cash equivalents,-1918000,2015-06-30
+Effect of exchange rates on cash and cash equivalents,178000,2016-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,14193000,2014-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,9191000,2015-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-15622000,2016-06-30
+Cash and cash equivalents,1315000,2013-06-30
+Cash and cash equivalents,15508000,2014-06-30
+Cash and cash equivalents,24699000,2015-06-30
+Cash and cash equivalents,9077000,2016-06-30
+Cash and cash equivalents,1315000,2013-06-30
+Cash and cash equivalents,15508000,2014-06-30
+Cash and cash equivalents,24699000,2015-06-30
+Cash and cash equivalents,9077000,2016-06-30
+Interest paid,4802000,2014-06-30
+Interest paid,7776000,2015-06-30
+Interest paid,13794000,2016-06-30
+Income taxes paid,9901000,2014-06-30
+Income taxes paid,5627000,2015-06-30
+Income taxes paid,259000,2016-06-30
+Obligations incurred under capital leases,,2014-06-30
+Obligations incurred under capital leases,304261000,2015-06-30
+Obligations incurred under capital leases,90415000,2016-06-30
+Conversion of capital leases to operating leases,,2014-06-30
+Conversion of capital leases to operating leases,,2015-06-30
+Conversion of capital leases to operating leases,130440000,2016-06-30

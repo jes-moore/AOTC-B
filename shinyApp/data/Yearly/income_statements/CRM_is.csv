@@ -1,0 +1,116 @@
+Metric,Amount,endDate
+Subscription And Support Revenue,5013764000,2015-01-31
+Subscription And Support Revenue,6205599000,2016-01-31
+Subscription And Support Revenue,7756205000,2017-01-31
+Technology Services Revenue,359822000,2015-01-31
+Technology Services Revenue,461617000,2016-01-31
+Technology Services Revenue,635779000,2017-01-31
+"Sales Revenue, Services, Net",5373586000,2015-01-31
+"Sales Revenue, Services, Net",6667216000,2016-01-31
+"Sales Revenue, Services, Net",8391984000,2017-01-31
+Cost Of Revenue Subscription And Support,924638000,2015-01-31
+Cost Of Revenue Subscription And Support,1188967000,2016-01-31
+Cost Of Revenue Subscription And Support,1556353000,2017-01-31
+Other Cost of Services,364632000,2015-01-31
+Other Cost of Services,465581000,2016-01-31
+Other Cost of Services,677686000,2017-01-31
+Cost of Services,1289270000,2015-01-31
+Cost of Services,1654548000,2016-01-31
+Cost of Services,2234039000,2017-01-31
+Gross Profit,4084316000,2015-01-31
+Gross Profit,1129365000,2015-04-30
+Gross Profit,1229300000,2015-07-31
+Gross Profit,1288284000,2015-10-31
+Gross Profit,1365719000,2016-01-31
+Gross Profit,5012668000,2016-01-31
+Gross Profit,1419622000,2016-04-30
+Gross Profit,1511039000,2016-07-31
+Gross Profit,1559253000,2016-10-31
+Gross Profit,1668031000,2017-01-31
+Gross Profit,6157945000,2017-01-31
+Research and Development Expense,792917000,2015-01-31
+Research and Development Expense,946300000,2016-01-31
+Research and Development Expense,1208127000,2017-01-31
+Selling and Marketing Expense,2757096000,2015-01-31
+Selling and Marketing Expense,3239824000,2016-01-31
+Selling and Marketing Expense,3918027000,2017-01-31
+General and Administrative Expense,679936000,2015-01-31
+General and Administrative Expense,748238000,2016-01-31
+General and Administrative Expense,967563000,2017-01-31
+Gain (Loss) on Contract Termination,0,2015-01-31
+Gain (Loss) on Contract Termination,36617000,2016-01-31
+Gain (Loss) on Contract Termination,0,2017-01-31
+Operating Expenses,4229949000,2015-01-31
+Operating Expenses,4897745000,2016-01-31
+Operating Expenses,6093717000,2017-01-31
+Operating Income (Loss),-145633000,2015-01-31
+Operating Income (Loss),31105000,2015-04-30
+Operating Income (Loss),19824000,2015-07-31
+Operating Income (Loss),43434000,2015-10-31
+Operating Income (Loss),20560000,2016-01-31
+Operating Income (Loss),114923000,2016-01-31
+Operating Income (Loss),51986000,2016-04-30
+Operating Income (Loss),32551000,2016-07-31
+Operating Income (Loss),3036000,2016-10-31
+Operating Income (Loss),-23345000,2017-01-31
+Operating Income (Loss),64228000,2017-01-31
+"Investment Income, Net",10038000,2015-01-31
+"Investment Income, Net",15341000,2016-01-31
+"Investment Income, Net",27374000,2017-01-31
+Interest Expense,73237000,2015-01-31
+Interest Expense,72485000,2016-01-31
+Interest Expense,88988000,2017-01-31
+Other Nonoperating Income (Expense),-19878000,2015-01-31
+Other Nonoperating Income (Expense),-15292000,2016-01-31
+Other Nonoperating Income (Expense),9072000,2017-01-31
+Gain (Loss) on Disposition of Property Plant Equipment,15625000,2015-01-31
+Gain (Loss) on Disposition of Property Plant Equipment,21792000,2016-01-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2017-01-31
+Gain (Loss) on Investments,0,2015-01-31
+Gain (Loss) on Investments,0,2016-01-31
+Gain (Loss) on Investments,13697000,2017-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-213085000,2015-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",64279000,2016-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",25383000,2017-01-31
+Income Tax Expense (Benefit),49603000,2015-01-31
+Income Tax Expense (Benefit),111705000,2016-01-31
+Income Tax Expense (Benefit),-154249000,2017-01-31
+Net Income (Loss) Attributable to Parent,-262688000,2015-01-31
+Net Income (Loss) Attributable to Parent,4092000,2015-04-30
+Net Income (Loss) Attributable to Parent,-852000,2015-07-31
+Net Income (Loss) Attributable to Parent,-25157000,2015-10-31
+Net Income (Loss) Attributable to Parent,-25509000,2016-01-31
+Net Income (Loss) Attributable to Parent,-47426000,2016-01-31
+Net Income (Loss) Attributable to Parent,38759000,2016-04-30
+Net Income (Loss) Attributable to Parent,229622000,2016-07-31
+Net Income (Loss) Attributable to Parent,-37309000,2016-10-31
+Net Income (Loss) Attributable to Parent,-51440000,2017-01-31
+Net Income (Loss) Attributable to Parent,179632000,2017-01-31
+"Earnings Per Share, Basic",-0.42,2015-01-31
+"Earnings Per Share, Basic",0.01,2015-04-30
+"Earnings Per Share, Basic",0.00,2015-07-31
+"Earnings Per Share, Basic",-0.04,2015-10-31
+"Earnings Per Share, Basic",-0.04,2016-01-31
+"Earnings Per Share, Basic",-0.07,2016-01-31
+"Earnings Per Share, Basic",0.06,2016-04-30
+"Earnings Per Share, Basic",0.34,2016-07-31
+"Earnings Per Share, Basic",-0.05,2016-10-31
+"Earnings Per Share, Basic",-0.07,2017-01-31
+"Earnings Per Share, Basic",0.26,2017-01-31
+"Earnings Per Share, Diluted",-0.42,2015-01-31
+"Earnings Per Share, Diluted",0.01,2015-04-30
+"Earnings Per Share, Diluted",0.00,2015-07-31
+"Earnings Per Share, Diluted",-0.04,2015-10-31
+"Earnings Per Share, Diluted",-0.04,2016-01-31
+"Earnings Per Share, Diluted",-0.07,2016-01-31
+"Earnings Per Share, Diluted",0.06,2016-04-30
+"Earnings Per Share, Diluted",0.33,2016-07-31
+"Earnings Per Share, Diluted",-0.05,2016-10-31
+"Earnings Per Share, Diluted",-0.07,2017-01-31
+"Earnings Per Share, Diluted",0.26,2017-01-31
+"Weighted Average Number of Shares Outstanding, Basic",624148000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Basic",661647000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Basic",687797000,2017-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",624148000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",661647000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",700217000,2017-01-31

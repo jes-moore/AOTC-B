@@ -1,0 +1,121 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,186652000,2013-12-31
+Net Income (Loss) Attributable to Parent,47324000,2014-03-31
+Net Income (Loss) Attributable to Parent,50076000,2014-06-30
+Net Income (Loss) Attributable to Parent,44431000,2014-09-30
+Net Income (Loss) Attributable to Parent,57963000,2014-12-31
+Net Income (Loss) Attributable to Parent,199794000,2014-12-31
+Net Income (Loss) Attributable to Parent,45940000,2015-03-31
+Net Income (Loss) Attributable to Parent,56063000,2015-06-30
+Net Income (Loss) Attributable to Parent,56917000,2015-09-30
+Net Income (Loss) Attributable to Parent,59709000,2015-12-31
+Net Income (Loss) Attributable to Parent,218629000,2015-12-31
+Depreciation,17822000,2013-12-31
+Depreciation,16767000,2014-12-31
+Depreciation,16000000,2015-12-31
+Amortization,46651000,2013-12-31
+Amortization,49075000,2014-12-31
+Amortization,60700000,2015-12-31
+Asset Impairment Charges,5000000,2013-12-31
+Asset Impairment Charges,6468000,2014-09-30
+Asset Impairment Charges,6468000,2014-12-31
+Asset Impairment Charges,0,2015-12-31
+Amortization of Acquisition Costs,17197000,2013-12-31
+Amortization of Acquisition Costs,18105000,2014-12-31
+Amortization of Acquisition Costs,18741000,2015-12-31
+Deferred Income Tax Expense (Benefit),-2243000,2013-12-31
+Deferred Income Tax Expense (Benefit),-7413000,2014-12-31
+Deferred Income Tax Expense (Benefit),-3256000,2015-12-31
+Share-based Compensation,7562000,2013-12-31
+Share-based Compensation,9776000,2014-12-31
+Share-based Compensation,11894000,2015-12-31
+Gains (Losses) on Extinguishment of Debt,0,2013-12-31
+Gains (Losses) on Extinguishment of Debt,0,2014-12-31
+Gains (Losses) on Extinguishment of Debt,-8917000,2015-03-31
+Gains (Losses) on Extinguishment of Debt,-8917000,2015-12-31
+Other Noncash Income (Expense),-10741000,2013-12-31
+Other Noncash Income (Expense),-11162000,2014-12-31
+Other Noncash Income (Expense),-2454000,2015-12-31
+Increase (Decrease) in Accounts Receivable,14754000,2013-12-31
+Increase (Decrease) in Accounts Receivable,21095000,2014-12-31
+Increase (Decrease) in Accounts Receivable,4525000,2015-12-31
+Increase (Decrease) in Inventories,1594000,2013-12-31
+Increase (Decrease) in Inventories,4353000,2014-12-31
+Increase (Decrease) in Inventories,339000,2015-12-31
+Increase (Decrease) in Other Current Assets,-7032000,2013-12-31
+Increase (Decrease) in Other Current Assets,8199000,2014-12-31
+Increase (Decrease) in Other Current Assets,-8629000,2015-12-31
+Increase (Decrease) in Other Noncurrent Assets,5976000,2013-12-31
+Increase (Decrease) in Other Noncurrent Assets,4153000,2014-12-31
+Increase (Decrease) in Other Noncurrent Assets,2532000,2015-12-31
+Increase (Decrease) in Accounts Payable,886000,2013-12-31
+Increase (Decrease) in Accounts Payable,12218000,2014-12-31
+Increase (Decrease) in Accounts Payable,-4528000,2015-12-31
+Contract Acquisition Payment,12133000,2013-12-31
+Contract Acquisition Payment,16567000,2014-12-31
+Contract Acquisition Payment,12806000,2015-12-31
+Increase (Decrease) in Other Operating Liabilities,-1341000,2013-12-31
+Increase (Decrease) in Other Operating Liabilities,18810000,2014-12-31
+Increase (Decrease) in Other Operating Liabilities,-10045000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",261502000,2013-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",280395000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",307933000,2015-12-31
+Payments to Acquire Productive Assets,37459000,2013-12-31
+Payments to Acquire Productive Assets,41119000,2014-12-31
+Payments to Acquire Productive Assets,43261000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",69709000,2013-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",105029000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",212990000,2015-12-31
+Proceeds from Life Insurance Policies,4599000,2013-12-31
+Proceeds from Life Insurance Policies,897000,2014-12-31
+Proceeds from Life Insurance Policies,3973000,2015-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",0,2013-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",8451000,2014-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",0,2015-12-31
+Payments for (Proceeds from) Other Investing Activities,-1519000,2013-12-31
+Payments for (Proceeds from) Other Investing Activities,-757000,2014-12-31
+Payments for (Proceeds from) Other Investing Activities,-1138000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-101050000,2013-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-136043000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-251140000,2015-12-31
+Proceeds from (Repayments of) Short-term Debt,0,2013-12-31
+Proceeds from (Repayments of) Short-term Debt,159875000,2014-12-31
+Proceeds from (Repayments of) Short-term Debt,274000000,2015-12-31
+Repayments of Long-term Debt,1555000,2013-12-31
+Repayments of Long-term Debt,254403000,2014-12-31
+Repayments of Long-term Debt,208062000,2015-12-31
+Payments of Debt Issuance Costs,236000,2013-12-31
+Payments of Debt Issuance Costs,1085000,2014-12-31
+Payments of Debt Issuance Costs,749000,2015-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",15948000,2013-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",9148000,2014-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",5895000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",3055000,2013-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",4992000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",2244000,2015-12-31
+Payments for Repurchase of Common Stock,48798000,2013-12-31
+Payments for Repurchase of Common Stock,60119000,2014-12-31
+Payments for Repurchase of Common Stock,59952000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",50711000,2013-12-31
+"Payments of Ordinary Dividends, Common Stock",57603000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",59755000,2015-12-31
+Proceeds from (Payments for) Other Financing Activities,0,2013-12-31
+Proceeds from (Payments for) Other Financing Activities,-150000,2014-12-31
+Proceeds from (Payments for) Other Financing Activities,-310000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-82297000,2013-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-199345000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-46689000,2015-12-31
+"Effect of Exchange Rate on Cash and Cash Equivalents, Continuing Operations",-2501000,2013-12-31
+"Effect of Exchange Rate on Cash and Cash Equivalents, Continuing Operations",-4555000,2014-12-31
+"Effect of Exchange Rate on Cash and Cash Equivalents, Continuing Operations",-9218000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",75654000,2013-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-59548000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",886000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",45435000,2012-12-31
+"Cash and Cash Equivalents, at Carrying Value",121089000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",61541000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",62427000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",45435000,2012-12-31
+"Cash and Cash Equivalents, at Carrying Value",121089000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",61541000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",62427000,2015-12-31

@@ -1,0 +1,115 @@
+Metric,Amount,endDate
+"Revenue, Net",2357788000,2014-12-31
+"Revenue, Net",699479000,2015-03-31
+"Revenue, Net",627838000,2015-06-30
+"Revenue, Net",626286000,2015-09-30
+"Revenue, Net",650011000,2015-12-31
+"Revenue, Net",2603614000,2015-12-31
+"Revenue, Net",802408000,2016-03-31
+"Revenue, Net",707332000,2016-06-30
+"Revenue, Net",702538000,2016-09-30
+"Revenue, Net",729069000,2016-12-31
+"Revenue, Net",2941347000,2016-12-31
+"Payroll taxes, benefits and workers' compensation costs",1953983000,2014-12-31
+"Payroll taxes, benefits and workers' compensation costs",2165747000,2015-12-31
+"Payroll taxes, benefits and workers' compensation costs",2449737000,2016-12-31
+Gross Profit,403805000,2014-12-31
+Gross Profit,129860000,2015-03-31
+Gross Profit,104219000,2015-06-30
+Gross Profit,106743000,2015-09-30
+Gross Profit,97045000,2015-12-31
+Gross Profit,437867000,2015-12-31
+Gross Profit,150016000,2016-03-31
+Gross Profit,113259000,2016-06-30
+Gross Profit,117796000,2016-09-30
+Gross Profit,110539000,2016-12-31
+Gross Profit,491610000,2016-12-31
+"Salaries, wages and payroll taxes",200118000,2014-12-31
+"Salaries, wages and payroll taxes",211060000,2015-12-31
+"Salaries, wages and payroll taxes",229589000,2016-12-31
+Share-based Compensation,11053000,2014-12-31
+Share-based Compensation,13345000,2015-12-31
+Share-based Compensation,16643000,2016-12-31
+Sales Commissions and Fees,15285000,2014-12-31
+Sales Commissions and Fees,18479000,2015-12-31
+Sales Commissions and Fees,19288000,2016-12-31
+Advertising Expense,20084000,2014-12-31
+Advertising Expense,15980000,2015-12-31
+Advertising Expense,16447000,2016-12-31
+General and Administrative Expense,84717000,2014-12-31
+General and Administrative Expense,84259000,2015-12-31
+General and Administrative Expense,86693000,2016-12-31
+Asset Impairment Charges,3687000,2014-12-31
+Asset Impairment Charges,9800000,2015-03-31
+Asset Impairment Charges,1300000,2015-06-30
+Asset Impairment Charges,-600000,2015-12-31
+Asset Impairment Charges,10480000,2015-12-31
+Asset Impairment Charges,0,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",21387000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",18565000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",16644000,2016-12-31
+Operating Expenses,356331000,2014-12-31
+Operating Expenses,372168000,2015-12-31
+Operating Expenses,385304000,2016-12-31
+Operating Income (Loss),47474000,2014-12-31
+Operating Income (Loss),23520000,2015-03-31
+Operating Income (Loss),12217000,2015-06-30
+Operating Income (Loss),19936000,2015-09-30
+Operating Income (Loss),10026000,2015-12-31
+Operating Income (Loss),65699000,2015-12-31
+Operating Income (Loss),53043000,2016-03-31
+Operating Income (Loss),16023000,2016-06-30
+Operating Income (Loss),22773000,2016-09-30
+Operating Income (Loss),14467000,2016-12-31
+Operating Income (Loss),106306000,2016-12-31
+"Interest Income, Other",523000,2014-12-31
+"Interest Income, Other",379000,2015-12-31
+"Interest Income, Other",1267000,2016-12-31
+Interest Expense,370000,2014-12-31
+Interest Expense,459000,2015-12-31
+Interest Expense,2396000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",47627000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",65619000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",105177000,2016-12-31
+Income Tax Expense (Benefit),19623000,2014-12-31
+Income Tax Expense (Benefit),26229000,2015-12-31
+Income Tax Expense (Benefit),39186000,2016-12-31
+Net Income (Loss) Attributable to Parent,28004000,2014-12-31
+Net Income (Loss) Attributable to Parent,13787000,2015-03-31
+Net Income (Loss) Attributable to Parent,7314000,2015-06-30
+Net Income (Loss) Attributable to Parent,11950000,2015-09-30
+Net Income (Loss) Attributable to Parent,6339000,2015-12-31
+Net Income (Loss) Attributable to Parent,39390000,2015-12-31
+Net Income (Loss) Attributable to Parent,32693000,2016-03-31
+Net Income (Loss) Attributable to Parent,9713000,2016-06-30
+Net Income (Loss) Attributable to Parent,14065000,2016-09-30
+Net Income (Loss) Attributable to Parent,9520000,2016-12-31
+Net Income (Loss) Attributable to Parent,65991000,2016-12-31
+"Participating Securities, Distributed and Undistributed Earnings (Loss), Basic",2002000,2014-12-31
+"Participating Securities, Distributed and Undistributed Earnings (Loss), Basic",981000,2015-12-31
+"Participating Securities, Distributed and Undistributed Earnings (Loss), Basic",1496000,2016-12-31
+Net Income Loss Available To Common Shareholders Basic,26002000,2014-12-31
+Net Income Loss Available To Common Shareholders Basic,38409000,2015-12-31
+Net Income Loss Available To Common Shareholders Basic,64495000,2016-12-31
+"Earnings Per Share, Basic",1.05,2014-12-31
+"Earnings Per Share, Basic",0.54,2015-03-31
+"Earnings Per Share, Basic",0.29,2015-06-30
+"Earnings Per Share, Basic",0.48,2015-09-30
+"Earnings Per Share, Basic",0.26,2015-12-31
+"Earnings Per Share, Basic",1.58,2015-12-31
+"Earnings Per Share, Basic",1.53,2016-03-31
+"Earnings Per Share, Basic",0.45,2016-06-30
+"Earnings Per Share, Basic",0.66,2016-09-30
+"Earnings Per Share, Basic",0.45,2016-12-31
+"Earnings Per Share, Basic",3.10,2016-12-31
+"Earnings Per Share, Diluted",1.05,2014-12-31
+"Earnings Per Share, Diluted",0.54,2015-03-31
+"Earnings Per Share, Diluted",0.29,2015-06-30
+"Earnings Per Share, Diluted",0.48,2015-09-30
+"Earnings Per Share, Diluted",0.26,2015-12-31
+"Earnings Per Share, Diluted",1.58,2015-12-31
+"Earnings Per Share, Diluted",1.53,2016-03-31
+"Earnings Per Share, Diluted",0.45,2016-06-30
+"Earnings Per Share, Diluted",0.66,2016-09-30
+"Earnings Per Share, Diluted",0.45,2016-12-31
+"Earnings Per Share, Diluted",3.09,2016-12-31

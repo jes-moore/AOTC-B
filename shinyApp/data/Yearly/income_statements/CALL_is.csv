@@ -1,0 +1,119 @@
+Metric,Amount,endDate
+Net revenues,25512000,2015-03-31
+Net revenues,25410000,2015-06-30
+Net revenues,25409000,2015-09-30
+Net revenues,24631000,2015-12-31
+Net revenues,116322000,2014-12-31
+Net revenues,100962000,2015-12-31
+Net revenues,23699000,2016-03-31
+Net revenues,97398000,2016-12-31
+Net revenues,25301000,2016-06-30
+Net revenues,24572000,2016-09-30
+Net revenues,23826000,2016-12-31
+Cost of revenues,42541000,2014-12-31
+Cost of revenues,34142000,2015-12-31
+Cost of revenues,36734000,2016-12-31
+Gross profit (loss),16045000,2015-03-31
+Gross profit (loss),16741000,2015-06-30
+Gross profit (loss),17184000,2015-09-30
+Gross profit (loss),16850000,2015-12-31
+Gross profit (loss),73781000,2014-12-31
+Gross profit (loss),66820000,2015-12-31
+Gross profit (loss),15490000,2016-03-31
+Gross profit (loss),60664000,2016-12-31
+Gross profit (loss),15463000,2016-06-30
+Gross profit (loss),15063000,2016-09-30
+Gross profit (loss),14648000,2016-12-31
+Marketing,20434000,2014-12-31
+Marketing,9409000,2015-12-31
+Marketing,9085000,2016-12-31
+General and administrative,33912000,2014-12-31
+General and administrative,27547000,2015-12-31
+General and administrative,34325000,2016-12-31
+Research and development,5871000,2014-12-31
+Research and development,4521000,2015-12-31
+Research and development,5199000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",,2014-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",,2015-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",1700000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",2000000,2016-09-30
+Operating expenses,60217000,2014-12-31
+Operating expenses,41477000,2015-12-31
+Operating expenses,46909000,2016-12-31
+Operating income (loss),4433000,2015-03-31
+Operating income (loss),6429000,2015-06-30
+Operating income (loss),7453000,2015-09-30
+Operating income (loss),7028000,2015-12-31
+Operating income (loss),13564000,2014-12-31
+Operating income (loss),25343000,2015-12-31
+Operating income (loss),4234000,2016-03-31
+Operating income (loss),13755000,2016-12-31
+Operating income (loss),4206000,2016-06-30
+Operating income (loss),5428000,2016-09-30
+Operating income (loss),-113000,2016-12-31
+Gains on investments,37000,2014-12-31
+Gains on investments,,2015-12-31
+Gains on investments,,2016-12-31
+Interest and dividend income,117000,2014-12-31
+Interest and dividend income,26000,2015-12-31
+Interest and dividend income,26000,2016-12-31
+Interest Expense,192000,2014-12-31
+Interest Expense,57000,2015-12-31
+Interest Expense,,2016-12-31
+"Other (expense) income, net",4000,2014-12-31
+"Other (expense) income, net",,2015-12-31
+"Other (expense) income, net",-6000,2016-12-31
+Nonoperating Income (Expense),-34000,2014-12-31
+Nonoperating Income (Expense),-31000,2015-12-31
+Nonoperating Income (Expense),20000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",13530000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",25312000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",13775000,2016-12-31
+Income tax expense,9745000,2014-12-31
+Income tax expense,11802000,2015-12-31
+Income tax expense,8719000,2016-12-31
+Net income,1308000,2015-03-31
+Net income,6952000,2015-06-30
+Net income,3311000,2015-09-30
+Net income,1939000,2015-12-31
+Net income,3785000,2014-12-31
+Net income,13510000,2015-12-31
+Net income,734000,2016-03-31
+Net income,5056000,2016-12-31
+Net income,2515000,2016-06-30
+Net income,3222000,2016-09-30
+Net income,-1415000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-635000,2016-12-31
+Net income attributable to common shareholders,3785000,2014-12-31
+Net income attributable to common shareholders,13510000,2015-12-31
+Net income attributable to common shareholders,5691000,2016-12-31
+Basic,0.07,2015-03-31
+Basic,0.39,2015-06-30
+Basic,0.20,2015-09-30
+Basic,0.12,2015-12-31
+Basic,0.21,2014-12-31
+Basic,0.80,2015-12-31
+Basic,0.05,2016-03-31
+Basic,0.36,2016-12-31
+Basic,0.18,2016-06-30
+Basic,0.21,2016-09-30
+Basic,-0.08,2016-12-31
+Diluted,0.07,2015-03-31
+Diluted,0.39,2015-06-30
+Diluted,0.20,2015-09-30
+Diluted,0.15,2015-12-31
+Diluted,0.21,2014-12-31
+Diluted,0.79,2015-12-31
+Diluted,0.05,2016-03-31
+Diluted,0.35,2016-12-31
+Diluted,0.18,2016-06-30
+Diluted,0.21,2016-09-30
+Diluted,-0.08,2016-12-31
+Denominator for basic net income per share - weighted average ordinary shares outstanding,17831,2014-12-31
+Denominator for basic net income per share - weighted average ordinary shares outstanding,16975,2015-12-31
+Denominator for basic net income per share - weighted average ordinary shares outstanding,15815,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",17868,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",17045,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",16064,2016-12-31

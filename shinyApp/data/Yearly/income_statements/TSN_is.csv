@@ -1,0 +1,97 @@
+Metric,Amount,endDate
+"Revenue, Net",37580000000,2014-09-27
+"Revenue, Net",10817000000,2014-12-27
+"Revenue, Net",9979000000,2015-03-28
+"Revenue, Net",10071000000,2015-06-27
+"Revenue, Net",10506000000,2015-10-03
+"Revenue, Net",41373000000,2015-10-03
+"Revenue, Net",9152000000,2016-01-02
+"Revenue, Net",9170000000,2016-04-02
+"Revenue, Net",9403000000,2016-07-02
+"Revenue, Net",9156000000,2016-10-01
+"Revenue, Net",36881000000,2016-10-01
+Cost of Goods Sold,34895000000,2014-09-27
+Cost of Goods Sold,37456000000,2015-10-03
+Cost of Goods Sold,32184000000,2016-10-01
+Gross Profit,2685000000,2014-09-27
+Gross Profit,956000000,2014-12-27
+Gross Profit,989000000,2015-03-28
+Gross Profit,986000000,2015-06-27
+Gross Profit,986000000,2015-10-03
+Gross Profit,3917000000,2015-10-03
+Gross Profit,1201000000,2016-01-02
+Gross Profit,1183000000,2016-04-02
+Gross Profit,1224000000,2016-07-02
+Gross Profit,1089000000,2016-10-01
+Gross Profit,4697000000,2016-10-01
+"Selling, General and Administrative Expense",1255000000,2014-09-27
+"Selling, General and Administrative Expense",1748000000,2015-10-03
+"Selling, General and Administrative Expense",1864000000,2016-10-01
+Operating Income (Loss),1430000000,2014-09-27
+Operating Income (Loss),509000000,2014-12-27
+Operating Income (Loss),547000000,2015-03-28
+Operating Income (Loss),563000000,2015-06-27
+Operating Income (Loss),550000000,2015-10-03
+Operating Income (Loss),2169000000,2015-10-03
+Operating Income (Loss),776000000,2016-01-02
+Operating Income (Loss),704000000,2016-04-02
+Operating Income (Loss),767000000,2016-07-02
+Operating Income (Loss),586000000,2016-10-01
+Operating Income (Loss),2833000000,2016-10-01
+"Investment Income, Interest",7000000,2014-09-27
+"Investment Income, Interest",9000000,2015-10-03
+"Investment Income, Interest",6000000,2016-10-01
+Interest and Debt Expense,132000000,2014-09-27
+Interest and Debt Expense,293000000,2015-10-03
+Interest and Debt Expense,249000000,2016-10-01
+Other Nonoperating Income (Expense),-53000000,2014-09-27
+Other Nonoperating Income (Expense),36000000,2015-10-03
+Other Nonoperating Income (Expense),8000000,2016-10-01
+Nonoperating Income (Expense),-178000000,2014-09-27
+Nonoperating Income (Expense),-248000000,2015-10-03
+Nonoperating Income (Expense),-235000000,2016-10-01
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",1252000000,2014-09-27
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",1921000000,2015-10-03
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",2598000000,2016-10-01
+Income Tax Expense (Benefit),396000000,2014-09-27
+Income Tax Expense (Benefit),697000000,2015-10-03
+Income Tax Expense (Benefit),826000000,2016-10-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",856000000,2014-09-27
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",310000000,2014-12-27
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",311000000,2015-03-28
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",344000000,2015-06-27
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",259000000,2015-10-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1224000000,2015-10-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",461000000,2016-01-02
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",434000000,2016-04-02
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",485000000,2016-07-02
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",392000000,2016-10-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1772000000,2016-10-01
+Net Income (Loss) Attributable to Noncontrolling Interest,-8000000,2014-09-27
+Net Income (Loss) Attributable to Noncontrolling Interest,4000000,2015-10-03
+Net Income (Loss) Attributable to Noncontrolling Interest,4000000,2016-10-01
+Net Income (Loss) Attributable to Parent,864000000,2014-09-27
+Net Income (Loss) Attributable to Parent,309000000,2014-12-27
+Net Income (Loss) Attributable to Parent,310000000,2015-03-28
+Net Income (Loss) Attributable to Parent,343000000,2015-06-27
+Net Income (Loss) Attributable to Parent,258000000,2015-10-03
+Net Income (Loss) Attributable to Parent,1220000000,2015-10-03
+Net Income (Loss) Attributable to Parent,461000000,2016-01-02
+Net Income (Loss) Attributable to Parent,432000000,2016-04-02
+Net Income (Loss) Attributable to Parent,484000000,2016-07-02
+Net Income (Loss) Attributable to Parent,391000000,2016-10-01
+Net Income (Loss) Attributable to Parent,1768000000,2016-10-01
+"Weighted Average Number of Shares Outstanding, Diluted",364000000,2014-09-27
+"Weighted Average Number of Shares Outstanding, Diluted",413000000,2015-10-03
+"Weighted Average Number of Shares Outstanding, Diluted",390000000,2016-10-01
+"Earnings Per Share, Diluted",2.37,2014-09-27
+"Earnings Per Share, Diluted",0.74,2014-12-27
+"Earnings Per Share, Diluted",0.75,2015-03-28
+"Earnings Per Share, Diluted",0.83,2015-06-27
+"Earnings Per Share, Diluted",0.63,2015-10-03
+"Earnings Per Share, Diluted",2.95,2015-10-03
+"Earnings Per Share, Diluted",1.15,2016-01-02
+"Earnings Per Share, Diluted",1.10,2016-04-02
+"Earnings Per Share, Diluted",1.25,2016-07-02
+"Earnings Per Share, Diluted",1.03,2016-10-01
+"Earnings Per Share, Diluted",4.53,2016-10-01

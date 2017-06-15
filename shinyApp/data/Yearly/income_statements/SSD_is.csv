@@ -1,0 +1,162 @@
+Metric,Amount,endDate
+"Revenue, Net",752148000,2014-12-31
+"Revenue, Net",176491000,2015-03-31
+"Revenue, Net",216665000,2015-06-30
+"Revenue, Net",216139000,2015-09-30
+"Revenue, Net",184764000,2015-12-31
+"Revenue, Net",794059000,2015-12-31
+"Revenue, Net",199523000,2016-03-31
+"Revenue, Net",229973000,2016-06-30
+"Revenue, Net",230974000,2016-09-30
+"Revenue, Net",200192000,2016-12-31
+"Revenue, Net",860661000,2016-12-31
+Cost of Goods Sold,410118000,2014-12-31
+Cost of Goods Sold,98993000,2015-03-31
+Cost of Goods Sold,118347000,2015-06-30
+Cost of Goods Sold,115798000,2015-09-30
+Cost of Goods Sold,102002000,2015-12-31
+Cost of Goods Sold,435140000,2015-12-31
+Cost of Goods Sold,107000000,2016-03-31
+Cost of Goods Sold,118486000,2016-06-30
+Cost of Goods Sold,117499000,2016-09-30
+Cost of Goods Sold,105226000,2016-12-31
+Cost of Goods Sold,448211000,2016-12-31
+Gross Profit,342030000,2014-12-31
+Gross Profit,77498000,2015-03-31
+Gross Profit,98318000,2015-06-30
+Gross Profit,100341000,2015-09-30
+Gross Profit,82762000,2015-12-31
+Gross Profit,358919000,2015-12-31
+Gross Profit,92523000,2016-03-31
+Gross Profit,111487000,2016-06-30
+Gross Profit,113475000,2016-09-30
+Gross Profit,94966000,2016-12-31
+Gross Profit,412450000,2016-12-31
+Research and Development and Other Engineering,39018000,2014-12-31
+Research and Development and Other Engineering,10197000,2015-03-31
+Research and Development and Other Engineering,10517000,2015-06-30
+Research and Development and Other Engineering,13935000,2015-09-30
+Research and Development and Other Engineering,11548000,2015-12-31
+Research and Development and Other Engineering,46196000,2015-12-31
+Research and Development and Other Engineering,11423000,2016-03-31
+Research and Development and Other Engineering,11452000,2016-06-30
+Research and Development and Other Engineering,10932000,2016-09-30
+Research and Development and Other Engineering,12441000,2016-12-31
+Research and Development and Other Engineering,46248000,2016-12-31
+Selling and Marketing Expense,92031000,2014-12-31
+Selling and Marketing Expense,22607000,2015-03-31
+Selling and Marketing Expense,23013000,2015-06-30
+Selling and Marketing Expense,22535000,2015-09-30
+Selling and Marketing Expense,22508000,2015-12-31
+Selling and Marketing Expense,90663000,2015-12-31
+Selling and Marketing Expense,25187000,2016-03-31
+Selling and Marketing Expense,24822000,2016-06-30
+Selling and Marketing Expense,24304000,2016-09-30
+Selling and Marketing Expense,24030000,2016-12-31
+Selling and Marketing Expense,98343000,2016-12-31
+General and Administrative Expense,111500000,2014-12-31
+General and Administrative Expense,28433000,2015-03-31
+General and Administrative Expense,29794000,2015-06-30
+General and Administrative Expense,28648000,2015-09-30
+General and Administrative Expense,26553000,2015-12-31
+General and Administrative Expense,113428000,2015-12-31
+General and Administrative Expense,29298000,2016-03-31
+General and Administrative Expense,34945000,2016-06-30
+General and Administrative Expense,32543000,2016-09-30
+General and Administrative Expense,32376000,2016-12-31
+General and Administrative Expense,129162000,2016-12-31
+"Goodwill, Impairment Loss",530000,2014-12-31
+"Goodwill, Impairment Loss",0,2015-03-31
+"Goodwill, Impairment Loss",0,2015-06-30
+"Goodwill, Impairment Loss",0,2015-09-30
+"Goodwill, Impairment Loss",0,2015-12-31
+"Goodwill, Impairment Loss",0,2015-12-31
+"Goodwill, Impairment Loss",0,2016-03-31
+"Goodwill, Impairment Loss",0,2016-06-30
+"Goodwill, Impairment Loss",0,2016-09-30
+"Goodwill, Impairment Loss",0,2016-12-31
+"Goodwill, Impairment Loss",0,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",325000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",16000,2015-03-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",15000,2015-06-30
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",26000,2015-09-30
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",332000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",389000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",26000,2016-03-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",656000,2016-06-30
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",81000,2016-09-30
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",17000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",780000,2016-12-31
+Operating Expenses,242754000,2014-12-31
+Operating Expenses,249898000,2015-12-31
+Operating Expenses,272973000,2016-12-31
+Operating Income (Loss),99276000,2014-12-31
+Operating Income (Loss),16277000,2015-03-31
+Operating Income (Loss),35009000,2015-06-30
+Operating Income (Loss),35249000,2015-09-30
+Operating Income (Loss),22485000,2015-12-31
+Operating Income (Loss),109021000,2015-12-31
+Operating Income (Loss),26641000,2016-03-31
+Operating Income (Loss),40924000,2016-06-30
+Operating Income (Loss),45777000,2016-09-30
+Operating Income (Loss),26136000,2016-12-31
+Operating Income (Loss),139477000,2016-12-31
+"Interest Income, Operating",901000,2014-12-31
+"Interest Income, Operating",655000,2015-12-31
+"Interest Income, Operating",570000,2016-12-31
+Interest Expense,855000,2014-12-31
+Interest Expense,997000,2015-12-31
+Interest Expense,1147000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",99322000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",16242000,2015-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",34955000,2015-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",35074000,2015-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",22408000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",108679000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",26406000,2016-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",40841000,2016-06-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",45695000,2016-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",25959000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",138900000,2016-12-31
+Income Tax Expense (Benefit),35791000,2014-12-31
+Income Tax Expense (Benefit),6191000,2015-03-31
+Income Tax Expense (Benefit),13446000,2015-06-30
+Income Tax Expense (Benefit),13479000,2015-09-30
+Income Tax Expense (Benefit),7675000,2015-12-31
+Income Tax Expense (Benefit),40791000,2015-12-31
+Income Tax Expense (Benefit),10063000,2016-03-31
+Income Tax Expense (Benefit),14640000,2016-06-30
+Income Tax Expense (Benefit),15898000,2016-09-30
+Income Tax Expense (Benefit),8565000,2016-12-31
+Income Tax Expense (Benefit),49166000,2016-12-31
+Net Income (Loss) Attributable to Parent,63531000,2014-12-31
+Net Income (Loss) Attributable to Parent,67888000,2015-12-31
+Net Income (Loss) Attributable to Parent,89734000,2016-12-31
+"Earnings Per Share, Basic",1.30,2014-12-31
+"Earnings Per Share, Basic",0.20,2015-03-31
+"Earnings Per Share, Basic",0.44,2015-06-30
+"Earnings Per Share, Basic",0.44,2015-09-30
+"Earnings Per Share, Basic",0.30,2015-12-31
+"Earnings Per Share, Basic",1.39,2015-12-31
+"Earnings Per Share, Basic",0.34,2016-03-31
+"Earnings Per Share, Basic",0.54,2016-06-30
+"Earnings Per Share, Basic",0.62,2016-09-30
+"Earnings Per Share, Basic",0.37,2016-12-31
+"Earnings Per Share, Basic",1.87,2016-12-31
+"Earnings Per Share, Diluted",1.29,2014-12-31
+"Earnings Per Share, Diluted",0.20,2015-03-31
+"Earnings Per Share, Diluted",0.43,2015-06-30
+"Earnings Per Share, Diluted",0.44,2015-09-30
+"Earnings Per Share, Diluted",0.30,2015-12-31
+"Earnings Per Share, Diluted",1.38,2015-12-31
+"Earnings Per Share, Diluted",0.34,2016-03-31
+"Earnings Per Share, Diluted",0.54,2016-06-30
+"Earnings Per Share, Diluted",0.62,2016-09-30
+"Earnings Per Share, Diluted",0.36,2016-12-31
+"Earnings Per Share, Diluted",1.86,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",48977000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",48952000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",48084000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",49194000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",49181000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",48295000,2016-12-31

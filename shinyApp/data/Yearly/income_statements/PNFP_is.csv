@@ -1,0 +1,196 @@
+Metric,Amount,endDate
+"Loans, including fees",184648800,2014-12-31
+"Loans, including fees",232847334,2015-12-31
+"Loans, including fees",335734531,2016-12-31
+Taxable,14227172,2014-12-31
+Taxable,15060392,2015-12-31
+Taxable,19178997,2016-12-31
+Tax-exempt,6167264,2014-12-31
+Tax-exempt,5783443,2015-12-31
+Tax-exempt,6014037,2016-12-31
+Federal funds sold and other,1126726,2014-12-31
+Federal funds sold and other,1478711,2015-12-31
+Federal funds sold and other,2681363,2016-12-31
+"Interest and Dividend Income, Operating",49291000,2014-03-31
+"Interest and Dividend Income, Operating",206169962,2014-12-31
+"Interest and Dividend Income, Operating",50564000,2014-06-30
+"Interest and Dividend Income, Operating",52782000,2014-09-30
+"Interest and Dividend Income, Operating",53533000,2014-12-31
+"Interest and Dividend Income, Operating",54679000,2015-03-31
+"Interest and Dividend Income, Operating",255169880,2015-12-31
+"Interest and Dividend Income, Operating",55503000,2015-06-30
+"Interest and Dividend Income, Operating",67192000,2015-09-30
+"Interest and Dividend Income, Operating",77797000,2015-12-31
+"Interest and Dividend Income, Operating",80974000,2016-03-31
+"Interest and Dividend Income, Operating",363608928,2016-12-31
+"Interest and Dividend Income, Operating",83762000,2016-06-30
+"Interest and Dividend Income, Operating",97380000,2016-09-30
+"Interest and Dividend Income, Operating",101493000,2016-12-31
+"Interest Expense, Deposits",9953930,2014-12-31
+"Interest Expense, Deposits",13209425,2015-12-31
+"Interest Expense, Deposits",23917318,2016-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",140623,2014-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",138347,2015-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",185305,2016-12-31
+Federal Home Loan Bank advances and other borrowings,3090860,2014-12-31
+Federal Home Loan Bank advances and other borrowings,5189193,2015-12-31
+Federal Home Loan Bank advances and other borrowings,14512024,2016-12-31
+Interest Expense,13185413,2014-12-31
+Interest Expense,18536965,2015-12-31
+Interest Expense,38614647,2016-12-31
+"Interest Income (Expense), Net",192984549,2014-12-31
+"Interest Income (Expense), Net",236632915,2015-12-31
+"Interest Income (Expense), Net",324994281,2016-12-31
+Provision for loan losses,488000,2014-03-31
+Provision for loan losses,3634660,2014-12-31
+Provision for loan losses,254000,2014-06-30
+Provision for loan losses,851000,2014-09-30
+Provision for loan losses,2041000,2014-12-31
+Provision for loan losses,315000,2015-03-31
+Provision for loan losses,9188497,2015-12-31
+Provision for loan losses,1186000,2015-06-30
+Provision for loan losses,2228000,2015-09-30
+Provision for loan losses,5459000,2015-12-31
+Provision for loan losses,3894000,2016-03-31
+Provision for loan losses,18328058,2016-12-31
+Provision for loan losses,5280000,2016-06-30
+Provision for loan losses,6108000,2016-09-30
+Provision for loan losses,3046000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",45908000,2014-03-31
+"Interest Income (Expense), after Provision for Loan Loss",189349889,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",47226000,2014-06-30
+"Interest Income (Expense), after Provision for Loan Loss",49537000,2014-09-30
+"Interest Income (Expense), after Provision for Loan Loss",50313000,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",51269000,2015-03-31
+"Interest Income (Expense), after Provision for Loan Loss",227444418,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",51831000,2015-06-30
+"Interest Income (Expense), after Provision for Loan Loss",62059000,2015-09-30
+"Interest Income (Expense), after Provision for Loan Loss",71475000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",73902000,2016-03-31
+"Interest Income (Expense), after Provision for Loan Loss",306666223,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",75044000,2016-06-30
+"Interest Income (Expense), after Provision for Loan Loss",86635000,2016-09-30
+"Interest Income (Expense), after Provision for Loan Loss",89413000,2016-12-31
+Service charges on deposit accounts,11707274,2014-12-31
+Service charges on deposit accounts,12745742,2015-12-31
+Service charges on deposit accounts,14500679,2016-12-31
+"Investment Advisory, Management and Administrative Fees",9382670,2014-12-31
+"Investment Advisory, Management and Administrative Fees",9971313,2015-12-31
+"Investment Advisory, Management and Administrative Fees",10757348,2016-12-31
+Insurance sales commissions,4612583,2014-12-31
+Insurance sales commissions,4824007,2015-12-31
+Insurance sales commissions,5309494,2016-12-31
+"Gains on mortgage loans sold, net",5630371,2014-12-31
+"Gains on mortgage loans sold, net",7668960,2015-12-31
+"Gains on mortgage loans sold, net",15754473,2016-12-31
+"Investment gains on sales and impairments, net",29221,2014-12-31
+"Investment gains on sales and impairments, net",552063,2015-12-31
+"Investment gains on sales and impairments, net",395186,2016-12-31
+Trust fees,4601036,2014-12-31
+Trust fees,5461257,2015-12-31
+Trust fees,6328021,2016-12-31
+Other Income,0,2014-12-31
+Other Income,20591484,2015-12-31
+Other Income,31402923,2016-12-31
+Other noninterest income,16639323,2014-12-31
+Other noninterest income,24715442,2015-12-31
+Other noninterest income,36554938,2016-12-31
+Noninterest Income,52602478,2014-12-31
+Noninterest Income,86530268,2015-12-31
+Noninterest Income,121003062,2016-12-31
+Salaries and employee benefits,88319567,2014-12-31
+Salaries and employee benefits,105928914,2015-12-31
+Salaries and employee benefits,140818772,2016-12-31
+Equipment and occupancy,24087335,2014-12-31
+Equipment and occupancy,27241477,2015-12-31
+Equipment and occupancy,35071654,2016-12-31
+Gains (Losses) on Sales of Other Real Estate,-664289,2014-12-31
+Gains (Losses) on Sales of Other Real Estate,305956,2015-12-31
+Gains (Losses) on Sales of Other Real Estate,-395561,2016-12-31
+Marketing and other business development,4127949,2014-12-31
+Marketing and other business development,4863307,2015-12-31
+Marketing and other business development,6536484,2016-12-31
+Postage and supplies,2391838,2014-12-31
+Postage and supplies,3228300,2015-12-31
+Postage and supplies,3929323,2016-12-31
+Amortization of intangibles,947678,2014-12-31
+Amortization of intangibles,1973953,2015-12-31
+Amortization of intangibles,4281459,2016-12-31
+Merger related expense,0,2014-12-31
+Merger related expense,4797018,2015-12-31
+Merger related expense,11746584,2016-12-31
+Other noninterest expense,15761027,2014-12-31
+Other noninterest expense,23149743,2015-12-31
+Other noninterest expense,33505586,2016-12-31
+Noninterest Expense,136299683,2014-12-31
+Noninterest Expense,170876756,2015-12-31
+Noninterest Expense,236285423,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",24506000,2014-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",105652684,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",25668000,2014-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",27215000,2014-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",28264000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",32617000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",143097930,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",33917000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",36134000,2015-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",40432000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",41800000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",191383862,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",46546000,2016-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",48693000,2016-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",54345000,2016-12-31
+Income Tax Expense (Benefit),35181517,2014-12-31
+Income Tax Expense (Benefit),47588528,2015-12-31
+Income Tax Expense (Benefit),64159167,2016-12-31
+Net income,16367000,2014-03-31
+Net income,70471167,2014-12-31
+Net income,17170000,2014-06-30
+Net income,18197000,2014-09-30
+Net income,18737000,2014-12-31
+Net income,21843000,2015-03-31
+Net income,95509402,2015-12-31
+Net income,22665000,2015-06-30
+Net income,24149000,2015-09-30
+Net income,26854000,2015-12-31
+Net income,27964000,2016-03-31
+Net income,127224695,2016-12-31
+Net income,30787000,2016-06-30
+Net income,32377000,2016-09-30
+Net income,36097000,2016-12-31
+"Earnings Per Share, Basic",0.47,2014-03-31
+"Earnings Per Share, Basic",2.03,2014-12-31
+"Earnings Per Share, Basic",0.49,2014-06-30
+"Earnings Per Share, Basic",0.52,2014-09-30
+"Earnings Per Share, Basic",0.54,2014-12-31
+"Earnings Per Share, Basic",0.62,2015-03-31
+"Earnings Per Share, Basic",2.58,2015-12-31
+"Earnings Per Share, Basic",0.65,2015-06-30
+"Earnings Per Share, Basic",0.64,2015-09-30
+"Earnings Per Share, Basic",0.67,2015-12-31
+"Earnings Per Share, Basic",0.70,2016-03-31
+"Earnings Per Share, Basic",2.96,2016-12-31
+"Earnings Per Share, Basic",0.75,2016-06-30
+"Earnings Per Share, Basic",0.71,2016-09-30
+"Earnings Per Share, Basic",0.79,2016-12-31
+"Earnings Per Share, Diluted",0.47,2014-03-31
+"Earnings Per Share, Diluted",2.01,2014-12-31
+"Earnings Per Share, Diluted",0.49,2014-06-30
+"Earnings Per Share, Diluted",0.52,2014-09-30
+"Earnings Per Share, Diluted",0.53,2014-12-31
+"Earnings Per Share, Diluted",0.62,2015-03-31
+"Earnings Per Share, Diluted",2.52,2015-12-31
+"Earnings Per Share, Diluted",0.64,2015-06-30
+"Earnings Per Share, Diluted",0.62,2015-09-30
+"Earnings Per Share, Diluted",0.65,2015-12-31
+"Earnings Per Share, Diluted",0.68,2016-03-31
+"Earnings Per Share, Diluted",2.91,2016-12-31
+"Earnings Per Share, Diluted",0.73,2016-06-30
+"Earnings Per Share, Diluted",0.71,2016-09-30
+"Earnings Per Share, Diluted",0.78,2016-12-31
+Basic (in shares),34723335,2014-12-31
+Basic (in shares),37015468,2015-12-31
+Basic (in shares),43037083,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",35126890,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",37973788,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",43731992,2016-12-31

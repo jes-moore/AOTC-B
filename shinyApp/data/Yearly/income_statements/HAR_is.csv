@@ -1,0 +1,138 @@
+Metric,Amount,endDate
+Sales Revenue Net,1171805000,2013-09-30
+Sales Revenue Net,5348483000,2014-06-30
+Sales Revenue Net,1328024000,2013-12-31
+Sales Revenue Net,1404235000,2014-03-31
+Sales Revenue Net,1444419000,2014-06-30
+Sales Revenue Net,1428922000,2014-09-30
+Sales Revenue Net,6155297000,2015-06-30
+Sales Revenue Net,1583549000,2014-12-31
+Sales Revenue Net,1464193000,2015-03-31
+Sales Revenue Net,1678633000,2015-06-30
+Sales Revenue Net,1630888000,2015-09-30
+Sales Revenue Net,6911676000,2016-06-30
+Sales Revenue Net,1772157000,2015-12-31
+Sales Revenue Net,1628082000,2016-03-31
+Sales Revenue Net,1880549000,2016-06-30
+Cost Of Goods And Services Sold,3891816000,2014-06-30
+Cost Of Goods And Services Sold,4338193000,2015-06-30
+Cost Of Goods And Services Sold,4818585000,2016-06-30
+Gross Profit,321649000,2013-09-30
+Gross Profit,1456667000,2014-06-30
+Gross Profit,379450000,2013-12-31
+Gross Profit,364773000,2014-03-31
+Gross Profit,390795000,2014-06-30
+Gross Profit,414632000,2014-09-30
+Gross Profit,1817104000,2015-06-30
+Gross Profit,493166000,2014-12-31
+Gross Profit,418130000,2015-03-31
+Gross Profit,491176000,2015-06-30
+Gross Profit,487398000,2015-09-30
+Gross Profit,2093091000,2016-06-30
+Gross Profit,545092000,2015-12-31
+Gross Profit,492867000,2016-03-31
+Gross Profit,567734000,2016-06-30
+Selling General And Administrative Expense,1126940000,2014-06-30
+Selling General And Administrative Expense,1347510000,2015-06-30
+Selling General And Administrative Expense,1513064000,2016-06-30
+Operating Income Loss,329727000,2014-06-30
+Operating Income Loss,469594000,2015-06-30
+Operating Income Loss,580027000,2016-06-30
+Interest Income Expense Nonoperating Net,-8026000,2014-06-30
+Interest Income Expense Nonoperating Net,-13929000,2015-06-30
+Interest Income Expense Nonoperating Net,-33482000,2016-06-30
+Foreign Currency Transaction Gain Loss Realized,-5935000,2014-06-30
+Foreign Currency Transaction Gain Loss Realized,723000,2015-06-30
+Foreign Currency Transaction Gain Loss Realized,-685000,2016-06-30
+Other Nonoperating Income Expense,-8371000,2014-06-30
+Other Nonoperating Income Expense,-10107000,2015-06-30
+Other Nonoperating Income Expense,-15352000,2016-06-30
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,307395000,2014-06-30
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,446281000,2015-06-30
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,530508000,2016-06-30
+Income Tax Expense Benefit,72610000,2014-06-30
+Income Tax Expense Benefit,103269000,2015-06-30
+Income Tax Expense Benefit,168057000,2016-06-30
+Income Loss From Equity Method Investments,-206000,2014-06-30
+Income Loss From Equity Method Investments,-23000,2015-06-30
+Profit Loss,46452000,2013-09-30
+Profit Loss,234579000,2014-06-30
+Profit Loss,71629000,2013-12-31
+Profit Loss,73385000,2014-03-31
+Profit Loss,43113000,2014-06-30
+Profit Loss,82934000,2014-09-30
+Profit Loss,342989000,2015-06-30
+Profit Loss,116164000,2014-12-31
+Profit Loss,70249000,2015-03-31
+Profit Loss,73642000,2015-06-30
+Profit Loss,87517000,2015-09-30
+Profit Loss,362451000,2016-06-30
+Profit Loss,113187000,2015-12-31
+Profit Loss,88819000,2016-03-31
+Profit Loss,72928000,2016-06-30
+Net Income Loss Attributable To Noncontrolling Interest,0,2013-09-30
+Net Income Loss Attributable To Noncontrolling Interest,-113000,2014-06-30
+Net Income Loss Attributable To Noncontrolling Interest,0,2013-12-31
+Net Income Loss Attributable To Noncontrolling Interest,0,2014-03-31
+Net Income Loss Attributable To Noncontrolling Interest,-113000,2014-06-30
+Net Income Loss Attributable To Noncontrolling Interest,-39000,2014-09-30
+Net Income Loss Attributable To Noncontrolling Interest,309000,2015-06-30
+Net Income Loss Attributable To Noncontrolling Interest,-71000,2014-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-46000,2015-03-31
+Net Income Loss Attributable To Noncontrolling Interest,465000,2015-06-30
+Net Income Loss Attributable To Noncontrolling Interest,418000,2015-09-30
+Net Income Loss Attributable To Noncontrolling Interest,717000,2016-06-30
+Net Income Loss Attributable To Noncontrolling Interest,289000,2015-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-5000,2016-03-31
+Net Income Loss Attributable To Noncontrolling Interest,15000,2016-06-30
+Net Income Loss,46452000,2013-09-30
+Net Income Loss,234692000,2014-06-30
+Net Income Loss,71629000,2013-12-31
+Net Income Loss,73385000,2014-03-31
+Net Income Loss,43226000,2014-06-30
+Net Income Loss,82973000,2014-09-30
+Net Income Loss,342680000,2015-06-30
+Net Income Loss,116235000,2014-12-31
+Net Income Loss,70295000,2015-03-31
+Net Income Loss,73177000,2015-06-30
+Net Income Loss,87099000,2015-09-30
+Net Income Loss,361734000,2016-06-30
+Net Income Loss,112898000,2015-12-31
+Net Income Loss,88824000,2016-03-31
+Net Income Loss,72913000,2016-06-30
+Income Loss From Continuing Operations Per Basic Share,0.67,2013-09-30
+Income Loss From Continuing Operations Per Basic Share,3.40,2014-06-30
+Income Loss From Continuing Operations Per Basic Share,1.04,2013-12-31
+Income Loss From Continuing Operations Per Basic Share,1.06,2014-03-31
+Income Loss From Continuing Operations Per Basic Share,0.63,2014-06-30
+Income Loss From Continuing Operations Per Basic Share,1.20,2014-09-30
+Income Loss From Continuing Operations Per Basic Share,4.89,2015-06-30
+Income Loss From Continuing Operations Per Basic Share,1.67,2014-12-31
+Income Loss From Continuing Operations Per Basic Share,1.00,2015-03-31
+Income Loss From Continuing Operations Per Basic Share,1.02,2015-06-30
+Income Loss From Continuing Operations Per Basic Share,1.21,2015-09-30
+Income Loss From Continuing Operations Per Basic Share,5.03,2016-06-30
+Income Loss From Continuing Operations Per Basic Share,1.57,2015-12-31
+Income Loss From Continuing Operations Per Basic Share,1.23,2016-03-31
+Income Loss From Continuing Operations Per Basic Share,1.02,2016-06-30
+Income Loss From Continuing Operations Per Diluted Share,0.66,2013-09-30
+Income Loss From Continuing Operations Per Diluted Share,3.36,2014-06-30
+Income Loss From Continuing Operations Per Diluted Share,1.03,2013-12-31
+Income Loss From Continuing Operations Per Diluted Share,1.05,2014-03-31
+Income Loss From Continuing Operations Per Diluted Share,0.62,2014-06-30
+Income Loss From Continuing Operations Per Diluted Share,1.18,2014-09-30
+Income Loss From Continuing Operations Per Diluted Share,4.84,2015-06-30
+Income Loss From Continuing Operations Per Diluted Share,1.65,2014-12-31
+Income Loss From Continuing Operations Per Diluted Share,0.99,2015-03-31
+Income Loss From Continuing Operations Per Diluted Share,1.01,2015-06-30
+Income Loss From Continuing Operations Per Diluted Share,1.20,2015-09-30
+Income Loss From Continuing Operations Per Diluted Share,4.99,2016-06-30
+Income Loss From Continuing Operations Per Diluted Share,1.55,2015-12-31
+Income Loss From Continuing Operations Per Diluted Share,1.22,2016-03-31
+Income Loss From Continuing Operations Per Diluted Share,1.01,2016-06-30
+Weighted Average Number Of Shares Outstanding Basic,69073000,2014-06-30
+Weighted Average Number Of Shares Outstanding Basic,70147000,2015-06-30
+Weighted Average Number Of Shares Outstanding Basic,71866000,2016-06-30
+Weighted Average Number Of Diluted Shares Outstanding,69889000,2014-06-30
+Weighted Average Number Of Diluted Shares Outstanding,70870000,2015-06-30
+Weighted Average Number Of Diluted Shares Outstanding,72532000,2016-06-30

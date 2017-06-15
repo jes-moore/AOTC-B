@@ -1,0 +1,59 @@
+Metric,Amount,endDate
+Cash and due from banks,472028000,2013-12-31
+Cash and due from banks,380836000,2014-12-31
+Cash and due from banks,433044000,2015-12-31
+Cash and due from banks,462271000,2016-12-31
+Investment securities available for sale,1570216000,2015-12-31
+Investment securities available for sale,1890758000,2016-12-31
+"Investment securities held to maturity, with fair values of: $1,340,741 at December 31, 2016 and $1,325,699 at December 31, 2015",1316075000,2015-12-31
+"Investment securities held to maturity, with fair values of: $1,340,741 at December 31, 2016 and $1,325,699 at December 31, 2015",1346312000,2016-12-31
+Loans,1533396000,2015-12-31
+Loans,1352711000,2016-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,31693000,2013-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,31485000,2014-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,29771000,2015-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,25954000,2016-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmountCoveredAndNotCovered,1503625000,2015-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmountCoveredAndNotCovered,1326757000,2016-12-31
+Other real estate owned,9264000,2015-12-31
+Other real estate owned,3095000,2016-12-31
+"Premises and equipment, net",38693000,2015-12-31
+"Premises and equipment, net",36566000,2016-12-31
+"Identifiable intangibles, net",10431000,2015-12-31
+"Identifiable intangibles, net",6927000,2016-12-31
+Goodwill,121673000,2015-12-31
+Goodwill,121673000,2016-12-31
+us-gaap_OtherAssets,165854000,2015-12-31
+us-gaap_OtherAssets,171724000,2016-12-31
+us-gaap_Assets,5168875000,2015-12-31
+us-gaap_Assets,5366083000,2016-12-31
+Noninterest-bearing deposits,2026049000,2015-12-31
+Noninterest-bearing deposits,2089443000,2016-12-31
+Interest-bearing deposits,2514610000,2015-12-31
+Interest-bearing deposits,2615298000,2016-12-31
+us-gaap_Deposits,4540659000,2015-12-31
+us-gaap_Deposits,4704741000,2016-12-31
+Short-term borrowed funds,53028000,2015-12-31
+Short-term borrowed funds,59078000,2016-12-31
+Other liabilities,42983000,2015-12-31
+Other liabilities,40897000,2016-12-31
+us-gaap_Liabilities,4636670000,2015-12-31
+us-gaap_Liabilities,4804716000,2016-12-31
+Contingencies (Note 13),,2015-12-31
+Contingencies (Note 13),,2016-12-31
+"Common stock (no par value), authorized - 150,000 shares Issued and outstanding: 25,907 at December 31, 2016 and 25,528 at December 31, 2015",378858000,2015-12-31
+"Common stock (no par value), authorized - 150,000 shares Issued and outstanding: 25,907 at December 31, 2016 and 25,528 at December 31, 2015",404606000,2016-12-31
+wabc_DeferredCompensation,2578000,2015-12-31
+wabc_DeferredCompensation,1533000,2016-12-31
+Accumulated other comprehensive (loss) income,4313000,2013-12-31
+Accumulated other comprehensive (loss) income,5292000,2014-12-31
+Accumulated other comprehensive (loss) income,675000,2015-12-31
+Accumulated other comprehensive (loss) income,-10074000,2016-12-31
+Retained earnings,150094000,2015-12-31
+Retained earnings,165302000,2016-12-31
+us-gaap_StockholdersEquity,542934000,2013-12-31
+us-gaap_StockholdersEquity,526603000,2014-12-31
+us-gaap_StockholdersEquity,532205000,2015-12-31
+us-gaap_StockholdersEquity,561367000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,5168875000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,5366083000,2016-12-31

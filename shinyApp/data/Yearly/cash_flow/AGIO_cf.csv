@@ -1,0 +1,86 @@
+Metric,Amount,endDate
+Depreciation,1367000,2014-12-31
+Depreciation,3342000,2015-12-31
+Depreciation,5708000,2016-12-31
+Gain (Loss) on Disposition of Assets,-33000,2015-12-31
+Share-based Compensation,11506000,2014-12-31
+Share-based Compensation,31963000,2015-12-31
+Share-based Compensation,42086000,2016-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-538000,2014-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-539000,2015-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-773000,2016-12-31
+"Increase (Decrease) in Due from Related Parties, Current",6016000,2014-12-31
+"Increase (Decrease) in Due from Related Parties, Current",1733000,2015-12-31
+"Increase (Decrease) in Due from Related Parties, Current",-3339000,2016-12-31
+Increase (Decrease) in Accounts and Other Receivables,2334000,2014-12-31
+Increase (Decrease) in Accounts and Other Receivables,1040000,2015-12-31
+Increase (Decrease) in Accounts and Other Receivables,-275000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,2878000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,3768000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,2695000,2016-12-31
+Increase (Decrease) in Accounts Payable,7577000,2014-12-31
+Increase (Decrease) in Accounts Payable,4215000,2015-12-31
+Increase (Decrease) in Accounts Payable,3501000,2016-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,5231000,2014-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,1633000,2015-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,16854000,2016-12-31
+Increase (Decrease) in Deferred Charges,-3691000,2014-12-31
+Increase (Decrease) in Deferred Charges,-15805000,2015-12-31
+Increase (Decrease) in Deferred Charges,-1346000,2016-12-31
+Increase (Decrease) in Income Taxes Payable,-5303000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,3841000,2015-12-31
+Increase (Decrease) in Deferred Revenue,-19228000,2014-12-31
+Increase (Decrease) in Deferred Revenue,-14047000,2015-12-31
+Increase (Decrease) in Deferred Revenue,165846000,2016-12-31
+Proceeds from Issuance of Common Stock,333577000,2014-12-31
+Proceeds from Issuance of Common Stock,162150000,2016-12-31
+Payments of Stock Issuance Costs,720000,2014-12-31
+Payments of Stock Issuance Costs,207000,2015-12-31
+Payments of Stock Issuance Costs,230000,2016-12-31
+Proceeds from Stock Options Exercised,2303000,2014-12-31
+Proceeds from Stock Options Exercised,6580000,2015-12-31
+Proceeds from Stock Options Exercised,7858000,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",335160000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",6373000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",169778000,2016-12-31
+Payments to Acquire Available-for-sale Securities,837219000,2014-12-31
+Payments to Acquire Available-for-sale Securities,353177000,2015-12-31
+Payments to Acquire Available-for-sale Securities,506067000,2016-12-31
+Proceeds from Sale and Maturity of Available-for-sale Securities,505528000,2014-12-31
+Proceeds from Sale and Maturity of Available-for-sale Securities,501650000,2015-12-31
+Proceeds from Sale and Maturity of Available-for-sale Securities,396632000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",2216000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",20164000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",9915000,2016-12-31
+Decrease in Restricted Cash,571000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-333336000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",128309000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-119350000,2016-12-31
+Net Income (Loss) Attributable to Parent,-53504000,2014-12-31
+Net Income (Loss) Attributable to Parent,-117732000,2015-12-31
+Net Income (Loss) Attributable to Parent,-198471000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-59353000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-76949000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",38562000,2016-12-31
+Vesting Of Restricted Stock Value Increase Decrease,9000,2014-12-31
+Vesting Of Restricted Stock Value Increase Decrease,6000,2015-12-31
+Capital Expenditures Incurred but Not yet Paid,2118000,2014-12-31
+Capital Expenditures Incurred but Not yet Paid,2163000,2015-12-31
+Capital Expenditures Incurred but Not yet Paid,73000,2016-12-31
+Proceeds From Stock Options Exercised In Other Current Assets,20000,2014-12-31
+Proceeds From Stock Options Exercised In Other Current Assets,186000,2015-12-31
+Proceeds From Stock Options Exercised In Other Current Assets,32000,2016-12-31
+Public Offering Costs In Other Current Assets Net of Amounts in Accounts Payable and Accrued Expenses,236000,2014-12-31
+Public Offering Costs In Other Current Assets Net of Amounts in Accounts Payable and Accrued Expenses,230000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-57529000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",57733000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",88990000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",71560000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",14031000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",71764000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",160754000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",71560000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",14031000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",71764000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",160754000,2016-12-31
+Income Taxes Paid,5980000,2014-12-31

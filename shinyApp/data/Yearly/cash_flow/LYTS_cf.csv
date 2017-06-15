@@ -1,0 +1,116 @@
+Metric,Amount,endDate
+Net income,3224000,2012-06-30
+Net income,-123000,2013-06-30
+Net income,1865000,2013-09-30
+Net income,930000,2014-06-30
+Net income,870000,2013-12-31
+Net income,-1009000,2014-03-31
+Net income,-796000,2014-06-30
+Net income,1527000,2014-09-30
+Net income,5151000,2015-06-30
+Net income,1588000,2014-12-31
+Net income,393000,2015-03-31
+Net income,1643000,2015-06-30
+Net income,3750000,2015-09-30
+Net income,9482000,2016-06-30
+Net income,3782000,2015-12-31
+Net income,522000,2016-03-31
+Net income,1428000,2016-06-30
+us-gaap_DepreciationDepletionAndAmortization,6226000,2014-06-30
+us-gaap_DepreciationDepletionAndAmortization,6331000,2015-06-30
+us-gaap_DepreciationDepletionAndAmortization,6677000,2016-06-30
+Goodwill and intangible asset impairment,258000,2012-06-30
+Goodwill and intangible asset impairment,2413000,2013-06-30
+Goodwill and intangible asset impairment,805000,2014-06-30
+Goodwill and intangible asset impairment,,2015-06-30
+Goodwill and intangible asset impairment,,2016-06-30
+Deferred,856000,2014-06-30
+Deferred,-226000,2015-06-30
+Deferred,-1117000,2016-06-30
+Deferred stock compensation,99000,2014-06-30
+Deferred stock compensation,-761000,2015-06-30
+Deferred stock compensation,151000,2016-06-30
+Stock based compensation expense,1005000,2014-06-30
+Stock based compensation expense,1239000,2015-06-30
+Stock based compensation expense,2903000,2016-06-30
+lyts_IssuanceOfCommonStockAsCompensation,193000,2014-06-30
+lyts_IssuanceOfCommonStockAsCompensation,191000,2015-06-30
+lyts_IssuanceOfCommonStockAsCompensation,248000,2016-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2012-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2013-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2014-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,343000,2015-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,,2016-06-30
+us-gaap_GainLossOnDispositionOfAssets,-36000,2014-06-30
+us-gaap_GainLossOnDispositionOfAssets,-9000,2015-06-30
+us-gaap_GainLossOnDispositionOfAssets,1000,2016-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2012-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2013-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2014-06-30
+us-gaap_GainLossOnSaleOfBusiness,-565000,2015-06-30
+us-gaap_GainLossOnSaleOfBusiness,,2016-06-30
+us-gaap_ProvisionForDoubtfulAccounts,6000,2014-06-30
+us-gaap_ProvisionForDoubtfulAccounts,220000,2015-06-30
+us-gaap_ProvisionForDoubtfulAccounts,55000,2016-06-30
+us-gaap_InventoryWriteDown,1464000,2014-06-30
+us-gaap_InventoryWriteDown,1493000,2015-06-30
+us-gaap_InventoryWriteDown,1726000,2016-06-30
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,-3232000,2014-06-30
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,1631000,2015-06-30
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,3369000,2016-06-30
+us-gaap_IncreaseDecreaseInInventories,4779000,2014-06-30
+us-gaap_IncreaseDecreaseInInventories,-1000,2015-06-30
+us-gaap_IncreaseDecreaseInInventories,2784000,2016-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,538000,2014-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-1815000,2015-06-30
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-99000,2016-06-30
+us-gaap_IncreaseDecreaseInAccountsPayable,1229000,2014-06-30
+us-gaap_IncreaseDecreaseInAccountsPayable,910000,2015-06-30
+us-gaap_IncreaseDecreaseInAccountsPayable,-1130000,2016-06-30
+us-gaap_IncreaseDecreaseInAccruedLiabilities,269000,2014-06-30
+us-gaap_IncreaseDecreaseInAccruedLiabilities,6115000,2015-06-30
+us-gaap_IncreaseDecreaseInAccruedLiabilities,5116000,2016-06-30
+us-gaap_IncreaseDecreaseInCustomerAdvances,526000,2014-06-30
+us-gaap_IncreaseDecreaseInCustomerAdvances,-149000,2015-06-30
+us-gaap_IncreaseDecreaseInCustomerAdvances,-271000,2016-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,11559000,2014-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,20930000,2015-06-30
+us-gaap_NetCashProvidedByUsedInOperatingActivities,17785000,2016-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,5245000,2014-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4754000,2015-06-30
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,10211000,2016-06-30
+"Proceeds from sale of subsidiary, net of cash sold",,2014-06-30
+"Proceeds from sale of subsidiary, net of cash sold",1494000,2015-06-30
+"Proceeds from sale of subsidiary, net of cash sold",,2016-06-30
+Proceeds from sale of fixed assets,255000,2014-06-30
+Proceeds from sale of fixed assets,1006000,2015-06-30
+Proceeds from sale of fixed assets,68000,2016-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-4990000,2014-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-2254000,2015-06-30
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-10143000,2016-06-30
+us-gaap_PaymentsOfDividendsCommonStock,5780000,2014-06-30
+us-gaap_PaymentsOfDividendsCommonStock,2900000,2015-06-30
+us-gaap_PaymentsOfDividendsCommonStock,4214000,2016-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,188000,2014-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,205000,2015-06-30
+us-gaap_PaymentsForRepurchaseOfCommonStock,363000,2016-06-30
+Issuance of treasury shares,64000,2014-06-30
+Issuance of treasury shares,975000,2015-06-30
+Issuance of treasury shares,340000,2016-06-30
+Exercise of stock options,399000,2014-06-30
+Exercise of stock options,850000,2015-06-30
+Exercise of stock options,4021000,2016-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-5505000,2014-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-1280000,2015-06-30
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-216000,2016-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,1064000,2014-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,17396000,2015-06-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,7426000,2016-06-30
+Cash and cash equivalents,7949000,2013-06-30
+Cash and cash equivalents,9013000,2014-06-30
+Cash and cash equivalents,26409000,2015-06-30
+Cash and cash equivalents,33835000,2016-06-30
+Cash and cash equivalents,7949000,2013-06-30
+Cash and cash equivalents,9013000,2014-06-30
+Cash and cash equivalents,26409000,2015-06-30
+Cash and cash equivalents,33835000,2016-06-30

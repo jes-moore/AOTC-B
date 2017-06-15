@@ -1,0 +1,139 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,3737000,2014-12-31
+Net Income (Loss) Attributable to Parent,5118000,2015-03-31
+Net Income (Loss) Attributable to Parent,4795000,2015-06-30
+Net Income (Loss) Attributable to Parent,5099000,2015-09-30
+Net Income (Loss) Attributable to Parent,5567000,2015-12-31
+Net Income (Loss) Attributable to Parent,20579000,2015-12-31
+Net Income (Loss) Attributable to Parent,1940000,2016-03-31
+Net Income (Loss) Attributable to Parent,4824000,2016-06-30
+Net Income (Loss) Attributable to Parent,4089000,2016-09-30
+Net Income (Loss) Attributable to Parent,5918000,2016-12-31
+Net Income (Loss) Attributable to Parent,16771000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",4694000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",5294000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",4955000,2016-12-31
+Provision for Loan and Lease Losses,0,2014-12-31
+Provision for Loan and Lease Losses,-2000000,2015-03-31
+Provision for Loan and Lease Losses,0,2015-06-30
+Provision for Loan and Lease Losses,0,2015-09-30
+Provision for Loan and Lease Losses,-2000000,2015-12-31
+Provision for Loan and Lease Losses,-4000000,2015-12-31
+Provision for Loan and Lease Losses,0,2016-03-31
+Provision for Loan and Lease Losses,0,2016-06-30
+Provision for Loan and Lease Losses,0,2016-09-30
+Provision for Loan and Lease Losses,0,2016-12-31
+Provision for Loan and Lease Losses,0,2016-12-31
+Impairment of Real Estate,1163000,2014-12-31
+Impairment of Real Estate,73000,2015-12-31
+Impairment of Real Estate,0,2016-12-31
+Deferred Income Tax Expense (Benefit),-577000,2014-12-31
+Deferred Income Tax Expense (Benefit),16601000,2015-12-31
+Deferred Income Tax Expense (Benefit),8657000,2016-12-31
+"Loan Premiums, Net",1181000,2014-12-31
+"Loan Premiums, Net",1505000,2015-12-31
+"Loan Premiums, Net",2850000,2016-12-31
+"Gain (Loss) on Sale of Securities, Net",0,2014-12-31
+"Gain (Loss) on Sale of Securities, Net",475000,2015-12-31
+"Gain (Loss) on Sale of Securities, Net",0,2016-12-31
+Defined Benefit Plan (Income) Expense,1287000,2014-12-31
+Defined Benefit Plan (Income) Expense,1806000,2015-12-31
+Defined Benefit Plan (Income) Expense,1299000,2016-12-31
+Share-based Compensation,1214000,2014-12-31
+Share-based Compensation,2482000,2015-12-31
+Share-based Compensation,3124000,2016-12-31
+"Other Real Estate Owned, Gain (Loss) on Dispositions",203000,2014-12-31
+"Other Real Estate Owned, Gain (Loss) on Dispositions",192000,2015-12-31
+"Other Real Estate Owned, Gain (Loss) on Dispositions",86000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-963000,2016-12-31
+Bank Owned Life Insurance Income,986000,2014-12-31
+Bank Owned Life Insurance Income,1001000,2015-12-31
+Bank Owned Life Insurance Income,1016000,2016-12-31
+Increase (Decrease) in Other Operating Assets,3050000,2014-12-31
+Increase (Decrease) in Other Operating Assets,8364000,2015-12-31
+Increase (Decrease) in Other Operating Assets,-7468000,2016-12-31
+Increase (Decrease) in Other Operating Liabilities,-2830000,2014-12-31
+Increase (Decrease) in Other Operating Liabilities,5422000,2015-12-31
+Increase (Decrease) in Other Operating Liabilities,-7216000,2016-12-31
+Payments for Origination of Mortgage Loans Held-for-sale,67823000,2014-12-31
+Payments for Origination of Mortgage Loans Held-for-sale,72319000,2015-12-31
+Payments for Origination of Mortgage Loans Held-for-sale,110038000,2016-12-31
+Proceeds from Sale of Mortgage Loans Held-for-sale,72673000,2014-12-31
+Proceeds from Sale of Mortgage Loans Held-for-sale,76893000,2015-12-31
+Proceeds from Sale of Mortgage Loans Held-for-sale,107858000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,5544000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,37682000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,27291000,2016-12-31
+Payments to Acquire Available-for-sale Securities,76757000,2014-12-31
+Payments to Acquire Available-for-sale Securities,101689000,2015-12-31
+Payments to Acquire Available-for-sale Securities,326896000,2016-12-31
+Payments to Acquire Held-to-maturity Securities,2292000,2014-12-31
+Payments to Acquire Held-to-maturity Securities,0,2015-12-31
+Payments to Acquire Held-to-maturity Securities,6464000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",88466000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",108489000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",137702000,2016-12-31
+Proceeds from Sale and Maturity of Held-to-maturity Securities,19193000,2014-12-31
+Proceeds from Sale and Maturity of Held-to-maturity Securities,12618000,2015-12-31
+Proceeds from Sale and Maturity of Held-to-maturity Securities,5000000,2016-12-31
+Proceeds from Sale of Federal Reserve Bank Stock,882000,2014-12-31
+Proceeds from Sale of Federal Reserve Bank Stock,22646000,2015-12-31
+Proceeds from Sale of Federal Reserve Bank Stock,13096000,2016-12-31
+Payments to Acquire Federal Reserve Bank Stock,0,2014-12-31
+Payments to Acquire Federal Reserve Bank Stock,0,2015-12-31
+Payments to Acquire Federal Reserve Bank Stock,12940000,2016-12-31
+Payments for (Proceeds from) Loans and Leases,102946000,2014-12-31
+Payments for (Proceeds from) Loans and Leases,190519000,2015-12-31
+Payments for (Proceeds from) Loans and Leases,312637000,2016-12-31
+Proceeds from Sale of Loans Receivable,0,2014-12-31
+Proceeds from Sale of Loans Receivable,3150000,2015-12-31
+Proceeds from Sale of Loans Receivable,0,2016-12-31
+Payments to Acquire Loans Receivable,0,2014-12-31
+Payments to Acquire Loans Receivable,3500000,2015-12-31
+Payments to Acquire Loans Receivable,0,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",1034000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",749000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",2388000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",0,2014-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",26000,2015-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",0,2016-12-31
+"Proceeds from Sale of Other Assets, Investing Activities",2669000,2014-12-31
+"Proceeds from Sale of Other Assets, Investing Activities",2468000,2015-12-31
+"Proceeds from Sale of Other Assets, Investing Activities",0,2016-12-31
+Proceeds from Sale of Other Real Estate,2580000,2014-12-31
+Proceeds from Sale of Other Real Estate,1712000,2015-12-31
+Proceeds from Sale of Other Real Estate,2050000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-30619000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-145348000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-39241000,2016-12-31
+Increase (Decrease) in Deposits,53654000,2014-12-31
+Increase (Decrease) in Deposits,102938000,2015-12-31
+Increase (Decrease) in Deposits,7292000,2016-12-31
+Proceeds from Stock Options Exercised,0,2014-12-31
+Proceeds from Stock Options Exercised,0,2015-12-31
+Proceeds from Stock Options Exercised,7000,2016-12-31
+Payments Related to Tax Withholding for Share-based Compensation,339000,2014-12-31
+Payments Related to Tax Withholding for Share-based Compensation,556000,2015-12-31
+Payments Related to Tax Withholding for Share-based Compensation,577000,2016-12-31
+Proceeds from Federal Home Loan Bank Advances,110000000,2014-12-31
+Proceeds from Federal Home Loan Bank Advances,95000000,2015-12-31
+Proceeds from Federal Home Loan Bank Advances,327000000,2016-12-31
+Repayments of Federal Home Loan Bank Borrowings,137000000,2014-12-31
+Repayments of Federal Home Loan Bank Borrowings,95000000,2015-12-31
+Repayments of Federal Home Loan Bank Borrowings,327000000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,26315000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,102382000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,6722000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",1240000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-5284000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-5228000,2016-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",81849000,2013-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",83089000,2014-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",77805000,2015-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",72577000,2016-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",81849000,2013-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",83089000,2014-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",77805000,2015-12-31
+"Cash, Cash Equivalents, and Federal Funds Sold",72577000,2016-12-31

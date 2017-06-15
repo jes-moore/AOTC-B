@@ -1,0 +1,108 @@
+Metric,Amount,endDate
+"Revenue, Net",8025000000,2014-12-31
+"Revenue, Net",2137000000,2015-03-31
+"Revenue, Net",2297000000,2015-06-30
+"Revenue, Net",2258000000,2015-09-30
+"Revenue, Net",2556000000,2015-12-31
+"Revenue, Net",9248000000,2015-12-31
+"Revenue, Net",2544000000,2016-03-31
+"Revenue, Net",2650000000,2016-06-30
+"Revenue, Net",2667000000,2016-09-30
+"Revenue, Net",2981000000,2016-12-31
+"Revenue, Net",10842000000,2016-12-31
+Transaction Expense,2170000000,2014-12-31
+Transaction Expense,2610000000,2015-12-31
+Transaction Expense,3346000000,2016-12-31
+Transaction And Loan Losses,646000000,2014-12-31
+Transaction And Loan Losses,809000000,2015-12-31
+Transaction And Loan Losses,1088000000,2016-12-31
+Customer Support And Operations Expense,991000000,2014-12-31
+Customer Support And Operations Expense,1110000000,2015-12-31
+Customer Support And Operations Expense,1267000000,2016-12-31
+Selling and Marketing Expense,954000000,2014-12-31
+Selling and Marketing Expense,937000000,2015-12-31
+Selling and Marketing Expense,969000000,2016-12-31
+Research and Development Expense,747000000,2014-12-31
+Research and Development Expense,792000000,2015-12-31
+Research and Development Expense,834000000,2016-12-31
+General and Administrative Expense,733000000,2014-12-31
+General and Administrative Expense,873000000,2015-12-31
+General and Administrative Expense,1028000000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",516000000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",608000000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",724000000,2016-12-31
+Restructuring Charges,0,2014-12-31
+Restructuring Charges,0,2014-12-31
+Restructuring Charges,48000000,2015-12-31
+Restructuring Charges,0,2016-12-31
+Restructuring Charges,0,2016-12-31
+Operating Expenses,6757000000,2014-12-31
+Operating Expenses,7787000000,2015-12-31
+Operating Expenses,9256000000,2016-12-31
+Operating Income (Loss),1268000000,2014-12-31
+Operating Income (Loss),1461000000,2015-12-31
+Operating Income (Loss),1586000000,2016-12-31
+Nonoperating Income (Expense),-7000000,2014-12-31
+Nonoperating Income (Expense),27000000,2015-12-31
+Nonoperating Income (Expense),45000000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",1261000000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",1488000000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",1631000000,2016-12-31
+Income Tax Expense (Benefit),842000000,2014-12-31
+Income Tax Expense (Benefit),260000000,2015-12-31
+Income Tax Expense (Benefit),230000000,2016-12-31
+Net Income (Loss) Attributable to Parent,419000000,2014-12-31
+Net Income (Loss) Attributable to Parent,255000000,2015-03-31
+Net Income (Loss) Attributable to Parent,305000000,2015-06-30
+Net Income (Loss) Attributable to Parent,301000000,2015-09-30
+Net Income (Loss) Attributable to Parent,367000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1228000000,2015-12-31
+Net Income (Loss) Attributable to Parent,365000000,2016-03-31
+Net Income (Loss) Attributable to Parent,323000000,2016-06-30
+Net Income (Loss) Attributable to Parent,323000000,2016-09-30
+Net Income (Loss) Attributable to Parent,390000000,2016-12-31
+Net Income (Loss) Attributable to Parent,1401000000,2016-12-31
+"Earnings Per Share, Basic",0.34,2014-12-31
+"Earnings Per Share, Basic",0.21,2015-03-31
+"Earnings Per Share, Basic",0.25,2015-06-30
+"Earnings Per Share, Basic",0.25,2015-09-30
+"Earnings Per Share, Basic",0.30,2015-12-31
+"Earnings Per Share, Basic",1.00,2015-12-31
+"Earnings Per Share, Basic",0.30,2016-03-31
+"Earnings Per Share, Basic",0.27,2016-06-30
+"Earnings Per Share, Basic",0.27,2016-09-30
+"Earnings Per Share, Basic",0.32,2016-12-31
+"Earnings Per Share, Basic",1.16,2016-12-31
+"Earnings Per Share, Diluted",0.34,2014-12-31
+"Earnings Per Share, Diluted",0.21,2015-03-31
+"Earnings Per Share, Diluted",0.25,2015-06-30
+"Earnings Per Share, Diluted",0.25,2015-09-30
+"Earnings Per Share, Diluted",0.30,2015-12-31
+"Earnings Per Share, Diluted",1.00,2015-12-31
+"Earnings Per Share, Diluted",0.30,2016-03-31
+"Earnings Per Share, Diluted",0.27,2016-06-30
+"Earnings Per Share, Diluted",0.27,2016-09-30
+"Earnings Per Share, Diluted",0.32,2016-12-31
+"Earnings Per Share, Diluted",1.15,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",1218000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",1218000000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",1218000000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",1221000000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic",1223000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",1222000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",1216000000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",1210000000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",1207000000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic",1207000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",1210000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",1224000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",1224000000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",1224000000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",1227000000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",1230000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",1229000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",1225000000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",1215000000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",1214000000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",1216000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",1218000000,2016-12-31

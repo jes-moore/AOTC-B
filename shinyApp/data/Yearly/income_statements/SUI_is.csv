@@ -1,0 +1,82 @@
+Metric,Amount,endDate
+Revenue From Home Sales,53954000,2014-12-31
+Revenue From Home Sales,79728000,2015-12-31
+Revenue From Home Sales,110507000,2016-12-31
+"Sales Revenue, Services, Other",17801000,2014-12-31
+"Sales Revenue, Services, Other",24532000,2015-12-31
+"Sales Revenue, Services, Other",33424000,2016-12-31
+"Brokerage commissions and other income, net",1036000,2014-12-31
+"Brokerage commissions and other income, net",2219000,2015-12-31
+"Brokerage commissions and other income, net",3037000,2016-12-31
+Real Estate Tax Expense,24181000,2014-12-31
+Real Estate Tax Expense,34714000,2015-12-31
+Real Estate Tax Expense,44306000,2016-12-31
+Direct Costs of Leased and Rented Property or Equipment,23270000,2014-12-31
+Direct Costs of Leased and Rented Property or Equipment,24956000,2015-12-31
+Direct Costs of Leased and Rented Property or Equipment,24294000,2016-12-31
+Selling Expense,5235000,2014-12-31
+Selling Expense,7476000,2015-12-31
+Selling Expense,9744000,2016-12-31
+"Business Combination, Acquisition Related Costs",18259000,2014-12-31
+"Business Combination, Acquisition Related Costs",17803000,2015-12-31
+"Business Combination, Acquisition Related Costs",31914000,2016-12-31
+Asset Impairment Charges,837000,2014-12-31
+Asset Impairment Charges,0,2015-12-31
+Asset Impairment Charges,0,2016-12-31
+"Interest Expense, Debt",73771000,2014-12-31
+"Interest Expense, Debt",107659000,2015-12-31
+"Interest Expense, Debt",119163000,2016-12-31
+Costs and Expenses,162638000,2016-03-31
+Costs and Expenses,163771000,2014-09-30
+Costs and Expenses,165697000,2014-12-31
+Costs and Expenses,474150000,2014-12-31
+Costs and Expenses,151646000,2015-03-31
+Costs and Expenses,154862000,2015-06-30
+Costs and Expenses,635976000,2015-12-31
+Costs and Expenses,195781000,2016-06-30
+Costs and Expenses,226688000,2016-09-30
+Costs and Expenses,211569000,2016-12-31
+Costs and Expenses,796676000,2016-12-31
+Other Nonoperating Income (Expense),0,2014-12-31
+Other Nonoperating Income (Expense),0,2015-12-31
+Other Nonoperating Income (Expense),-5848000,2016-12-31
+Gain (Loss) Related to Litigation Settlement,4452000,2014-12-31
+Gain (Loss) Related to Litigation Settlement,0,2015-12-31
+Gain (Loss) Related to Litigation Settlement,0,2016-12-31
+Deferred Income Tax Expense (Benefit),0,2014-12-31
+Deferred Income Tax Expense (Benefit),1000000,2015-12-31
+Deferred Income Tax Expense (Benefit),-400000,2016-12-31
+Distributions from Affiliate,1200000,2014-12-31
+Distributions from Affiliate,7500000,2015-12-31
+Distributions from Affiliate,500000,2016-12-31
+Preferred return to Series A-1 preferred OP units,2935000,2014-12-31
+Preferred return to Series A-1 preferred OP units,4973000,2015-12-31
+Preferred return to Series A-1 preferred OP units,5006000,2016-12-31
+Net Income (Loss) Attributable to Parent,7875000,2016-03-31
+Net Income (Loss) Attributable to Parent,28509000,2014-12-31
+Net Income (Loss) Attributable to Parent,6869000,2015-03-31
+Net Income (Loss) Attributable to Parent,12294000,2015-06-30
+Net Income (Loss) Attributable to Parent,28763000,2015-09-30
+Net Income (Loss) Attributable to Parent,89399000,2015-12-31
+Net Income (Loss) Attributable to Parent,155446000,2015-12-31
+Net Income (Loss) Attributable to Parent,-7803000,2016-06-30
+Net Income (Loss) Attributable to Parent,18897000,2016-09-30
+Net Income (Loss) Attributable to Parent,-1600000,2016-12-31
+Net Income (Loss) Attributable to Parent,26315000,2016-12-31
+Preferred Stock Redemption Costs,0,2014-12-31
+Preferred Stock Redemption Costs,4328000,2015-12-31
+Preferred Stock Redemption Costs,0,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",41805000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",53702000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",66321000,2016-12-31
+"Earnings Per Share, Basic",0.14,2016-03-31
+"Earnings Per Share, Basic",0.54,2014-12-31
+"Earnings Per Share, Basic",0.13,2015-03-31
+"Earnings Per Share, Basic",0.23,2015-06-30
+"Earnings Per Share, Basic",0.53,2015-09-30
+"Earnings Per Share, Basic",1.57,2015-12-31
+"Earnings Per Share, Basic",2.53,2015-12-31
+"Earnings Per Share, Basic",-0.12,2016-06-30
+"Earnings Per Share, Basic",0.27,2016-09-30
+"Earnings Per Share, Basic",-0.02,2016-12-31
+"Earnings Per Share, Basic",0.27,2016-12-31

@@ -1,0 +1,81 @@
+Metric,Amount,endDate
+"Revenue, Oil and Gas Services",1591676000,2013-12-31
+"Revenue, Oil and Gas Services",356141000,2014-03-31
+"Revenue, Oil and Gas Services",350595000,2014-06-30
+"Revenue, Oil and Gas Services",365798000,2014-09-30
+"Revenue, Oil and Gas Services",354802000,2014-12-31
+"Revenue, Oil and Gas Services",1427336000,2014-12-31
+"Revenue, Oil and Gas Services",267799000,2015-03-31
+"Revenue, Oil and Gas Services",197496000,2015-06-30
+"Revenue, Oil and Gas Services",176857000,2015-09-30
+"Revenue, Oil and Gas Services",150174000,2015-12-31
+"Revenue, Oil and Gas Services",792326000,2015-12-31
+Cost of Services,1114462000,2013-12-31
+Cost of Services,258302000,2014-03-31
+Cost of Services,262883000,2014-06-30
+Cost of Services,272112000,2014-09-30
+Cost of Services,266354000,2014-12-31
+Cost of Services,1059651000,2014-12-31
+Cost of Services,204530000,2015-03-31
+Cost of Services,158841000,2015-06-30
+Cost of Services,174505000,2015-09-30
+Cost of Services,176761000,2015-12-31
+Cost of Services,714637000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",225297000,2013-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",200738000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",180271000,2015-12-31
+General and Administrative Expense,221753000,2013-12-31
+General and Administrative Expense,249646000,2014-12-31
+General and Administrative Expense,202631000,2015-12-31
+Asset Impairment Charges,0,2013-12-31
+Asset Impairment Charges,121176000,2014-12-31
+Asset Impairment Charges,722096000,2015-12-31
+Operating Income (Loss),30164000,2013-12-31
+Operating Income (Loss),-203875000,2014-12-31
+Operating Income (Loss),-1027309000,2015-12-31
+Interest Expense,55204000,2013-12-31
+Interest Expense,54227000,2014-12-31
+Interest Expense,73847000,2015-12-31
+Nonoperating Income (Expense),803000,2013-12-31
+Nonoperating Income (Expense),-1009000,2014-12-31
+Nonoperating Income (Expense),-9394000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-24237000,2013-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-259111000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-1110550000,2015-12-31
+Income Tax Expense (Benefit),-3064000,2013-12-31
+Income Tax Expense (Benefit),-80483000,2014-12-31
+Income Tax Expense (Benefit),-192849000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-21173000,2013-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-11899000,2014-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-52196000,2014-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-62229000,2014-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-52304000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-178628000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-59676000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-65379000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-640161000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-152485000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-917701000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,595000,2013-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-12-31
+Net Income (Loss) Attributable to Parent,-21768000,2013-12-31
+Net Income (Loss) Attributable to Parent,-178628000,2014-12-31
+Net Income (Loss) Attributable to Parent,-917701000,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic and Diluted Share",-0.14,2013-12-31
+"Income (Loss) from Continuing Operations, Per Basic and Diluted Share",-1.16,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic and Diluted Share",-5.86,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.14,2013-12-31
+"Earnings Per Share, Basic and Diluted",-0.08,2014-03-31
+"Earnings Per Share, Basic and Diluted",-0.34,2014-06-30
+"Earnings Per Share, Basic and Diluted",-0.41,2014-09-30
+"Earnings Per Share, Basic and Diluted",-0.34,2014-12-31
+"Earnings Per Share, Basic and Diluted",-1.16,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.39,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.42,2015-06-30
+"Earnings Per Share, Basic and Diluted",-4.06,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.97,2015-12-31
+"Earnings Per Share, Basic and Diluted",-5.86,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",152271000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",153371000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",156598000,2015-12-31

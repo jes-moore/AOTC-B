@@ -1,0 +1,100 @@
+Metric,Amount,endDate
+"Regulated Operating Revenue, Water",597499000,2014-12-31
+"Regulated Operating Revenue, Water",121985000,2015-03-31
+"Regulated Operating Revenue, Water",144414000,2015-06-30
+"Regulated Operating Revenue, Water",183543000,2015-09-30
+"Regulated Operating Revenue, Water",138426000,2015-12-31
+"Regulated Operating Revenue, Water",588368000,2015-12-31
+"Regulated Operating Revenue, Water",121727000,2016-03-31
+"Regulated Operating Revenue, Water",152445000,2016-06-30
+"Regulated Operating Revenue, Water",184268000,2016-09-30
+"Regulated Operating Revenue, Water",150930000,2016-12-31
+"Regulated Operating Revenue, Water",609370000,2016-12-31
+Cost of Purchased Water,177884000,2014-12-31
+Cost of Purchased Water,168557000,2015-12-31
+Cost of Purchased Water,181515000,2016-12-31
+Cost of Purchased Power,33159000,2014-12-31
+Cost of Purchased Power,27890000,2015-12-31
+Cost of Purchased Power,27180000,2016-12-31
+Pump Taxes,12898000,2014-12-31
+Pump Taxes,11479000,2015-12-31
+Pump Taxes,11298000,2016-12-31
+General and Administrative Expense,97373000,2014-12-31
+General and Administrative Expense,113110000,2015-12-31
+General and Administrative Expense,98474000,2016-12-31
+"Utilities Operating Expense, Other",65807000,2014-12-31
+"Utilities Operating Expense, Other",67248000,2015-12-31
+"Utilities Operating Expense, Other",80082000,2016-12-31
+"Utilities Operating Expense, Maintenance",19854000,2014-12-31
+"Utilities Operating Expense, Maintenance",21463000,2015-12-31
+"Utilities Operating Expense, Maintenance",22993000,2016-12-31
+"Utilities Operating Expense, Depreciation and Amortization",61217000,2014-12-31
+"Utilities Operating Expense, Depreciation and Amortization",61381000,2015-12-31
+"Utilities Operating Expense, Depreciation and Amortization",63599000,2016-12-31
+Utilities Operating Expense (Income) Tax Expense (Benefit),26727000,2014-12-31
+Utilities Operating Expense (Income) Tax Expense (Benefit),24528000,2015-12-31
+Utilities Operating Expense (Income) Tax Expense (Benefit),24804000,2016-12-31
+"Utilities Operating Expense, Taxes",20733000,2014-12-31
+"Utilities Operating Expense, Taxes",21559000,2015-12-31
+"Utilities Operating Expense, Taxes",23231000,2016-12-31
+Utilities Operating Expense,515652000,2014-12-31
+Utilities Operating Expense,517215000,2015-12-31
+Utilities Operating Expense,533176000,2016-12-31
+Operating Income (Loss),81847000,2014-12-31
+Operating Income (Loss),7497000,2015-03-31
+Operating Income (Loss),16493000,2015-06-30
+Operating Income (Loss),32201000,2015-09-30
+Operating Income (Loss),14962000,2015-12-31
+Operating Income (Loss),71153000,2015-12-31
+Operating Income (Loss),6270000,2016-03-31
+Operating Income (Loss),18534000,2016-06-30
+Operating Income (Loss),30055000,2016-09-30
+Operating Income (Loss),21335000,2016-12-31
+Operating Income (Loss),76194000,2016-12-31
+Unregulated Operating Revenue,17318000,2014-12-31
+Unregulated Operating Revenue,15624000,2015-12-31
+Unregulated Operating Revenue,16585000,2016-12-31
+Other Nonoperating Expense,14285000,2014-12-31
+Other Nonoperating Expense,14044000,2015-12-31
+Other Nonoperating Expense,11445000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",51000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",315000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-146000,2016-12-31
+"Utilities Nonregulated Expense, Income Tax Expense (Benefit)",1245000,2014-12-31
+"Utilities Nonregulated Expense, Income Tax Expense (Benefit)",761000,2015-12-31
+"Utilities Nonregulated Expense, Income Tax Expense (Benefit)",2012000,2016-12-31
+Other Nonoperating Income (Expense),1839000,2014-12-31
+Other Nonoperating Income (Expense),1134000,2015-12-31
+Other Nonoperating Income (Expense),2982000,2016-12-31
+"Interest Expense, Debt",28483000,2014-12-31
+"Interest Expense, Debt",29185000,2015-12-31
+"Interest Expense, Debt",33466000,2016-12-31
+Interest Costs Capitalized Adjustment,1535000,2014-12-31
+Interest Costs Capitalized Adjustment,1915000,2015-12-31
+Interest Costs Capitalized Adjustment,2965000,2016-12-31
+Interest Costs Incurred,26948000,2014-12-31
+Interest Costs Incurred,27270000,2015-12-31
+Interest Costs Incurred,30501000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",56738000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",45017000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",48675000,2016-12-31
+"Earnings Per Share, Basic",1.19,2014-12-31
+"Earnings Per Share, Basic",0.94,2015-12-31
+"Earnings Per Share, Basic",1.02,2016-12-31
+"Earnings Per Share, Diluted",1.19,2014-12-31
+"Earnings Per Share, Diluted",0.03,2015-03-31
+"Earnings Per Share, Diluted",0.21,2015-06-30
+"Earnings Per Share, Diluted",0.52,2015-09-30
+"Earnings Per Share, Diluted",0.18,2015-12-31
+"Earnings Per Share, Diluted",0.94,2015-12-31
+"Earnings Per Share, Diluted",-0.02,2016-03-31
+"Earnings Per Share, Diluted",0.24,2016-06-30
+"Earnings Per Share, Diluted",0.48,2016-09-30
+"Earnings Per Share, Diluted",0.31,2016-12-31
+"Earnings Per Share, Diluted",1.01,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",47791000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",47865000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",47953000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",47829000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",47880000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",47956000,2016-12-31

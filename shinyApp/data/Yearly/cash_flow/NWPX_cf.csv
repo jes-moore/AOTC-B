@@ -1,0 +1,146 @@
+Metric,Amount,endDate
+Net loss,-17887000,2014-12-31
+Net loss,-2101000,2015-03-31
+Net loss,-29388000,2015-12-31
+Net loss,-12079000,2015-06-30
+Net loss,-1515000,2015-09-30
+Net loss,-13693000,2015-12-31
+Net loss,-9583000,2016-03-31
+Net loss,-9263000,2016-12-31
+Net loss,-6242000,2016-06-30
+Net loss,727000,2016-09-30
+Net loss,5834000,2016-12-31
+Depreciation and capital lease amortization,13606000,2014-12-31
+Depreciation and capital lease amortization,9092000,2015-12-31
+Depreciation and capital lease amortization,9446000,2016-12-31
+Impairment of goodwill,16066000,2014-12-31
+Impairment of goodwill,5282000,2015-12-31
+Impairment of goodwill,,2016-12-31
+Loss on sale of business,-13497000,2014-12-31
+Loss on sale of business,,2015-12-31
+Loss on sale of business,,2016-12-31
+us-gaap_AmortizationOfIntangibleAssets,540000,2014-12-31
+us-gaap_AmortizationOfIntangibleAssets,523000,2015-12-31
+us-gaap_AmortizationOfIntangibleAssets,523000,2016-12-31
+us-gaap_AmortizationOfFinancingCosts,377000,2014-12-31
+us-gaap_AmortizationOfFinancingCosts,598000,2015-12-31
+us-gaap_AmortizationOfFinancingCosts,166000,2016-12-31
+us-gaap_AllowanceForDoubtfulAccountsReceivablePeriodIncreaseDecrease,70000,2014-12-31
+us-gaap_AllowanceForDoubtfulAccountsReceivablePeriodIncreaseDecrease,-4000,2015-12-31
+us-gaap_AllowanceForDoubtfulAccountsReceivablePeriodIncreaseDecrease,295000,2016-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,2894000,2014-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,-3560000,2015-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,-4750000,2016-12-31
+us-gaap_ShareBasedCompensation,2946000,2014-12-31
+us-gaap_ShareBasedCompensation,1774000,2015-12-31
+us-gaap_ShareBasedCompensation,1801000,2016-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,553000,2014-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,19000,2015-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,,2016-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,-1746000,2014-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,-211000,2015-12-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,-1657000,2016-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,13000,2014-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,-295000,2015-12-31
+us-gaap_ForeignCurrencyTransactionGainLossUnrealized,-170000,2016-12-31
+us-gaap_OtherNoncashIncomeExpense,-25000,2014-12-31
+us-gaap_OtherNoncashIncomeExpense,,2015-12-31
+us-gaap_OtherNoncashIncomeExpense,,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsAndOtherReceivables,-7984000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsAndOtherReceivables,-26780000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsAndOtherReceivables,-2122000,2016-12-31
+us-gaap_IncreaseDecreaseInInsuranceSettlementsReceivable,,2014-12-31
+us-gaap_IncreaseDecreaseInInsuranceSettlementsReceivable,-2625000,2015-12-31
+us-gaap_IncreaseDecreaseInInsuranceSettlementsReceivable,,2016-12-31
+us-gaap_IncreaseDecreaseInCostInExcessOfBillingOnUncompletedContract,-4088000,2014-12-31
+us-gaap_IncreaseDecreaseInCostInExcessOfBillingOnUncompletedContract,-940000,2015-12-31
+us-gaap_IncreaseDecreaseInCostInExcessOfBillingOnUncompletedContract,-447000,2016-12-31
+us-gaap_IncreaseDecreaseInInventories,-6039000,2014-12-31
+us-gaap_IncreaseDecreaseInInventories,-43695000,2015-12-31
+us-gaap_IncreaseDecreaseInInventories,-10488000,2016-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,3405000,2014-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-1285000,2015-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,-3254000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-754000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-896000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,11000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-5273000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-9894000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,866000,2016-12-31
+Deferred revenue,-4573000,2014-12-31
+Deferred revenue,-271000,2015-12-31
+Deferred revenue,,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,-881000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,4663000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilitiesAndOtherOperatingLiabilities,-4538000,2016-12-31
+Net cash provided by operating activities,35044000,2014-12-31
+Net cash provided by operating activities,55206000,2015-12-31
+Net cash provided by operating activities,1519000,2016-12-31
+Capital expenditures,14289000,2014-12-31
+Capital expenditures,8515000,2015-12-31
+Capital expenditures,2292000,2016-12-31
+Proceeds from sale of business,29791000,2014-12-31
+Proceeds from sale of business,4300000,2015-12-31
+Proceeds from sale of business,,2016-12-31
+Collections on notes receivable,56000,2014-12-31
+Collections on notes receivable,7219000,2015-12-31
+Collections on notes receivable,,2016-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,25000,2014-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,,2015-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,,2016-12-31
+Net cash provided by investing activities,15541000,2014-12-31
+Net cash provided by investing activities,3059000,2015-12-31
+Net cash provided by investing activities,11655000,2016-12-31
+Proceeds from issuance of common stock,28000,2014-12-31
+Proceeds from issuance of common stock,1000,2015-12-31
+Proceeds from issuance of common stock,,2016-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,1283000,2014-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,424000,2015-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,31000,2016-12-31
+Excess tax benefit from stock compensation plans,553000,2014-12-31
+Excess tax benefit from stock compensation plans,19000,2015-12-31
+Excess tax benefit from stock compensation plans,,2016-12-31
+us-gaap_RepaymentsOfLongTermDebt,6357000,2014-12-31
+us-gaap_RepaymentsOfLongTermDebt,,2015-12-31
+us-gaap_RepaymentsOfLongTermDebt,,2016-12-31
+us-gaap_ProceedsFromLongTermLinesOfCredit,230581000,2014-12-31
+us-gaap_ProceedsFromLongTermLinesOfCredit,79250000,2015-12-31
+us-gaap_ProceedsFromLongTermLinesOfCredit,,2016-12-31
+us-gaap_RepaymentsOfLongTermLinesOfCredit,272913000,2014-12-31
+us-gaap_RepaymentsOfLongTermLinesOfCredit,124837000,2015-12-31
+us-gaap_RepaymentsOfLongTermLinesOfCredit,,2016-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,,2014-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,302000,2015-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,,2016-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,1255000,2014-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,2190000,2015-12-31
+us-gaap_RepaymentsOfLongTermCapitalLeaseObligations,390000,2016-12-31
+nwpx_PaymentsOfContingentConsideration,,2014-12-31
+nwpx_PaymentsOfContingentConsideration,,2015-12-31
+nwpx_PaymentsOfContingentConsideration,1233000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-50646000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-48483000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-1654000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-61000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,9782000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,11520000,2016-12-31
+Cash and cash equivalents,588000,2013-12-31
+Cash and cash equivalents,527000,2014-12-31
+Cash and cash equivalents,10309000,2015-12-31
+Cash and cash equivalents,21829000,2016-12-31
+Cash and cash equivalents,588000,2013-12-31
+Cash and cash equivalents,527000,2014-12-31
+Cash and cash equivalents,10309000,2015-12-31
+Cash and cash equivalents,21829000,2016-12-31
+"Cash paid during the period for interest, net of amounts capitalized",2271000,2014-12-31
+"Cash paid during the period for interest, net of amounts capitalized",846000,2015-12-31
+"Cash paid during the period for interest, net of amounts capitalized",283000,2016-12-31
+"Cash (received) paid during the period for income taxes (net of refunds of $3,427, $7,949 and $393)",1982000,2014-12-31
+"Cash (received) paid during the period for income taxes (net of refunds of $3,427, $7,949 and $393)",-7743000,2015-12-31
+"Cash (received) paid during the period for income taxes (net of refunds of $3,427, $7,949 and $393)",-3322000,2016-12-31
+Accrued property and equipment purchases,1243000,2014-12-31
+Accrued property and equipment purchases,397000,2015-12-31
+Accrued property and equipment purchases,59000,2016-12-31
+Capital lease additions,804000,2014-12-31
+Capital lease additions,854000,2015-12-31
+Capital lease additions,259000,2016-12-31

@@ -1,0 +1,125 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,44158000,2014-12-31
+Net Income (Loss) Attributable to Parent,8399000,2015-03-31
+Net Income (Loss) Attributable to Parent,11130000,2015-06-30
+Net Income (Loss) Attributable to Parent,13251000,2015-09-30
+Net Income (Loss) Attributable to Parent,12948000,2015-12-31
+Net Income (Loss) Attributable to Parent,45728000,2015-12-31
+Net Income (Loss) Attributable to Parent,10806000,2016-03-31
+Net Income (Loss) Attributable to Parent,14341000,2016-06-30
+Net Income (Loss) Attributable to Parent,15682000,2016-09-30
+Net Income (Loss) Attributable to Parent,11420000,2016-12-31
+Net Income (Loss) Attributable to Parent,53376000,2016-12-31
+Depreciation,11553000,2014-12-31
+Depreciation,11741000,2015-12-31
+Depreciation,13035000,2016-12-31
+Amortization,688000,2014-12-31
+Amortization,266000,2015-12-31
+Amortization,249000,2016-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",-22000,2014-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",-48000,2015-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",-25000,2016-12-31
+Inventory Write-down,135000,2014-12-31
+Inventory Write-down,178000,2015-12-31
+Inventory Write-down,625000,2016-12-31
+Share-based Compensation,2178000,2014-12-31
+Share-based Compensation,2891000,2015-12-31
+Share-based Compensation,4357000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",305000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",59000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",20000,2016-12-31
+"Foreign Currency Transaction Gain (Loss), Realized",-74000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), Realized",-139000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), Realized",22000,2016-12-31
+InterestIncomeNoteReceivable,36000,2014-12-31
+InterestIncomeNoteReceivable,30000,2015-12-31
+InterestIncomeNoteReceivable,28000,2016-12-31
+Deferred Income Tax Expense (Benefit),-2111000,2014-12-31
+Deferred Income Tax Expense (Benefit),1172000,2015-12-31
+Deferred Income Tax Expense (Benefit),825000,2016-12-31
+Write-off of Note Receivable,0,2014-12-31
+Write-off of Note Receivable,0,2015-12-31
+Write-off of Note Receivable,0,2016-12-31
+Increase (Decrease) in Accounts Receivable,5007000,2014-12-31
+Increase (Decrease) in Accounts Receivable,5884000,2015-12-31
+Increase (Decrease) in Accounts Receivable,-7048000,2016-12-31
+Increase (Decrease) in Income Taxes Receivable,257000,2014-12-31
+Increase (Decrease) in Income Taxes Receivable,-312000,2015-12-31
+Increase (Decrease) in Income Taxes Receivable,1537000,2016-12-31
+Increase (Decrease) in Inventories,5613000,2014-12-31
+Increase (Decrease) in Inventories,1059000,2015-12-31
+Increase (Decrease) in Inventories,9478000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,305000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-76000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,83000,2016-12-31
+Increase (Decrease) in Accounts Payable,3512000,2014-12-31
+Increase (Decrease) in Accounts Payable,-5109000,2015-12-31
+Increase (Decrease) in Accounts Payable,654000,2016-12-31
+Increase (Decrease) in Deferred Revenue,782000,2014-12-31
+Increase (Decrease) in Deferred Revenue,189000,2015-12-31
+Increase (Decrease) in Deferred Revenue,417000,2016-12-31
+Increase (Decrease) in Accrued Liabilities,4094000,2014-12-31
+Increase (Decrease) in Accrued Liabilities,4852000,2015-12-31
+Increase (Decrease) in Accrued Liabilities,-5470000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",53518000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",55355000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",63923000,2016-12-31
+Payments to Acquire Productive Assets,16127000,2014-12-31
+Payments to Acquire Productive Assets,20967000,2015-12-31
+Payments to Acquire Productive Assets,26604000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",319000,2014-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",63000,2015-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",28000,2016-12-31
+Payments to Acquire Other Investments,9940000,2014-12-31
+Payments to Acquire Other Investments,6680000,2015-12-31
+Payments to Acquire Other Investments,4112000,2016-12-31
+Proceeds from Sale and Maturity of Other Investments,9310000,2014-12-31
+Proceeds from Sale and Maturity of Other Investments,6098000,2015-12-31
+Proceeds from Sale and Maturity of Other Investments,10560000,2016-12-31
+Payments to Acquire Held-to-maturity Securities,6880000,2014-12-31
+Payments to Acquire Held-to-maturity Securities,14183000,2015-12-31
+Payments to Acquire Held-to-maturity Securities,10384000,2016-12-31
+"Proceeds from Sale, Maturity and Collection of Investments",14197000,2014-12-31
+"Proceeds from Sale, Maturity and Collection of Investments",11408000,2015-12-31
+"Proceeds from Sale, Maturity and Collection of Investments",10021000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Held-to-maturity Securities",3029000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Held-to-maturity Securities",1013000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Held-to-maturity Securities",3514000,2016-12-31
+Proceeds from Collection of Notes Receivable,63000,2014-12-31
+Proceeds from Collection of Notes Receivable,54000,2015-12-31
+Proceeds from Collection of Notes Receivable,52000,2016-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-6029000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-23194000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-16925000,2016-12-31
+Proceeds from Lines of Credit,0,2014-12-31
+Proceeds from Lines of Credit,0,2015-12-31
+Proceeds from Lines of Credit,761000,2016-12-31
+Repayments of Lines of Credit,0,2014-12-31
+Repayments of Lines of Credit,0,2015-12-31
+Repayments of Lines of Credit,761000,2016-12-31
+Proceeds from Stock Options Exercised,1318000,2014-12-31
+Proceeds from Stock Options Exercised,2795000,2015-12-31
+Proceeds from Stock Options Exercised,2063000,2016-12-31
+Payments for Repurchase of Equity,29066000,2014-12-31
+Payments for Repurchase of Equity,36558000,2015-12-31
+Payments for Repurchase of Equity,19317000,2016-12-31
+Payments Related to Tax Withholding for Share-based Compensation,218000,2014-12-31
+Payments Related to Tax Withholding for Share-based Compensation,585000,2015-12-31
+Payments Related to Tax Withholding for Share-based Compensation,823000,2016-12-31
+Payments of Dividends,9656000,2014-12-31
+Payments of Dividends,11857000,2015-12-31
+Payments of Dividends,12676000,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-37622000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-46205000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-30753000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",9867000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-14044000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",16245000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",12085000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",21952000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",7908000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",24153000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",12085000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",21952000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",7908000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",24153000,2016-12-31

@@ -1,0 +1,170 @@
+Metric,Amount,endDate
+Revenues,5063000000,2015-01-30
+Revenues,4690000000,2015-01-02
+Revenues,4712000000,2016-01-01
+Revenues,1246000000,2015-04-03
+Revenues,1257000000,2015-07-03
+Revenues,1302000000,2015-10-02
+Revenues,1281000000,2016-01-01
+Revenues,1312000000,2016-04-01
+Revenues,1288000000,2016-07-01
+Revenues,1868000000,2016-09-30
+Revenues,2575000000,2016-12-30
+Revenues,7043000000,2016-12-30
+Cost of Revenue,4392000000,2015-01-30
+Cost of Revenue,4069000000,2015-01-02
+Cost of Revenue,4146000000,2016-01-01
+Cost of Revenue,6191000000,2016-12-30
+"Selling, General and Administrative Expense",310000000,2015-01-30
+"Selling, General and Administrative Expense",280000000,2015-01-02
+"Selling, General and Administrative Expense",201000000,2016-01-01
+"Selling, General and Administrative Expense",334000000,2016-12-30
+Provision for Doubtful Accounts,5000000,2015-01-30
+Provision for Doubtful Accounts,4000000,2015-01-02
+Provision for Doubtful Accounts,8000000,2016-01-01
+Provision for Doubtful Accounts,3000000,2016-12-30
+Acquisition and Integration Costs,0,2015-01-30
+Acquisition and Integration Costs,0,2015-01-02
+Acquisition and Integration Costs,0,2016-01-01
+Acquisition and Integration Costs,9000000,2016-04-01
+Acquisition and Integration Costs,15000000,2016-07-01
+Acquisition and Integration Costs,44000000,2016-09-30
+Acquisition and Integration Costs,22000000,2016-12-30
+Acquisition and Integration Costs,90000000,2016-12-30
+"Goodwill, Impairment Loss",486000000,2015-01-30
+"Goodwill, Impairment Loss",486000000,2014-08-01
+"Goodwill, Impairment Loss",486000000,2015-01-02
+"Goodwill, Impairment Loss",0,2016-01-01
+"Goodwill, Impairment Loss",0,2016-12-30
+Asset Impairment Charges,81000000,2015-01-30
+Asset Impairment Charges,41000000,2015-01-02
+Asset Impairment Charges,33000000,2016-01-01
+Asset Impairment Charges,4000000,2016-12-30
+"Restructuring Charges, Including Separation Costs",3000000,2015-01-30
+"Restructuring Charges, Including Separation Costs",1000000,2015-01-02
+"Restructuring Charges, Including Separation Costs",4000000,2016-01-01
+"Restructuring Charges, Including Separation Costs",14000000,2016-12-30
+Income (Loss) from Equity Method Investments,0,2015-01-30
+Income (Loss) from Equity Method Investments,0,2015-01-02
+Income (Loss) from Equity Method Investments,0,2016-01-01
+Income (Loss) from Equity Method Investments,10000000,2016-12-30
+Operating Income (Loss),-214000000,2015-01-30
+Operating Income (Loss),-191000000,2015-01-02
+Operating Income (Loss),320000000,2016-01-01
+Operating Income (Loss),38000000,2015-04-03
+Operating Income (Loss),64000000,2015-07-03
+Operating Income (Loss),94000000,2015-10-02
+Operating Income (Loss),102000000,2016-01-01
+Operating Income (Loss),89000000,2016-04-01
+Operating Income (Loss),75000000,2016-07-01
+Operating Income (Loss),101000000,2016-09-30
+Operating Income (Loss),152000000,2016-12-30
+Operating Income (Loss),417000000,2016-12-30
+"Interest Income, Other",1000000,2015-01-30
+"Interest Income, Other",1000000,2015-01-02
+"Interest Income, Other",4000000,2016-01-01
+"Interest Income, Other",10000000,2016-12-30
+Interest Expense,75000000,2015-01-30
+Interest Expense,71000000,2015-01-02
+Interest Expense,53000000,2016-01-01
+Interest Expense,96000000,2016-12-30
+Other Nonoperating Income (Expense),5000000,2015-01-30
+Other Nonoperating Income (Expense),5000000,2015-01-02
+Other Nonoperating Income (Expense),84000000,2016-01-01
+Other Nonoperating Income (Expense),-13000000,2016-12-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-283000000,2015-01-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-256000000,2015-01-02
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",355000000,2016-01-01
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",318000000,2016-12-30
+Income Tax Expense (Benefit),47000000,2015-01-30
+Income Tax Expense (Benefit),67000000,2015-01-02
+Income Tax Expense (Benefit),112000000,2016-01-01
+Income Tax Expense (Benefit),72000000,2016-12-30
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-330000000,2015-01-30
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-323000000,2015-01-02
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",243000000,2016-01-01
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",53000000,2016-04-01
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",41000000,2016-07-01
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",92000000,2016-09-30
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",60000000,2016-12-30
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",246000000,2016-12-30
+"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax",-13000000,2015-01-30
+"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax",-14000000,2015-01-02
+"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax",-1000000,2016-01-01
+"Discontinued Operation, Income (Loss) from Discontinued Operation, before Income Tax",0,2016-12-30
+"Discontinued Operation, Tax Effect of Discontinued Operation",-20000000,2015-01-30
+"Discontinued Operation, Tax Effect of Discontinued Operation",-3000000,2015-01-02
+"Discontinued Operation, Tax Effect of Discontinued Operation",0,2016-01-01
+"Discontinued Operation, Tax Effect of Discontinued Operation",0,2016-12-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",7000000,2015-01-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-11000000,2015-01-02
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-1000000,2016-01-01
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",18000000,2015-04-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-07-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-10-02
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2016-01-01
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2016-12-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-323000000,2015-01-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-334000000,2015-01-02
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",242000000,2016-01-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",53000000,2016-04-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",41000000,2016-07-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",92000000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",60000000,2016-12-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",246000000,2016-12-30
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-01-30
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-01-02
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2016-01-01
+Net Income (Loss) Attributable to Noncontrolling Interest,2000000,2016-12-30
+Net Income (Loss) Attributable to Parent,-323000000,2015-01-30
+Net Income (Loss) Attributable to Parent,-334000000,2015-01-02
+Net Income (Loss) Attributable to Parent,242000000,2016-01-01
+Net Income (Loss) Attributable to Parent,41000000,2015-04-03
+Net Income (Loss) Attributable to Parent,37000000,2015-07-03
+Net Income (Loss) Attributable to Parent,49000000,2015-10-02
+Net Income (Loss) Attributable to Parent,127000000,2016-01-01
+Net Income (Loss) Attributable to Parent,53000000,2016-04-01
+Net Income (Loss) Attributable to Parent,41000000,2016-07-01
+Net Income (Loss) Attributable to Parent,91000000,2016-09-30
+Net Income (Loss) Attributable to Parent,59000000,2016-12-30
+Net Income (Loss) Attributable to Parent,244000000,2016-12-30
+"Income (Loss) from Continuing Operations, Per Basic Share",-4.46,2015-01-30
+"Income (Loss) from Continuing Operations, Per Basic Share",-4.36,2015-01-02
+"Income (Loss) from Continuing Operations, Per Basic Share",3.33,2016-01-01
+"Income (Loss) from Continuing Operations, Per Basic Share",2.39,2016-12-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.10,2015-01-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.15,2015-01-02
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.01,2016-01-01
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2016-12-30
+"Earnings Per Share, Basic",-4.36,2015-01-30
+"Earnings Per Share, Basic",-4.51,2015-01-02
+"Earnings Per Share, Basic",3.32,2016-01-01
+"Earnings Per Share, Basic",0.32,2015-04-03
+"Earnings Per Share, Basic",0.51,2015-07-03
+"Earnings Per Share, Basic",0.68,2015-10-02
+"Earnings Per Share, Basic",1.76,2016-01-01
+"Earnings Per Share, Basic",0.74,2016-04-01
+"Earnings Per Share, Basic",0.56,2016-07-01
+"Earnings Per Share, Basic",0.81,2016-09-30
+"Earnings Per Share, Basic",0.39,2016-12-30
+"Earnings Per Share, Basic",2.39,2016-12-30
+"Income (Loss) from Continuing Operations, Per Diluted Share",-4.46,2015-01-30
+"Income (Loss) from Continuing Operations, Per Diluted Share",-4.36,2015-01-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",3.28,2016-01-01
+"Income (Loss) from Continuing Operations, Per Diluted Share",2.35,2016-12-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.10,2015-01-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.15,2015-01-02
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.01,2016-01-01
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2016-12-30
+"Earnings Per Share, Diluted",-4.36,2015-01-30
+"Earnings Per Share, Diluted",-4.51,2015-01-02
+"Earnings Per Share, Diluted",3.27,2016-01-01
+"Earnings Per Share, Diluted",0.31,2015-04-03
+"Earnings Per Share, Diluted",0.50,2015-07-03
+"Earnings Per Share, Diluted",0.67,2015-10-02
+"Earnings Per Share, Diluted",1.72,2016-01-01
+"Earnings Per Share, Diluted",0.72,2016-04-01
+"Earnings Per Share, Diluted",0.55,2016-07-01
+"Earnings Per Share, Diluted",0.80,2016-09-30
+"Earnings Per Share, Diluted",0.39,2016-12-30
+"Earnings Per Share, Diluted",2.35,2016-12-30

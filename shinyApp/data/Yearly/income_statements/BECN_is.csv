@@ -1,0 +1,40 @@
+Metric,Amount,endDate
+"Revenue, Net",2326905000,2014-09-30
+"Revenue, Net",2515169000,2015-09-30
+"Revenue, Net",4127109000,2016-09-30
+Cost Of Products Sold,1799065000,2014-09-30
+Cost Of Products Sold,1919804000,2015-09-30
+Cost Of Products Sold,3114040000,2016-09-30
+Gross Profit,527840000,2014-09-30
+Gross Profit,595365000,2015-09-30
+Gross Profit,1013069000,2016-09-30
+Operating Expenses,428977000,2014-09-30
+Operating Expenses,478284000,2015-09-30
+Operating Expenses,808085000,2016-09-30
+Income From Operations,98863000,2014-09-30
+Income From Operations,117081000,2015-09-30
+Income From Operations,204984000,2016-09-30
+Interest Expense,10095000,2014-09-30
+Interest Expense,11037000,2015-09-30
+Interest Expense,58452000,2016-09-30
+Income Before Taxes,88768000,2014-09-30
+Income Before Taxes,106044000,2015-09-30
+Income Before Taxes,146532000,2016-09-30
+Provision For Income Taxes,34922000,2014-09-30
+Provision For Income Taxes,43767000,2015-09-30
+Provision For Income Taxes,56615000,2016-09-30
+Net Income (Loss) Attributable To Parent,53846000,2014-09-30
+Net Income (Loss) Attributable To Parent,62277000,2015-09-30
+Net Income (Loss) Attributable To Parent,89917000,2016-09-30
+"Weighted Average Number Of Shares Outstanding, Basic",49227466,2014-09-30
+"Weighted Average Number Of Shares Outstanding, Basic",49578130,2015-09-30
+"Weighted Average Number Of Shares Outstanding, Basic",59424372,2016-09-30
+"Weighted Average Number Of Shares Outstanding, Diluted",49947699,2014-09-30
+"Weighted Average Number Of Shares Outstanding, Diluted",50173478,2015-09-30
+"Weighted Average Number Of Shares Outstanding, Diluted",60418067,2016-09-30
+Basic,1.09,2014-09-30
+Basic,1.26,2015-09-30
+Basic,1.51,2016-09-30
+"Earnings Per Share, Diluted",1.08,2014-09-30
+"Earnings Per Share, Diluted",1.24,2015-09-30
+"Earnings Per Share, Diluted",1.49,2016-09-30

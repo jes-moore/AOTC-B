@@ -1,0 +1,85 @@
+Metric,Amount,endDate
+Cash and cash equivalents,6868000,2013-12-31
+Cash and cash equivalents,42047000,2014-12-31
+Cash and cash equivalents,11992000,2015-12-31
+Cash and cash equivalents,27150000,2016-12-31
+Restricted cash,216000,2015-12-31
+Restricted cash,4326000,2016-12-31
+Short-term investments,1520000,2015-12-31
+Short-term investments,1374000,2016-12-31
+"Accounts receivable, net of allowance of $478 and $479, respectively",4004000,2015-12-31
+"Accounts receivable, net of allowance of $478 and $479, respectively",13105000,2016-12-31
+"Related party accounts receivable, net of allowance of $23 and $490, respectively",1176000,2015-12-31
+"Related party accounts receivable, net of allowance of $23 and $490, respectively",872000,2016-12-31
+"Inventories, net",10886000,2015-12-31
+"Inventories, net",6213000,2016-12-31
+Prepaid expenses and other current assets,4583000,2015-12-31
+Prepaid expenses and other current assets,6083000,2016-12-31
+us-gaap_AssetsCurrent,34377000,2015-12-31
+us-gaap_AssetsCurrent,59123000,2016-12-31
+"Property, plant and equipment, net",59797000,2015-12-31
+"Property, plant and equipment, net",53735000,2016-12-31
+us-gaap_RestrictedCashAndCashEquivalentsNoncurrent,957000,2015-12-31
+us-gaap_RestrictedCashAndCashEquivalentsNoncurrent,957000,2016-12-31
+Equity and loans in affiliates,68000,2015-12-31
+Equity and loans in affiliates,34000,2016-12-31
+Other assets,10357000,2015-12-31
+Other assets,15464000,2016-12-31
+Goodwill and intangible assets,560000,2015-12-31
+Goodwill and intangible assets,560000,2016-12-31
+us-gaap_Assets,106116000,2015-12-31
+us-gaap_Assets,129873000,2016-12-31
+Accounts payable,7943000,2015-12-31
+Accounts payable,15315000,2016-12-31
+Deferred revenue,6509000,2015-12-31
+Deferred revenue,5288000,2016-12-31
+Accrued and other current liabilities,24268000,2015-12-31
+Accrued and other current liabilities,29188000,2016-12-31
+"Capital lease obligation, current portion",523000,2015-12-31
+"Capital lease obligation, current portion",922000,2016-12-31
+"Debt, current portion (Note 16)",36281000,2015-12-31
+"Debt, current portion (Note 16)",25853000,2016-12-31
+Related party debt,,2015-12-31
+Related party debt,33302000,2016-12-31
+us-gaap_LiabilitiesCurrent,75524000,2015-12-31
+us-gaap_LiabilitiesCurrent,109868000,2016-12-31
+Long-term portion,176000,2015-12-31
+Long-term portion,334000,2016-12-31
+"Long-term debt, net of current portion",72854000,2015-12-31
+"Long-term debt, net of current portion",128744000,2016-12-31
+us-gaap_DueToRelatedPartiesNoncurrent,42839000,2015-12-31
+us-gaap_DueToRelatedPartiesNoncurrent,39144000,2016-12-31
+"Deferred rent, net of current portion",9682000,2015-12-31
+"Deferred rent, net of current portion",8906000,2016-12-31
+"Deferred revenue, net of current portion",4469000,2015-12-31
+"Deferred revenue, net of current portion",6650000,2016-12-31
+us-gaap_DerivativeLiabilitiesNoncurrent,51439000,2015-12-31
+us-gaap_DerivativeLiabilitiesNoncurrent,6894000,2016-12-31
+Other liabilities,7589000,2015-12-31
+Other liabilities,7841000,2016-12-31
+us-gaap_Liabilities,264572000,2015-12-31
+us-gaap_Liabilities,308381000,2016-12-31
+Commitments and contingencies (Note 6),,2015-12-31
+Commitments and contingencies (Note 6),,2016-12-31
+Contingently redeemable common stock (Note 8),,2015-12-31
+Contingently redeemable common stock (Note 8),5000000,2016-12-31
+"Preferred stock - $0.0001 par value, 5,000,000 shares authorized, none issued and outstanding",,2015-12-31
+"Preferred stock - $0.0001 par value, 5,000,000 shares authorized, none issued and outstanding",,2016-12-31
+"Common stock - $0.0001 par value, 500,000,000 and 400,000,000 shares authorized as of December 31, 2016 and 2015; 274,108,808 and 206,130,282 shares issued and outstanding as of December 31, 2016 and 2015, respectively",21000,2015-12-31
+"Common stock - $0.0001 par value, 500,000,000 and 400,000,000 shares authorized as of December 31, 2016 and 2015; 274,108,808 and 206,130,282 shares issued and outstanding as of December 31, 2016 and 2015, respectively",27000,2016-12-31
+Additional paid-in capital,926216000,2015-12-31
+Additional paid-in capital,990870000,2016-12-31
+Accumulated other comprehensive loss,-47198000,2015-12-31
+Accumulated other comprehensive loss,-40904000,2016-12-31
+Accumulated deficit,-1037104000,2015-12-31
+Accumulated deficit,-1134438000,2016-12-31
+us-gaap_StockholdersEquity,-158065000,2015-12-31
+us-gaap_StockholdersEquity,-184445000,2016-12-31
+Noncontrolling interest,-391000,2015-12-31
+Noncontrolling interest,937000,2016-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,-135848000,2013-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,-125063000,2014-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,-158456000,2015-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,-183508000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,106116000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,129873000,2016-12-31

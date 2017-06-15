@@ -1,0 +1,106 @@
+Metric,Amount,endDate
+Cost of Property Repairs and Maintenance,75333000,2014-12-31
+Cost of Property Repairs and Maintenance,81915000,2015-12-31
+Cost of Property Repairs and Maintenance,103388000,2016-12-31
+Real Estate Tax Expense,32097000,2014-12-31
+Real Estate Tax Expense,36563000,2015-12-31
+Real Estate Tax Expense,47876000,2016-12-31
+General and Administrative Expense,35222000,2014-12-31
+General and Administrative Expense,38659000,2015-12-31
+General and Administrative Expense,43103000,2016-12-31
+"Business Combination, Acquisition Related Costs",7359000,2014-12-31
+"Business Combination, Acquisition Related Costs",2991000,2015-12-31
+"Business Combination, Acquisition Related Costs",29542000,2016-12-31
+Write-off Of Acquired Property Deposits,0,2014-12-31
+Write-off Of Acquired Property Deposits,0,2015-12-31
+Write-off Of Acquired Property Deposits,1783000,2016-12-31
+"Operating Leases, Rent Expense",7987000,2014-12-31
+"Operating Leases, Rent Expense",683000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",51749000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",58506000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",117081000,2016-12-31
+Costs and Expenses,209747000,2014-12-31
+Costs and Expenses,219317000,2015-12-31
+Costs and Expenses,342773000,2016-12-31
+Operating Income (Loss),116333000,2014-12-31
+Operating Income (Loss),147285000,2015-12-31
+Operating Income (Loss),119835000,2016-12-31
+Interest Expense,34578000,2014-12-31
+Interest Expense,37124000,2015-12-31
+Interest Expense,47175000,2016-12-31
+Debt Related Commitment Fees and Debt Issuance Costs,7329000,2016-12-31
+"Investment Income, Interest",40000,2014-12-31
+"Investment Income, Interest",5000,2015-12-31
+"Investment Income, Interest",67000,2016-12-31
+Gain (Loss) on Disposition of Assets,5176000,2014-12-31
+Gain (Loss) on Disposition of Assets,-494000,2015-12-31
+Gain (Loss) on Disposition of Assets,15270000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",623000,2016-12-31
+Income (Loss) from Equity Method Investments,2086000,2014-12-31
+Income (Loss) from Equity Method Investments,3405000,2015-12-31
+Income (Loss) from Equity Method Investments,3665000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",89057000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",113077000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",84956000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",22557000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",28676000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",28230000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",43504000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",31661000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",30183000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-4969000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",18191000,2016-12-31
+"Noncontrolling Interest in Net Income (Loss) Operating Partnerships, Redeemable",526000,2014-12-31
+"Noncontrolling Interest in Net Income (Loss) Operating Partnerships, Redeemable",553000,2015-12-31
+"Noncontrolling Interest in Net Income (Loss) Operating Partnerships, Redeemable",398000,2016-12-31
+Net Income (Loss) Attributable to Nonredeemable Noncontrolling Interest,-667000,2016-12-31
+Net Income (Loss) Attributable to Parent,88531000,2014-12-31
+Net Income (Loss) Attributable to Parent,112524000,2015-12-31
+Net Income (Loss) Attributable to Parent,85225000,2016-12-31
+Net Income (Loss) Attributable to Parent,22451000,2015-03-31
+Net Income (Loss) Attributable to Parent,28532000,2015-06-30
+Net Income (Loss) Attributable to Parent,28339000,2016-03-31
+Net Income (Loss) Attributable to Parent,43456000,2016-06-30
+Net Income (Loss) Attributable to Parent,31504000,2015-09-30
+Net Income (Loss) Attributable to Parent,30037000,2015-12-31
+Net Income (Loss) Attributable to Parent,-4738000,2016-09-30
+Net Income (Loss) Attributable to Parent,18168000,2016-12-31
+"Operating Leases, Income Statement, Minimum Lease Revenue",302044000,2014-12-31
+"Operating Leases, Income Statement, Minimum Lease Revenue",338435000,2015-12-31
+"Operating Leases, Income Statement, Minimum Lease Revenue",428121000,2016-12-31
+Other Operating Income,24036000,2014-12-31
+Other Operating Income,28167000,2015-12-31
+Other Operating Income,34487000,2016-12-31
+Revenues,326080000,2014-12-31
+Revenues,366602000,2015-12-31
+Revenues,462608000,2016-12-31
+Revenues,85408000,2015-03-31
+Revenues,90726000,2015-06-30
+Revenues,99124000,2016-03-31
+Revenues,107005000,2016-06-30
+Revenues,95428000,2015-09-30
+Revenues,95040000,2015-12-31
+Revenues,127801000,2016-09-30
+Revenues,128678000,2016-12-31
+"Earnings Per Share, Basic",2.68,2014-12-31
+"Earnings Per Share, Basic",3.18,2015-12-31
+"Earnings Per Share, Basic",1.97,2016-12-31
+"Earnings Per Share, Basic",0.65,2015-03-31
+"Earnings Per Share, Basic",0.81,2015-06-30
+"Earnings Per Share, Basic",0.74,2016-03-31
+"Earnings Per Share, Basic",1.04,2016-06-30
+"Earnings Per Share, Basic",0.88,2015-09-30
+"Earnings Per Share, Basic",0.83,2015-12-31
+"Earnings Per Share, Basic",-0.10,2016-09-30
+"Earnings Per Share, Basic",0.39,2016-12-31
+"Earnings Per Share, Diluted",2.67,2014-12-31
+"Earnings Per Share, Diluted",3.16,2015-12-31
+"Earnings Per Share, Diluted",1.96,2016-12-31
+"Earnings Per Share, Diluted",0.65,2015-03-31
+"Earnings Per Share, Diluted",0.80,2015-06-30
+"Earnings Per Share, Diluted",0.73,2016-03-31
+"Earnings Per Share, Diluted",1.03,2016-06-30
+"Earnings Per Share, Diluted",0.88,2015-09-30
+"Earnings Per Share, Diluted",0.83,2015-12-31
+"Earnings Per Share, Diluted",-0.10,2016-09-30
+"Earnings Per Share, Diluted",0.39,2016-12-31

@@ -1,0 +1,146 @@
+Metric,Amount,endDate
+Freight revenue,615411000,2014-06-30
+Freight revenue,769950000,2015-06-30
+Freight revenue,968668000,2016-06-30
+Fuel surcharge revenue,143900000,2014-06-30
+Fuel surcharge revenue,130806000,2015-06-30
+Fuel surcharge revenue,96688000,2016-06-30
+us-gaap_Revenues,759311000,2014-06-30
+us-gaap_Revenues,193416000,2014-09-30
+us-gaap_Revenues,900756000,2015-06-30
+us-gaap_Revenues,222371000,2014-12-31
+us-gaap_Revenues,231702000,2015-03-31
+us-gaap_Revenues,253267000,2015-06-30
+us-gaap_Revenues,266121000,2015-09-30
+us-gaap_Revenues,1065356000,2016-06-30
+us-gaap_Revenues,275399000,2015-12-31
+us-gaap_Revenues,259574000,2016-03-31
+us-gaap_Revenues,264262000,2016-06-30
+"Salaries, wages, and employee benefits",209938000,2014-06-30
+"Salaries, wages, and employee benefits",261216000,2015-06-30
+"Salaries, wages, and employee benefits",323864000,2016-06-30
+Fuel,171695000,2014-06-30
+Fuel,144687000,2015-06-30
+Fuel,103017000,2016-06-30
+Purchased transportation,173940000,2014-06-30
+Purchased transportation,245352000,2015-06-30
+Purchased transportation,354143000,2016-06-30
+Revenue equipment rentals,6621000,2014-06-30
+Revenue equipment rentals,7429000,2015-06-30
+Revenue equipment rentals,17574000,2016-06-30
+Operations and maintenance,49709000,2014-06-30
+Operations and maintenance,56237000,2015-06-30
+Operations and maintenance,71294000,2016-06-30
+Insurance and claims,19252000,2014-06-30
+Insurance and claims,29091000,2015-06-30
+Insurance and claims,36670000,2016-06-30
+Depreciation and amortization,64579000,2014-06-30
+Depreciation and amortization,75317000,2015-06-30
+Depreciation and amortization,79555000,2016-06-30
+Communications and utilities,6409000,2014-06-30
+Communications and utilities,8361000,2015-06-30
+Communications and utilities,10145000,2016-06-30
+Operating taxes and licenses,13275000,2014-06-30
+Operating taxes and licenses,16443000,2015-06-30
+Operating taxes and licenses,20718000,2016-06-30
+General and other operating,11195000,2014-06-30
+General and other operating,14457000,2015-06-30
+General and other operating,18565000,2016-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,6736000,2014-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,23619000,2015-06-30
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,22395000,2016-06-30
+us-gaap_OperatingExpenses,719877000,2014-06-30
+us-gaap_OperatingExpenses,179948000,2014-09-30
+us-gaap_OperatingExpenses,834971000,2015-06-30
+us-gaap_OperatingExpenses,206802000,2014-12-31
+us-gaap_OperatingExpenses,216374000,2015-03-31
+us-gaap_OperatingExpenses,231846000,2015-06-30
+us-gaap_OperatingExpenses,244949000,2015-09-30
+us-gaap_OperatingExpenses,1013150000,2016-06-30
+us-gaap_OperatingExpenses,261320000,2015-12-31
+us-gaap_OperatingExpenses,248043000,2016-03-31
+us-gaap_OperatingExpenses,258838000,2016-06-30
+us-gaap_OperatingIncomeLoss,39434000,2014-06-30
+us-gaap_OperatingIncomeLoss,13468000,2014-09-30
+us-gaap_OperatingIncomeLoss,65785000,2015-06-30
+us-gaap_OperatingIncomeLoss,15569000,2014-12-31
+us-gaap_OperatingIncomeLoss,15328000,2015-03-31
+us-gaap_OperatingIncomeLoss,21421000,2015-06-30
+us-gaap_OperatingIncomeLoss,21172000,2015-09-30
+us-gaap_OperatingIncomeLoss,52206000,2016-06-30
+us-gaap_OperatingIncomeLoss,14079000,2015-12-31
+us-gaap_OperatingIncomeLoss,11531000,2016-03-31
+us-gaap_OperatingIncomeLoss,5424000,2016-06-30
+Interest expense,5071000,2014-06-30
+Interest expense,7776000,2015-06-30
+Interest expense,13794000,2016-06-30
+us-gaap_InvestmentIncomeInterest,12000,2014-06-30
+us-gaap_InvestmentIncomeInterest,7000,2015-06-30
+us-gaap_InvestmentIncomeInterest,,2016-06-30
+us-gaap_OtherNonoperatingIncomeExpense,15996000,2014-06-30
+us-gaap_OtherNonoperatingIncomeExpense,1092000,2014-09-30
+us-gaap_OtherNonoperatingIncomeExpense,-154000,2015-06-30
+us-gaap_OtherNonoperatingIncomeExpense,1969000,2014-12-31
+us-gaap_OtherNonoperatingIncomeExpense,2066000,2015-03-31
+us-gaap_OtherNonoperatingIncomeExpense,2797000,2015-06-30
+us-gaap_OtherNonoperatingIncomeExpense,3252000,2015-09-30
+us-gaap_OtherNonoperatingIncomeExpense,-257000,2016-06-30
+us-gaap_OtherNonoperatingIncomeExpense,3779000,2015-12-31
+us-gaap_OtherNonoperatingIncomeExpense,3632000,2016-03-31
+us-gaap_OtherNonoperatingIncomeExpense,3135000,2016-06-30
+us-gaap_IncomeLossFromEquityMethodInvestments,,2014-06-30
+us-gaap_IncomeLossFromEquityMethodInvestments,,2015-06-30
+us-gaap_IncomeLossFromEquityMethodInvestments,253000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,50371000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,57862000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,38408000,2016-06-30
+Income tax expense,19690000,2014-06-30
+Income tax expense,4329000,2014-09-30
+Income tax expense,20645000,2015-06-30
+Income tax expense,5057000,2014-12-31
+Income tax expense,4670000,2015-03-31
+Income tax expense,6589000,2015-06-30
+Income tax expense,6553000,2015-09-30
+Income tax expense,13564000,2016-06-30
+Income tax expense,3685000,2015-12-31
+Income tax expense,2660000,2016-03-31
+Income tax expense,666000,2016-06-30
+Net Income,30681000,2014-06-30
+Net Income,8047000,2014-09-30
+Net Income,37217000,2015-06-30
+Net Income,8543000,2014-12-31
+Net Income,8592000,2015-03-31
+Net Income,12035000,2015-06-30
+Net Income,11367000,2015-09-30
+Net Income,24844000,2016-06-30
+Net Income,6615000,2015-12-31
+Net Income,5239000,2016-03-31
+Net Income,1623000,2016-06-30
+Diluted earnings per share (in dollars per share),1.29,2014-06-30
+Diluted earnings per share (in dollars per share),0.34,2014-09-30
+Diluted earnings per share (in dollars per share),1.52,2015-06-30
+Diluted earnings per share (in dollars per share),0.36,2014-12-31
+Diluted earnings per share (in dollars per share),0.36,2015-03-31
+Diluted earnings per share (in dollars per share),0.47,2015-06-30
+Diluted earnings per share (in dollars per share),0.41,2015-09-30
+Diluted earnings per share (in dollars per share),0.88,2016-06-30
+Diluted earnings per share (in dollars per share),0.24,2015-12-31
+Diluted earnings per share (in dollars per share),0.19,2016-03-31
+Diluted earnings per share (in dollars per share),0.06,2016-06-30
+Basic earnings per share (in dollars per share),1.33,2014-06-30
+Basic earnings per share (in dollars per share),0.35,2014-09-30
+Basic earnings per share (in dollars per share),1.56,2015-06-30
+Basic earnings per share (in dollars per share),0.37,2014-12-31
+Basic earnings per share (in dollars per share),0.37,2015-03-31
+Basic earnings per share (in dollars per share),0.48,2015-06-30
+Basic earnings per share (in dollars per share),0.41,2015-09-30
+Basic earnings per share (in dollars per share),0.90,2016-06-30
+Basic earnings per share (in dollars per share),0.24,2015-12-31
+Basic earnings per share (in dollars per share),0.19,2016-03-31
+Basic earnings per share (in dollars per share),0.06,2016-06-30
+Diluted (in shares),23755000,2014-06-30
+Diluted (in shares),24471000,2015-06-30
+Diluted (in shares),28081000,2016-06-30
+Basic (in shares),23014000,2014-06-30
+Basic (in shares),23844000,2015-06-30
+Basic (in shares),27507000,2016-06-30

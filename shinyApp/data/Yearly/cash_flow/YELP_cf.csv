@@ -1,0 +1,117 @@
+Metric,Amount,endDate
+Net income (loss),36473000,2014-12-31
+Net income (loss),-32900000,2015-12-31
+Net income (loss),-4670000,2016-12-31
+Depreciation and amortization,17590000,2014-12-31
+Depreciation and amortization,29604000,2015-12-31
+Depreciation and amortization,35346000,2016-12-31
+Provision for doubtful accounts and sales returns,7238000,2014-12-31
+Provision for doubtful accounts and sales returns,16788000,2015-12-31
+Provision for doubtful accounts and sales returns,17261000,2016-12-31
+Stock-based compensation,42273000,2014-12-31
+Stock-based compensation,60842000,2015-12-31
+Stock-based compensation,86261000,2016-12-31
+Recording (release) of valuation allowance,-28197000,2014-12-31
+Recording (release) of valuation allowance,20341000,2015-12-31
+Recording (release) of valuation allowance,1351000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-4000,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-213000,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-277000,2016-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-349000,2014-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-1190000,2015-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-1348000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1834000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",6583000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",,2016-12-31
+Gain (Loss) on Investments,,2014-12-31
+Gain (Loss) on Investments,4000,2015-12-31
+Gain (Loss) on Investments,,2016-12-31
+Increase (Decrease) in Accounts Receivable,21291000,2014-12-31
+Increase (Decrease) in Accounts Receivable,25279000,2015-12-31
+Increase (Decrease) in Accounts Receivable,31624000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,4011000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,22703000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-5687000,2016-12-31
+"Accounts payable, accrued expenses and other liabilities",8927000,2014-12-31
+"Accounts payable, accrued expenses and other liabilities",15894000,2015-12-31
+"Accounts payable, accrued expenses and other liabilities",15278000,2016-12-31
+Increase (Decrease) in Deferred Revenue,411000,2014-12-31
+Increase (Decrease) in Deferred Revenue,-41000,2015-12-31
+Increase (Decrease) in Deferred Revenue,385000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",57932000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",57362000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",126900000,2016-12-31
+Payments to Acquire Marketable Securities,210459000,2014-12-31
+Payments to Acquire Marketable Securities,246160000,2015-12-31
+Payments to Acquire Marketable Securities,274965000,2016-12-31
+Maturities of marketable securities,53002000,2014-12-31
+Maturities of marketable securities,202870000,2015-12-31
+Maturities of marketable securities,265500000,2016-12-31
+Payments to Acquire Other Investments,,2014-12-31
+Payments to Acquire Other Investments,,2015-12-31
+Payments to Acquire Other Investments,8000000,2016-12-31
+Net cash consideration,14340000,2014-12-31
+Net cash consideration,73422000,2015-12-31
+Net cash consideration,,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",29054000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",31127000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",22994000,2016-12-31
+"Proceeds from sale of property, equipment and software",14000,2014-12-31
+"Proceeds from sale of property, equipment and software",134000,2015-12-31
+"Proceeds from sale of property, equipment and software",88000,2016-12-31
+Payments for Software,11349000,2014-12-31
+Payments for Software,11734000,2015-12-31
+Payments for Software,14191000,2016-12-31
+Payments to Acquire Intangible Assets,1724000,2014-12-31
+Payments to Acquire Intangible Assets,647000,2015-12-31
+Payments to Acquire Intangible Assets,179000,2016-12-31
+Increase (Decrease) in Restricted Cash,14764000,2014-12-31
+Increase (Decrease) in Restricted Cash,-1404000,2015-12-31
+Increase (Decrease) in Restricted Cash,831000,2016-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-228674000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-158682000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-55572000,2016-12-31
+Proceeds from issuance of common stock for employee stock-based plans,29033000,2014-12-31
+Proceeds from issuance of common stock for employee stock-based plans,21166000,2015-12-31
+Proceeds from issuance of common stock for employee stock-based plans,29522000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1834000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",6583000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",,2016-12-31
+Payments for Repurchase of Common Stock,1318000,2014-12-31
+Payments for Repurchase of Common Stock,482000,2015-12-31
+Payments for Repurchase of Common Stock,,2016-12-31
+Repayments of Other Debt,,2014-12-31
+Repayments of Other Debt,825000,2015-12-31
+Repayments of Other Debt,,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",29549000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",26442000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",29522000,2016-12-31
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS,-1259000,2014-12-31
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS,-821000,2015-12-31
+EFFECT OF EXCHANGE RATE CHANGES ON CASH AND CASH EQUIVALENTS,-262000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-142452000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-75699000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",100588000,2016-12-31
+Cash and cash equivalents,272201000,2016-12-31
+Cash and cash equivalents,389764000,2013-12-31
+Cash and cash equivalents,247312000,2014-12-31
+Cash and cash equivalents,171613000,2015-12-31
+Cash and cash equivalents,272201000,2016-12-31
+Cash and cash equivalents,389764000,2013-12-31
+Cash and cash equivalents,247312000,2014-12-31
+Cash and cash equivalents,171613000,2015-12-31
+"Cash paid for income taxes, net of refunds",1972000,2014-12-31
+"Cash paid for income taxes, net of refunds",352000,2015-12-31
+"Cash paid for income taxes, net of refunds",813000,2016-12-31
+"Purchases of property, equipment and software recorded in accounts payable and accrued liabilities",6543000,2014-12-31
+"Purchases of property, equipment and software recorded in accounts payable and accrued liabilities",2233000,2015-12-31
+"Purchases of property, equipment and software recorded in accounts payable and accrued liabilities",989000,2016-12-31
+Goodwill measurement period adjustment,,2014-12-31
+Goodwill measurement period adjustment,-255000,2015-12-31
+Goodwill measurement period adjustment,146000,2016-12-31
+Contingent consideration related to acquisitions,-835000,2014-12-31
+Contingent consideration related to acquisitions,,2015-12-31
+Contingent consideration related to acquisitions,,2016-12-31
+Issuance of Common Stock in Connection with Acquisition,,2014-12-31
+Issuance of Common Stock in Connection with Acquisition,59158000,2015-12-31
+Issuance of Common Stock in Connection with Acquisition,,2016-12-31

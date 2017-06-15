@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+Net sales,487076000,2014-12-31
+Net sales,142015000,2015-03-31
+Net sales,567080000,2015-12-31
+Net sales,145658000,2015-06-30
+Net sales,144161000,2015-09-30
+Net sales,135246000,2015-12-31
+Net sales,121182000,2016-03-31
+Net sales,500153000,2016-12-31
+Net sales,131622000,2016-06-30
+Net sales,128809000,2016-09-30
+Net sales,118539000,2016-12-31
+Cost of sales,399721000,2014-12-31
+Cost of sales,458253000,2015-12-31
+Cost of sales,400245000,2016-12-31
+Gross profit,87355000,2014-12-31
+Gross profit,26813000,2015-03-31
+Gross profit,108827000,2015-12-31
+Gross profit,28560000,2015-06-30
+Gross profit,27412000,2015-09-30
+Gross profit,26043000,2015-12-31
+Gross profit,23074000,2016-03-31
+Gross profit,99908000,2016-12-31
+Gross profit,25692000,2016-06-30
+Gross profit,26575000,2016-09-30
+Gross profit,24579000,2016-12-31
+"Selling, general and administrative expenses",72061000,2014-12-31
+"Selling, general and administrative expenses",77952000,2015-12-31
+"Selling, general and administrative expenses",71005000,2016-12-31
+Impairment of goodwill and other intangible assets,0,2014-12-31
+Impairment of goodwill and other intangible assets,0,2015-12-31
+Impairment of goodwill and other intangible assets,105972000,2016-12-31
+Gain (Loss) on Disposition of Administrative Property Plant Equipment,10000,2014-12-31
+Gain (Loss) on Disposition of Administrative Property Plant Equipment,-161000,2015-12-31
+Gain (Loss) on Disposition of Administrative Property Plant Equipment,2644000,2016-12-31
+Restructuring charges,1832000,2014-12-31
+Restructuring charges,2114000,2015-12-31
+Restructuring charges,2087000,2016-12-31
+Operating income (loss),13472000,2014-12-31
+Operating income (loss),28600000,2015-12-31
+Operating income (loss),-76512000,2016-12-31
+Interest Expense,3978000,2014-12-31
+Interest Expense,7588000,2015-12-31
+Interest Expense,6662000,2016-12-31
+"Interest income and other, net",276000,2014-12-31
+"Interest income and other, net",4720000,2015-12-31
+"Interest income and other, net",622000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",9770000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",25732000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-82552000,2016-12-31
+(Benefit) provision for income taxes,1167000,2014-12-31
+(Benefit) provision for income taxes,6535000,2015-12-31
+(Benefit) provision for income taxes,-17718000,2016-12-31
+Net (loss) earnings,8603000,2014-12-31
+Net (loss) earnings,5320000,2015-03-31
+Net (loss) earnings,19197000,2015-12-31
+Net (loss) earnings,6062000,2015-06-30
+Net (loss) earnings,4920000,2015-09-30
+Net (loss) earnings,2895000,2015-12-31
+Net (loss) earnings,-100696000,2016-03-31
+Net (loss) earnings,-64834000,2016-12-31
+Net (loss) earnings,22776000,2016-06-30
+Net (loss) earnings,9710000,2016-09-30
+Net (loss) earnings,3377000,2016-12-31

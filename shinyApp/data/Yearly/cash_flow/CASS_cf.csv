@@ -1,0 +1,109 @@
+Metric,Amount,endDate
+Net income,24033000,2014-12-31
+Net income,5539000,2015-03-31
+Net income,23056000,2015-12-31
+Net income,5548000,2015-06-30
+Net income,5880000,2015-09-30
+Net income,6089000,2015-12-31
+Net income,5833000,2016-03-31
+Net income,24348000,2016-12-31
+Net income,5869000,2016-06-30
+Net income,6222000,2016-09-30
+Net income,6424000,2016-12-31
+Depreciation and amortization,8181000,2014-12-31
+Depreciation and amortization,8859000,2015-12-31
+Depreciation and amortization,9429000,2016-12-31
+Gains on sales of securities,23000,2014-12-31
+Gains on sales of securities,2910000,2015-12-31
+Gains on sales of securities,387000,2016-12-31
+Stock-based compensation expense,2041000,2014-12-31
+Stock-based compensation expense,2059000,2015-12-31
+Stock-based compensation expense,1959000,2016-12-31
+Provision for loan losses,,2014-12-31
+Provision for loan losses,,2015-03-31
+Provision for loan losses,-850000,2015-12-31
+Provision for loan losses,,2015-06-30
+Provision for loan losses,,2015-09-30
+Provision for loan losses,-850000,2015-12-31
+Provision for loan losses,-1000000,2016-03-31
+Provision for loan losses,-1500000,2016-12-31
+Provision for loan losses,,2016-06-30
+Provision for loan losses,,2016-09-30
+Provision for loan losses,-500000,2016-12-31
+Deferred income tax expense (benefit),-621000,2014-12-31
+Deferred income tax expense (benefit),-137000,2015-12-31
+Deferred income tax expense (benefit),319000,2016-12-31
+Increase (decrease) in income tax liability,-24000,2014-12-31
+Increase (decrease) in income tax liability,47000,2015-12-31
+Increase (decrease) in income tax liability,357000,2016-12-31
+Increase in pension liability,2282000,2014-12-31
+Increase in pension liability,4550000,2015-12-31
+Increase in pension liability,4137000,2016-12-31
+"Other operating activities, net",-1026000,2014-12-31
+"Other operating activities, net",-1181000,2015-12-31
+"Other operating activities, net",-3473000,2016-12-31
+Net cash provided by (used in) operating activities,34843000,2014-12-31
+Net cash provided by (used in) operating activities,33493000,2015-12-31
+Net cash provided by (used in) operating activities,35189000,2016-12-31
+Proceeds from sales of securities available-for-sale,587000,2014-12-31
+Proceeds from sales of securities available-for-sale,99347000,2015-12-31
+Proceeds from sales of securities available-for-sale,21491000,2016-12-31
+Proceeds from maturities of securities available-for-sale,18340000,2014-12-31
+Proceeds from maturities of securities available-for-sale,38460000,2015-12-31
+Proceeds from maturities of securities available-for-sale,43524000,2016-12-31
+Payments to Acquire Available-for-sale Securities,54054000,2014-12-31
+Payments to Acquire Available-for-sale Securities,161279000,2015-12-31
+Payments to Acquire Available-for-sale Securities,96290000,2016-12-31
+Payments for (Proceeds from) Loans and Leases,16954000,2014-12-31
+Payments for (Proceeds from) Loans and Leases,-10882000,2015-12-31
+Payments for (Proceeds from) Loans and Leases,5771000,2016-12-31
+(Increase) Decrease In Payments In Excess Of Funding,42577000,2014-12-31
+(Increase) Decrease In Payments In Excess Of Funding,-14701000,2015-12-31
+(Increase) Decrease In Payments In Excess Of Funding,-179000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",6291000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",5747000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",4684000,2016-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-100949000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-3636000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-41551000,2016-12-31
+Net increase in noninterest-bearing demand deposits,15158000,2014-12-31
+Net increase in noninterest-bearing demand deposits,22824000,2015-12-31
+Net increase in noninterest-bearing demand deposits,32833000,2016-12-31
+Net (decrease) increase in interest-bearing demand and savings deposits,39766000,2014-12-31
+Net (decrease) increase in interest-bearing demand and savings deposits,23536000,2015-12-31
+Net (decrease) increase in interest-bearing demand and savings deposits,-51440000,2016-12-31
+Net decrease in time deposits,-19221000,2014-12-31
+Net decrease in time deposits,-18075000,2015-12-31
+Net decrease in time deposits,-5916000,2016-12-31
+Net increase (decrease) in accounts and drafts payable,111475000,2014-12-31
+Net increase (decrease) in accounts and drafts payable,-78169000,2015-12-31
+Net increase (decrease) in accounts and drafts payable,65028000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",9337000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",9697000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",9979000,2016-12-31
+Payments for Repurchase of Common Stock,1848000,2014-12-31
+Payments for Repurchase of Common Stock,10951000,2015-12-31
+Payments for Repurchase of Common Stock,9215000,2016-12-31
+"Other financing activities, net",-814000,2014-12-31
+"Other financing activities, net",-488000,2015-12-31
+"Other financing activities, net",-1378000,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",135179000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-71020000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",19933000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",69073000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-41163000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",13571000,2016-12-31
+"Cash and cash equivalents, Carrying Amount",266743000,2016-12-31
+"Cash and cash equivalents, Carrying Amount",225262000,2013-12-31
+"Cash and cash equivalents, Carrying Amount",294335000,2014-12-31
+"Cash and cash equivalents, Carrying Amount",253172000,2015-12-31
+"Cash and cash equivalents, Carrying Amount",266743000,2016-12-31
+"Cash and cash equivalents, Carrying Amount",225262000,2013-12-31
+"Cash and cash equivalents, Carrying Amount",294335000,2014-12-31
+"Cash and cash equivalents, Carrying Amount",253172000,2015-12-31
+Cash paid for interest,2491000,2014-12-31
+Cash paid for interest,2133000,2015-12-31
+Cash paid for interest,2017000,2016-12-31
+Cash paid for income taxes,8476000,2014-12-31
+Cash paid for income taxes,8190000,2015-12-31
+Cash paid for income taxes,7061000,2016-12-31

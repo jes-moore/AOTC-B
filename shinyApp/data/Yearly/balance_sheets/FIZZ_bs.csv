@@ -1,0 +1,52 @@
+Metric,Amount,endDate
+Cash and equivalents,18267000,2013-04-27
+Cash and equivalents,29932000,2014-05-03
+Cash and equivalents,52456000,2015-05-02
+Cash and equivalents,105577000,2016-04-30
+us-gaap_AccountsReceivableNetCurrent,59951000,2015-05-02
+us-gaap_AccountsReceivableNetCurrent,61046000,2016-04-30
+Inventories,42924000,2015-05-02
+Inventories,47922000,2016-04-30
+us-gaap_DeferredTaxAssetsNetCurrent,4348000,2015-05-02
+us-gaap_DeferredTaxAssetsNetCurrent,4454000,2016-04-30
+Prepaid and other assets,8050000,2015-05-02
+Prepaid and other assets,4672000,2016-04-30
+us-gaap_AssetsCurrent,167729000,2015-05-02
+us-gaap_AssetsCurrent,223671000,2016-04-30
+"Property, plant and equipment - net",60182000,2015-05-02
+"Property, plant and equipment - net",61932000,2016-04-30
+Goodwill,13145000,2015-05-02
+Goodwill,13145000,2016-04-30
+Intangible assets,1615000,2015-05-02
+Intangible assets,1615000,2016-04-30
+us-gaap_OtherAssetsNoncurrent,5079000,2015-05-02
+us-gaap_OtherAssetsNoncurrent,5135000,2016-04-30
+us-gaap_Assets,247750000,2015-05-02
+us-gaap_Assets,305498000,2016-04-30
+us-gaap_AccountsPayableCurrent,44896000,2015-05-02
+us-gaap_AccountsPayableCurrent,49391000,2016-04-30
+Accrued liabilities,21257000,2015-05-02
+Accrued liabilities,26195000,2016-04-30
+Income taxes payable,98000,2015-05-02
+Income taxes payable,28000,2016-04-30
+us-gaap_LiabilitiesCurrent,66251000,2015-05-02
+us-gaap_LiabilitiesCurrent,75614000,2016-04-30
+Long-term debt,10000000,2015-05-02
+Long-term debt,,2016-04-30
+Noncurrent deferred tax liabilities – net,15245000,2015-05-02
+Noncurrent deferred tax liabilities – net,14474000,2016-04-30
+us-gaap_OtherLiabilitiesNoncurrent,8472000,2015-05-02
+us-gaap_OtherLiabilitiesNoncurrent,9258000,2016-04-30
+Common stock,504000,2015-05-02
+Common stock,506000,2016-04-30
+Additional paid-in capital,37759000,2015-05-02
+Additional paid-in capital,34570000,2016-04-30
+Retained earnings,129773000,2015-05-02
+Retained earnings,190733000,2016-04-30
+Accumulated other comprehensive loss,-2524000,2015-05-02
+Accumulated other comprehensive loss,-1807000,2016-04-30
+us-gaap_StockholdersEquity,106201000,2014-05-03
+us-gaap_StockholdersEquity,147782000,2015-05-02
+us-gaap_StockholdersEquity,206152000,2016-04-30
+us-gaap_LiabilitiesAndStockholdersEquity,247750000,2015-05-02
+us-gaap_LiabilitiesAndStockholdersEquity,305498000,2016-04-30

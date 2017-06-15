@@ -1,0 +1,78 @@
+Metric,Amount,endDate
+Sales Revenue Net,2007000000,2016-01-30
+Sales Revenue Net,1911000000,2015-01-31
+Sales Revenue Net,7412000000,2016-01-30
+Sales Revenue Net,1916000000,2015-05-02
+Sales Revenue Net,7151000000,2015-01-31
+Sales Revenue Net,1868000000,2014-05-03
+Sales Revenue Net,6505000000,2014-02-01
+Sales Revenue Net,1695000000,2015-08-01
+Sales Revenue Net,1641000000,2014-08-02
+Sales Revenue Net,1794000000,2015-10-31
+Sales Revenue Net,1731000000,2014-11-01
+Cost Of Goods And Services Sold,4907000000,2016-01-30
+Cost Of Goods And Services Sold,4777000000,2015-01-31
+Cost Of Goods And Services Sold,4372000000,2014-02-01
+Selling General And Administrative Expense,1415000000,2016-01-30
+Selling General And Administrative Expense,1426000000,2015-01-31
+Selling General And Administrative Expense,1334000000,2014-02-01
+Depreciation And Amortization,148000000,2016-01-30
+Depreciation And Amortization,139000000,2015-01-31
+Depreciation And Amortization,133000000,2014-02-01
+LitigationAndImpairmentCharges,105000000,2016-01-30
+LitigationAndImpairmentCharges,4000000,2015-01-31
+LitigationAndImpairmentCharges,2000000,2014-02-01
+Interest Expense,4000000,2016-01-30
+Interest Expense,5000000,2015-01-31
+Interest Expense,5000000,2014-02-01
+Other Nonoperating Income,4000000,2016-01-30
+Other Nonoperating Income,9000000,2015-01-31
+Other Nonoperating Income,4000000,2014-02-01
+Costs And Expenses,6575000000,2016-01-30
+Costs And Expenses,6342000000,2015-01-31
+Costs And Expenses,5842000000,2014-02-01
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,837000000,2016-01-30
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,809000000,2015-01-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,663000000,2014-02-01
+Income Tax Expense Benefit,296000000,2016-01-30
+Income Tax Expense Benefit,289000000,2015-01-31
+Income Tax Expense Benefit,234000000,2014-02-01
+Net Income Loss,158000000,2016-01-30
+Net Income Loss,146000000,2015-01-31
+Net Income Loss,541000000,2016-01-30
+Net Income Loss,184000000,2015-05-02
+Net Income Loss,520000000,2015-01-31
+Net Income Loss,162000000,2014-05-03
+Net Income Loss,429000000,2014-02-01
+Net Income Loss,119000000,2015-08-01
+Net Income Loss,92000000,2014-08-02
+Net Income Loss,80000000,2015-10-31
+Net Income Loss,120000000,2014-11-01
+Earnings Per Share Basic,1.15,2016-01-30
+Earnings Per Share Basic,1.03,2015-01-31
+Earnings Per Share Basic,3.89,2016-01-30
+Earnings Per Share Basic,1.31,2015-05-02
+Earnings Per Share Basic,3.61,2015-01-31
+Earnings Per Share Basic,1.12,2014-05-03
+Earnings Per Share Basic,2.89,2014-02-01
+Earnings Per Share Basic,0.85,2015-08-01
+Earnings Per Share Basic,0.63,2014-08-02
+Earnings Per Share Basic,0.57,2015-10-31
+Earnings Per Share Basic,0.84,2014-11-01
+Weighted Average Number Of Shares Outstanding Basic,139100000,2016-01-30
+Weighted Average Number Of Shares Outstanding Basic,143900000,2015-01-31
+Weighted Average Number Of Shares Outstanding Basic,148400000,2014-02-01
+Earnings Per Share Diluted,1.14,2016-01-30
+Earnings Per Share Diluted,1.01,2015-01-31
+Earnings Per Share Diluted,3.84,2016-01-30
+Earnings Per Share Diluted,1.29,2015-05-02
+Earnings Per Share Diluted,3.56,2015-01-31
+Earnings Per Share Diluted,1.10,2014-05-03
+Earnings Per Share Diluted,2.85,2014-02-01
+Earnings Per Share Diluted,0.84,2015-08-01
+Earnings Per Share Diluted,0.63,2014-08-02
+Earnings Per Share Diluted,0.57,2015-10-31
+Earnings Per Share Diluted,0.82,2014-11-01
+Weighted Average Number Of Diluted Shares Outstanding,140800000,2016-01-30
+Weighted Average Number Of Diluted Shares Outstanding,146000000,2015-01-31
+Weighted Average Number Of Diluted Shares Outstanding,150500000,2014-02-01

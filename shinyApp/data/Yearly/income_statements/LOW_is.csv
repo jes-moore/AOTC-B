@@ -1,0 +1,40 @@
+Metric,Amount,endDate
+"Revenue, Net",56223000000,2015-01-30
+"Revenue, Net",59074000000,2016-01-29
+"Revenue, Net",65017000000,2017-02-03
+Cost of Goods and Services Sold,36665000000,2015-01-30
+Cost of Goods and Services Sold,38504000000,2016-01-29
+Cost of Goods and Services Sold,42553000000,2017-02-03
+Gross Profit,19558000000,2015-01-30
+Gross Profit,20570000000,2016-01-29
+Gross Profit,22464000000,2017-02-03
+"Selling, General and Administrative Expense",13272000000,2015-01-30
+"Selling, General and Administrative Expense",14105000000,2016-01-29
+"Selling, General and Administrative Expense",15129000000,2017-02-03
+"Depreciation, Depletion and Amortization, Nonproduction",1494000000,2015-01-30
+"Depreciation, Depletion and Amortization, Nonproduction",1494000000,2016-01-29
+"Depreciation, Depletion and Amortization, Nonproduction",1489000000,2017-02-03
+Operating Income (Loss),4792000000,2015-01-30
+Operating Income (Loss),4971000000,2016-01-29
+Operating Income (Loss),5846000000,2017-02-03
+"Interest Revenue (Expense), Net",-516000000,2015-01-30
+"Interest Revenue (Expense), Net",-552000000,2016-01-29
+"Interest Revenue (Expense), Net",-645000000,2017-02-03
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",4276000000,2015-01-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",4419000000,2016-01-29
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",5201000000,2017-02-03
+Income Tax Expense (Benefit),1578000000,2015-01-30
+Income Tax Expense (Benefit),1873000000,2016-01-29
+Income Tax Expense (Benefit),2108000000,2017-02-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",2698000000,2015-01-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",2546000000,2016-01-29
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3093000000,2017-02-03
+"Earnings Per Share, Basic",2.71,2015-01-30
+"Earnings Per Share, Basic",2.73,2016-01-29
+"Earnings Per Share, Basic",3.48,2017-02-03
+"Earnings Per Share, Diluted",2.71,2015-01-30
+"Earnings Per Share, Diluted",2.73,2016-01-29
+"Earnings Per Share, Diluted",3.47,2017-02-03
+"Common Stock, Dividends, Per Share, Declared",0.87,2015-01-30
+"Common Stock, Dividends, Per Share, Declared",1.07,2016-01-29
+"Common Stock, Dividends, Per Share, Declared",1.33,2017-02-03

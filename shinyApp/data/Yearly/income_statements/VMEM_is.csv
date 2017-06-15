@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+Cost of Goods Sold,56927000,2014-01-31
+Cost of Goods Sold,50378000,2015-01-31
+Cost of Goods Sold,17177000,2016-01-31
+Cost of Services,7846000,2014-01-31
+Cost of Services,8389000,2015-01-31
+Cost of Services,11404000,2016-01-31
+Cost of Revenue,64773000,2014-01-31
+Cost of Revenue,58767000,2015-01-31
+Cost of Revenue,28581000,2016-01-31
+Gross Profit,42883000,2014-01-31
+Gross Profit,20208000,2015-01-31
+Gross Profit,22286000,2016-01-31
+Operating Income (Loss),-146805000,2014-01-31
+Operating Income (Loss),-100665000,2015-01-31
+Operating Income (Loss),-92198000,2016-01-31
+Other Nonoperating Income (Expense),-1389000,2014-01-31
+Other Nonoperating Income (Expense),-4910000,2015-01-31
+Other Nonoperating Income (Expense),-11000,2016-01-31
+Interest and Debt Expense,1539000,2014-01-31
+Interest and Debt Expense,3205000,2015-01-31
+Interest and Debt Expense,6716000,2016-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-149733000,2014-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-108780000,2015-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-98925000,2016-01-31
+Income Tax Expense (Benefit),76000,2014-01-31
+Income Tax Expense (Benefit),123000,2015-01-31
+Income Tax Expense (Benefit),142000,2016-01-31
+Net Income (Loss) Attributable to Parent,-149809000,2014-01-31
+Net Income (Loss) Attributable to Parent,-108903000,2015-01-31
+Net Income (Loss) Attributable to Parent,-99067000,2016-01-31
+"Earnings Per Share, Basic and Diluted",-3.88,2014-01-31
+"Earnings Per Share, Basic and Diluted",-1.20,2015-01-31
+"Earnings Per Share, Basic and Diluted",-1.02,2016-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",38591000,2014-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",90959000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",97008000,2016-01-31
+Selling and Marketing Expense,81104000,2014-01-31
+Selling and Marketing Expense,61871000,2015-01-31
+Selling and Marketing Expense,55623000,2016-01-31
+Research and Development Expense,73743000,2014-01-31
+Research and Development Expense,52091000,2015-01-31
+Research and Development Expense,41696000,2016-01-31
+General and Administrative Expense,29622000,2014-01-31
+General and Administrative Expense,20645000,2015-01-31
+General and Administrative Expense,17165000,2016-01-31
+Gain On Sale Of Product Line,17400000,2014-07-31
+Gain On Sale Of Product Line,17448000,2015-01-31
+Restructuring Charges,4869000,2014-01-31
+Restructuring Charges,3062000,2015-01-31
+"Litigation Settlement, Expense",350000,2014-01-31
+"Litigation Settlement, Expense",652000,2015-01-31
+Operating Expenses,189688000,2014-01-31
+Operating Expenses,120873000,2015-01-31
+Operating Expenses,114484000,2016-01-31
+"Sales Revenue, Goods, Net",88321000,2014-01-31
+"Sales Revenue, Goods, Net",58378000,2015-01-31
+"Sales Revenue, Goods, Net",27342000,2016-01-31
+"Sales Revenue, Services, Net",19335000,2014-01-31
+"Sales Revenue, Services, Net",20597000,2015-01-31
+"Sales Revenue, Services, Net",23525000,2016-01-31
+"Revenue, Net",107656000,2014-01-31
+"Revenue, Net",78975000,2015-01-31
+"Revenue, Net",50867000,2016-01-31

@@ -1,0 +1,60 @@
+Metric,Amount,endDate
+Cash and cash equivalents,7949000,2013-06-30
+Cash and cash equivalents,9013000,2014-06-30
+Cash and cash equivalents,26409000,2015-06-30
+Cash and cash equivalents,33835000,2016-06-30
+"Accounts receivable, less allowance for doubtful accounts of $226 and $317, respectively",43661000,2015-06-30
+"Accounts receivable, less allowance for doubtful accounts of $226 and $317, respectively",46975000,2016-06-30
+Inventories,43083000,2015-06-30
+Inventories,44141000,2016-06-30
+Refundable income taxes,99000,2015-06-30
+Refundable income taxes,,2016-06-30
+Prepaid and other current assets,4408000,2015-06-30
+Prepaid and other current assets,2792000,2016-06-30
+us-gaap_AssetsCurrent,117660000,2015-06-30
+us-gaap_AssetsCurrent,127743000,2016-06-30
+Land,6952000,2015-06-30
+Land,6978000,2016-06-30
+Buildings,37706000,2015-06-30
+Buildings,39317000,2016-06-30
+Machinery and equipment,76383000,2015-06-30
+Machinery and equipment,82628000,2016-06-30
+Construction in progress,588000,2015-06-30
+Construction in progress,838000,2016-06-30
+us-gaap_PropertyPlantAndEquipmentGross,121629000,2015-06-30
+us-gaap_PropertyPlantAndEquipmentGross,129761000,2016-06-30
+us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,78441000,2015-06-30
+us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,82299000,2016-06-30
+us-gaap_PropertyPlantAndEquipmentNet,43188000,2015-06-30
+us-gaap_PropertyPlantAndEquipmentNet,47462000,2016-06-30
+us-gaap_Goodwill,10508000,2015-06-30
+us-gaap_Goodwill,10508000,2016-06-30
+"Other Intangible Assets, net",6092000,2015-06-30
+"Other Intangible Assets, net",5586000,2016-06-30
+"Other Long-Term Assets, net",3242000,2015-06-30
+"Other Long-Term Assets, net",4261000,2016-06-30
+Total assets,175226000,2012-06-30
+Total assets,169179000,2013-06-30
+Total assets,168688000,2014-06-30
+Total assets,180690000,2015-06-30
+Total assets,195560000,2016-06-30
+Accounts payable,14721000,2015-06-30
+Accounts payable,13892000,2016-06-30
+us-gaap_AccruedLiabilitiesCurrent,22126000,2015-06-30
+us-gaap_AccruedLiabilitiesCurrent,25341000,2016-06-30
+us-gaap_LiabilitiesCurrent,36847000,2015-06-30
+us-gaap_LiabilitiesCurrent,39233000,2016-06-30
+Other Long-Term Liabilities,891000,2015-06-30
+Other Long-Term Liabilities,807000,2016-06-30
+"Preferred shares, without par value; Authorized 1,000,000 shares, none issued",,2015-06-30
+"Preferred shares, without par value; Authorized 1,000,000 shares, none issued",,2016-06-30
+"Common shares, without par value; Authorized 40,000,000 shares; Outstanding 24,982,219 and 24,392,938 shares, respectively",106353000,2015-06-30
+"Common shares, without par value; Authorized 40,000,000 shares; Outstanding 24,982,219 and 24,392,938 shares, respectively",113653000,2016-06-30
+Retained earnings,36599000,2015-06-30
+Retained earnings,41867000,2016-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,141690000,2013-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,138412000,2014-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,142952000,2015-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,155520000,2016-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,180690000,2015-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,195560000,2016-06-30

@@ -1,0 +1,74 @@
+Metric,Amount,endDate
+"Revenue, Net",7840255000,2014-04-30
+"Revenue, Net",2291186000,2014-07-31
+"Revenue, Net",2150211000,2014-10-31
+"Revenue, Net",1671961000,2015-01-31
+"Revenue, Net",1653858000,2015-04-30
+"Revenue, Net",7767216000,2015-04-30
+"Revenue, Net",2048592000,2015-07-31
+"Revenue, Net",1924600000,2015-10-31
+"Revenue, Net",1565940000,2016-01-31
+"Revenue, Net",1582954000,2016-04-30
+"Revenue, Net",7122086000,2016-04-30
+Cost of Goods Sold,6618239000,2014-04-30
+Cost of Goods Sold,6327431000,2015-04-30
+Cost of Goods Sold,5508465000,2016-04-30
+Gross Profit,1222016000,2014-04-30
+Gross Profit,370914000,2014-07-31
+Gross Profit,371282000,2014-10-31
+Gross Profit,351046000,2015-01-31
+Gross Profit,346543000,2015-04-30
+Gross Profit,1439785000,2015-04-30
+Gross Profit,411242000,2015-07-31
+Gross Profit,442990000,2015-10-31
+Gross Profit,371169000,2016-01-31
+Gross Profit,388220000,2016-04-30
+Gross Profit,1613621000,2016-04-30
+Operating Expenses,857297000,2014-04-30
+Operating Expenses,960424000,2015-04-30
+Operating Expenses,1053805000,2016-04-30
+"Depreciation, Depletion and Amortization, Nonproduction",131160000,2014-04-30
+"Depreciation, Depletion and Amortization, Nonproduction",156111000,2015-04-30
+"Depreciation, Depletion and Amortization, Nonproduction",170937000,2016-04-30
+Interest Expense,39915000,2014-04-30
+Interest Expense,41225000,2015-04-30
+Interest Expense,40173000,2016-04-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",193644000,2014-04-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",282025000,2015-04-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",348706000,2016-04-30
+Income Tax Expense (Benefit),66824000,2014-04-30
+Income Tax Expense (Benefit),101397000,2015-04-30
+Income Tax Expense (Benefit),122724000,2016-04-30
+Net Income (Loss) Attributable to Parent,126820000,2014-04-30
+Net Income (Loss) Attributable to Parent,50097000,2014-07-31
+Net Income (Loss) Attributable to Parent,49869000,2014-10-31
+Net Income (Loss) Attributable to Parent,39319000,2015-01-31
+Net Income (Loss) Attributable to Parent,41343000,2015-04-30
+Net Income (Loss) Attributable to Parent,180628000,2015-04-30
+Net Income (Loss) Attributable to Parent,61806000,2015-07-31
+Net Income (Loss) Attributable to Parent,79033000,2015-10-31
+Net Income (Loss) Attributable to Parent,38099000,2016-01-31
+Net Income (Loss) Attributable to Parent,47044000,2016-04-30
+Net Income (Loss) Attributable to Parent,225982000,2016-04-30
+"Earnings Per Share, Basic",3.30,2014-04-30
+"Earnings Per Share, Basic",1.30,2014-07-31
+"Earnings Per Share, Basic",1.29,2014-10-31
+"Earnings Per Share, Basic",1.01,2015-01-31
+"Earnings Per Share, Basic",1.06,2015-04-30
+"Earnings Per Share, Basic",4.66,2015-04-30
+"Earnings Per Share, Basic",1.59,2015-07-31
+"Earnings Per Share, Basic",2.03,2015-10-31
+"Earnings Per Share, Basic",0.98,2016-01-31
+"Earnings Per Share, Basic",1.20,2016-04-30
+"Earnings Per Share, Basic",5.79,2016-04-30
+"Earnings Per Share, Diluted",3.26,2014-04-30
+"Earnings Per Share, Diluted",1.28,2014-07-31
+"Earnings Per Share, Diluted",1.28,2014-10-31
+"Earnings Per Share, Diluted",1.01,2015-01-31
+"Earnings Per Share, Diluted",1.05,2015-04-30
+"Earnings Per Share, Diluted",4.62,2015-04-30
+"Earnings Per Share, Diluted",1.57,2015-07-31
+"Earnings Per Share, Diluted",2.00,2015-10-31
+"Earnings Per Share, Diluted",0.97,2016-01-31
+"Earnings Per Share, Diluted",1.19,2016-04-30
+"Earnings Per Share, Diluted",5.73,2016-04-30

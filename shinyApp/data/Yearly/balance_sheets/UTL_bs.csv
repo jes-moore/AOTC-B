@@ -1,0 +1,94 @@
+Metric,Amount,endDate
+Assets,997000000,2014-12-31
+Assets,1038800000,2015-12-31
+Assets,1128200000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",9400000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",8400000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",8700000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",5800000,2016-12-31
+"Accounts Receivable, Net, Current",49800000,2015-12-31
+"Accounts Receivable, Net, Current",52900000,2016-12-31
+Unbilled Contracts Receivable,38400000,2015-12-31
+Unbilled Contracts Receivable,49500000,2016-12-31
+"Other Receivables, Net, Current",11100000,2015-12-31
+"Other Receivables, Net, Current",8300000,2016-12-31
+Weighted Average Cost Inventory Amount,800000,2015-12-31
+Weighted Average Cost Inventory Amount,600000,2016-12-31
+Prepaid Expense and Other Assets,11700000,2015-12-31
+Prepaid Expense and Other Assets,14500000,2016-12-31
+"Assets, Current",120500000,2015-12-31
+"Assets, Current",131600000,2016-12-31
+"Regulatory Assets, Noncurrent",99600000,2015-12-31
+"Regulatory Assets, Noncurrent",104100000,2016-12-31
+"Other Assets, Noncurrent",9800000,2015-12-31
+"Other Assets, Noncurrent",9100000,2016-12-31
+"Assets, Noncurrent",109400000,2015-12-31
+"Assets, Noncurrent",113200000,2016-12-31
+"Long-term Debt, Excluding Current Maturities",305500000,2015-12-31
+"Long-term Debt, Excluding Current Maturities",316800000,2016-12-31
+"Capitalization, Long-term Debt and Equity",588300000,2015-12-31
+"Capitalization, Long-term Debt and Equity",609900000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+Liabilities and Equity,1038800000,2015-12-31
+Liabilities and Equity,1128200000,2016-12-31
+"Accounts Payable, Current",33300000,2015-12-31
+"Accounts Payable, Current",32400000,2016-12-31
+Short-term Debt,42000000,2015-12-31
+Short-term Debt,81900000,2016-12-31
+"Long-term Debt, Current Maturities",17100000,2015-12-31
+"Long-term Debt, Current Maturities",16800000,2016-12-31
+"Regulatory Liability, Current",15600000,2015-12-31
+"Regulatory Liability, Current",10400000,2016-12-31
+"Energy Marketing Contract Liabilities, Current",14600000,2015-12-31
+"Energy Marketing Contract Liabilities, Current",12000000,2016-12-31
+"Accrued Environmental Loss Contingencies, Current",1300000,2015-12-31
+"Accrued Environmental Loss Contingencies, Current",400000,2016-12-31
+"Capital Lease Obligations, Current",3100000,2015-12-31
+"Capital Lease Obligations, Current",3000000,2016-12-31
+"Other Liabilities, Current",17300000,2015-12-31
+"Other Liabilities, Current",20000000,2016-12-31
+"Liabilities, Current",144300000,2015-12-31
+"Liabilities, Current",176900000,2016-12-31
+"Pension and Other Postretirement and Postemployment Benefit Plans, Liabilities, Noncurrent",124400000,2015-12-31
+"Pension and Other Postretirement and Postemployment Benefit Plans, Liabilities, Noncurrent",149000000,2016-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",87500000,2015-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",97900000,2016-12-31
+"Asset Retirement Obligations, Noncurrent",70100000,2015-12-31
+"Asset Retirement Obligations, Noncurrent",77000000,2016-12-31
+"Regulatory Liability, Noncurrent",8100000,2015-12-31
+"Regulatory Liability, Noncurrent",2600000,2016-12-31
+"Capital Lease Obligations, Noncurrent",11000000,2015-12-31
+"Capital Lease Obligations, Noncurrent",8300000,2016-12-31
+"Accrued Environmental Loss Contingencies, Noncurrent",1500000,2015-12-31
+"Accrued Environmental Loss Contingencies, Noncurrent",1500000,2016-12-31
+"Other Liabilities, Noncurrent",3600000,2015-12-31
+"Other Liabilities, Noncurrent",5100000,2016-12-31
+"Liabilities, Noncurrent",306200000,2015-12-31
+"Liabilities, Noncurrent",341400000,2016-12-31
+Public Utilities Property Plant And Equipment Gas,576800000,2015-12-31
+Public Utilities Property Plant And Equipment Gas,629500000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Transmission and Distribution",408400000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Transmission and Distribution",437900000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Common",35500000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Common",35800000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Construction Work in Progress",59900000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Construction Work in Progress",70200000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Plant in Service",1080600000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Plant in Service",1173400000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Accumulated Depreciation",271700000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Accumulated Depreciation",290000000,2016-12-31
+"Public Utilities, Property, Plant and Equipment, Net",808900000,2015-12-31
+"Public Utilities, Property, Plant and Equipment, Net",883400000,2016-12-31
+"Common Stocks, Including Additional Paid in Capital",237500000,2015-12-31
+"Common Stocks, Including Additional Paid in Capital",240700000,2016-12-31
+Retained Earnings (Accumulated Deficit),45100000,2015-12-31
+Retained Earnings (Accumulated Deficit),52200000,2016-12-31
+Common Stock Equity,265000000,2013-12-31
+Common Stock Equity,273100000,2014-12-31
+Common Stock Equity,282600000,2015-12-31
+Common Stock Equity,292900000,2016-12-31
+"Preferred Stock, Value, Issued",200000,2015-12-31
+"Preferred Stock, Value, Issued",200000,2016-12-31
+Stockholders' Equity Attributable to Parent,282800000,2015-12-31
+Stockholders' Equity Attributable to Parent,293100000,2016-12-31

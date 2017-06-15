@@ -1,0 +1,121 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",81143000,2014-12-31
+"Sales Revenue, Goods, Net",15386000,2015-03-31
+"Sales Revenue, Goods, Net",17946000,2015-06-30
+"Sales Revenue, Goods, Net",15622000,2015-09-30
+"Sales Revenue, Goods, Net",27259000,2015-12-31
+"Sales Revenue, Goods, Net",76213000,2015-12-31
+"Sales Revenue, Goods, Net",15382000,2016-03-31
+"Sales Revenue, Goods, Net",20062000,2016-06-30
+"Sales Revenue, Goods, Net",19020000,2016-09-30
+"Sales Revenue, Goods, Net",18611000,2016-12-31
+"Sales Revenue, Goods, Net",73075000,2016-12-31
+"Sales Revenue, Services, Net",91448000,2014-12-31
+"Sales Revenue, Services, Net",25919000,2015-03-31
+"Sales Revenue, Services, Net",26909000,2015-06-30
+"Sales Revenue, Services, Net",28833000,2015-09-30
+"Sales Revenue, Services, Net",26760000,2015-12-31
+"Sales Revenue, Services, Net",108421000,2015-12-31
+"Sales Revenue, Services, Net",24998000,2016-03-31
+"Sales Revenue, Services, Net",25904000,2016-06-30
+"Sales Revenue, Services, Net",26826000,2016-09-30
+"Sales Revenue, Services, Net",25319000,2016-12-31
+"Sales Revenue, Services, Net",103047000,2016-12-31
+"Revenue, Net",172591000,2014-12-31
+"Revenue, Net",184634000,2015-12-31
+"Revenue, Net",176122000,2016-12-31
+Cost of Goods Sold,48843000,2014-12-31
+Cost of Goods Sold,10485000,2015-03-31
+Cost of Goods Sold,12017000,2015-06-30
+Cost of Goods Sold,10275000,2015-09-30
+Cost of Goods Sold,14627000,2015-12-31
+Cost of Goods Sold,47404000,2015-12-31
+Cost of Goods Sold,10670000,2016-03-31
+Cost of Goods Sold,12989000,2016-06-30
+Cost of Goods Sold,11001000,2016-09-30
+Cost of Goods Sold,11674000,2016-12-31
+Cost of Goods Sold,46334000,2016-12-31
+Cost of Services,50301000,2014-12-31
+Cost of Services,13260000,2015-03-31
+Cost of Services,13693000,2015-06-30
+Cost of Services,14454000,2015-09-30
+Cost of Services,13409000,2015-12-31
+Cost of Services,54816000,2015-12-31
+Cost of Services,12991000,2016-03-31
+Cost of Services,13259000,2016-06-30
+Cost of Services,13576000,2016-09-30
+Cost of Services,13140000,2016-12-31
+Cost of Services,52966000,2016-12-31
+Research and Development Expense,14101000,2014-12-31
+Research and Development Expense,14039000,2015-12-31
+Research and Development Expense,16030000,2016-12-31
+Selling and Marketing Expense,32976000,2014-12-31
+Selling and Marketing Expense,35714000,2015-12-31
+Selling and Marketing Expense,33942000,2016-12-31
+General and Administrative Expense,24448000,2014-12-31
+General and Administrative Expense,29453000,2015-12-31
+General and Administrative Expense,28172000,2016-12-31
+Costs and Expenses,170669000,2014-12-31
+Costs and Expenses,181426000,2015-12-31
+Costs and Expenses,177444000,2016-12-31
+Operating Income (Loss),1922000,2014-12-31
+Operating Income (Loss),3208000,2015-12-31
+Operating Income (Loss),-3374000,2016-03-31
+Operating Income (Loss),-693000,2016-06-30
+Operating Income (Loss),3013000,2016-09-30
+Operating Income (Loss),-268000,2016-12-31
+Operating Income (Loss),-1322000,2016-12-31
+"Investment Income, Interest",738000,2014-12-31
+"Investment Income, Interest",546000,2015-12-31
+"Investment Income, Interest",513000,2016-12-31
+Interest Expense,1296000,2014-12-31
+Interest Expense,1460000,2015-12-31
+Interest Expense,1436000,2016-12-31
+Other Nonoperating Income (Expense),-39000,2014-12-31
+Other Nonoperating Income (Expense),372000,2015-12-31
+Other Nonoperating Income (Expense),275000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1325000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",2666000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-1970000,2016-12-31
+Income Tax Expense (Benefit),1284000,2014-12-31
+Income Tax Expense (Benefit),413000,2015-12-31
+Income Tax Expense (Benefit),5547000,2016-12-31
+Net Income (Loss) Attributable to Parent,41000,2014-12-31
+Net Income (Loss) Attributable to Parent,-1422000,2015-03-31
+Net Income (Loss) Attributable to Parent,37000,2015-06-30
+Net Income (Loss) Attributable to Parent,-463000,2015-09-30
+Net Income (Loss) Attributable to Parent,4101000,2015-12-31
+Net Income (Loss) Attributable to Parent,2253000,2015-12-31
+Net Income (Loss) Attributable to Parent,-2791000,2016-03-31
+Net Income (Loss) Attributable to Parent,-806000,2016-06-30
+Net Income (Loss) Attributable to Parent,2863000,2016-09-30
+Net Income (Loss) Attributable to Parent,-6783000,2016-12-31
+Net Income (Loss) Attributable to Parent,-7517000,2016-12-31
+"Earnings Per Share, Basic",0.00,2014-12-31
+"Earnings Per Share, Basic",-0.09,2015-03-31
+"Earnings Per Share, Basic",0,2015-06-30
+"Earnings Per Share, Basic",-0.03,2015-09-30
+"Earnings Per Share, Basic",0.26,2015-12-31
+"Earnings Per Share, Basic",0.14,2015-12-31
+"Earnings Per Share, Basic",-0.18,2016-03-31
+"Earnings Per Share, Basic",0,2016-06-30
+"Earnings Per Share, Basic",0.18,2016-09-30
+"Earnings Per Share, Basic",-0.43,2016-12-31
+"Earnings Per Share, Basic",-0.47,2016-12-31
+"Earnings Per Share, Diluted",0.00,2014-12-31
+"Earnings Per Share, Diluted",-0.09,2015-03-31
+"Earnings Per Share, Diluted",0,2015-06-30
+"Earnings Per Share, Diluted",-0.03,2015-09-30
+"Earnings Per Share, Diluted",0.26,2015-12-31
+"Earnings Per Share, Diluted",0.14,2015-12-31
+"Earnings Per Share, Diluted",-0.18,2016-03-31
+"Earnings Per Share, Diluted",0,2016-06-30
+"Earnings Per Share, Diluted",0.18,2016-09-30
+"Earnings Per Share, Diluted",-0.43,2016-12-31
+"Earnings Per Share, Diluted",-0.47,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",15420000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",15625000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",15834000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",15605000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",15834000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",15834000,2016-12-31

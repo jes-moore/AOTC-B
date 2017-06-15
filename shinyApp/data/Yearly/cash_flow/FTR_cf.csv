@@ -1,0 +1,100 @@
+Metric,Amount,endDate
+Net income (loss),133000000,2014-12-31
+Net income (loss),-196000000,2015-12-31
+Net income (loss),-373000000,2016-12-31
+Depreciation and amortization,1139000000,2014-12-31
+Depreciation and amortization,1320000000,2015-12-31
+Depreciation and amortization,2031000000,2016-12-31
+Loss on early extinguishment of debt,-7000000,2016-12-31
+Pension/OPEB costs,-18000000,2014-12-31
+Pension/OPEB costs,10000000,2015-12-31
+Pension/OPEB costs,79000000,2016-12-31
+"Defined Benefit Plan, Special termination Benefits cost",26000000,2016-12-31
+Stock based compensation expense,23000000,2014-12-31
+Stock based compensation expense,27000000,2015-12-31
+Stock based compensation expense,24000000,2016-12-31
+Gain (Loss) on Disposition of Assets,37000000,2014-12-31
+Amortization of Financing Costs,10000000,2014-12-31
+Amortization of Financing Costs,191000000,2015-12-31
+Amortization of Financing Costs,46000000,2016-12-31
+Other Noncash Income (Expense),-22000000,2014-12-31
+Other Noncash Income (Expense),12000000,2016-12-31
+Increase (Decrease) in Deferred Income Taxes,78000000,2014-12-31
+Increase (Decrease) in Deferred Income Taxes,167000000,2015-12-31
+Increase (Decrease) in Deferred Income Taxes,206000000,2016-12-31
+Increase (Decrease) in Accounts Receivable,61000000,2014-12-31
+Increase (Decrease) in Accounts Receivable,-62000000,2015-12-31
+Increase (Decrease) in Accounts Receivable,19000000,2016-12-31
+Change in accounts payable and other liabilities,90000000,2014-12-31
+Change in accounts payable and other liabilities,102000000,2015-12-31
+Change in accounts payable and other liabilities,-22000000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-47000000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,48000000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-85000000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,1270000000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,1301000000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,1666000000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",9871000000,2016-12-31
+"Payments to Acquire Business Two, Net of Cash Acquired",2018000000,2014-12-31
+Payments to Acquire Productive Assets,572000000,2014-12-31
+Payments to Acquire Productive Assets,710000000,2015-12-31
+Payments to Acquire Productive Assets,1259000000,2016-12-31
+Capital Expenditures Integration Activities,116000000,2014-12-31
+Capital Expenditures Integration Activities,153000000,2015-12-31
+Capital Expenditures Integration Activities,142000000,2016-12-31
+Network expansion funded by Connect America Fund,56000000,2014-12-31
+Network expansion funded by Connect America Fund,22000000,2015-12-31
+Grant funds received for network expansion from Connect America Fund - Phase I,4000000,2014-12-31
+Proceeds on sale of interest,39000000,2014-12-31
+Proceeds on sale of interest,22000000,2015-12-31
+Proceeds on sale of interest,8000000,2016-12-31
+"Payments to Acquire Business Three, Net of Cash Acquired",17000000,2015-12-31
+Payments for (Proceeds from) Other Investing Activities,-32000000,2014-12-31
+Payments for (Proceeds from) Other Investing Activities,-2000000,2015-12-31
+Payments for (Proceeds from) Other Investing Activities,-5000000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-2687000000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-878000000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-11259000000,2016-12-31
+Proceeds from long-term debt borrowings,1911000000,2014-12-31
+Proceeds from long-term debt borrowings,6603000000,2015-12-31
+Proceeds from long-term debt borrowings,1940000000,2016-12-31
+Payments of Financing Costs,40000000,2014-12-31
+Payments of Financing Costs,119000000,2015-12-31
+Payments of Financing Costs,39000000,2016-12-31
+Repayments of Long-term Debt,260000000,2014-12-31
+Repayments of Long-term Debt,298000000,2015-12-31
+Repayments of Long-term Debt,453000000,2016-12-31
+Proceeds from Issuance of Common Stock,799000000,2015-12-31
+Proceeds from Issuance of Preferred Stock and Preference Stock,1866000000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",401000000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",456000000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",493000000,2016-12-31
+"Payments of Ordinary Dividends, Preferred Stock and Preference Stock",120000000,2015-12-31
+"Payments of Ordinary Dividends, Preferred Stock and Preference Stock",214000000,2016-12-31
+"Repayment of customer advances for construction, distributions to noncontrolling interests and other",-2000000,2014-12-31
+"Repayment of customer advances for construction, distributions to noncontrolling interests and other",-6000000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,1208000000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,8275000000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,735000000,2016-12-31
+"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",-209000000,2014-12-31
+"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",8698000000,2015-12-31
+"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Excluding Exchange Rate Effect",-8858000000,2016-12-31
+"Cash, cash equivalents and restricted cash at January 1,",891000000,2014-12-31
+"Cash, cash equivalents and restricted cash at January 1,",682000000,2015-12-31
+"Cash, cash equivalents and restricted cash at January 1,",9380000000,2016-12-31
+"Cash, cash equivalents and restricted cash at December 31,",682000000,2014-12-31
+"Cash, cash equivalents and restricted cash at December 31,",9380000000,2015-12-31
+"Cash, cash equivalents and restricted cash at December 31,",522000000,2016-12-31
+Interest,656000000,2014-12-31
+Interest,728000000,2015-12-31
+Interest,1467000000,2016-12-31
+Income taxes,70000000,2014-12-31
+Income taxes,28000000,2015-12-31
+Income taxes,-120000000,2016-12-31
+Contribution of Property,15000000,2014-12-31
+Contribution of Property,15000000,2016-12-31
+Reduction of pension obligation,15000000,2016-12-31
+Increase (decrease) in capital expenditures incurred but not yet paid,-15000000,2014-12-31
+Increase (decrease) in capital expenditures incurred but not yet paid,-56000000,2015-12-31
+Increase (decrease) in capital expenditures incurred but not yet paid,-60000000,2016-12-31
+Capital Lease Obligations Incurred,111000000,2016-12-31

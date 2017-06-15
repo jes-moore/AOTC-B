@@ -1,0 +1,86 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",3696000000,2014-12-31
+"Sales Revenue, Goods, Net",969100000,2015-03-31
+"Sales Revenue, Goods, Net",1004000000,2015-06-30
+"Sales Revenue, Goods, Net",971600000,2015-09-30
+"Sales Revenue, Goods, Net",958400000,2015-12-31
+"Sales Revenue, Goods, Net",3903100000,2015-12-31
+"Sales Revenue, Goods, Net",969200000,2016-03-31
+"Sales Revenue, Goods, Net",1025400000,2016-06-30
+"Sales Revenue, Goods, Net",1006900000,2016-09-30
+"Sales Revenue, Goods, Net",946500000,2016-12-31
+"Sales Revenue, Goods, Net",3948000000,2016-12-31
+Cost of Goods Sold,3173200000,2014-12-31
+Cost of Goods Sold,3267700000,2015-12-31
+Cost of Goods Sold,3221900000,2016-12-31
+Gross Profit,522800000,2014-12-31
+Gross Profit,152800000,2015-03-31
+Gross Profit,164500000,2015-06-30
+Gross Profit,158300000,2015-09-30
+Gross Profit,159800000,2015-12-31
+Gross Profit,635400000,2015-12-31
+Gross Profit,174000000,2016-03-31
+Gross Profit,191400000,2016-06-30
+Gross Profit,181200000,2016-09-30
+Gross Profit,179500000,2016-12-31
+Gross Profit,726100000,2016-12-31
+"Selling, General and Administrative Expense",255200000,2014-12-31
+"Selling, General and Administrative Expense",277300000,2015-12-31
+"Selling, General and Administrative Expense",319200000,2016-12-31
+Restructuring and acquisition-related costs,0,2014-12-31
+Restructuring and acquisition-related costs,0,2015-12-31
+Restructuring and acquisition-related costs,26200000,2016-12-31
+Operating Income (Loss),267600000,2014-12-31
+Operating Income (Loss),358100000,2015-12-31
+Operating Income (Loss),380700000,2016-12-31
+Interest Expense,99900000,2014-12-31
+Interest Expense,99200000,2015-12-31
+Interest Expense,93400000,2016-12-31
+"Investment Income, Interest",2100000,2014-12-31
+"Investment Income, Interest",2600000,2015-12-31
+"Investment Income, Interest",2900000,2016-12-31
+Other expense - Debt refinancing and redemption costs,0,2014-12-31
+Other expense - Debt refinancing and redemption costs,800000,2015-12-31
+Other expense - Debt refinancing and redemption costs,0,2016-12-31
+Other Nonoperating Income (Expense),6900000,2014-12-31
+Other Nonoperating Income (Expense),12000000,2015-12-31
+Other Nonoperating Income (Expense),8800000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",176700000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",272700000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",299000000,2016-12-31
+Income Tax Expense (Benefit),33700000,2014-12-31
+Income Tax Expense (Benefit),37100000,2015-12-31
+Income Tax Expense (Benefit),58300000,2016-12-31
+Net Income (Loss) Attributable to Parent,143000000,2014-12-31
+Net Income (Loss) Attributable to Parent,53200000,2015-03-31
+Net Income (Loss) Attributable to Parent,58600000,2015-06-30
+Net Income (Loss) Attributable to Parent,60900000,2015-09-30
+Net Income (Loss) Attributable to Parent,62900000,2015-12-31
+Net Income (Loss) Attributable to Parent,235600000,2015-12-31
+Net Income (Loss) Attributable to Parent,61100000,2016-03-31
+Net Income (Loss) Attributable to Parent,71000000,2016-06-30
+Net Income (Loss) Attributable to Parent,61700000,2016-09-30
+Net Income (Loss) Attributable to Parent,46900000,2016-12-31
+Net Income (Loss) Attributable to Parent,240700000,2016-12-31
+"Earnings Per Share, Basic",1.85,2014-12-31
+"Earnings Per Share, Basic",0.69,2015-03-31
+"Earnings Per Share, Basic",0.75,2015-06-30
+"Earnings Per Share, Basic",0.78,2015-09-30
+"Earnings Per Share, Basic",0.81,2015-12-31
+"Earnings Per Share, Basic",3.03,2015-12-31
+"Earnings Per Share, Basic",0.78,2016-03-31
+"Earnings Per Share, Basic",0.91,2016-06-30
+"Earnings Per Share, Basic",0.79,2016-09-30
+"Earnings Per Share, Basic",0.60,2016-12-31
+"Earnings Per Share, Basic",3.08,2016-12-31
+"Earnings Per Share, Diluted",1.85,2014-12-31
+"Earnings Per Share, Diluted",0.68,2015-03-31
+"Earnings Per Share, Diluted",0.75,2015-06-30
+"Earnings Per Share, Diluted",0.78,2015-09-30
+"Earnings Per Share, Diluted",0.81,2015-12-31
+"Earnings Per Share, Diluted",3.02,2015-12-31
+"Earnings Per Share, Diluted",0.78,2016-03-31
+"Earnings Per Share, Diluted",0.90,2016-06-30
+"Earnings Per Share, Diluted",0.78,2016-09-30
+"Earnings Per Share, Diluted",0.59,2016-12-31
+"Earnings Per Share, Diluted",3.06,2016-12-31

@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+New and used commercial vehicle sales,3195873000,2014-12-31
+New and used commercial vehicle sales,3360808000,2015-12-31
+New and used commercial vehicle sales,2640019000,2016-12-31
+Parts and service sales,1315694000,2014-12-31
+Parts and service sales,1382447000,2015-12-31
+Parts and service sales,1332356000,2016-12-31
+Lease and rental,177561000,2014-12-31
+Lease and rental,199867000,2015-12-31
+Lease and rental,208154000,2016-12-31
+Finance and insurance,19988000,2014-12-31
+Finance and insurance,21150000,2015-12-31
+Finance and insurance,18582000,2016-12-31
+Other,18240000,2014-12-31
+Other,15461000,2015-12-31
+Other,15503000,2016-12-31
+us-gaap_Revenues,4727356000,2014-12-31
+us-gaap_Revenues,4979733000,2015-12-31
+us-gaap_Revenues,4214614000,2016-12-31
+us-gaap_CostOfGoodsSold,2975905000,2014-12-31
+us-gaap_CostOfGoodsSold,3138754000,2015-12-31
+us-gaap_CostOfGoodsSold,2463124000,2016-12-31
+rusha_CostOfProductsSoldPartsAndServiceSales,842438000,2014-12-31
+rusha_CostOfProductsSoldPartsAndServiceSales,879141000,2015-12-31
+rusha_CostOfProductsSoldPartsAndServiceSales,851438000,2016-12-31
+us-gaap_LeaseAndRentalExpense,152967000,2014-12-31
+us-gaap_LeaseAndRentalExpense,176891000,2015-12-31
+us-gaap_LeaseAndRentalExpense,182040000,2016-12-31
+us-gaap_CostOfRevenue,3971310000,2014-12-31
+us-gaap_CostOfRevenue,4194786000,2015-12-31
+us-gaap_CostOfRevenue,3496602000,2016-12-31
+us-gaap_GrossProfit,756046000,2014-12-31
+us-gaap_GrossProfit,784947000,2015-12-31
+us-gaap_GrossProfit,718012000,2016-12-31
+"Selling, general and administrative",573670000,2014-12-31
+"Selling, general and administrative",619268000,2015-12-31
+"Selling, general and administrative",587778000,2016-12-31
+us-gaap_DepreciationAndAmortization,40786000,2014-12-31
+us-gaap_DepreciationAndAmortization,43859000,2015-12-31
+us-gaap_DepreciationAndAmortization,51261000,2016-12-31
+Gain (loss) on sale of assets,151000,2014-12-31
+Gain (loss) on sale of assets,-544000,2015-12-31
+Gain (loss) on sale of assets,1755000,2016-12-31
+us-gaap_OperatingIncomeLoss,141741000,2014-12-31
+us-gaap_OperatingIncomeLoss,121276000,2015-12-31
+us-gaap_OperatingIncomeLoss,80728000,2016-12-31
+Interest income,239000,2014-12-31
+Interest income,490000,2015-12-31
+Interest income,621000,2016-12-31
+us-gaap_InterestExpense,11437000,2014-12-31
+us-gaap_InterestExpense,13963000,2015-12-31
+us-gaap_InterestExpense,14900000,2016-12-31
+"Total interest expense, net",11198000,2014-12-31
+"Total interest expense, net",13473000,2015-12-31
+"Total interest expense, net",14279000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,130543000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,107803000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,66449000,2016-12-31
+Provision for income taxes,50586000,2014-12-31
+Provision for income taxes,41750000,2015-12-31
+Provision for income taxes,25867000,2016-12-31
+Net income,79957000,2014-12-31
+Net income,66053000,2015-12-31
+Net income,40582000,2016-12-31
+Basic (in dollars per share),2.01,2014-12-31
+Basic (in dollars per share),1.64,2015-12-31
+Basic (in dollars per share),1.02,2016-12-31
+Diluted (in dollars per share),1.96,2014-12-31
+Diluted (in dollars per share),1.61,2015-12-31
+Diluted (in dollars per share),1,2016-12-31

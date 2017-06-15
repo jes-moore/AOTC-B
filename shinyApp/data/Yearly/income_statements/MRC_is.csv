@@ -1,0 +1,91 @@
+Metric,Amount,endDate
+Sales Revenue Net,967000000,2015-12-31
+Sales Revenue Net,719000000,2016-12-31
+Sales Revenue Net,5933000000,2014-12-31
+Sales Revenue Net,4529000000,2015-12-31
+Sales Revenue Net,1292000000,2015-03-31
+Sales Revenue Net,3041000000,2016-12-31
+Sales Revenue Net,783000000,2016-03-31
+Sales Revenue Net,1198000000,2015-06-30
+Sales Revenue Net,746000000,2016-06-30
+Sales Revenue Net,1071000000,2015-09-30
+Sales Revenue Net,793000000,2016-09-30
+Cost Of Goods And Services Sold,4915000000,2014-12-31
+Cost Of Goods And Services Sold,3743000000,2015-12-31
+Cost Of Goods And Services Sold,2573000000,2016-12-31
+Gross Profit,175000000,2015-12-31
+Gross Profit,122000000,2016-12-31
+Gross Profit,1018000000,2014-12-31
+Gross Profit,786000000,2015-12-31
+Gross Profit,220000000,2015-03-31
+Gross Profit,468000000,2016-12-31
+Gross Profit,133000000,2016-03-31
+Gross Profit,206000000,2015-06-30
+Gross Profit,125000000,2016-06-30
+Gross Profit,185000000,2015-09-30
+Gross Profit,88000000,2016-09-30
+Selling General And Administrative Expense,716000000,2014-12-31
+Selling General And Administrative Expense,606000000,2015-12-31
+Selling General And Administrative Expense,524000000,2016-12-31
+Goodwill and Intangible Asset Impairment,462000000,2015-12-31
+Operating Income Loss,302000000,2014-12-31
+Operating Income Loss,-282000000,2015-12-31
+Operating Income Loss,-56000000,2016-12-31
+Interest Expense,62000000,2014-12-31
+Interest Expense,48000000,2015-12-31
+Interest Expense,35000000,2016-12-31
+Write Off Of Deferred Debt Issuance Cost,3000000,2015-12-31
+Write Off Of Deferred Debt Issuance Cost,1000000,2016-12-31
+Other Nonoperating Income Expense,-14000000,2014-12-31
+Other Nonoperating Income Expense,-9000000,2015-12-31
+Other Nonoperating Income Expense,1000000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,226000000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,-342000000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,-91000000,2016-12-31
+Income Tax Expense Benefit,82000000,2014-12-31
+Income Tax Expense Benefit,-11000000,2015-12-31
+Income Tax Expense Benefit,-8000000,2016-12-31
+Net Income Loss,144000000,2014-12-31
+Net Income Loss,-331000000,2015-12-31
+Net Income Loss,-83000000,2016-12-31
+"Preferred Stock Dividends, Income Statement Impact",13000000,2015-12-31
+"Preferred Stock Dividends, Income Statement Impact",24000000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-399000000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-24000000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",144000000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-344000000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",29000000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-107000000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-14000000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",15000000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-23000000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",10000000,2015-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",-46000000,2016-09-30
+Earnings Per Share Basic,-3.92,2015-12-31
+Earnings Per Share Basic,-0.25,2016-12-31
+Earnings Per Share Basic,1.41,2014-12-31
+Earnings Per Share Basic,-3.38,2015-12-31
+Earnings Per Share Basic,0.28,2015-03-31
+Earnings Per Share Basic,-1.10,2016-12-31
+Earnings Per Share Basic,-0.14,2016-03-31
+Earnings Per Share Basic,0.15,2015-06-30
+Earnings Per Share Basic,-0.24,2016-06-30
+Earnings Per Share Basic,0.10,2015-09-30
+Earnings Per Share Basic,-0.48,2016-09-30
+Earnings Per Share Diluted,-3.92,2015-12-31
+Earnings Per Share Diluted,-0.25,2016-12-31
+Earnings Per Share Diluted,1.40,2014-12-31
+Earnings Per Share Diluted,-3.38,2015-12-31
+Earnings Per Share Diluted,0.28,2015-03-31
+Earnings Per Share Diluted,-1.10,2016-12-31
+Earnings Per Share Diluted,-0.14,2016-03-31
+Earnings Per Share Diluted,0.15,2015-06-30
+Earnings Per Share Diluted,-0.24,2016-06-30
+Earnings Per Share Diluted,0.10,2015-09-30
+Earnings Per Share Diluted,-0.48,2016-09-30
+Weighted Average Number Of Shares Outstanding Basic,102000000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,102100000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,97300000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,102800000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,102100000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,97300000,2016-12-31

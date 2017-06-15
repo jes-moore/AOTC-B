@@ -1,0 +1,106 @@
+Metric,Amount,endDate
+"Revenue, Net",865010000,2015-03-31
+"Revenue, Net",206358000,2015-06-30
+"Revenue, Net",215017000,2015-09-30
+"Revenue, Net",225735000,2015-12-31
+"Revenue, Net",209797000,2016-03-31
+"Revenue, Net",856907000,2016-03-31
+"Revenue, Net",223106000,2016-06-30
+"Revenue, Net",216183000,2016-09-30
+"Revenue, Net",232933000,2016-12-31
+"Revenue, Net",208954000,2017-03-31
+"Revenue, Net",881176000,2017-03-31
+Cost of Revenue,403391000,2015-03-31
+Cost of Revenue,422233000,2016-03-31
+Cost of Revenue,439806000,2017-03-31
+Gross Profit,461619000,2015-03-31
+Gross Profit,107358000,2015-06-30
+Gross Profit,110970000,2015-09-30
+Gross Profit,109516000,2015-12-31
+Gross Profit,106830000,2016-03-31
+Gross Profit,434674000,2016-03-31
+Gross Profit,113073000,2016-06-30
+Gross Profit,110446000,2016-09-30
+Gross Profit,110180000,2016-12-31
+Gross Profit,107671000,2017-03-31
+Gross Profit,441370000,2017-03-31
+Research and Development Expense,91627000,2015-03-31
+Research and Development Expense,90408000,2016-03-31
+Research and Development Expense,88318000,2017-03-31
+"Selling, General and Administrative Expense",229569000,2015-03-31
+"Selling, General and Administrative Expense",221299000,2016-03-31
+"Selling, General and Administrative Expense",223830000,2017-03-31
+Gain (Loss) Related to Litigation Settlement,8662000,2015-03-31
+Gain (Loss) Related to Litigation Settlement,1234000,2016-03-31
+Gain (Loss) Related to Litigation Settlement,-4255000,2017-03-31
+Restructuring Charges,0,2015-03-31
+Restructuring Charges,16160000,2016-03-31
+Restructuring Charges,-109000,2017-03-31
+Operating Expenses,312534000,2015-03-31
+Operating Expenses,326633000,2016-03-31
+Operating Expenses,316294000,2017-03-31
+Operating Income (Loss),149085000,2015-03-31
+Operating Income (Loss),108041000,2016-03-31
+Operating Income (Loss),125076000,2017-03-31
+Interest Expense,241000,2015-03-31
+Interest Expense,25149000,2016-03-31
+Interest Expense,29230000,2017-03-31
+Other Nonoperating Income (Expense),-3593000,2015-03-31
+Other Nonoperating Income (Expense),-716000,2016-03-31
+Other Nonoperating Income (Expense),5819000,2017-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",145251000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",82176000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",101665000,2017-03-31
+Income Tax Expense (Benefit),32950000,2015-03-31
+Income Tax Expense (Benefit),13784000,2016-03-31
+Income Tax Expense (Benefit),19066000,2017-03-31
+Net Income (Loss) Attributable to Parent,112301000,2015-03-31
+Net Income (Loss) Attributable to Parent,21228000,2015-06-30
+Net Income (Loss) Attributable to Parent,17896000,2015-09-30
+Net Income (Loss) Attributable to Parent,16288000,2015-12-31
+Net Income (Loss) Attributable to Parent,12980000,2016-03-31
+Net Income (Loss) Attributable to Parent,68392000,2016-03-31
+Net Income (Loss) Attributable to Parent,20387000,2016-06-30
+Net Income (Loss) Attributable to Parent,20474000,2016-09-30
+Net Income (Loss) Attributable to Parent,22221000,2016-12-31
+Net Income (Loss) Attributable to Parent,19517000,2017-03-31
+Net Income (Loss) Attributable to Parent,82599000,2017-03-31
+"Earnings Per Share, Basic",2.69,2015-03-31
+"Earnings Per Share, Basic",0.56,2015-06-30
+"Earnings Per Share, Basic",0.53,2015-09-30
+"Earnings Per Share, Basic",0.50,2015-12-31
+"Earnings Per Share, Basic",0.40,2016-03-31
+"Earnings Per Share, Basic",2.00,2016-03-31
+"Earnings Per Share, Basic",0.63,2016-06-30
+"Earnings Per Share, Basic",0.63,2016-09-30
+"Earnings Per Share, Basic",0.69,2016-12-31
+"Earnings Per Share, Basic",0.60,2017-03-31
+"Earnings Per Share, Basic",2.56,2017-03-31
+"Earnings Per Share, Diluted",2.63,2015-03-31
+"Earnings Per Share, Diluted",0.55,2015-06-30
+"Earnings Per Share, Diluted",0.52,2015-09-30
+"Earnings Per Share, Diluted",0.49,2015-12-31
+"Earnings Per Share, Diluted",0.39,2016-03-31
+"Earnings Per Share, Diluted",1.96,2016-03-31
+"Earnings Per Share, Diluted",0.62,2016-06-30
+"Earnings Per Share, Diluted",0.63,2016-09-30
+"Earnings Per Share, Diluted",0.68,2016-12-31
+"Earnings Per Share, Diluted",0.59,2017-03-31
+"Earnings Per Share, Diluted",2.51,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",41723000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",34127000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",32279000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",42643000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",34938000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",32963000,2017-03-31
+"Common Stock, Dividends, Per Share, Declared",0.60,2015-03-31
+"Common Stock, Dividends, Per Share, Declared",0.15,2015-06-30
+"Common Stock, Dividends, Per Share, Declared",0.15,2015-09-30
+"Common Stock, Dividends, Per Share, Declared",0.15,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.15,2016-03-31
+"Common Stock, Dividends, Per Share, Declared",0.60,2016-03-31
+"Common Stock, Dividends, Per Share, Declared",0.15,2016-06-30
+"Common Stock, Dividends, Per Share, Declared",0.15,2016-09-30
+"Common Stock, Dividends, Per Share, Declared",0.15,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",0.15,2017-03-31
+"Common Stock, Dividends, Per Share, Declared",0.60,2017-03-31

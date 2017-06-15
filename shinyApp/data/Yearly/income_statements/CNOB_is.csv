@@ -1,0 +1,206 @@
+Metric,Amount,endDate
+Interest and fees on loans,77669000,2014-12-31
+Interest and fees on loans,125493000,2015-12-31
+Interest and fees on loans,147982000,2016-12-31
+Taxable,12024000,2014-12-31
+Taxable,10665000,2015-12-31
+Taxable,7266000,2016-12-31
+Nontaxable,3740000,2014-12-31
+Nontaxable,3550000,2015-12-31
+Nontaxable,3827000,2016-12-31
+Dividends,636000,2014-12-31
+Dividends,1081000,2015-12-31
+Dividends,1410000,2016-12-31
+Interest on federal funds sold and other short-term investment,138000,2014-12-31
+Interest on federal funds sold and other short-term investment,178000,2015-12-31
+Interest on federal funds sold and other short-term investment,756000,2016-12-31
+Total interest income,94207000,2014-12-31
+Total interest income,140967000,2015-12-31
+Total interest income,33370000,2015-03-31
+Total interest income,34181000,2015-06-30
+Total interest income,36186000,2015-09-30
+Total interest income,37230000,2015-12-31
+Total interest income,161241000,2016-12-31
+Total interest income,38526000,2016-03-31
+Total interest income,40038000,2016-06-30
+Total interest income,41178000,2016-09-30
+Total interest income,41499000,2016-12-31
+Deposits,8260000,2014-12-31
+Deposits,13756000,2015-12-31
+Deposits,18667000,2016-12-31
+"Interest Expense, Debt",6548000,2014-12-31
+"Interest Expense, Debt",10058000,2015-12-31
+"Interest Expense, Debt",12429000,2016-12-31
+Total interest expense,14808000,2014-12-31
+Total interest expense,23814000,2015-12-31
+Total interest expense,5078000,2015-03-31
+Total interest expense,5503000,2015-06-30
+Total interest expense,6459000,2015-09-30
+Total interest expense,6774000,2015-12-31
+Total interest expense,31096000,2016-12-31
+Total interest expense,7206000,2016-03-31
+Total interest expense,7644000,2016-06-30
+Total interest expense,8154000,2016-09-30
+Total interest expense,8092000,2016-12-31
+Net interest income,79399000,2014-12-31
+Net interest income,117153000,2015-12-31
+Net interest income,28292000,2015-03-31
+Net interest income,28678000,2015-06-30
+Net interest income,29727000,2015-09-30
+Net interest income,30456000,2015-12-31
+Net interest income,130145000,2016-12-31
+Net interest income,31320000,2016-03-31
+Net interest income,32394000,2016-06-30
+Net interest income,33024000,2016-09-30
+Net interest income,33407000,2016-12-31
+Provision for loan and lease losses,4683000,2014-12-31
+Provision for loan and lease losses,12605000,2015-12-31
+Provision for loan and lease losses,1825000,2015-03-31
+Provision for loan and lease losses,1550000,2015-06-30
+Provision for loan and lease losses,4175000,2015-09-30
+Provision for loan and lease losses,5055000,2015-12-31
+Provision for loan and lease losses,38700000,2016-12-31
+Provision for loan and lease losses,3000000,2016-03-31
+Provision for loan and lease losses,3750000,2016-06-30
+Provision for loan and lease losses,6750000,2016-09-30
+Provision for loan and lease losses,25200000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",74716000,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",104548000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",91445000,2016-12-31
+Annuity and insurance commissions,382000,2014-12-31
+Annuity and insurance commissions,242000,2015-12-31
+Annuity and insurance commissions,191000,2016-12-31
+Income on bank owned life insurance,1303000,2014-12-31
+Income on bank owned life insurance,1782000,2015-12-31
+Income on bank owned life insurance,2559000,2016-12-31
+Net gains on sale of loans held-for-sale,182000,2014-12-31
+Net gains on sale of loans held-for-sale,327000,2015-12-31
+Net gains on sale of loans held-for-sale,232000,2016-12-31
+"Deposit, loan and other income",2813000,2014-12-31
+"Deposit, loan and other income",2667000,2015-12-31
+"Deposit, loan and other income",2704000,2016-12-31
+Insurance recovery,,2014-12-31
+Insurance recovery,2224000,2015-12-31
+Insurance recovery,,2016-12-31
+Net gains on sale of investment securities,2818000,2014-12-31
+Net gains on sale of investment securities,3931000,2015-12-31
+Net gains on sale of investment securities,4234000,2016-12-31
+Net investment securities gains,506000,2015-03-31
+Net investment securities gains,221000,2015-06-30
+Net investment securities gains,2067000,2015-09-30
+Net investment securities gains,1138000,2015-12-31
+Net investment securities gains,,2016-03-31
+Net investment securities gains,103000,2016-06-30
+Net investment securities gains,4131000,2016-09-30
+Net investment securities gains,,2016-12-31
+Noninterest income,7498000,2014-12-31
+Noninterest income,11173000,2015-12-31
+Noninterest income,9920000,2016-12-31
+Salaries and employee benefits,18829000,2014-12-31
+Salaries and employee benefits,27685000,2015-12-31
+Salaries and employee benefits,31030000,2016-12-31
+Occupancy and equipment,5312000,2014-12-31
+Occupancy and equipment,7587000,2015-12-31
+Occupancy and equipment,8571000,2016-12-31
+FDIC insurance,1618000,2014-12-31
+FDIC insurance,2110000,2015-12-31
+FDIC insurance,2940000,2016-12-31
+Professional and consulting,1661000,2014-12-31
+Professional and consulting,2951000,2015-12-31
+Professional and consulting,2979000,2016-12-31
+Marketing and advertising,498000,2014-12-31
+Marketing and advertising,847000,2015-12-31
+Marketing and advertising,1040000,2016-12-31
+Data processing,2575000,2014-12-31
+Data processing,3703000,2015-12-31
+Data processing,4141000,2016-12-31
+Merger-related expenses,12388000,2014-12-31
+Merger-related expenses,,2015-12-31
+Merger-related expenses,,2016-12-31
+Gain (Loss) on Extinguishment of Debt,-4550000,2014-12-31
+Gain (Loss) on Extinguishment of Debt,-2397000,2015-12-31
+Gain (Loss) on Extinguishment of Debt,,2016-12-31
+Amortization of core deposit intangible,506000,2014-12-31
+Amortization of core deposit intangible,917000,2015-12-31
+Amortization of core deposit intangible,820000,2016-12-31
+Charge due to wire fraud,2374000,2014-12-31
+Charge due to wire fraud,,2015-12-31
+Charge due to wire fraud,,2016-12-31
+Other expenses,4493000,2014-12-31
+Other expenses,6287000,2015-12-31
+Other expenses,6986000,2016-12-31
+Noninterest Expense,54804000,2014-12-31
+Noninterest Expense,54484000,2015-12-31
+Noninterest Expense,58507000,2016-12-31
+Income before income tax expense,27410000,2014-12-31
+Income before income tax expense,61237000,2015-12-31
+Income before income tax expense,15391000,2015-03-31
+Income before income tax expense,15590000,2015-06-30
+Income before income tax expense,16070000,2015-09-30
+Income before income tax expense,14185000,2015-12-31
+Income before income tax expense,42858000,2016-12-31
+Income before income tax expense,15169000,2016-03-31
+Income before income tax expense,15862000,2016-06-30
+Income before income tax expense,17299000,2016-09-30
+Income before income tax expense,-5472000,2016-12-31
+Income tax expense,8845000,2014-12-31
+Income tax expense,19926000,2015-12-31
+Income tax expense,5012000,2015-03-31
+Income tax expense,5069000,2015-06-30
+Income tax expense,5228000,2015-09-30
+Income tax expense,4617000,2015-12-31
+Income tax expense,11776000,2016-12-31
+Income tax expense,4778000,2016-03-31
+Income tax expense,5003000,2016-06-30
+Income tax expense,5443000,2016-09-30
+Income tax expense,-3448000,2016-12-31
+Net income,18565000,2014-12-31
+Net income,41311000,2015-12-31
+Net income,10379000,2015-03-31
+Net income,10521000,2015-06-30
+Net income,10842000,2015-09-30
+Net income,9568000,2015-12-31
+Net income,31082000,2016-12-31
+Net income,10391000,2016-03-31
+Net income,10859000,2016-06-30
+Net income,11856000,2016-09-30
+Net income,-2024000,2016-12-31
+Less: Preferred stock dividends,112000,2014-12-31
+Less: Preferred stock dividends,112000,2015-12-31
+Less: Preferred stock dividends,22000,2016-12-31
+Net income available to common stockholders,18453000,2014-12-31
+Net income available to common stockholders,41199000,2015-12-31
+Net income available to common stockholders,10351000,2015-03-31
+Net income available to common stockholders,10493000,2015-06-30
+Net income available to common stockholders,10814000,2015-09-30
+Net income available to common stockholders,9540000,2015-12-31
+Net income available to common stockholders,31060000,2016-12-31
+Net income available to common stockholders,10369000,2016-03-31
+Net income available to common stockholders,10859000,2016-06-30
+Net income available to common stockholders,11856000,2016-09-30
+Net income available to common stockholders,-2024000,2016-12-31
+Basic,0.80,2014-12-31
+Basic,1.37,2015-12-31
+Basic,0.35,2015-03-31
+Basic,0.35,2015-06-30
+Basic,0.36,2015-09-30
+Basic,0.32,2015-12-31
+Basic,1.02,2016-12-31
+Basic,0.35,2016-03-31
+Basic,0.36,2016-06-30
+Basic,0.39,2016-09-30
+Basic,-0.07,2016-12-31
+Diluted,0.79,2014-12-31
+Diluted,1.36,2015-12-31
+Diluted,0.34,2015-03-31
+Diluted,0.35,2015-06-30
+Diluted,0.36,2015-09-30
+Diluted,0.31,2015-12-31
+Diluted,1.01,2016-12-31
+Diluted,0.34,2016-03-31
+Diluted,0.36,2016-06-30
+Diluted,0.39,2016-09-30
+Diluted,-0.07,2016-12-31
+Dividends per common share,0.300,2014-12-31
+Dividends per common share,0.300,2015-12-31
+Dividends per common share,0.300,2016-12-31

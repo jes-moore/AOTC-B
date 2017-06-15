@@ -1,0 +1,177 @@
+Metric,Amount,endDate
+Loans Taxable,32198000,2014-12-31
+Loans Taxable,32136000,2015-12-31
+Loans Taxable,34324000,2016-12-31
+Loans Non Taxable,17910000,2014-12-31
+Loans Non Taxable,19992000,2015-12-31
+Loans Non Taxable,23440000,2016-12-31
+"Interest Income, Securities, Operating, Taxable",2601000,2014-12-31
+"Interest Income, Securities, Operating, Taxable",1900000,2015-12-31
+"Interest Income, Securities, Operating, Taxable",3003000,2016-12-31
+"Interest Income, Securities, Operating, Tax Exempt",282000,2014-12-31
+"Interest Income, Securities, Operating, Tax Exempt",583000,2015-12-31
+"Interest Income, Securities, Operating, Tax Exempt",1051000,2016-12-31
+Federal Home Loan Bank Dividends,283000,2014-12-31
+Federal Home Loan Bank Dividends,658000,2015-12-31
+Federal Home Loan Bank Dividends,966000,2016-12-31
+"Interest Income, Securities, Operating, Held-to-maturity",31745000,2014-12-31
+"Interest Income, Securities, Operating, Held-to-maturity",34388000,2015-12-31
+"Interest Income, Securities, Operating, Held-to-maturity",32679000,2016-12-31
+Interest Income From Federal Funds Sold And Interest Bearing Deposits In Other Banks,352000,2014-12-31
+Interest Income From Federal Funds Sold And Interest Bearing Deposits In Other Banks,436000,2015-12-31
+Interest Income From Federal Funds Sold And Interest Bearing Deposits In Other Banks,1236000,2016-12-31
+"Interest and Dividend Income, Operating",85371000,2014-12-31
+"Interest and Dividend Income, Operating",90093000,2015-12-31
+"Interest and Dividend Income, Operating",96699000,2016-12-31
+"Interest and Dividend Income, Operating",21172000,2015-03-31
+"Interest and Dividend Income, Operating",22675000,2015-06-30
+"Interest and Dividend Income, Operating",23263000,2016-03-31
+"Interest and Dividend Income, Operating",23742000,2016-06-30
+"Interest and Dividend Income, Operating",23750000,2015-09-30
+"Interest and Dividend Income, Operating",22496000,2015-12-31
+"Interest and Dividend Income, Operating",25005000,2016-09-30
+"Interest and Dividend Income, Operating",24689000,2016-12-31
+Interest Expense Savings And Now Deposits,2539000,2014-12-31
+Interest Expense Savings And Now Deposits,2817000,2015-12-31
+Interest Expense Savings And Now Deposits,4020000,2016-12-31
+"Interest Expense, Money Market Deposits",2715000,2014-12-31
+"Interest Expense, Money Market Deposits",3038000,2015-12-31
+"Interest Expense, Money Market Deposits",3542000,2016-12-31
+"Interest Expense, Time Deposits",4421000,2014-12-31
+"Interest Expense, Time Deposits",4887000,2015-12-31
+"Interest Expense, Time Deposits",5706000,2016-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",391000,2014-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",487000,2015-12-31
+"Interest Expense, Securities Sold under Agreements to Repurchase",472000,2016-12-31
+"Interest Expense, Long-term Debt",9070000,2014-12-31
+"Interest Expense, Long-term Debt",8905000,2015-12-31
+"Interest Expense, Long-term Debt",8877000,2016-12-31
+Interest Expense,19136000,2014-12-31
+Interest Expense,20134000,2015-12-31
+Interest Expense,22617000,2016-12-31
+Interest Expense,4765000,2015-03-31
+Interest Expense,4961000,2015-06-30
+Interest Expense,5413000,2016-03-31
+Interest Expense,5486000,2016-06-30
+Interest Expense,5134000,2015-09-30
+Interest Expense,5274000,2015-12-31
+Interest Expense,5791000,2016-09-30
+Interest Expense,5927000,2016-12-31
+Labor and Related Expense,35096000,2014-12-31
+Labor and Related Expense,38596000,2015-12-31
+Labor and Related Expense,40048000,2016-12-31
+"Occupancy, Net",5503000,2014-12-31
+"Occupancy, Net",6116000,2015-12-31
+"Occupancy, Net",6147000,2016-12-31
+Equipment Expense,2329000,2014-12-31
+Equipment Expense,2626000,2015-12-31
+Equipment Expense,2845000,2016-12-31
+Federal Deposit Insurance Corporation Premium Expense,1970000,2014-12-31
+Federal Deposit Insurance Corporation Premium Expense,2152000,2015-12-31
+Federal Deposit Insurance Corporation Premium Expense,1902000,2016-12-31
+Other Noninterest Expense,11832000,2014-12-31
+Other Noninterest Expense,12708000,2015-12-31
+Other Noninterest Expense,13815000,2016-12-31
+Noninterest Expense,56730000,2014-12-31
+Noninterest Expense,62198000,2015-12-31
+Noninterest Expense,64757000,2016-12-31
+Noninterest Expense,14538000,2015-03-31
+Noninterest Expense,15766000,2015-06-30
+Noninterest Expense,15683000,2016-03-31
+Noninterest Expense,16288000,2016-06-30
+Noninterest Expense,16100000,2015-09-30
+Noninterest Expense,15794000,2015-12-31
+Noninterest Expense,16630000,2016-09-30
+Noninterest Expense,16156000,2016-12-31
+"Fees and Commissions, Depositor Accounts",8063000,2014-12-31
+"Fees and Commissions, Depositor Accounts",7732000,2015-12-31
+"Fees and Commissions, Depositor Accounts",7907000,2016-12-31
+Lockbox Fees,3099000,2014-12-31
+Lockbox Fees,3211000,2015-12-31
+Lockbox Fees,3164000,2016-12-31
+Brokerage Commissions Revenue,302000,2014-12-31
+Brokerage Commissions Revenue,380000,2015-12-31
+Brokerage Commissions Revenue,315000,2016-12-31
+"Available-for-sale Securities, Gross Realized Gains",450000,2014-12-31
+"Available-for-sale Securities, Gross Realized Gains",594000,2015-12-31
+"Available-for-sale Securities, Gross Realized Gains",64000,2016-12-31
+Gain (Loss) on Sale of Mortgage Loans,757000,2014-12-31
+Gain (Loss) on Sale of Mortgage Loans,1034000,2015-12-31
+Gain (Loss) on Sale of Mortgage Loans,1331000,2016-12-31
+"Noninterest Income, Other",2600000,2014-12-31
+"Noninterest Income, Other",3042000,2015-12-31
+"Noninterest Income, Other",3441000,2016-12-31
+Noninterest Income,15271000,2014-12-31
+Noninterest Income,15993000,2015-12-31
+Noninterest Income,16222000,2016-12-31
+Noninterest Income,3505000,2015-03-31
+Noninterest Income,4210000,2015-06-30
+Noninterest Income,3654000,2016-03-31
+Noninterest Income,4643000,2016-06-30
+Noninterest Income,3830000,2015-09-30
+Noninterest Income,4448000,2015-12-31
+Noninterest Income,4225000,2016-09-30
+Noninterest Income,3700000,2016-12-31
+"Interest Income (Expense), Net",66235000,2014-12-31
+"Interest Income (Expense), Net",69959000,2015-12-31
+"Interest Income (Expense), Net",74082000,2016-12-31
+"Interest Income (Expense), Net",16407000,2015-03-31
+"Interest Income (Expense), Net",17714000,2015-06-30
+"Interest Income (Expense), Net",17850000,2016-03-31
+"Interest Income (Expense), Net",18256000,2016-06-30
+"Interest Income (Expense), Net",18616000,2015-09-30
+"Interest Income (Expense), Net",17222000,2015-12-31
+"Interest Income (Expense), Net",19214000,2016-09-30
+"Interest Income (Expense), Net",18762000,2016-12-31
+Provision for Loan Losses Expensed,2050000,2014-12-31
+Provision for Loan Losses Expensed,200000,2015-12-31
+Provision for Loan Losses Expensed,1375000,2016-12-31
+Provision for Loan Losses Expensed,200000,2015-03-31
+Provision for Loan Losses Expensed,450000,2016-03-31
+Provision for Loan Losses Expensed,350000,2016-06-30
+Provision for Loan Losses Expensed,375000,2016-09-30
+Provision for Loan Losses Expensed,200000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",64185000,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",69759000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",72707000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",16207000,2015-03-31
+"Interest Income (Expense), after Provision for Loan Loss",17714000,2015-06-30
+"Interest Income (Expense), after Provision for Loan Loss",17400000,2016-03-31
+"Interest Income (Expense), after Provision for Loan Loss",17906000,2016-06-30
+"Interest Income (Expense), after Provision for Loan Loss",18616000,2015-09-30
+"Interest Income (Expense), after Provision for Loan Loss",17222000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",18839000,2016-09-30
+"Interest Income (Expense), after Provision for Loan Loss",18562000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",22726000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",23554000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",24172000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",5174000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6158000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",5371000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6261000,2016-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6346000,2015-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",5876000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6434000,2016-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",6106000,2016-12-31
+Income Tax Expense (Benefit),866000,2014-12-31
+Income Tax Expense (Benefit),533000,2015-12-31
+Income Tax Expense (Benefit),-362000,2016-12-31
+Income Tax Expense (Benefit),215000,2015-03-31
+Income Tax Expense (Benefit),233000,2015-06-30
+Income Tax Expense (Benefit),64000,2016-03-31
+Income Tax Expense (Benefit),20000,2016-06-30
+Income Tax Expense (Benefit),180000,2015-09-30
+Income Tax Expense (Benefit),-95000,2015-12-31
+Income Tax Expense (Benefit),-52000,2016-09-30
+Income Tax Expense (Benefit),-394000,2016-12-31
+Net Income (Loss) Attributable to Parent,21860000,2014-12-31
+Net Income (Loss) Attributable to Parent,23021000,2015-12-31
+Net Income (Loss) Attributable to Parent,24534000,2016-12-31
+Net Income (Loss) Attributable to Parent,4959000,2015-03-31
+Net Income (Loss) Attributable to Parent,5925000,2015-06-30
+Net Income (Loss) Attributable to Parent,5307000,2016-03-31
+Net Income (Loss) Attributable to Parent,6241000,2016-06-30
+Net Income (Loss) Attributable to Parent,6166000,2015-09-30
+Net Income (Loss) Attributable to Parent,5971000,2015-12-31
+Net Income (Loss) Attributable to Parent,6486000,2016-09-30
+Net Income (Loss) Attributable to Parent,6500000,2016-12-31

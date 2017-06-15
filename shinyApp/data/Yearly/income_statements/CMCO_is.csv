@@ -1,0 +1,97 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",579643000,2015-03-31
+"Sales Revenue, Goods, Net",597103000,2016-03-31
+"Sales Revenue, Goods, Net",637123000,2017-03-31
+Cost of Goods Sold,398036000,2015-03-31
+Cost of Goods Sold,409840000,2016-03-31
+Cost of Goods Sold,444191000,2017-03-31
+Gross Profit,181607000,2015-03-31
+Gross Profit,43584000,2015-06-30
+Gross Profit,46945000,2015-09-30
+Gross Profit,48341000,2015-12-31
+Gross Profit,48393000,2016-03-31
+Gross Profit,187263000,2016-03-31
+Gross Profit,48047000,2016-06-30
+Gross Profit,49729000,2016-09-30
+Gross Profit,44821000,2016-12-31
+Gross Profit,50335000,2017-03-31
+Gross Profit,192932000,2017-03-31
+Selling Expense,69819000,2015-03-31
+Selling Expense,72858000,2016-03-31
+Selling Expense,77319000,2017-03-31
+General and Administrative Expense,54874000,2015-03-31
+General and Administrative Expense,68811000,2016-03-31
+General and Administrative Expense,80410000,2017-03-31
+Restructuring Charges,0,2015-03-31
+Restructuring Charges,0,2016-03-31
+Restructuring Charges,1125000,2017-03-31
+Amortization of Intangible Assets,2266000,2015-03-31
+Amortization of Intangible Assets,5024000,2016-03-31
+Amortization of Intangible Assets,8105000,2017-03-31
+Operating Income (Loss),54648000,2015-03-31
+Operating Income (Loss),11291000,2015-06-30
+Operating Income (Loss),6512000,2015-09-30
+Operating Income (Loss),10958000,2015-12-31
+Operating Income (Loss),11809000,2016-03-31
+Operating Income (Loss),40570000,2016-03-31
+Operating Income (Loss),11201000,2016-06-30
+Operating Income (Loss),12619000,2016-09-30
+Operating Income (Loss),5317000,2016-12-31
+Operating Income (Loss),-3164000,2017-03-31
+Operating Income (Loss),25973000,2017-03-31
+Interest and Debt Expense,12390000,2015-03-31
+Interest and Debt Expense,7904000,2016-03-31
+Interest and Debt Expense,10966000,2017-03-31
+Gain (Loss) on Extinguishment of Debt,-8567000,2015-03-31
+Gain (Loss) on Extinguishment of Debt,0,2016-03-31
+Gain (Loss) on Extinguishment of Debt,-1303000,2017-03-31
+Gain (Loss) on Investments,2725000,2015-03-31
+Gain (Loss) on Investments,796000,2016-03-31
+Gain (Loss) on Investments,462000,2017-03-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-863000,2015-03-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-2215000,2016-03-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-1232000,2017-03-31
+Other Nonoperating Income (Expense),462000,2015-03-31
+Other Nonoperating Income (Expense),377000,2016-03-31
+Other Nonoperating Income (Expense),93000,2017-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",36015000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",31624000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",13027000,2017-03-31
+Income Tax Expense (Benefit),8825000,2015-03-31
+Income Tax Expense (Benefit),12045000,2016-03-31
+Income Tax Expense (Benefit),4043000,2017-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",27190000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",27190000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",19579000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",8984000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Basic",19939000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",20079000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",20591000,2017-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",20224000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",20315000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",20888000,2017-03-31
+"Earnings Per Share, Basic",1.36,2015-03-31
+"Earnings Per Share, Basic",0.35,2015-06-30
+"Earnings Per Share, Basic",-0.02,2015-09-30
+"Earnings Per Share, Basic",0.36,2015-12-31
+"Earnings Per Share, Basic",0.29,2016-03-31
+"Earnings Per Share, Basic",0.98,2016-03-31
+"Earnings Per Share, Basic",0.32,2016-06-30
+"Earnings Per Share, Basic",0.34,2016-09-30
+"Earnings Per Share, Basic",0.02,2016-12-31
+"Earnings Per Share, Basic",-0.22,2017-03-31
+"Earnings Per Share, Basic",0.44,2017-03-31
+"Earnings Per Share, Diluted",1.34,2015-03-31
+"Earnings Per Share, Diluted",0.34,2015-06-30
+"Earnings Per Share, Diluted",-0.02,2015-09-30
+"Earnings Per Share, Diluted",0.36,2015-12-31
+"Earnings Per Share, Diluted",0.29,2016-03-31
+"Earnings Per Share, Diluted",0.96,2016-03-31
+"Earnings Per Share, Diluted",0.32,2016-06-30
+"Earnings Per Share, Diluted",0.33,2016-09-30
+"Earnings Per Share, Diluted",0.02,2016-12-31
+"Earnings Per Share, Diluted",-0.22,2017-03-31
+"Earnings Per Share, Diluted",0.43,2017-03-31
+"Common Stock, Dividends, Per Share, Declared",0.16,2015-03-31
+"Common Stock, Dividends, Per Share, Declared",0.16,2016-03-31
+"Common Stock, Dividends, Per Share, Declared",0.16,2017-03-31

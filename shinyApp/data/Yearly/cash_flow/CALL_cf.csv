@@ -1,0 +1,131 @@
+Metric,Amount,endDate
+Net income,1308000,2015-03-31
+Net income,6952000,2015-06-30
+Net income,3311000,2015-09-30
+Net income,1939000,2015-12-31
+Net income,3785000,2014-12-31
+Net income,13510000,2015-12-31
+Net income,734000,2016-03-31
+Net income,5056000,2016-12-31
+Net income,2515000,2016-06-30
+Net income,3222000,2016-09-30
+Net income,-1415000,2016-12-31
+Provision for doubtful accounts and billing adjustments,444000,2014-12-31
+Provision for doubtful accounts and billing adjustments,81000,2015-12-31
+Provision for doubtful accounts and billing adjustments,203000,2016-12-31
+Share-based issuances,7190000,2014-12-31
+Share-based issuances,5268000,2015-12-31
+Share-based issuances,4220000,2016-12-31
+Depreciation and amortization,4823000,2014-12-31
+Depreciation and amortization,3585000,2015-12-31
+Depreciation and amortization,4733000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",,2014-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",,2015-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",1700000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Asset",2000000,2016-09-30
+Impairment of intangible assets,2464000,2014-12-31
+Impairment of intangible assets,,2015-12-31
+Impairment of intangible assets,998000,2016-12-31
+Increase (Decrease) in Other Operating Assets,-14166000,2014-12-31
+Increase (Decrease) in Other Operating Assets,1789000,2015-12-31
+Increase (Decrease) in Other Operating Assets,315000,2016-12-31
+Deferred income tax provision (benefit),-4423000,2014-12-31
+Deferred income tax provision (benefit),12863000,2015-12-31
+Deferred income tax provision (benefit),4418000,2016-12-31
+Interest expense - non-cash,192000,2014-12-31
+Interest expense - non-cash,57000,2015-12-31
+Interest expense - non-cash,,2016-12-31
+Gains on investments,37000,2014-12-31
+Gains on investments,,2015-12-31
+Gains on investments,,2016-12-31
+Increase (Decrease) in Accounts Receivable,721000,2014-12-31
+Increase (Decrease) in Accounts Receivable,-897000,2015-12-31
+Increase (Decrease) in Accounts Receivable,-118000,2016-12-31
+Increase (Decrease) in Inventories,1145000,2014-12-31
+Increase (Decrease) in Inventories,88000,2015-12-31
+Increase (Decrease) in Inventories,-1584000,2016-12-31
+Increase (Decrease) in Deferred Charges,-1897000,2014-12-31
+Increase (Decrease) in Deferred Charges,-668000,2015-12-31
+Increase (Decrease) in Deferred Charges,222000,2016-12-31
+Increase (Decrease) in Other Current Assets,933000,2014-12-31
+Increase (Decrease) in Other Current Assets,-2125000,2015-12-31
+Increase (Decrease) in Other Current Assets,-2366000,2016-12-31
+Increase (Decrease) in Other Noncurrent Assets,50000,2014-12-31
+Increase (Decrease) in Other Noncurrent Assets,8000,2015-12-31
+Increase (Decrease) in Other Noncurrent Assets,-11000,2016-12-31
+Increase (Decrease) in Accounts Payable,651000,2014-12-31
+Increase (Decrease) in Accounts Payable,-1782000,2015-12-31
+Increase (Decrease) in Accounts Payable,1522000,2016-12-31
+Income taxes payable,,2014-12-31
+Income taxes payable,-873000,2015-12-31
+Income taxes payable,1527000,2016-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,-287000,2014-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,-679000,2015-12-31
+Increase (Decrease) in Accrued Liabilities and Other Operating Liabilities,966000,2016-12-31
+Deferred revenue,-3265000,2014-12-31
+Deferred revenue,-8527000,2015-12-31
+Deferred revenue,-10164000,2016-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,274000,2014-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,56000,2015-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,-71000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",25025000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",25364000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",15250000,2016-12-31
+Proceeds from sales of investments,9094000,2014-12-31
+Proceeds from sales of investments,,2015-12-31
+Proceeds from sales of investments,,2016-12-31
+Payments to Acquire Investments,,2014-12-31
+Payments to Acquire Investments,,2015-12-31
+Payments to Acquire Investments,80000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",2213000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",1024000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",605000,2016-12-31
+Payment for intangible assets,1500000,2011-05-31
+Payment for intangible assets,1500000,2012-05-31
+Payment for intangible assets,1500000,2013-05-31
+Payment for intangible assets,485000,2014-12-31
+Payment for intangible assets,1500000,2014-05-31
+Payment for intangible assets,,2015-12-31
+Payment for intangible assets,1500000,2015-05-31
+Payment for intangible assets,321000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",40019000,2016-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",6396000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-1024000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-41025000,2016-12-31
+Payments for Repurchase of Common Stock,,2014-12-31
+Payments for Repurchase of Common Stock,20000000,2015-12-31
+Payments for Repurchase of Common Stock,,2016-12-31
+Payments for Repurchase of Other Equity,,2014-12-31
+Payments for Repurchase of Other Equity,198000,2015-12-31
+Payments for Repurchase of Other Equity,430000,2016-12-31
+Proceeds from exercise of ordinary share options,27000,2014-12-31
+Proceeds from exercise of ordinary share options,2000,2015-12-31
+Proceeds from exercise of ordinary share options,10000,2016-12-31
+Repayments of Other Long-term Debt,1500000,2014-12-31
+Repayments of Other Long-term Debt,1500000,2015-12-31
+Repayments of Other Long-term Debt,,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-1473000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-21696000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-420000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",29948000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",2644000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-26195000,2016-12-31
+Cash and cash equivalents,45997000,2013-12-31
+Cash and cash equivalents,75945000,2014-12-31
+Cash and cash equivalents,78589000,2015-12-31
+Cash and cash equivalents,52394000,2016-12-31
+Cash and cash equivalents,45997000,2013-12-31
+Cash and cash equivalents,75945000,2014-12-31
+Cash and cash equivalents,78589000,2015-12-31
+Cash and cash equivalents,52394000,2016-12-31
+Income taxes paid,279000,2014-12-31
+Income taxes paid,5213000,2015-12-31
+Income taxes paid,1495000,2016-12-31
+Property and equipment (acquired but not paid),11000,2014-12-31
+Property and equipment (acquired but not paid),,2015-12-31
+Property and equipment (acquired but not paid),182000,2016-12-31
+Ordinary shares issued for purchase of Broadsmart,,2014-12-31
+Ordinary shares issued for purchase of Broadsmart,,2015-12-31
+Ordinary shares issued for purchase of Broadsmart,1676000,2016-12-31

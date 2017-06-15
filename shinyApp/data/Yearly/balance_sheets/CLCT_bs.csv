@@ -1,0 +1,59 @@
+Metric,Amount,endDate
+Cash and cash equivalents,18711000,2013-06-30
+Cash and cash equivalents,19909000,2014-06-30
+Cash and cash equivalents,17254000,2015-06-30
+Cash and cash equivalents,11967000,2016-06-30
+"Accounts receivable, net of allowance of $35 in 2016 and $33 in 2015",2460000,2015-06-30
+"Accounts receivable, net of allowance of $35 in 2016 and $33 in 2015",3883000,2016-06-30
+"Inventories, net",1619000,2015-06-30
+"Inventories, net",1835000,2016-06-30
+Prepaid expenses and other current assets,940000,2015-06-30
+Prepaid expenses and other current assets,1273000,2016-06-30
+us-gaap_AssetsCurrent,22273000,2015-06-30
+us-gaap_AssetsCurrent,18958000,2016-06-30
+"Property and equipment, net",2326000,2015-06-30
+"Property and equipment, net",2839000,2016-06-30
+Goodwill,2083000,2015-06-30
+Goodwill,2083000,2016-06-30
+"Intangible assets, net",1558000,2015-06-30
+"Intangible assets, net",1762000,2016-06-30
+Deferred income tax assets,3544000,2015-06-30
+Deferred income tax assets,2229000,2016-06-30
+Other assets,236000,2015-06-30
+Other assets,240000,2016-06-30
+Non-current assets of discontinued operations,182000,2015-06-30
+Non-current assets of discontinued operations,79000,2016-06-30
+us-gaap_Assets,32202000,2015-06-30
+us-gaap_Assets,28190000,2016-06-30
+Accounts payable,1961000,2015-06-30
+Accounts payable,2728000,2016-06-30
+Accrued liabilities,2898000,2015-06-30
+Accrued liabilities,2491000,2016-06-30
+Accrued compensation and benefits,3890000,2015-06-30
+Accrued compensation and benefits,3414000,2016-06-30
+Income taxes payable,521000,2015-06-30
+Income taxes payable,782000,2016-06-30
+Deferred revenue,2621000,2015-06-30
+Deferred revenue,2563000,2016-06-30
+Current liabilities of discontinued operations,778000,2015-06-30
+Current liabilities of discontinued operations,619000,2016-06-30
+us-gaap_LiabilitiesCurrent,12669000,2015-06-30
+us-gaap_LiabilitiesCurrent,12597000,2016-06-30
+Deferred rent,422000,2015-06-30
+Deferred rent,381000,2016-06-30
+Non-current liabilities of discontinued operations,642000,2015-06-30
+Non-current liabilities of discontinued operations,217000,2016-06-30
+Commitments and contingencies (Note 14),,2015-06-30
+Commitments and contingencies (Note 14),,2016-06-30
+"Preferred stock, $.001 par value; 3,000 shares authorized; no shares issued or outstanding",,2015-06-30
+"Preferred stock, $.001 par value; 3,000 shares authorized; no shares issued or outstanding",,2016-06-30
+"Common stock, $.001 par value; 20,000 shares authorized; shares outstanding: 8,898 in 2016 and 8,882 in 2015",9000,2015-06-30
+"Common stock, $.001 par value; 20,000 shares authorized; shares outstanding: 8,898 in 2016 and 8,882 in 2015",9000,2016-06-30
+Additional paid-in capital,79848000,2015-06-30
+Additional paid-in capital,80642000,2016-06-30
+Accumulated deficit,-61388000,2015-06-30
+Accumulated deficit,-65656000,2016-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,18469000,2015-06-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,14995000,2016-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,32202000,2015-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,28190000,2016-06-30

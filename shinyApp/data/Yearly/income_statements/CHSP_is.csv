@@ -1,0 +1,116 @@
+Metric,Amount,endDate
+Occupancy Revenue,364727000,2014-12-31
+Occupancy Revenue,441141000,2015-12-31
+Occupancy Revenue,465796000,2016-12-31
+Food and Beverage Revenue,94307000,2014-12-31
+Food and Beverage Revenue,117171000,2015-12-31
+Food and Beverage Revenue,125987000,2016-12-31
+Other Hotel Operating Revenue,18946000,2014-12-31
+Other Hotel Operating Revenue,24312000,2015-12-31
+Other Hotel Operating Revenue,27916000,2016-12-31
+Revenue from Hotels,477980000,2014-12-31
+Revenue from Hotels,109290000,2015-03-31
+Revenue from Hotels,162145000,2015-06-30
+Revenue from Hotels,165009000,2015-09-30
+Revenue from Hotels,146180000,2015-12-31
+Revenue from Hotels,582624000,2015-12-31
+Revenue from Hotels,140611000,2016-03-31
+Revenue from Hotels,169431000,2016-06-30
+Revenue from Hotels,164529000,2016-09-30
+Revenue from Hotels,145128000,2016-12-31
+Revenue from Hotels,619699000,2016-12-31
+Occupancy Costs,84445000,2014-12-31
+Occupancy Costs,100245000,2015-12-31
+Occupancy Costs,108292000,2016-12-31
+"Food and Beverage, Cost of Sales",71816000,2014-12-31
+"Food and Beverage, Cost of Sales",87625000,2015-12-31
+"Food and Beverage, Cost of Sales",92075000,2016-12-31
+Other Direct Costs of Hotels,8032000,2014-12-31
+Other Direct Costs of Hotels,7109000,2015-12-31
+Other Direct Costs of Hotels,6275000,2016-12-31
+"Other Cost and Expense, Operating",160589000,2014-12-31
+"Other Cost and Expense, Operating",196523000,2015-12-31
+"Other Cost and Expense, Operating",208756000,2016-12-31
+Direct Costs of Hotels,324882000,2014-12-31
+Direct Costs of Hotels,391502000,2015-12-31
+Direct Costs of Hotels,415398000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",51567000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",69743000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",74661000,2016-12-31
+Amortization of Air Rights Contract,520000,2014-12-31
+Amortization of Air Rights Contract,520000,2015-12-31
+Amortization of Air Rights Contract,520000,2016-12-31
+General and Administrative Expense,15557000,2014-12-31
+General and Administrative Expense,18046000,2015-12-31
+General and Administrative Expense,19167000,2016-12-31
+"Business Combination, Acquisition Related Costs",3622000,2014-12-31
+"Business Combination, Acquisition Related Costs",854000,2015-12-31
+"Business Combination, Acquisition Related Costs",0,2016-12-31
+Costs and Expenses,396148000,2014-12-31
+Costs and Expenses,103907000,2015-03-31
+Costs and Expenses,125592000,2015-06-30
+Costs and Expenses,129241000,2015-09-30
+Costs and Expenses,121925000,2015-12-31
+Costs and Expenses,480665000,2015-12-31
+Costs and Expenses,124285000,2016-03-31
+Costs and Expenses,130153000,2016-06-30
+Costs and Expenses,130298000,2016-09-30
+Costs and Expenses,125010000,2016-12-31
+Costs and Expenses,509746000,2016-12-31
+Operating Income (Loss),81832000,2014-12-31
+Operating Income (Loss),5383000,2015-03-31
+Operating Income (Loss),36553000,2015-06-30
+Operating Income (Loss),35768000,2015-09-30
+Operating Income (Loss),24255000,2015-12-31
+Operating Income (Loss),101959000,2015-12-31
+Operating Income (Loss),16326000,2016-03-31
+Operating Income (Loss),39278000,2016-06-30
+Operating Income (Loss),34231000,2016-09-30
+Operating Income (Loss),20118000,2016-12-31
+Operating Income (Loss),109953000,2016-12-31
+"Investment Income, Interest",8000,2014-12-31
+"Investment Income, Interest",0,2015-12-31
+"Investment Income, Interest",0,2016-12-31
+Interest Expense,27357000,2014-12-31
+Interest Expense,31856000,2015-12-31
+Interest Expense,31846000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,7006000,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,598000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",61489000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",70103000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",78705000,2016-12-31
+Income Tax Expense (Benefit),535000,2014-12-31
+Income Tax Expense (Benefit),2595000,2015-12-31
+Income Tax Expense (Benefit),1999000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",60954000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1552000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",24045000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",27180000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",14731000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",67508000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",10070000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",28542000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",25947000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",12147000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",76706000,2016-12-31
+"Preferred Stock Dividends, Income Statement Impact",9688000,2014-12-31
+"Preferred Stock Dividends, Income Statement Impact",9688000,2015-12-31
+"Preferred Stock Dividends, Income Statement Impact",9688000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",51266000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",57820000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",67018000,2016-12-31
+"Earnings Per Share, Basic",1.01,2014-12-31
+"Earnings Per Share, Basic",-0.02,2015-03-31
+"Earnings Per Share, Basic",0.37,2015-06-30
+"Earnings Per Share, Basic",0.42,2015-09-30
+"Earnings Per Share, Basic",0.21,2015-12-31
+"Earnings Per Share, Basic",1.00,2015-12-31
+"Earnings Per Share, Basic",1.13,2016-12-31
+"Earnings Per Share, Diluted",1.00,2014-12-31
+"Earnings Per Share, Diluted",-0.02,2015-03-31
+"Earnings Per Share, Diluted",0.36,2015-06-30
+"Earnings Per Share, Diluted",0.42,2015-09-30
+"Earnings Per Share, Diluted",0.21,2015-12-31
+"Earnings Per Share, Diluted",0.99,2015-12-31
+"Earnings Per Share, Diluted",1.13,2016-12-31

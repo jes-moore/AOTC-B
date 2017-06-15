@@ -1,0 +1,171 @@
+Metric,Amount,endDate
+Profit Loss,726808000,2014-12-31
+Profit Loss,166070000,2015-03-31
+Profit Loss,778473000,2015-12-31
+Profit Loss,246168000,2015-06-30
+Profit Loss,163333000,2015-09-30
+Profit Loss,202902000,2015-12-31
+Profit Loss,339946000,2016-03-31
+Profit Loss,847448000,2016-12-31
+Profit Loss,233352000,2016-06-30
+Profit Loss,181841000,2016-09-30
+Profit Loss,92309000,2016-12-31
+Depreciation,73849000,2014-12-31
+Depreciation,19411000,2015-03-31
+Depreciation,73112000,2015-12-31
+Depreciation,14842000,2015-06-30
+Depreciation,18399000,2015-09-30
+Depreciation,20460000,2015-12-31
+Depreciation,17297000,2016-03-31
+Depreciation,71559000,2016-12-31
+Depreciation,16089000,2016-06-30
+Depreciation,20370000,2016-09-30
+Depreciation,17803000,2016-12-31
+Amortization Of Intangible Assets,55603000,2014-12-31
+Amortization Of Intangible Assets,11695000,2015-03-31
+Amortization Of Intangible Assets,68647000,2015-12-31
+Amortization Of Intangible Assets,11640000,2015-06-30
+Amortization Of Intangible Assets,22932000,2015-09-30
+Amortization Of Intangible Assets,22380000,2015-12-31
+Amortization Of Intangible Assets,31062000,2016-03-31
+Amortization Of Intangible Assets,123442000,2016-12-31
+Amortization Of Intangible Assets,25654000,2016-06-30
+Amortization Of Intangible Assets,25771000,2016-09-30
+Amortization Of Intangible Assets,40955000,2016-12-31
+Goodwill Impairment Loss,0,2015-12-31
+Goodwill Impairment Loss,57878000,2016-12-31
+Goodwill Impairment Loss,57878000,2016-12-31
+Impairment Of Investments,10701000,2016-12-31
+Programs And Program Licenses Costs,621210000,2014-12-31
+Programs And Program Licenses Costs,783456000,2015-12-31
+Programs And Program Licenses Costs,934419000,2016-12-31
+Program Payments,725582000,2014-12-31
+Program Payments,875554000,2015-12-31
+Program Payments,915486000,2016-12-31
+Income Loss From Equity Method Investments,85631000,2014-12-31
+Income Loss From Equity Method Investments,18945000,2015-03-31
+Income Loss From Equity Method Investments,80916000,2015-12-31
+Income Loss From Equity Method Investments,27290000,2015-06-30
+Income Loss From Equity Method Investments,23392000,2015-09-30
+Income Loss From Equity Method Investments,11289000,2015-12-31
+Income Loss From Equity Method Investments,25678000,2016-03-31
+Income Loss From Equity Method Investments,71382000,2016-12-31
+Income Loss From Equity Method Investments,21712000,2016-06-30
+Income Loss From Equity Method Investments,8473000,2016-09-30
+Income Loss From Equity Method Investments,15519000,2016-12-31
+Share Based Compensation,35474000,2014-12-31
+Share Based Compensation,29568000,2015-12-31
+Share Based Compensation,35198000,2016-12-31
+Gain Loss On Sale Of Derivatives,2810000,2014-12-31
+Gain Loss On Sale Of Derivatives,5933000,2015-03-31
+Gain Loss On Sale Of Derivatives,50256000,2015-12-31
+Gain Loss On Sale Of Derivatives,37198000,2015-06-30
+Gain Loss On Sale Of Derivatives,4037000,2015-09-30
+Gain Loss On Sale Of Derivatives,3088000,2015-12-31
+Gain Loss On Sale Of Derivatives,2766000,2016-03-31
+Gain Loss On Sale Of Derivatives,17868000,2016-12-31
+Gain Loss On Sale Of Derivatives,8267000,2016-06-30
+Gain Loss On Sale Of Derivatives,2827000,2016-09-30
+Gain Loss On Sale Of Derivatives,4008000,2016-12-31
+Gain Loss On Sale Of Investments,208197000,2016-03-31
+Gain Loss On Sale Of Investments,191824000,2016-12-31
+Gain Loss On Sale Of Investments,-16373000,2016-06-30
+Equity Method Investment Dividends Or Distributions,104185000,2014-12-31
+Equity Method Investment Dividends Or Distributions,93624000,2015-12-31
+Equity Method Investment Dividends Or Distributions,65277000,2016-12-31
+Deferred Income Tax Expense Benefit,7175000,2014-12-31
+Deferred Income Tax Expense Benefit,-24678000,2015-12-31
+Deferred Income Tax Expense Benefit,-10427000,2016-12-31
+Increase Decrease In Accounts Receivable,10932000,2014-12-31
+Increase Decrease In Accounts Receivable,79070000,2015-12-31
+Increase Decrease In Accounts Receivable,2462000,2016-12-31
+Increase Decrease In Other Operating Assets,2188000,2014-12-31
+Increase Decrease In Other Operating Assets,12702000,2015-12-31
+Increase Decrease In Other Operating Assets,17657000,2016-12-31
+Increase Decrease In Accounts Payable Trade,3593000,2014-12-31
+Increase Decrease In Accounts Payable Trade,-1501000,2015-12-31
+Increase Decrease In Accounts Payable Trade,8887000,2016-12-31
+Increase Decrease In Deferred Revenue,-19258000,2014-12-31
+Increase Decrease In Deferred Revenue,44040000,2015-12-31
+Increase Decrease In Deferred Revenue,-17150000,2016-12-31
+Increase Decrease In Accrued Income Taxes Payable,-18947000,2014-12-31
+Increase Decrease In Accrued Income Taxes Payable,41201000,2015-12-31
+Increase Decrease In Accrued Income Taxes Payable,29480000,2016-12-31
+Increase Decrease In Other Operating Liabilities,9548000,2014-12-31
+Increase Decrease In Other Operating Liabilities,32360000,2015-12-31
+Increase Decrease In Other Operating Liabilities,11790000,2016-12-31
+Increase Decrease In Other Operating Capital Net,-17716000,2014-12-31
+Increase Decrease In Other Operating Capital Net,6820000,2015-12-31
+Increase Decrease In Other Operating Capital Net,2997000,2016-12-31
+Net Cash Provided By Used In Operating Activities Continuing Operations,789813000,2014-12-31
+Net Cash Provided By Used In Operating Activities Continuing Operations,812984000,2015-12-31
+Net Cash Provided By Used In Operating Activities Continuing Operations,948826000,2016-12-31
+Payments To Acquire Property Plant And Equipment,53775000,2014-12-31
+Payments To Acquire Property Plant And Equipment,52480000,2015-12-31
+Payments To Acquire Property Plant And Equipment,74406000,2016-12-31
+Proceeds From Sale And Collection Of Notes Receivable,4481000,2014-12-31
+Proceeds From Sale And Collection Of Notes Receivable,4655000,2015-12-31
+Proceeds From Sale And Collection Of Notes Receivable,4073000,2016-12-31
+Payments To Acquire Longterm Investments,17042000,2014-12-31
+Payments To Acquire Longterm Investments,35023000,2015-12-31
+Payments To Acquire Longterm Investments,15916000,2016-12-31
+Proceeds From Sales Of Assets Investing Activities,226484000,2016-12-31
+Payments To Acquire Businesses And Interest In Affiliates,539309000,2015-12-31
+Payments To Acquire Businesses And Interest In Affiliates,450000,2016-12-31
+Payments To Acquire Intangible Assets,11634000,2016-12-31
+Foreign Currency Call Option Premium,16000000,2015-12-31
+Proceeds From Derivative Instrument Investing Activities,65824000,2015-12-31
+Proceeds From Derivative Instrument Investing Activities,18482000,2016-12-31
+Payments For Proceeds From Other Investing Activities,12001000,2014-12-31
+Payments For Proceeds From Other Investing Activities,32167000,2015-12-31
+Payments For Proceeds From Other Investing Activities,5902000,2016-12-31
+Net Cash Provided By Used In Investing Activities Continuing Operations,-78337000,2014-12-31
+Net Cash Provided By Used In Investing Activities Continuing Operations,-604500000,2015-12-31
+Net Cash Provided By Used In Investing Activities Continuing Operations,140731000,2016-12-31
+Proceeds From Issuance Of Long Term Debt,1189555000,2014-12-31
+Proceeds From Issuance Of Long Term Debt,3180764000,2015-12-31
+Proceeds From Issuance Of Long Term Debt,475000000,2016-12-31
+Repayments Of Long Term Debt,195000000,2014-12-31
+Repayments Of Long Term Debt,1930000000,2015-12-31
+Repayments Of Long Term Debt,890000000,2016-12-31
+Payments Of Debt Issuance Costs,9026000,2014-12-31
+Payments Of Debt Issuance Costs,14491000,2015-12-31
+Repayments Of Notes Payable,652104000,2015-12-31
+Repayments Of Notes Payable,380648000,2016-12-31
+Business Combination Consideration Transferred1,853853000,2015-12-31
+Business Combination Consideration Transferred1,103500000,2016-12-31
+Payments Of Dividends Minority Interest,216860000,2014-12-31
+Payments Of Dividends Minority Interest,189539000,2015-12-31
+Payments Of Dividends Minority Interest,157687000,2016-12-31
+Payments Of Dividends Common Stock,112943000,2014-12-31
+Payments Of Dividends Common Stock,118857000,2015-12-31
+Payments Of Dividends Common Stock,129725000,2016-12-31
+Proceeds From Stock Options Exercised,39605000,2014-12-31
+Proceeds From Stock Options Exercised,9207000,2015-12-31
+Proceeds From Stock Options Exercised,15110000,2016-12-31
+Proceeds From Payments For Other Financing Activities,-13600000,2014-12-31
+Proceeds From Payments For Other Financing Activities,-18368000,2015-12-31
+Proceeds From Payments For Other Financing Activities,-3993000,2016-12-31
+Net Cash Provided By Used In Financing Activities Continuing Operations,-517231000,2014-12-31
+Net Cash Provided By Used In Financing Activities Continuing Operations,-875743000,2015-12-31
+Net Cash Provided By Used In Financing Activities Continuing Operations,-1175443000,2016-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,-2452000,2014-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,12539000,2015-12-31
+Effect Of Exchange Rate On Cash And Cash Equivalents,-14621000,2016-12-31
+Cash And Cash Equivalents Period Increase Decrease,191793000,2014-12-31
+Cash And Cash Equivalents Period Increase Decrease,-654720000,2015-12-31
+Cash And Cash Equivalents Period Increase Decrease,-100507000,2016-12-31
+Cash And Cash Equivalents At Carrying Value,686371000,2013-12-31
+Cash And Cash Equivalents At Carrying Value,878164000,2014-12-31
+Cash And Cash Equivalents At Carrying Value,223444000,2015-12-31
+Cash And Cash Equivalents At Carrying Value,122937000,2016-12-31
+Cash And Cash Equivalents At Carrying Value,686371000,2013-12-31
+Cash And Cash Equivalents At Carrying Value,878164000,2014-12-31
+Cash And Cash Equivalents At Carrying Value,223444000,2015-12-31
+Cash And Cash Equivalents At Carrying Value,122937000,2016-12-31
+Interest Paid Net,45917000,2014-12-31
+Interest Paid Net,95336000,2015-12-31
+Interest Paid Net,131158000,2016-12-31
+Income Taxes Paid Net,309519000,2014-12-31
+Income Taxes Paid Net,318920000,2015-12-31
+Income Taxes Paid Net,408275000,2016-12-31

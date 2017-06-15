@@ -1,0 +1,125 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,493825000,2015-01-03
+Net Income (Loss) Attributable to Parent,148112000,2015-04-25
+Net Income (Loss) Attributable to Parent,149998000,2015-07-18
+Net Income (Loss) Attributable to Parent,120469000,2015-10-10
+Net Income (Loss) Attributable to Parent,54819000,2016-01-02
+Net Income (Loss) Attributable to Parent,473398000,2016-01-02
+Net Income (Loss) Attributable to Parent,158813000,2016-04-23
+Net Income (Loss) Attributable to Parent,124600000,2016-07-16
+Net Income (Loss) Attributable to Parent,113844000,2016-10-08
+Net Income (Loss) Attributable to Parent,62365000,2016-12-31
+Net Income (Loss) Attributable to Parent,459622000,2016-12-31
+"Depreciation, Depletion and Amortization",284693000,2015-01-03
+"Depreciation, Depletion and Amortization",269476000,2016-01-02
+"Depreciation, Depletion and Amortization",258387000,2016-12-31
+Share-based Compensation,21705000,2015-01-03
+Share-based Compensation,36929000,2016-01-02
+Share-based Compensation,20452000,2016-12-31
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-13281000,2015-01-03
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-12882000,2016-01-02
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-5999000,2016-12-31
+Other Noncash Income (Expense),-2631000,2015-01-03
+Other Noncash Income (Expense),-2660000,2016-01-02
+Other Noncash Income (Expense),2039000,2016-12-31
+Deferred Income Tax Expense (Benefit),48468000,2015-01-03
+Deferred Income Tax Expense (Benefit),-9219000,2016-01-02
+Deferred Income Tax Expense (Benefit),20213000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",10487000,2015-01-03
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",13002000,2016-01-02
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",22429000,2016-12-31
+Increase (Decrease) in Accounts Receivable,48209000,2015-01-03
+Increase (Decrease) in Accounts Receivable,21476000,2016-01-02
+Increase (Decrease) in Accounts Receivable,41642000,2016-12-31
+Increase (Decrease) in Inventories,227657000,2015-01-03
+Increase (Decrease) in Inventories,244096000,2016-01-02
+Increase (Decrease) in Inventories,144603000,2016-12-31
+Increase (Decrease) in Other Operating Assets,63482000,2015-01-03
+Increase (Decrease) in Other Operating Assets,-7423000,2016-01-02
+Increase (Decrease) in Other Operating Assets,-14421000,2016-12-31
+Increase (Decrease) in Accounts Payable,216412000,2015-01-03
+Increase (Decrease) in Accounts Payable,119164000,2016-01-02
+Increase (Decrease) in Accounts Payable,-119325000,2016-12-31
+Increase (Decrease) in Accrued Liabilities,-28862000,2015-01-03
+Increase (Decrease) in Accrued Liabilities,35103000,2016-01-02
+Increase (Decrease) in Accrued Liabilities,49341000,2016-12-31
+Increase (Decrease) in Other Operating Liabilities,6673000,2015-01-03
+Increase (Decrease) in Other Operating Liabilities,20400000,2016-01-02
+Increase (Decrease) in Other Operating Liabilities,2477000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,708991000,2015-01-03
+Net Cash Provided by (Used in) Operating Activities,689642000,2016-01-02
+Net Cash Provided by (Used in) Operating Activities,500874000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",228446000,2015-01-03
+"Payments to Acquire Property, Plant, and Equipment",234747000,2016-01-02
+"Payments to Acquire Property, Plant, and Equipment",259559000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",2060783000,2015-01-03
+"Payments to Acquire Businesses, Net of Cash Acquired",18889000,2016-01-02
+"Payments to Acquire Businesses, Net of Cash Acquired",4697000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",992000,2015-01-03
+"Proceeds from Sale of Property, Plant, and Equipment",270000,2016-01-02
+"Proceeds from Sale of Property, Plant, and Equipment",2212000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-2288237000,2015-01-03
+Net Cash Provided by (Used in) Investing Activities,-253366000,2016-01-02
+Net Cash Provided by (Used in) Investing Activities,-262044000,2016-12-31
+Proceeds from (Repayments of) Bank Overdrafts,16219000,2015-01-03
+Proceeds from (Repayments of) Bank Overdrafts,-2922000,2016-01-02
+Proceeds from (Repayments of) Bank Overdrafts,-5573000,2016-12-31
+Proceeds from Lines of Credit,2238200000,2015-01-03
+Proceeds from Lines of Credit,618300000,2016-01-02
+Proceeds from Lines of Credit,799600000,2016-12-31
+Repayments of Lines of Credit,1654800000,2015-01-03
+Repayments of Lines of Credit,1041700000,2016-01-02
+Repayments of Lines of Credit,959600000,2016-12-31
+Payments of Dividends,17580000,2015-01-03
+Payments of Dividends,17649000,2016-01-02
+Payments of Dividends,17738000,2016-12-31
+Proceeds from Issuance of Common Stock,6578000,2015-01-03
+Proceeds from Issuance of Common Stock,5174000,2016-01-02
+Proceeds from Issuance of Common Stock,4532000,2016-12-31
+Payments Related to Tax Withholding for Share-based Compensation,7102000,2015-01-03
+Payments Related to Tax Withholding for Share-based Compensation,13112000,2016-01-02
+Payments Related to Tax Withholding for Share-based Compensation,19558000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",10487000,2015-01-03
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",13002000,2016-01-02
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",22429000,2016-12-31
+Payments for Repurchase of Common Stock,5154000,2015-01-03
+Payments for Repurchase of Common Stock,6665000,2016-01-02
+Payments for Repurchase of Common Stock,18393000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",-10047000,2015-01-03
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2016-01-02
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",0,2016-12-31
+Proceeds from (Payments for) Other Financing Activities,-890000,2015-01-03
+Proceeds from (Payments for) Other Financing Activities,-380000,2016-01-02
+Proceeds from (Payments for) Other Financing Activities,-390000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,575911000,2015-01-03
+Net Cash Provided by (Used in) Financing Activities,-445952000,2016-01-02
+Net Cash Provided by (Used in) Financing Activities,-194691000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-4465000,2015-01-03
+Effect of Exchange Rate on Cash and Cash Equivalents,-4213000,2016-01-02
+Effect of Exchange Rate on Cash and Cash Equivalents,257000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-1007800000,2015-01-03
+"Cash and Cash Equivalents, Period Increase (Decrease)",-13889000,2016-01-02
+"Cash and Cash Equivalents, Period Increase (Decrease)",44396000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",1112471000,2013-12-28
+"Cash and Cash Equivalents, at Carrying Value",104671000,2015-01-03
+"Cash and Cash Equivalents, at Carrying Value",90782000,2016-01-02
+"Cash and Cash Equivalents, at Carrying Value",135178000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",1112471000,2013-12-28
+"Cash and Cash Equivalents, at Carrying Value",104671000,2015-01-03
+"Cash and Cash Equivalents, at Carrying Value",90782000,2016-01-02
+"Cash and Cash Equivalents, at Carrying Value",135178000,2016-12-31
+"Interest Paid, Net",71109000,2015-01-03
+"Interest Paid, Net",62371000,2016-01-02
+"Interest Paid, Net",55457000,2016-12-31
+"Income Taxes Paid, Net",268624000,2015-01-03
+"Income Taxes Paid, Net",254408000,2016-01-02
+"Income Taxes Paid, Net",225327000,2016-12-31
+"Noncash or Part Noncash Acquisition, Fixed Assets Acquired",28877000,2015-01-03
+"Noncash or Part Noncash Acquisition, Fixed Assets Acquired",44038000,2016-01-02
+"Noncash or Part Noncash Acquisition, Fixed Assets Acquired",21176000,2016-12-31
+Changes in other comprehensive income arising from all post retirement benefit activity,-752000,2015-01-03
+Changes in other comprehensive income arising from all post retirement benefit activity,-445000,2016-01-02
+Changes in other comprehensive income arising from all post retirement benefit activity,-534000,2016-12-31
+Declared but unpaid cash dividends,4384000,2015-01-03
+Declared but unpaid cash dividends,4398000,2016-01-02
+Declared but unpaid cash dividends,4424000,2016-12-31

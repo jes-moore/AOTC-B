@@ -1,0 +1,59 @@
+Metric,Amount,endDate
+Cash and cash equivalents,289000,2014-04-30
+Cash and cash equivalents,790000,2015-04-30
+Cash and cash equivalents,602000,2016-04-30
+Cash and cash equivalents,434000,2017-04-30
+Accrued interest on finance receivables,1716000,2016-04-30
+Accrued interest on finance receivables,2098000,2017-04-30
+"Finance receivables, net",293299000,2014-04-30
+"Finance receivables, net",324144000,2015-04-30
+"Finance receivables, net",334793000,2016-04-30
+"Finance receivables, net",357161000,2017-04-30
+Inventory,29879000,2016-04-30
+Inventory,30129000,2017-04-30
+Prepaid expenses and other assets,3302000,2016-04-30
+Prepaid expenses and other assets,3942000,2017-04-30
+"Income taxes receivable, net",894000,2016-04-30
+"Income taxes receivable, net",,2017-04-30
+Goodwill,355000,2016-04-30
+Goodwill,355000,2017-04-30
+"Property and equipment, net",34755000,2016-04-30
+"Property and equipment, net",30139000,2017-04-30
+us-gaap_Assets,406296000,2016-04-30
+us-gaap_Assets,424258000,2017-04-30
+Accounts payable,12313000,2016-04-30
+Accounts payable,11224000,2017-04-30
+Accrued liabilities,11245000,2016-04-30
+Accrued liabilities,13796000,2017-04-30
+"Income tax payable, net",,2016-04-30
+"Income tax payable, net",885000,2017-04-30
+"Deferred income tax liabilities, net",18280000,2016-04-30
+"Deferred income tax liabilities, net",18918000,2017-04-30
+Revolving credit facilities and notes payable,107902000,2016-04-30
+Revolving credit facilities and notes payable,117944000,2017-04-30
+Total liabilities,177079000,2016-04-30
+Total liabilities,190850000,2017-04-30
+Commitments and contingencies (Note L),,2016-04-30
+Commitments and contingencies (Note L),,2017-04-30
+Mandatorily redeemable preferred stock,400000,2016-04-30
+Mandatorily redeemable preferred stock,400000,2017-04-30
+"Preferred stock, par value $.01 per share, 1,000,000 shares authorized none issued or outstanding",,2016-04-30
+"Preferred stock, par value $.01 per share, 1,000,000 shares authorized none issued or outstanding",,2017-04-30
+"Common stock, par value $.01 per share, 50,000,000 shares authorized; 12,927,413 and 12,726,560 issued at April 30, 2017 and April 30, 2016, respectively, of which 7,608,471 and 8,073,820 were outstanding at April 30, 2017 and April 30, 2016, respectively",127000,2016-04-30
+"Common stock, par value $.01 per share, 50,000,000 shares authorized; 12,927,413 and 12,726,560 issued at April 30, 2017 and April 30, 2016, respectively, of which 7,608,471 and 8,073,820 were outstanding at April 30, 2017 and April 30, 2016, respectively",129000,2017-04-30
+Additional paid-in capital,64771000,2016-04-30
+Additional paid-in capital,69284000,2017-04-30
+Retained earnings,305354000,2016-04-30
+Retained earnings,325519000,2017-04-30
+us-gaap_TreasuryStockValue,141535000,2016-04-30
+us-gaap_TreasuryStockValue,162024000,2017-04-30
+us-gaap_StockholdersEquity,228717000,2016-04-30
+us-gaap_StockholdersEquity,232908000,2017-04-30
+Non-controlling interest,100000,2016-04-30
+Non-controlling interest,100000,2017-04-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,213006000,2014-04-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,229132000,2015-04-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,228817000,2016-04-30
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,233008000,2017-04-30
+us-gaap_LiabilitiesAndStockholdersEquity,406296000,2016-04-30
+us-gaap_LiabilitiesAndStockholdersEquity,424258000,2017-04-30

@@ -1,0 +1,148 @@
+Metric,Amount,endDate
+"Revenue, Net",572905000,2015-03-29
+"Revenue, Net",160907000,2015-06-28
+"Revenue, Net",169498000,2015-09-27
+"Revenue, Net",177610000,2016-01-03
+"Revenue, Net",189361000,2016-04-03
+"Revenue, Net",697376000,2016-04-03
+"Revenue, Net",192128000,2016-07-03
+"Revenue, Net",184059000,2016-10-02
+"Revenue, Net",176358000,2017-01-01
+"Revenue, Net",175698000,2017-04-02
+"Revenue, Net",728243000,2017-04-02
+Cost of Goods and Services Sold,227601000,2015-03-29
+Cost of Goods and Services Sold,275722000,2016-04-03
+Cost of Goods and Services Sold,307605000,2017-04-02
+Gross Profit,345304000,2015-03-29
+Gross Profit,99234000,2015-06-28
+Gross Profit,106546000,2015-09-27
+Gross Profit,107911000,2016-01-03
+Gross Profit,107963000,2016-04-03
+Gross Profit,421654000,2016-04-03
+Gross Profit,108349000,2016-07-03
+Gross Profit,106532000,2016-10-02
+Gross Profit,104085000,2017-01-01
+Gross Profit,101672000,2017-04-02
+Gross Profit,420638000,2017-04-02
+Research and Development Expense,127688000,2015-03-29
+Research and Development Expense,148507000,2016-04-03
+Research and Development Expense,165104000,2017-04-02
+"Selling, General and Administrative Expense",106469000,2015-03-29
+"Selling, General and Administrative Expense",136508000,2016-04-03
+"Selling, General and Administrative Expense",145193000,2017-04-02
+Operating Expenses,234157000,2015-03-29
+Operating Expenses,285015000,2016-04-03
+Operating Expenses,310297000,2017-04-02
+Operating Income (Loss),111147000,2015-03-29
+Operating Income (Loss),136639000,2016-04-03
+Operating Income (Loss),110341000,2017-04-02
+Interest Expense,27000,2015-03-29
+Interest Expense,7043000,2016-04-03
+Interest Expense,16878000,2017-04-02
+Other Nonoperating Income (Expense),4818000,2015-03-29
+Other Nonoperating Income (Expense),4268000,2016-04-03
+Other Nonoperating Income (Expense),5822000,2017-04-02
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",115938000,2015-03-29
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",133864000,2016-04-03
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",99285000,2017-04-02
+Income Tax Expense (Benefit),1357000,2015-03-29
+Income Tax Expense (Benefit),-61435000,2016-04-03
+Income Tax Expense (Benefit),-9899000,2017-04-02
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",114581000,2015-03-29
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",38720000,2015-06-28
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",42423000,2015-09-27
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",32545000,2016-01-03
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",81611000,2016-04-03
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",195299000,2016-04-03
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",20947000,2016-07-03
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",24591000,2016-10-02
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",33437000,2017-01-01
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",30209000,2017-04-02
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",109184000,2017-04-02
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",16840000,2015-03-29
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",0,2016-04-03
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",1385000,2017-04-02
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, before Income Tax",-37237000,2015-03-29
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, before Income Tax",-547000,2016-04-03
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, before Income Tax",0,2017-04-02
+"Discontinued Operation, Tax Effect of Gain (Loss) from Disposal of Discontinued Operation",275000,2015-03-29
+"Discontinued Operation, Tax Effect of Gain (Loss) from Disposal of Discontinued Operation",15000,2016-04-03
+"Discontinued Operation, Tax Effect of Gain (Loss) from Disposal of Discontinued Operation",87000,2017-04-02
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-20672000,2015-03-29
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-562000,2015-06-28
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-09-27
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-01-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-04-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-562000,2016-04-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-07-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-10-02
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",1298000,2017-01-01
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2017-04-02
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",1298000,2017-04-02
+Net Income (Loss) Attributable to Parent,93909000,2015-03-29
+Net Income (Loss) Attributable to Parent,38158000,2015-06-28
+Net Income (Loss) Attributable to Parent,42423000,2015-09-27
+Net Income (Loss) Attributable to Parent,32545000,2016-01-03
+Net Income (Loss) Attributable to Parent,81611000,2016-04-03
+Net Income (Loss) Attributable to Parent,194737000,2016-04-03
+Net Income (Loss) Attributable to Parent,20947000,2016-07-03
+Net Income (Loss) Attributable to Parent,24591000,2016-10-02
+Net Income (Loss) Attributable to Parent,34735000,2017-01-01
+Net Income (Loss) Attributable to Parent,30209000,2017-04-02
+Net Income (Loss) Attributable to Parent,110482000,2017-04-02
+"Income (Loss) from Continuing Operations, Per Basic Share",0.77,2015-03-29
+"Income (Loss) from Continuing Operations, Per Basic Share",0.26,2015-06-28
+"Income (Loss) from Continuing Operations, Per Basic Share",0.29,2015-09-27
+"Income (Loss) from Continuing Operations, Per Basic Share",0.23,2016-01-03
+"Income (Loss) from Continuing Operations, Per Basic Share",0.61,2016-04-03
+"Income (Loss) from Continuing Operations, Per Basic Share",1.37,2016-04-03
+"Income (Loss) from Continuing Operations, Per Basic Share",0.16,2016-07-03
+"Income (Loss) from Continuing Operations, Per Basic Share",0.18,2016-10-02
+"Income (Loss) from Continuing Operations, Per Basic Share",0.25,2017-01-01
+"Income (Loss) from Continuing Operations, Per Basic Share",0.23,2017-04-02
+"Income (Loss) from Continuing Operations, Per Basic Share",0.82,2017-04-02
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.14,2015-03-29
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2016-04-03
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.01,2017-04-02
+"Earnings Per Share, Basic",0.63,2015-03-29
+"Earnings Per Share, Basic",0.26,2015-06-28
+"Earnings Per Share, Basic",0.29,2015-09-27
+"Earnings Per Share, Basic",0.23,2016-01-03
+"Earnings Per Share, Basic",0.61,2016-04-03
+"Earnings Per Share, Basic",1.37,2016-04-03
+"Earnings Per Share, Basic",0.16,2016-07-03
+"Earnings Per Share, Basic",0.18,2016-10-02
+"Earnings Per Share, Basic",0.26,2017-01-01
+"Earnings Per Share, Basic",0.23,2017-04-02
+"Earnings Per Share, Basic",0.83,2017-04-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.74,2015-03-29
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.25,2015-06-28
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.28,2015-09-27
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.22,2016-01-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.59,2016-04-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",1.32,2016-04-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.15,2016-07-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.18,2016-10-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.24,2017-01-01
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.22,2017-04-02
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.79,2017-04-02
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.13,2015-03-29
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2016-04-03
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.01,2017-04-02
+"Earnings Per Share, Diluted",0.61,2015-03-29
+"Earnings Per Share, Diluted",0.25,2015-06-28
+"Earnings Per Share, Diluted",0.28,2015-09-27
+"Earnings Per Share, Diluted",0.22,2016-01-03
+"Earnings Per Share, Diluted",0.59,2016-04-03
+"Earnings Per Share, Diluted",1.32,2016-04-03
+"Earnings Per Share, Diluted",0.15,2016-07-03
+"Earnings Per Share, Diluted",0.18,2016-10-02
+"Earnings Per Share, Diluted",0.25,2017-01-01
+"Earnings Per Share, Diluted",0.22,2017-04-02
+"Earnings Per Share, Diluted",0.80,2017-04-02
+"Weighted Average Number of Shares Outstanding, Basic",148714000,2015-03-29
+"Weighted Average Number of Shares Outstanding, Basic",142783000,2016-04-03
+"Weighted Average Number of Shares Outstanding, Basic",133817000,2017-04-02
+"Weighted Average Number of Shares Outstanding, Diluted",153983000,2015-03-29
+"Weighted Average Number of Shares Outstanding, Diluted",147652000,2016-04-03
+"Weighted Average Number of Shares Outstanding, Diluted",137440000,2017-04-02

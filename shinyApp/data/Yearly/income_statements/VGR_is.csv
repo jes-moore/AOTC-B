@@ -1,0 +1,107 @@
+Metric,Amount,endDate
+"Revenue, Net",1591315000,2014-12-31
+"Revenue, Net",360760000,2015-03-31
+"Revenue, Net",416173000,2015-06-30
+"Revenue, Net",449934000,2015-09-30
+"Revenue, Net",430330000,2015-12-31
+"Revenue, Net",1657197000,2015-12-31
+"Revenue, Net",380800000,2016-03-31
+"Revenue, Net",438273000,2016-06-30
+"Revenue, Net",459104000,2016-09-30
+"Revenue, Net",412772000,2016-12-31
+"Revenue, Net",1690949000,2016-12-31
+Cost of Goods and Services Sold,1097060000,2014-12-31
+Cost of Goods and Services Sold,1109727000,2015-12-31
+Cost of Goods and Services Sold,1097344000,2016-12-31
+"Selling, General and Administrative Expense",279342000,2014-12-31
+"Selling, General and Administrative Expense",320221000,2015-12-31
+"Selling, General and Administrative Expense",340567000,2016-12-31
+"Litigation Settlement, Expense",2475000,2014-12-31
+"Litigation Settlement, Expense",20072000,2015-12-31
+"Litigation Settlement, Expense",20000000,2016-12-31
+Restructuring Charges,0,2014-12-31
+Restructuring Charges,7257000,2015-12-31
+Restructuring Charges,41000,2016-12-31
+Operating Income (Loss),212438000,2014-12-31
+Operating Income (Loss),43718000,2015-03-31
+Operating Income (Loss),55803000,2015-06-30
+Operating Income (Loss),69367000,2015-09-30
+Operating Income (Loss),31032000,2015-12-31
+Operating Income (Loss),199920000,2015-12-31
+Operating Income (Loss),62159000,2016-03-31
+Operating Income (Loss),70720000,2016-06-30
+Operating Income (Loss),69364000,2016-09-30
+Operating Income (Loss),30754000,2016-12-31
+Operating Income (Loss),232997000,2016-12-31
+Interest Expense,160991000,2014-12-31
+Interest Expense,120691000,2015-12-31
+Interest Expense,142982000,2016-12-31
+"Embedded Derivative, Gain (Loss) on Embedded Derivative, Net",19409000,2014-12-31
+"Embedded Derivative, Gain (Loss) on Embedded Derivative, Net",24455000,2015-12-31
+"Embedded Derivative, Gain (Loss) on Embedded Derivative, Net",31710000,2016-12-31
+"Debt Instrument, Acceleration of Interest Expense Related to Debt Conversion",5205000,2014-12-31
+"Debt Instrument, Acceleration of Interest Expense Related to Debt Conversion",0,2015-12-31
+"Debt Instrument, Acceleration of Interest Expense Related to Debt Conversion",0,2016-12-31
+Income (Loss) from Equity Method Investments,3140000,2014-12-31
+Income (Loss) from Equity Method Investments,-2681000,2015-12-31
+Income (Loss) from Equity Method Investments,-2754000,2016-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",-11000,2014-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",11138000,2015-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss), Excluding Other than Temporary Impairments",2907000,2016-12-31
+Equity Income (Loss) from Real Estate Ventures,4103000,2014-12-31
+Equity Income (Loss) from Real Estate Ventures,2001000,2015-12-31
+Equity Income (Loss) from Real Estate Ventures,5200000,2016-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net, Available-for-sale Securities",0,2014-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net, Available-for-sale Securities",12846000,2015-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net, Available-for-sale Securities",5381000,2016-12-31
+Other Nonoperating Income (Expense),9396000,2014-12-31
+Other Nonoperating Income (Expense),6409000,2015-12-31
+Other Nonoperating Income (Expense),4732000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",82279000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",107705000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",126429000,2016-12-31
+Income Tax Expense (Benefit),33165000,2014-12-31
+Income Tax Expense (Benefit),41233000,2015-12-31
+Income Tax Expense (Benefit),49163000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",49114000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",66472000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",77266000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,12258000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,7274000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,6139000,2016-12-31
+Net Income (Loss) Attributable to Parent,36856000,2014-12-31
+Net Income (Loss) Attributable to Parent,21221000,2015-03-31
+Net Income (Loss) Attributable to Parent,17607000,2015-06-30
+Net Income (Loss) Attributable to Parent,12466000,2015-09-30
+Net Income (Loss) Attributable to Parent,7904000,2015-12-31
+Net Income (Loss) Attributable to Parent,59198000,2015-12-31
+Net Income (Loss) Attributable to Parent,19338000,2016-03-31
+Net Income (Loss) Attributable to Parent,24015000,2016-06-30
+Net Income (Loss) Attributable to Parent,23175000,2016-09-30
+Net Income (Loss) Attributable to Parent,4599000,2016-12-31
+Net Income (Loss) Attributable to Parent,71127000,2016-12-31
+"Earnings Per Share, Basic",0.32,2014-12-31
+"Earnings Per Share, Basic",0.17,2015-03-31
+"Earnings Per Share, Basic",0.14,2015-06-30
+"Earnings Per Share, Basic",0.10,2015-09-30
+"Earnings Per Share, Basic",0.06,2015-12-31
+"Earnings Per Share, Basic",0.46,2015-12-31
+"Earnings Per Share, Basic",0.15,2016-03-31
+"Earnings Per Share, Basic",0.19,2016-06-30
+"Earnings Per Share, Basic",0.18,2016-09-30
+"Earnings Per Share, Basic",0.04,2016-12-31
+"Earnings Per Share, Basic",0.56,2016-12-31
+"Earnings Per Share, Diluted",0.32,2014-12-31
+"Earnings Per Share, Diluted",0.17,2015-03-31
+"Earnings Per Share, Diluted",0.14,2015-06-30
+"Earnings Per Share, Diluted",0.10,2015-09-30
+"Earnings Per Share, Diluted",0.06,2015-12-31
+"Earnings Per Share, Diluted",0.46,2015-12-31
+"Earnings Per Share, Diluted",0.15,2016-03-31
+"Earnings Per Share, Diluted",0.19,2016-06-30
+"Earnings Per Share, Diluted",0.18,2016-09-30
+"Earnings Per Share, Diluted",0.04,2016-12-31
+"Earnings Per Share, Diluted",0.55,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.40,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",1.47,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",1.54,2016-12-31

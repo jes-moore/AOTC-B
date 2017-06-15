@@ -1,0 +1,121 @@
+Metric,Amount,endDate
+Casino Revenue,59831000,2014-12-31
+Casino Revenue,60463000,2015-12-31
+Casino Revenue,59633000,2016-12-31
+"Food, Beverage, Racing and Other Revenue",9683000,2014-12-31
+"Food, Beverage, Racing and Other Revenue",11171000,2015-12-31
+"Food, Beverage, Racing and Other Revenue",10668000,2016-12-31
+Revenue before Promotional Allowance,69514000,2014-12-31
+Revenue before Promotional Allowance,71634000,2015-12-31
+Revenue before Promotional Allowance,70301000,2016-12-31
+Promotional Allowances,4288000,2014-12-31
+Promotional Allowances,3468000,2015-12-31
+Promotional Allowances,2847000,2016-12-31
+Revenues,65226000,2014-12-31
+Revenues,14525000,2015-03-31
+Revenues,17852000,2015-06-30
+Revenues,19512000,2015-09-30
+Revenues,16277000,2015-12-31
+Revenues,68166000,2015-12-31
+Revenues,16205000,2016-03-31
+Revenues,17405000,2016-06-30
+Revenues,18530000,2016-09-30
+Revenues,15314000,2016-12-31
+Revenues,67454000,2016-12-31
+Casino Expenses,44160000,2014-12-31
+Casino Expenses,44525000,2015-12-31
+Casino Expenses,44238000,2016-12-31
+"Food, Beverage, Racing and Other Cost and Expenses",9986000,2014-12-31
+"Food, Beverage, Racing and Other Cost and Expenses",10493000,2015-12-31
+"Food, Beverage, Racing and Other Cost and Expenses",10174000,2016-12-31
+"Selling, General and Administrative Expense",11599000,2014-12-31
+"Selling, General and Administrative Expense",12648000,2015-12-31
+"Selling, General and Administrative Expense",19692000,2016-12-31
+Project Development Expenses,12207000,2014-12-31
+Project Development Expenses,32514000,2015-12-31
+Project Development Expenses,32500000,2015-12-31
+Project Development Expenses,12970000,2016-12-31
+Project Development Expenses,13000000,2016-12-31
+Share-based Compensation,636000,2014-12-31
+Share-based Compensation,596000,2015-12-31
+Share-based Compensation,2722000,2016-12-31
+Depreciation,1324000,2014-12-31
+Depreciation,1300000,2014-12-31
+Depreciation,1400000,2015-12-31
+Depreciation,1350000,2015-12-31
+Depreciation,1300000,2016-12-31
+Depreciation,1341000,2016-12-31
+Operating Expenses,79912000,2014-12-31
+Operating Expenses,102126000,2015-12-31
+Operating Expenses,91137000,2016-12-31
+Operating Income (Loss),-14686000,2014-12-31
+Operating Income (Loss),-3359000,2015-03-31
+Operating Income (Loss),-7000000,2015-06-30
+Operating Income (Loss),-12486000,2015-09-30
+Operating Income (Loss),-11115000,2015-12-31
+Operating Income (Loss),-33960000,2015-12-31
+Operating Income (Loss),-4764000,2016-03-31
+Operating Income (Loss),-7047000,2016-06-30
+Operating Income (Loss),-5388000,2016-09-30
+Operating Income (Loss),-6484000,2016-12-31
+Operating Income (Loss),-23683000,2016-12-31
+Amortization Of Project Development Costs,91000,2014-12-31
+Amortization Of Project Development Costs,27000,2015-12-31
+Amortization Of Project Development Costs,105000,2016-12-31
+Interest Expense,9128000,2014-12-31
+Interest Expense,2616000,2015-12-31
+Interest Expense,419000,2016-12-31
+"Investment Income, Interest",0,2014-12-31
+"Investment Income, Interest",0,2015-12-31
+"Investment Income, Interest",10000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-23905000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-36603000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-24197000,2016-12-31
+Income Tax Expense (Benefit),7000,2014-12-31
+Income Tax Expense (Benefit),7000,2015-12-31
+Income Tax Expense (Benefit),0,2016-12-31
+Net Income (Loss) Attributable to Parent,-23912000,2014-12-31
+Net Income (Loss) Attributable to Parent,-4047000,2015-03-31
+Net Income (Loss) Attributable to Parent,-7650000,2015-06-30
+Net Income (Loss) Attributable to Parent,-13139000,2015-09-30
+Net Income (Loss) Attributable to Parent,-11774000,2015-12-31
+Net Income (Loss) Attributable to Parent,-36610000,2015-12-31
+Net Income (Loss) Attributable to Parent,-5177000,2016-03-31
+Net Income (Loss) Attributable to Parent,-7045000,2016-06-30
+Net Income (Loss) Attributable to Parent,-5388000,2016-09-30
+Net Income (Loss) Attributable to Parent,-6587000,2016-12-31
+Net Income (Loss) Attributable to Parent,-24197000,2016-12-31
+"Dividends, Preferred Stock, Stock",188000,2014-12-31
+"Dividends, Preferred Stock, Stock",178000,2015-12-31
+"Dividends, Preferred Stock, Stock",168000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-24100000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-36788000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-24365000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",9286000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",10749000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",28221000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",9286000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",10749000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",28221000,2016-12-31
+"Earnings Per Share, Basic",-2.60,2014-12-31
+"Earnings Per Share, Basic",-0.45,2015-03-31
+"Earnings Per Share, Basic",-0.80,2015-06-30
+"Earnings Per Share, Basic",-1.40,2015-09-30
+"Earnings Per Share, Basic",-0.77,2015-12-31
+"Earnings Per Share, Basic",-3.42,2015-12-31
+"Earnings Per Share, Basic",-0.26,2016-03-31
+"Earnings Per Share, Basic",-0.23,2016-06-30
+"Earnings Per Share, Basic",-0.18,2016-09-30
+"Earnings Per Share, Basic",-0.19,2016-12-31
+"Earnings Per Share, Basic",-0.86,2016-12-31
+"Earnings Per Share, Diluted",-2.60,2014-12-31
+"Earnings Per Share, Diluted",-0.45,2015-03-31
+"Earnings Per Share, Diluted",-0.80,2015-06-30
+"Earnings Per Share, Diluted",-1.40,2015-09-30
+"Earnings Per Share, Diluted",-0.77,2015-12-31
+"Earnings Per Share, Diluted",-3.42,2015-12-31
+"Earnings Per Share, Diluted",-0.26,2016-03-31
+"Earnings Per Share, Diluted",-0.23,2016-06-30
+"Earnings Per Share, Diluted",-0.18,2016-09-30
+"Earnings Per Share, Diluted",-0.19,2016-12-31
+"Earnings Per Share, Diluted",-0.86,2016-12-31

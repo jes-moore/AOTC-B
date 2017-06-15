@@ -1,0 +1,105 @@
+Metric,Amount,endDate
+Revenue,443225000,2014-12-31
+Revenue,110324000,2015-03-31
+Revenue,474216000,2015-12-31
+Revenue,116934000,2015-06-30
+Revenue,118444000,2015-09-30
+Revenue,128514000,2015-12-31
+Revenue,119763000,2016-03-31
+Revenue,489720000,2016-12-31
+Revenue,123550000,2016-06-30
+Revenue,124604000,2016-09-30
+Revenue,125590000,2016-12-31
+Compensation,181273000,2014-12-31
+Compensation,178272000,2015-12-31
+Compensation,189271000,2016-12-31
+Data processing,39661000,2014-12-31
+Data processing,40915000,2015-12-31
+Data processing,37337000,2016-12-31
+Occupancy,16950000,2014-12-31
+Occupancy,15766000,2015-12-31
+Occupancy,14000000,2016-12-31
+Direct project expenses,36866000,2014-12-31
+Direct project expenses,51527000,2015-12-31
+Direct project expenses,46254000,2016-12-31
+Other operating expenses,24588000,2014-12-31
+Other operating expenses,28895000,2015-12-31
+Other operating expenses,27778000,2016-12-31
+Amortization of acquisition related software and intangible assets,28612000,2014-12-31
+Amortization of acquisition related software and intangible assets,28148000,2015-12-31
+Amortization of acquisition related software and intangible assets,28030000,2016-12-31
+us-gaap_CostOfServices,327950000,2014-12-31
+us-gaap_CostOfServices,343523000,2015-12-31
+us-gaap_CostOfServices,342670000,2016-12-31
+"Selling, general and administrative expenses",81071000,2014-12-31
+"Selling, general and administrative expenses",83121000,2015-12-31
+"Selling, general and administrative expenses",22930000,2016-03-31
+"Selling, general and administrative expenses",89381000,2016-12-31
+"Selling, general and administrative expenses",22227000,2016-06-30
+"Selling, general and administrative expenses",24875000,2016-09-30
+"Selling, general and administrative expenses",23136000,2016-12-31
+us-gaap_CostsAndExpenses,409021000,2014-12-31
+us-gaap_CostsAndExpenses,426644000,2015-12-31
+us-gaap_CostsAndExpenses,432051000,2016-12-31
+Operating income (loss),34204000,2014-12-31
+Operating income (loss),7981000,2015-03-31
+Operating income (loss),47572000,2015-12-31
+Operating income (loss),11752000,2015-06-30
+Operating income (loss),13016000,2015-09-30
+Operating income (loss),14823000,2015-12-31
+Operating income (loss),9909000,2016-03-31
+Operating income (loss),57669000,2016-12-31
+Operating income (loss),16352000,2016-06-30
+Operating income (loss),12650000,2016-09-30
+Operating income (loss),18758000,2016-12-31
+us-gaap_InterestExpense,7931000,2014-12-31
+us-gaap_InterestExpense,7812000,2015-12-31
+us-gaap_InterestExpense,8519000,2016-12-31
+Interest income,57000,2014-12-31
+Interest income,49000,2015-12-31
+Interest income,321000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,26330000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,39809000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,49471000,2016-12-31
+Income tax expense,12383000,2014-12-31
+Income tax expense,15282000,2015-12-31
+Income tax expense,11835000,2016-12-31
+Net income,13947000,2014-12-31
+Net income,3522000,2015-03-31
+Net income,24527000,2015-12-31
+Net income,5418000,2015-06-30
+Net income,6862000,2015-09-30
+Net income,8725000,2015-12-31
+Net income,4560000,2016-03-31
+Net income,37636000,2016-12-31
+Net income,8566000,2016-06-30
+Net income,13508000,2016-09-30
+Net income,11002000,2016-12-31
+Net income (loss) per common share - basic (in dollars per share),0.16,2014-12-31
+Net income (loss) per common share - basic (in dollars per share),0.04,2015-03-31
+Net income (loss) per common share - basic (in dollars per share),0.28,2015-12-31
+Net income (loss) per common share - basic (in dollars per share),0.06,2015-06-30
+Net income (loss) per common share - basic (in dollars per share),0.08,2015-09-30
+Net income (loss) per common share - basic (in dollars per share),0.10,2015-12-31
+Net income (loss) per common share - basic (in dollars per share),0.05,2016-03-31
+Net income (loss) per common share - basic (in dollars per share),0.45,2016-12-31
+Net income (loss) per common share - basic (in dollars per share),0.10,2016-06-30
+Net income (loss) per common share - basic (in dollars per share),0.16,2016-09-30
+Net income (loss) per common share - basic (in dollars per share),0.14,2016-12-31
+Net income (loss) per common share - diluted (in dollars per share),0.16,2014-12-31
+Net income (loss) per common share - diluted (in dollars per share),0.04,2015-03-31
+Net income (loss) per common share - diluted (in dollars per share),0.28,2015-12-31
+Net income (loss) per common share - diluted (in dollars per share),0.06,2015-06-30
+Net income (loss) per common share - diluted (in dollars per share),0.08,2015-09-30
+Net income (loss) per common share - diluted (in dollars per share),0.10,2015-12-31
+Net income (loss) per common share - diluted (in dollars per share),0.05,2016-03-31
+Net income (loss) per common share - diluted (in dollars per share),0.43,2016-12-31
+Net income (loss) per common share - diluted (in dollars per share),0.10,2016-06-30
+Net income (loss) per common share - diluted (in dollars per share),0.16,2016-09-30
+Net income (loss) per common share - diluted (in dollars per share),0.12,2016-12-31
+Basic (in shares),87673000,2014-12-31
+Basic (in shares),87881000,2015-12-31
+Basic (in shares),84221000,2016-12-31
+Diluted (in shares),88164000,2014-12-31
+Diluted (in shares),88361000,2015-12-31
+Diluted (in shares),86987000,2016-12-31

@@ -1,0 +1,144 @@
+Metric,Amount,endDate
+Depreciation,1528000,2013-12-31
+Depreciation,2562000,2014-12-31
+Depreciation,4347000,2015-12-31
+Amortization,40000,2013-12-31
+Amortization,2147000,2014-12-31
+Amortization,5324000,2015-12-31
+Deferred Income Tax Expense (Benefit),-467000,2013-12-31
+Deferred Income Tax Expense (Benefit),1011000,2014-12-31
+Deferred Income Tax Expense (Benefit),-62000,2015-12-31
+Noncash Interest Expense,64000,2013-12-31
+Noncash Interest Expense,87000,2014-12-31
+Noncash Interest Expense,454000,2015-12-31
+Increase Decrease In Share Based Compensation,1268000,2013-12-31
+Increase Decrease In Share Based Compensation,1254000,2014-12-31
+Increase Decrease In Share Based Compensation,1186000,2015-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",160000,2013-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",204000,2014-12-31
+"Allowance for Doubtful Accounts Receivable, Period Increase (Decrease)",641000,2015-12-31
+Increase Decrease In Inventory Reserve,-649000,2013-12-31
+Increase Decrease In Inventory Reserve,-679000,2014-12-31
+Increase Decrease In Inventory Reserve,-945000,2015-12-31
+Amortization Of Inventory Step Up To Fair Value,482000,2014-12-31
+Amortization Of Inventory Step Up To Fair Value,538000,2015-12-31
+"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Period Increase (Decrease)",28031000,2013-12-31
+"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Period Increase (Decrease)",-6169000,2014-12-31
+"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Period Increase (Decrease)",-9299000,2015-12-31
+Increase Decrease In Contingent Liability,-3840000,2014-12-31
+Increase Decrease In Contingent Liability,48000,2015-12-31
+Income (Loss) from Equity Method Investments,-39000,2013-12-31
+Income (Loss) from Equity Method Investments,-209000,2014-12-31
+Income (Loss) from Equity Method Investments,-229000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-72000,2013-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-284000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-267000,2015-12-31
+Gains (Losses) on Extinguishment of Debt,-270000,2013-12-31
+Increase (Decrease) in Accounts Receivable,5410000,2013-12-31
+Increase (Decrease) in Accounts Receivable,35225000,2014-12-31
+Increase (Decrease) in Accounts Receivable,20526000,2015-12-31
+"Increase (Decrease) in Income Taxes Payable, Net of Income Taxes Receivable",-5230000,2015-12-31
+Increase (Decrease) in Inventories,16667000,2013-12-31
+Increase (Decrease) in Inventories,34125000,2014-12-31
+Increase (Decrease) in Inventories,27336000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,1849000,2013-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,4492000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,83000,2015-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-3687000,2013-12-31
+"Increase (Decrease) in Accounts Payable, Trade",34140000,2014-12-31
+"Increase (Decrease) in Accounts Payable, Trade",8160000,2015-12-31
+Increase (Decrease) in Accrued Liabilities,2763000,2013-12-31
+Increase (Decrease) in Accrued Liabilities,667000,2014-12-31
+Increase (Decrease) in Accrued Liabilities,3195000,2015-12-31
+Increase (Decrease) in Income Taxes Payable,-445000,2013-12-31
+Increase (Decrease) in Income Taxes Payable,585000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,-779000,2015-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,-34000,2013-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,129000,2014-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,654000,2015-12-31
+Proceeds from Issuance of Common Stock,36750000,2013-12-31
+Proceeds from Long-term Lines of Credit,38995000,2013-12-31
+Proceeds from Lines of Credit,74841000,2013-12-31
+Proceeds from Lines of Credit,82402000,2014-12-31
+Proceeds from Lines of Credit,93628000,2015-12-31
+Repayments of Lines of Credit,38945000,2013-12-31
+Proceeds From Exercise Of Private Placement Warrants,4412000,2013-12-31
+Proceeds From Exercise Of Private Placement Warrants,1425000,2014-12-31
+Proceeds From Exercise Of Private Placement Warrants,65000,2015-12-31
+Proceeds from Issuance of Long-term Debt,5000000,2014-12-31
+Proceeds from Issuance of Long-term Debt,55000000,2015-12-31
+Proceeds from (Repayments of) Debt,-972000,2014-12-31
+Proceeds from (Repayments of) Debt,-4028000,2015-12-31
+Payments Related to Tax Withholding for Share-based Compensation,2063000,2013-12-31
+Payments Related to Tax Withholding for Share-based Compensation,430000,2014-12-31
+Payments Related to Tax Withholding for Share-based Compensation,351000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1642000,2013-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",2704000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",65000,2015-12-31
+Payment of Financing and Stock Issuance Costs,3020000,2013-12-31
+Payment of Financing and Stock Issuance Costs,171000,2014-12-31
+Payment of Financing and Stock Issuance Costs,1517000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",24712000,2013-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",67653000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",68503000,2015-12-31
+Payments to Acquire Productive Assets,6007000,2013-12-31
+Payments to Acquire Productive Assets,7239000,2014-12-31
+Payments to Acquire Productive Assets,8174000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",44122000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",34396000,2015-12-31
+Payments to Acquire Interest in Joint Venture,500000,2013-12-31
+Payments to Acquire Interest in Joint Venture,350000,2014-12-31
+Payments to Acquire Interest in Joint Venture,1000000,2015-12-31
+Payments for (Proceeds from) Life Insurance Policies,7000,2013-12-31
+Payments for (Proceeds from) Life Insurance Policies,2000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-6514000,2013-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-51713000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-43570000,2015-12-31
+Net Income (Loss) Attributable to Parent,-18760000,2013-12-31
+Net Income (Loss) Attributable to Parent,23726000,2014-12-31
+Net Income (Loss) Attributable to Parent,14278000,2015-12-31
+Net Income (Loss) Attributable to Parent,2374000,2014-03-31
+Net Income (Loss) Attributable to Parent,-1456000,2015-03-31
+Net Income (Loss) Attributable to Parent,3883000,2014-06-30
+Net Income (Loss) Attributable to Parent,4921000,2015-06-30
+Net Income (Loss) Attributable to Parent,7148000,2014-09-30
+Net Income (Loss) Attributable to Parent,10321000,2014-12-31
+Net Income (Loss) Attributable to Parent,9109000,2015-09-30
+Net Income (Loss) Attributable to Parent,1704000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-12435000,2013-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-15685000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-23049000,2015-12-31
+Noncash Or Part Noncash Unpaid Property Plant Equipment,1552000,2013-12-31
+Noncash Or Part Noncash Unpaid Property Plant Equipment,799000,2014-12-31
+Noncash Or Part Noncash Unpaid Property Plant Equipment,891000,2015-12-31
+Non Cash In Flow Associated With Change In Fair Value Associated With Exercised Warrants,7172000,2013-12-31
+Non Cash In Flow Associated With Change In Fair Value Associated With Exercised Warrants,7320000,2014-12-31
+Non Cash In Flow Associated With Change In Fair Value Associated With Exercised Warrants,255000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",5763000,2013-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",255000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",1884000,2015-12-31
+Cash,543000,2012-12-31
+Cash,6306000,2013-12-31
+Cash,6561000,2014-12-31
+Cash,8445000,2015-12-31
+Cash,543000,2012-12-31
+Cash,6306000,2013-12-31
+Cash,6561000,2014-12-31
+Cash,8445000,2015-12-31
+Fair Value of Assets Acquired,60104000,2014-12-31
+Fair Value of Assets Acquired,50165000,2015-12-31
+Liabilities Assumed,5805000,2014-12-31
+Liabilities Assumed,7029000,2015-12-31
+Fair Value Of Net Assets Acquired,54299000,2014-12-31
+Fair Value Of Net Assets Acquired,43136000,2015-12-31
+Business Acquisition Contingent Consideration,8740000,2015-12-31
+Stock Issued,8900000,2014-12-31
+Cash Acquired from Acquisition,1277000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",44122000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",34396000,2015-12-31
+Interest Paid,660000,2013-12-31
+Interest Paid,1153000,2014-12-31
+Interest Paid,3380000,2015-12-31
+"Income Taxes Paid, Net",4869000,2013-12-31
+"Income Taxes Paid, Net",5333000,2014-12-31
+"Income Taxes Paid, Net",-7125000,2015-12-31

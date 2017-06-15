@@ -1,0 +1,110 @@
+Metric,Amount,endDate
+Net income,73584000,2015-01-31
+Net income,27408000,2015-05-02
+Net income,70528000,2016-01-30
+Net income,7031000,2015-08-01
+Net income,18677000,2015-10-31
+Net income,17411000,2016-01-30
+Net income,27906000,2016-04-30
+Net income,61075000,2017-01-28
+Net income,6510000,2016-07-30
+Net income,14604000,2016-10-29
+Net income,12055000,2017-01-28
+Depreciation and amortization,15990000,2015-01-31
+Depreciation and amortization,17038000,2016-01-30
+Depreciation and amortization,19047000,2017-01-28
+Deferred Income Tax Expense (Benefit),4220000,2015-01-31
+Deferred Income Tax Expense (Benefit),1285000,2016-01-30
+Deferred Income Tax Expense (Benefit),1418000,2017-01-28
+Deferred Tax Expense from Stock Options Exercised,-2911000,2015-01-31
+Deferred Tax Expense from Stock Options Exercised,-900000,2016-01-30
+Deferred Tax Expense from Stock Options Exercised,-99000,2017-01-28
+Gain (Loss) on Disposition of Property Plant Equipment,-181000,2015-01-31
+Gain (Loss) on Disposition of Property Plant Equipment,156000,2016-01-30
+Gain (Loss) on Disposition of Property Plant Equipment,-238000,2017-01-28
+Share-based Compensation,4468000,2015-01-31
+Share-based Compensation,5198000,2016-01-30
+Share-based Compensation,4592000,2017-01-28
+Increase (Decrease) in Accounts Receivable,-117000,2015-01-31
+Increase (Decrease) in Accounts Receivable,106000,2016-01-30
+Increase (Decrease) in Accounts Receivable,879000,2017-01-28
+Increase (Decrease) in Accounts and Other Receivables,-706000,2015-01-31
+Increase (Decrease) in Accounts and Other Receivables,-607000,2016-01-30
+Increase (Decrease) in Accounts and Other Receivables,947000,2017-01-28
+Increase (Decrease) in Inventories,13863000,2015-01-31
+Increase (Decrease) in Inventories,42691000,2016-01-30
+Increase (Decrease) in Inventories,-2398000,2017-01-28
+Increase (Decrease) in Prepaid Expense and Other Assets,-6614000,2015-01-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-2186000,2016-01-30
+Increase (Decrease) in Prepaid Expense and Other Assets,1712000,2017-01-28
+Increase (Decrease) in Other Noncurrent Assets,-46000,2015-01-31
+Increase (Decrease) in Other Noncurrent Assets,443000,2016-01-30
+Increase (Decrease) in Other Noncurrent Assets,-351000,2017-01-28
+Accounts payable,9907000,2015-01-31
+Accounts payable,4017000,2016-01-30
+Accounts payable,-11410000,2017-01-28
+"Increase (Decrease) in Deferred Rent Credit, Noncurrent",2240000,2015-01-31
+"Increase (Decrease) in Deferred Rent Credit, Noncurrent",3076000,2016-01-30
+"Increase (Decrease) in Deferred Rent Credit, Noncurrent",2544000,2017-01-28
+Accrued expenses and other,1093000,2015-01-31
+Accrued expenses and other,-1160000,2016-01-30
+Accrued expenses and other,2059000,2017-01-28
+Net Cash Provided by (Used in) Operating Activities,102392000,2015-01-31
+Net Cash Provided by (Used in) Operating Activities,58479000,2016-01-30
+Net Cash Provided by (Used in) Operating Activities,78675000,2017-01-28
+Payments to Acquire Short-term Investments,90000,2015-01-31
+Payments to Acquire Short-term Investments,-65000,2016-01-30
+Payments to Acquire Short-term Investments,104000,2017-01-28
+Payments to Acquire Productive Assets,22873000,2015-01-31
+Payments to Acquire Productive Assets,25147000,2016-01-30
+Payments to Acquire Productive Assets,29733000,2017-01-28
+"Proceeds from Sale of Property, Plant, and Equipment",320000,2015-01-31
+"Proceeds from Sale of Property, Plant, and Equipment",298000,2016-01-30
+"Proceeds from Sale of Property, Plant, and Equipment",154000,2017-01-28
+Proceeds from insurance,84000,2015-01-31
+Proceeds from insurance,107000,2016-01-30
+Proceeds from insurance,223000,2017-01-28
+Other,0,2015-01-31
+Other,0,2016-01-30
+Other,51000,2017-01-28
+Net Cash Provided by (Used in) Investing Activities,-22559000,2015-01-31
+Net Cash Provided by (Used in) Investing Activities,-24677000,2016-01-30
+Net Cash Provided by (Used in) Investing Activities,-29409000,2017-01-28
+Payments for Repurchase of Equity,56302000,2015-01-31
+Payments for Repurchase of Equity,89212000,2016-01-30
+Payments for Repurchase of Equity,42115000,2017-01-28
+"Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities",377000,2015-01-31
+"Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities",346000,2016-01-30
+"Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities",485000,2017-01-28
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",2911000,2015-01-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",900000,2016-01-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",99000,2017-01-28
+"Employee Service Share-based Compensation, Cash Flow Effect, Cash Used to Settle Awards",-4669000,2015-01-31
+"Employee Service Share-based Compensation, Cash Flow Effect, Cash Used to Settle Awards",-2120000,2016-01-30
+"Employee Service Share-based Compensation, Cash Flow Effect, Cash Used to Settle Awards",-943000,2017-01-28
+Proceeds from options exercised and purchase of shares under the employee stock purchase plan,774000,2015-01-31
+Proceeds from options exercised and purchase of shares under the employee stock purchase plan,853000,2016-01-30
+Proceeds from options exercised and purchase of shares under the employee stock purchase plan,862000,2017-01-28
+Net Cash Provided by (Used in) Financing Activities,-57663000,2015-01-31
+Net Cash Provided by (Used in) Financing Activities,-89925000,2016-01-30
+Net Cash Provided by (Used in) Financing Activities,-42582000,2017-01-28
+"Cash and Cash Equivalents, Period Increase (Decrease)",22170000,2015-01-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-56123000,2016-01-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",6684000,2017-01-28
+"Cash and Cash Equivalents, at Carrying Value",66227000,2014-02-01
+"Cash and Cash Equivalents, at Carrying Value",88397000,2015-01-31
+"Cash and Cash Equivalents, at Carrying Value",32274000,2016-01-30
+"Cash and Cash Equivalents, at Carrying Value",38958000,2017-01-28
+"Cash and Cash Equivalents, at Carrying Value",66227000,2014-02-01
+"Cash and Cash Equivalents, at Carrying Value",88397000,2015-01-31
+"Cash and Cash Equivalents, at Carrying Value",32274000,2016-01-30
+"Cash and Cash Equivalents, at Carrying Value",38958000,2017-01-28
+Interest,306000,2015-01-31
+Interest,308000,2016-01-30
+Interest,285000,2017-01-28
+"Income taxes, net of refunds",32626000,2015-01-31
+"Income taxes, net of refunds",42500000,2016-01-30
+"Income taxes, net of refunds",35057000,2017-01-28
+Property and equipment additions under capital leases,909000,2015-01-31
+Property and equipment additions under capital leases,508000,2016-01-30
+Property and equipment additions under capital leases,342000,2017-01-28

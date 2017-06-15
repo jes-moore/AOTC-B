@@ -1,0 +1,133 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",4343500000,2014-12-31
+"Sales Revenue, Goods, Net",1040100000,2015-03-31
+"Sales Revenue, Goods, Net",1030300000,2015-06-30
+"Sales Revenue, Goods, Net",1018300000,2015-09-30
+"Sales Revenue, Goods, Net",982700000,2015-12-31
+"Sales Revenue, Goods, Net",4071400000,2015-12-31
+"Sales Revenue, Goods, Net",967900000,2016-03-31
+"Sales Revenue, Goods, Net",1021300000,2016-06-30
+"Sales Revenue, Goods, Net",1027200000,2016-09-30
+"Sales Revenue, Goods, Net",988000000,2016-12-31
+"Sales Revenue, Goods, Net",4004400000,2016-12-31
+Cost of Goods Sold,3484400000,2014-12-31
+Cost of Goods Sold,3198000000,2015-12-31
+Cost of Goods Sold,3138200000,2016-12-31
+Gross Profit,859100000,2014-12-31
+Gross Profit,217500000,2015-03-31
+Gross Profit,221200000,2015-06-30
+Gross Profit,221800000,2015-09-30
+Gross Profit,212900000,2015-12-31
+Gross Profit,873400000,2015-12-31
+Gross Profit,208800000,2016-03-31
+Gross Profit,217000000,2016-06-30
+Gross Profit,224800000,2016-09-30
+Gross Profit,215600000,2016-12-31
+Gross Profit,866200000,2016-12-31
+"Selling, General and Administrative Expense",416600000,2014-12-31
+"Selling, General and Administrative Expense",420000000,2015-12-31
+"Selling, General and Administrative Expense",392200000,2016-12-31
+Research and Development Expense,44100000,2014-12-31
+Research and Development Expense,44100000,2015-12-31
+Research and Development Expense,46500000,2016-12-31
+Restructuring and acquisition-related costs,0,2014-12-31
+Restructuring and acquisition-related costs,12100000,2015-12-31
+Restructuring and acquisition-related costs,28600000,2016-12-31
+Restructuring Charges,21600000,2016-12-31
+"Other Operating Income (Expense), Net",9300000,2014-12-31
+"Other Operating Income (Expense), Net",12400000,2015-12-31
+"Other Operating Income (Expense), Net",10400000,2016-12-31
+Operating Income (Loss),407700000,2014-12-31
+Operating Income (Loss),409600000,2015-12-31
+Operating Income (Loss),409300000,2016-12-31
+Interest Expense,60800000,2014-12-31
+Interest Expense,51700000,2015-12-31
+Interest Expense,60200000,2016-12-31
+Nonoperating Income (Expense),16800000,2014-12-31
+Nonoperating Income (Expense),6000000,2015-12-31
+Nonoperating Income (Expense),1800000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",363700000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",363900000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",350900000,2016-12-31
+Income Tax Expense (Benefit),124600000,2014-12-31
+Income Tax Expense (Benefit),122000000,2015-12-31
+Income Tax Expense (Benefit),114700000,2016-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",239100000,2014-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",57000000,2015-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",65600000,2015-06-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",62500000,2015-09-30
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",56800000,2015-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",241900000,2015-12-31
+"Income (Loss) from Continuing Operations, Net of Tax, Attributable to Parent",236200000,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-48000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-2600000,2015-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-06-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-09-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-2600000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2016-12-31
+Net Income (Loss) Attributable to Parent,191100000,2014-12-31
+Net Income (Loss) Attributable to Parent,54400000,2015-03-31
+Net Income (Loss) Attributable to Parent,65600000,2015-06-30
+Net Income (Loss) Attributable to Parent,62500000,2015-09-30
+Net Income (Loss) Attributable to Parent,56800000,2015-12-31
+Net Income (Loss) Attributable to Parent,239300000,2015-12-31
+Net Income (Loss) Attributable to Parent,56200000,2016-03-31
+Net Income (Loss) Attributable to Parent,50900000,2016-06-30
+Net Income (Loss) Attributable to Parent,68600000,2016-09-30
+Net Income (Loss) Attributable to Parent,60500000,2016-12-31
+Net Income (Loss) Attributable to Parent,236200000,2016-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.39,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.58,2015-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.68,2015-06-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.65,2015-09-30
+"Income (Loss) from Continuing Operations, Per Basic Share",0.59,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.50,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",2.51,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.48,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.03,2015-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2015-06-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2015-09-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.03,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2016-12-31
+"Earnings Per Share, Basic",1.91,2014-12-31
+"Earnings Per Share, Basic",0.55,2015-03-31
+"Earnings Per Share, Basic",0.68,2015-06-30
+"Earnings Per Share, Basic",0.65,2015-09-30
+"Earnings Per Share, Basic",0.59,2015-12-31
+"Earnings Per Share, Basic",2.47,2015-12-31
+"Earnings Per Share, Basic",0.59,2016-03-31
+"Earnings Per Share, Basic",0.54,2016-06-30
+"Earnings Per Share, Basic",0.73,2016-09-30
+"Earnings Per Share, Basic",0.65,2016-12-31
+"Earnings Per Share, Basic",2.51,2016-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",2.36,2014-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.58,2015-03-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.67,2015-06-30
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.64,2015-09-30
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.58,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",2.47,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.59,2016-03-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",2.48,2016-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.47,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.03,2015-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2015-06-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2015-09-30
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.03,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2016-12-31
+"Earnings Per Share, Diluted",1.89,2014-12-31
+"Earnings Per Share, Diluted",0.55,2015-03-31
+"Earnings Per Share, Diluted",0.67,2015-06-30
+"Earnings Per Share, Diluted",0.64,2015-09-30
+"Earnings Per Share, Diluted",0.58,2015-12-31
+"Earnings Per Share, Diluted",2.44,2015-12-31
+"Earnings Per Share, Diluted",0.59,2016-03-31
+"Earnings Per Share, Diluted",0.53,2016-06-30
+"Earnings Per Share, Diluted",0.72,2016-09-30
+"Earnings Per Share, Diluted",0.64,2016-12-31
+"Earnings Per Share, Diluted",2.48,2016-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.08,2014-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.12,2015-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.16,2016-12-31

@@ -1,0 +1,102 @@
+Metric,Amount,endDate
+Revenues,920335000,2014-08-31
+Revenues,242676000,2014-11-30
+Revenues,1006768000,2015-08-31
+Revenues,247792000,2015-02-28
+Revenues,254522000,2015-05-31
+Revenues,261779000,2015-08-31
+Revenues,270504000,2015-11-30
+Revenues,1127092000,2016-08-31
+Revenues,281796000,2016-02-29
+Revenues,287501000,2016-05-31
+Revenues,287291000,2016-08-31
+Cost of services,353686000,2014-08-31
+Cost of services,97543000,2014-11-30
+Cost of services,405339000,2015-08-31
+Cost of services,99516000,2015-02-28
+Cost of services,100686000,2015-05-31
+Cost of services,107595000,2015-08-31
+Cost of services,114736000,2015-11-30
+Cost of services,487409000,2016-08-31
+Cost of services,123911000,2016-02-29
+Cost of services,124602000,2016-05-31
+Cost of services,124160000,2016-08-31
+"Selling, general and administrative",264430000,2014-08-31
+"Selling, general and administrative",64873000,2014-11-30
+"Selling, general and administrative",269511000,2015-08-31
+"Selling, general and administrative",67628000,2015-02-28
+"Selling, general and administrative",68480000,2015-05-31
+"Selling, general and administrative",68531000,2015-08-31
+"Selling, general and administrative",68460000,2015-11-30
+"Selling, general and administrative",290007000,2016-08-31
+"Selling, general and administrative",72541000,2016-02-29
+"Selling, general and administrative",73609000,2016-05-31
+"Selling, general and administrative",75397000,2016-08-31
+us-gaap_OperatingExpenses,618116000,2014-08-31
+us-gaap_OperatingExpenses,674850000,2015-08-31
+us-gaap_OperatingExpenses,777416000,2016-08-31
+us-gaap_OperatingIncomeLoss,302219000,2014-08-31
+us-gaap_OperatingIncomeLoss,80260000,2014-11-30
+us-gaap_OperatingIncomeLoss,331918000,2015-08-31
+us-gaap_OperatingIncomeLoss,80648000,2015-02-28
+us-gaap_OperatingIncomeLoss,85356000,2015-05-31
+us-gaap_OperatingIncomeLoss,85653000,2015-08-31
+us-gaap_OperatingIncomeLoss,87308000,2015-11-30
+us-gaap_OperatingIncomeLoss,349676000,2016-08-31
+us-gaap_OperatingIncomeLoss,85344000,2016-02-29
+us-gaap_OperatingIncomeLoss,89290000,2016-05-31
+us-gaap_OperatingIncomeLoss,87734000,2016-08-31
+Gain on sale of business,,2014-08-31
+Gain on sale of business,,2015-08-31
+Gain on sale of business,112453000,2016-08-31
+"Interest (expense), net of interest income",1245000,2014-08-31
+"Interest (expense), net of interest income",1836000,2015-08-31
+"Interest (expense), net of interest income",-1136000,2016-08-31
+us-gaap_OtherNonoperatingIncomeExpense,1245000,2014-08-31
+us-gaap_OtherNonoperatingIncomeExpense,1836000,2015-08-31
+us-gaap_OtherNonoperatingIncomeExpense,111317000,2016-08-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,303464000,2014-08-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,333754000,2015-08-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,460993000,2016-08-31
+Provision for income taxes,91921000,2014-08-31
+Provision for income taxes,92703000,2015-08-31
+Provision for income taxes,122178000,2016-08-31
+Net income,211543000,2014-08-31
+Net income,55860000,2014-11-30
+Net income,241051000,2015-08-31
+Net income,61598000,2015-02-28
+Net income,61409000,2015-05-31
+Net income,62184000,2015-08-31
+Net income,59965000,2015-11-30
+Net income,338815000,2016-08-31
+Net income,67763000,2016-02-29
+Net income,66781000,2016-05-31
+Net income,144306000,2016-08-31
+Basic earnings per common share (in dollars per share),4.98,2014-08-31
+Basic earnings per common share (in dollars per share),5.80,2015-08-31
+Basic earnings per common share (in dollars per share),8.29,2016-08-31
+Diluted earnings per common share (in dollars per share),4.92,2014-08-31
+Diluted earnings per common share (in dollars per share),1.32,2014-11-30
+Diluted earnings per common share (in dollars per share),5.71,2015-08-31
+Diluted earnings per common share (in dollars per share),1.46,2015-02-28
+Diluted earnings per common share (in dollars per share),1.45,2015-05-31
+Diluted earnings per common share (in dollars per share),1.48,2015-08-31
+Diluted earnings per common share (in dollars per share),1.43,2015-11-30
+Diluted earnings per common share (in dollars per share),8.19,2016-08-31
+Diluted earnings per common share (in dollars per share),1.63,2016-02-29
+Diluted earnings per common share (in dollars per share),1.62,2016-05-31
+Diluted earnings per common share (in dollars per share),3.55,2016-08-31
+Basic weighted average common shares (in shares),42436000,2014-08-31
+Basic weighted average common shares (in shares),41572000,2015-08-31
+Basic weighted average common shares (in shares),40880000,2016-08-31
+Diluted weighted average common shares (in shares),42970000,2014-08-31
+Diluted weighted average common shares (in shares),42340000,2014-11-30
+Diluted weighted average common shares (in shares),42235000,2015-08-31
+Diluted weighted average common shares (in shares),42306000,2015-02-28
+Diluted weighted average common shares (in shares),42297000,2015-05-31
+Diluted weighted average common shares (in shares),41995000,2015-08-31
+Diluted weighted average common shares (in shares),42063000,2015-11-30
+Diluted weighted average common shares (in shares),41365000,2016-08-31
+Diluted weighted average common shares (in shares),41536000,2016-02-29
+Diluted weighted average common shares (in shares),41189000,2016-05-31
+Diluted weighted average common shares (in shares),40673000,2016-08-31

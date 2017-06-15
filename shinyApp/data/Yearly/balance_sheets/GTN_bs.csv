@@ -1,0 +1,75 @@
+Metric,Amount,endDate
+Cash,13478000,2013-12-31
+Cash,30769000,2014-12-31
+Cash,97318000,2015-12-31
+Cash,325189000,2016-12-31
+"Accounts receivable, less allowance for doubtful accounts of $3,163 and $1,794, respectively",121473000,2015-12-31
+"Accounts receivable, less allowance for doubtful accounts of $3,163 and $1,794, respectively",146811000,2016-12-31
+Deferred tax asset,49690000,2015-12-31
+Deferred tax asset,30826000,2016-12-31
+Prepaid taxes,,2015-12-31
+Prepaid taxes,14641000,2016-12-31
+Prepaid and other current assets,6462000,2015-12-31
+Prepaid and other current assets,5109000,2016-12-31
+Total current assets,285454000,2015-12-31
+Total current assets,536311000,2016-12-31
+"Property and equipment, net",234475000,2015-12-31
+"Property and equipment, net",326093000,2016-12-31
+Broadcast licenses,1114626000,2015-12-31
+Broadcast licenses,1340305000,2016-12-31
+Goodwill,374390000,2014-12-31
+Goodwill,423236000,2015-12-31
+Goodwill,485318000,2016-12-31
+"Other intangible assets, net",47802000,2014-12-31
+"Other intangible assets, net",53280000,2015-12-31
+"Other intangible assets, net",56250000,2016-12-31
+Investments in broadcasting and technology companies,13599000,2015-12-31
+Investments in broadcasting and technology companies,16599000,2016-12-31
+us-gaap_OtherAssetsNoncurrent,3038000,2015-12-31
+us-gaap_OtherAssetsNoncurrent,22455000,2016-12-31
+us-gaap_Assets,2127708000,2015-12-31
+us-gaap_Assets,2783331000,2016-12-31
+Accounts payable,4532000,2015-12-31
+Accounts payable,5257000,2016-12-31
+Employee compensation and benefits,28983000,2015-12-31
+Employee compensation and benefits,31367000,2016-12-31
+Accrued interest,12717000,2015-12-31
+Accrued interest,32453000,2016-12-31
+Other accrued expenses,14370000,2015-12-31
+Other accrued expenses,13802000,2016-12-31
+Federal and state income taxes,771000,2015-12-31
+Federal and state income taxes,2916000,2016-12-31
+Deferred revenue,3514000,2015-12-31
+Deferred revenue,4706000,2016-12-31
+Total current liabilities,87617000,2015-12-31
+Total current liabilities,119407000,2016-12-31
+"Long-term debt, less current portion",1220084000,2015-12-31
+"Long-term debt, less current portion",1756747000,2016-12-31
+"Program broadcast obligations, less current portion",2171000,2015-12-31
+"Program broadcast obligations, less current portion",4995000,2016-12-31
+Deferred income taxes,351546000,2015-12-31
+Deferred income taxes,373837000,2016-12-31
+Accrued pension costs,36337000,2015-12-31
+Accrued pension costs,34047000,2016-12-31
+us-gaap_OtherLiabilitiesNoncurrent,679000,2015-12-31
+us-gaap_OtherLiabilitiesNoncurrent,1437000,2016-12-31
+us-gaap_Liabilities,1698434000,2015-12-31
+us-gaap_Liabilities,2290470000,2016-12-31
+Commitments and contingencies (Note 9),,2015-12-31
+Commitments and contingencies (Note 9),,2016-12-31
+Common stock,655446000,2015-12-31
+Common stock,658135000,2016-12-31
+Accumulated deficit,-163638000,2015-12-31
+Accumulated deficit,-101365000,2016-12-31
+"Accumulated other comprehensive loss, net of income tax benefit",-17284000,2015-12-31
+"Accumulated other comprehensive loss, net of income tax benefit",-17645000,2016-12-31
+Stockholders' equity before treasury stock,493849000,2015-12-31
+Stockholders' equity before treasury stock,560889000,2016-12-31
+us-gaap_TreasuryStockValue,41890000,2015-12-31
+us-gaap_TreasuryStockValue,44688000,2016-12-31
+Total stockholders’ equity,174010000,2013-12-31
+Total stockholders’ equity,216192000,2014-12-31
+Total stockholders’ equity,429274000,2015-12-31
+Total stockholders’ equity,492861000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,2127708000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,2783331000,2016-12-31

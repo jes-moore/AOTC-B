@@ -1,0 +1,106 @@
+Metric,Amount,endDate
+Sales Revenue Net,7750500000,2014-12-31
+Sales Revenue Net,1746400000,2015-03-31
+Sales Revenue Net,7031500000,2015-12-31
+Sales Revenue Net,1785000000,2015-06-30
+Sales Revenue Net,1746200000,2015-09-30
+Sales Revenue Net,1753900000,2015-12-31
+Sales Revenue Net,1590600000,2016-03-31
+Sales Revenue Net,6778300000,2016-12-31
+Sales Revenue Net,1727000000,2016-06-30
+Sales Revenue Net,1716600000,2016-09-30
+Sales Revenue Net,1744100000,2016-12-31
+Cost Of Revenue,5062900000,2014-12-31
+Cost Of Revenue,4444900000,2015-12-31
+Cost Of Revenue,4246700000,2016-12-31
+Gross Profit,2687600000,2014-12-31
+Gross Profit,649600000,2015-03-31
+Gross Profit,2586600000,2015-12-31
+Gross Profit,663800000,2015-06-30
+Gross Profit,636600000,2015-09-30
+Gross Profit,636600000,2015-12-31
+Gross Profit,589300000,2016-03-31
+Gross Profit,2531600000,2016-12-31
+Gross Profit,661400000,2016-06-30
+Gross Profit,640000000,2016-09-30
+Gross Profit,640900000,2016-12-31
+Selling General And Administrative Expense,1841300000,2014-12-31
+Selling General And Administrative Expense,1652300000,2015-12-31
+Selling General And Administrative Expense,1604500000,2016-12-31
+Amortization Of Intangible Assets,118900000,2014-12-31
+Amortization Of Intangible Assets,88700000,2015-12-31
+Amortization Of Intangible Assets,94900000,2016-12-31
+Stock Appreciation Rights Income Expense,-8100000,2014-12-31
+Stock Appreciation Rights Income Expense,-3900000,2015-12-31
+Stock Appreciation Rights Income Expense,100000,2016-12-31
+Restructuring Charges,65700000,2014-12-31
+Restructuring Charges,78300000,2015-12-31
+Restructuring Charges,13200000,2016-12-31
+Operating Income Loss,653600000,2014-12-31
+Operating Income Loss,763400000,2015-12-31
+Operating Income Loss,819100000,2016-12-31
+Interest Expense,287700000,2014-12-31
+Interest Expense,227700000,2015-12-31
+Interest Expense,213100000,2016-12-31
+Equity Method Investment Other Than Temporary Impairment,5700000,2014-12-31
+Foreign Currency Transaction Gain Loss Subsidiary Before Tax,-20400000,2014-12-31
+Foreign Currency Transaction Gain Loss Subsidiary Before Tax,-33100000,2015-12-31
+Foreign Currency Transaction Gain Loss Subsidiary Before Tax,-3400000,2016-12-31
+Foreign Currency Cumulative Translation Gain Loss Recognized In Earnings Upon Ceasing Foreign Operations,-46000000,2016-12-31
+Gain Loss Related To Litigation Settlement,21100000,2014-12-31
+Gains Losses On Extinguishment Of Debt,-102500000,2014-12-31
+Gains Losses On Extinguishment Of Debt,-110000000,2015-12-31
+Gains Losses On Extinguishment Of Debt,-100000,2016-12-31
+Gain Loss On Sale Of Business,13400000,2015-12-31
+Gain Loss On Sale Of Business,-1800000,2016-12-31
+Nonoperating Income Expense,8800000,2014-12-31
+Nonoperating Income Expense,19900000,2015-12-31
+Nonoperating Income Expense,11200000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,267200000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,425900000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,565900000,2016-12-31
+Income Tax Expense Benefit,9100000,2014-12-31
+Income Tax Expense Benefit,90500000,2015-12-31
+Income Tax Expense Benefit,79500000,2016-12-31
+Net Income Loss,258100000,2014-12-31
+Net Income Loss,97200000,2015-03-31
+Net Income Loss,335400000,2015-12-31
+Net Income Loss,28100000,2015-06-30
+Net Income Loss,86600000,2015-09-30
+Net Income Loss,123500000,2015-12-31
+Net Income Loss,102400000,2016-03-31
+Net Income Loss,486400000,2016-12-31
+Net Income Loss,49600000,2016-06-30
+Net Income Loss,163300000,2016-09-30
+Net Income Loss,171100000,2016-12-31
+Earnings Per Share Basic,1.22,2014-12-31
+Earnings Per Share Basic,0.46,2015-03-31
+Earnings Per Share Basic,1.63,2015-12-31
+Earnings Per Share Basic,0.13,2015-06-30
+Earnings Per Share Basic,0.43,2015-09-30
+Earnings Per Share Basic,0.63,2015-12-31
+Earnings Per Share Basic,0.51,2016-03-31
+Earnings Per Share Basic,2.49,2016-12-31
+Earnings Per Share Basic,0.25,2016-06-30
+Earnings Per Share Basic,0.84,2016-09-30
+Earnings Per Share Basic,0.89,2016-12-31
+Earnings Per Share Diluted,1.20,2014-12-31
+Earnings Per Share Diluted,0.46,2015-03-31
+Earnings Per Share Diluted,1.62,2015-12-31
+Earnings Per Share Diluted,0.13,2015-06-30
+Earnings Per Share Diluted,0.42,2015-09-30
+Earnings Per Share Diluted,0.62,2015-12-31
+Earnings Per Share Diluted,0.51,2016-03-31
+Earnings Per Share Diluted,2.46,2016-12-31
+Earnings Per Share Diluted,0.25,2016-06-30
+Earnings Per Share Diluted,0.83,2016-09-30
+Earnings Per Share Diluted,0.87,2016-12-31
+Earnings Per Share Basic Distributed,0.52,2014-12-31
+Earnings Per Share Basic Distributed,0.52,2015-12-31
+Earnings Per Share Basic Distributed,0.61,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,210000000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,203900000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,194300000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,213900000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,206700000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,197200000,2016-12-31

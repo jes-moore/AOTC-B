@@ -1,0 +1,98 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,162564000,2015-01-31
+Net Income (Loss) Attributable to Parent,33570000,2015-05-02
+Net Income (Loss) Attributable to Parent,23481000,2015-08-01
+Net Income (Loss) Attributable to Parent,35893000,2015-10-31
+Net Income (Loss) Attributable to Parent,54339000,2016-01-30
+Net Income (Loss) Attributable to Parent,147283000,2016-01-30
+Net Income (Loss) Attributable to Parent,23097000,2016-04-30
+Net Income (Loss) Attributable to Parent,15472000,2016-07-30
+Net Income (Loss) Attributable to Parent,23397000,2016-10-29
+Net Income (Loss) Attributable to Parent,35995000,2017-01-28
+Net Income (Loss) Attributable to Parent,97961000,2017-01-28
+Depreciation,31679000,2015-01-31
+Depreciation,32142000,2016-01-30
+Depreciation,32787000,2017-01-28
+Restricted Stock or Unit Expense,6013000,2015-01-31
+Restricted Stock or Unit Expense,6197000,2016-01-30
+Restricted Stock or Unit Expense,5330000,2017-01-28
+Deferred Income Tax Expense (Benefit),-1675000,2015-01-31
+Deferred Income Tax Expense (Benefit),-1217000,2016-01-30
+Deferred Income Tax Expense (Benefit),-3260000,2017-01-28
+Other Noncash Income (Expense),-1163000,2015-01-31
+Other Noncash Income (Expense),-448000,2016-01-30
+Other Noncash Income (Expense),-1875000,2017-01-28
+Increase (Decrease) in Receivables,2134000,2015-01-31
+Increase (Decrease) in Receivables,389000,2016-01-30
+Increase (Decrease) in Receivables,-3853000,2017-01-28
+Increase (Decrease) in Inventories,5780000,2015-01-31
+Increase (Decrease) in Inventories,19645000,2016-01-30
+Increase (Decrease) in Inventories,-23872000,2017-01-28
+Increase (Decrease) in Prepaid Expense and Other Assets,-3508000,2015-01-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-9722000,2016-01-30
+Increase (Decrease) in Prepaid Expense and Other Assets,-7000,2017-01-28
+Increase (Decrease) in Accounts Payable,-2915000,2015-01-31
+Increase (Decrease) in Accounts Payable,-182000,2016-01-30
+Increase (Decrease) in Accounts Payable,-8314000,2017-01-28
+Increase (Decrease) in Employee Related Liabilities,-13000,2015-01-31
+Increase (Decrease) in Employee Related Liabilities,-3794000,2016-01-30
+Increase (Decrease) in Employee Related Liabilities,-6220000,2017-01-28
+Increase (Decrease) in Other Accrued Liabilities,1000,2015-01-31
+Increase (Decrease) in Other Accrued Liabilities,-3345000,2016-01-30
+Increase (Decrease) in Other Accrued Liabilities,8056000,2017-01-28
+Increase (Decrease) in Gift Card Liability,861000,2015-01-31
+Increase (Decrease) in Gift Card Liability,-1134000,2016-01-30
+Increase (Decrease) in Gift Card Liability,-1659000,2017-01-28
+Increase (Decrease) in Income Taxes Payable,-1970000,2015-01-31
+Increase (Decrease) in Income Taxes Payable,-4441000,2016-01-30
+Increase (Decrease) in Income Taxes Payable,-3610000,2017-01-28
+Increase Decrease In Deferred Compensation Liability And Incentive From Lessor,4466000,2015-01-31
+Increase Decrease In Deferred Compensation Liability And Incentive From Lessor,-2323000,2016-01-30
+Increase Decrease In Deferred Compensation Liability And Incentive From Lessor,-1812000,2017-01-28
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",195768000,2015-01-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",159322000,2016-01-30
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",148866000,2017-01-28
+"Payments to Acquire Property, Plant, and Equipment",45454000,2015-01-31
+"Payments to Acquire Property, Plant, and Equipment",34578000,2016-01-30
+"Payments to Acquire Property, Plant, and Equipment",31663000,2017-01-28
+"Proceeds from Sale of Property, Plant, and Equipment",0,2015-01-31
+"Proceeds from Sale of Property, Plant, and Equipment",199000,2016-01-30
+"Proceeds from Sale of Property, Plant, and Equipment",318000,2017-01-28
+Payments for (Proceeds from) Other Investing Activities,-108000,2015-01-31
+Payments for (Proceeds from) Other Investing Activities,-100000,2016-01-30
+Payments for (Proceeds from) Other Investing Activities,-80000,2017-01-28
+Payments to Acquire Marketable Securities,43404000,2015-01-31
+Payments to Acquire Marketable Securities,29714000,2016-01-30
+Payments to Acquire Marketable Securities,41621000,2017-01-28
+Proceeds from Sale and Maturity of Marketable Securities,38131000,2015-01-31
+Proceeds from Sale and Maturity of Marketable Securities,29135000,2016-01-30
+Proceeds from Sale and Maturity of Marketable Securities,44221000,2017-01-28
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-50619000,2015-01-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-34858000,2016-01-30
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-28665000,2017-01-28
+Proceeds from Stock Options Exercised,70000,2015-01-31
+Proceeds from Stock Options Exercised,0,2016-01-30
+Proceeds from Stock Options Exercised,0,2017-01-28
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",225000,2015-01-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",0,2016-01-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",0,2017-01-28
+Payments for Repurchase of Common Stock,0,2015-01-31
+Payments for Repurchase of Common Stock,3219000,2016-01-30
+Payments for Repurchase of Common Stock,0,2017-01-28
+"Payments of Ordinary Dividends, Common Stock",176604000,2015-01-31
+"Payments of Ordinary Dividends, Common Stock",93768000,2016-01-30
+"Payments of Ordinary Dividends, Common Stock",84850000,2017-01-28
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-176309000,2015-01-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-96987000,2016-01-30
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-84850000,2017-01-28
+"Cash and Cash Equivalents, Period Increase (Decrease)",-31160000,2015-01-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",27477000,2016-01-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",35351000,2017-01-28
+"Cash and Cash Equivalents, at Carrying Value",164868000,2014-02-01
+"Cash and Cash Equivalents, at Carrying Value",133708000,2015-01-31
+"Cash and Cash Equivalents, at Carrying Value",161185000,2016-01-30
+"Cash and Cash Equivalents, at Carrying Value",196536000,2017-01-28
+"Cash and Cash Equivalents, at Carrying Value",164868000,2014-02-01
+"Cash and Cash Equivalents, at Carrying Value",133708000,2015-01-31
+"Cash and Cash Equivalents, at Carrying Value",161185000,2016-01-30
+"Cash and Cash Equivalents, at Carrying Value",196536000,2017-01-28

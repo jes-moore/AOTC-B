@@ -1,0 +1,117 @@
+Metric,Amount,endDate
+Net earnings,957474000,2015-02-28
+Net earnings,158451000,2015-05-30
+Net earnings,841489000,2016-02-27
+Net earnings,201678000,2015-08-29
+Net earnings,177816000,2015-11-28
+Net earnings,303544000,2016-02-27
+Net earnings,122619000,2016-05-28
+Net earnings,685108000,2017-02-25
+Net earnings,167335000,2016-08-27
+Net earnings,126424000,2016-11-26
+Net earnings,268730000,2017-02-25
+Depreciation and amortization,239193000,2015-02-28
+Depreciation and amortization,273947000,2016-02-27
+Depreciation and amortization,290914000,2017-02-25
+us-gaap_ShareBasedCompensation,66539000,2015-02-28
+us-gaap_ShareBasedCompensation,66965000,2016-02-27
+us-gaap_ShareBasedCompensation,71911000,2017-02-25
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,14561000,2015-02-28
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,10370000,2016-02-27
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,1483000,2017-02-25
+Deferred income taxes,-22295000,2015-02-28
+Deferred income taxes,56997000,2016-02-27
+Deferred income taxes,24878000,2017-02-25
+us-gaap_OtherNoncashIncomeExpense,2244000,2015-02-28
+us-gaap_OtherNoncashIncomeExpense,-398000,2016-02-27
+us-gaap_OtherNoncashIncomeExpense,1032000,2017-02-25
+us-gaap_IncreaseDecreaseInInventories,161506000,2015-02-28
+us-gaap_IncreaseDecreaseInInventories,121748000,2016-02-27
+us-gaap_IncreaseDecreaseInInventories,38493000,2017-02-25
+us-gaap_IncreaseDecreaseInTradingSecurities,9530000,2015-02-28
+us-gaap_IncreaseDecreaseInTradingSecurities,2270000,2016-02-27
+us-gaap_IncreaseDecreaseInTradingSecurities,18780000,2017-02-25
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,-19012000,2015-02-28
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,16171000,2016-02-27
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,18464000,2017-02-25
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,254000,2015-02-28
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,27904000,2016-02-27
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,14480000,2017-02-25
+us-gaap_IncreaseDecreaseInAccountsPayable,44563000,2015-02-28
+us-gaap_IncreaseDecreaseInAccountsPayable,-48148000,2016-02-27
+us-gaap_IncreaseDecreaseInAccountsPayable,49458000,2017-02-25
+us-gaap_IncreaseDecreaseInAccruedLiabilities,18494000,2015-02-28
+us-gaap_IncreaseDecreaseInAccruedLiabilities,6694000,2016-02-27
+us-gaap_IncreaseDecreaseInAccruedLiabilities,-8586000,2017-02-25
+bbby_IncreaseDecreaseInMerchandiseCreditAndGiftCardLiabilities,22520000,2015-02-28
+bbby_IncreaseDecreaseInMerchandiseCreditAndGiftCardLiabilities,-7872000,2016-02-27
+bbby_IncreaseDecreaseInMerchandiseCreditAndGiftCardLiabilities,11390000,2017-02-25
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,17656000,2015-02-28
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,-15036000,2016-02-27
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,-8307000,2017-02-25
+bbby_IncreaseDecreaseInDeferredRentAndOtherLiabilities,3428000,2015-02-28
+bbby_IncreaseDecreaseInDeferredRentAndOtherLiabilities,15213000,2016-02-27
+bbby_IncreaseDecreaseInDeferredRentAndOtherLiabilities,17754000,2017-02-25
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,1178489000,2015-02-28
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,1012184000,2016-02-27
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,1041788000,2017-02-25
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,298094000,2015-02-28
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,103017000,2016-02-27
+us-gaap_PaymentsToAcquireHeldToMaturitySecurities,0,2017-02-25
+Redemption of held-to-maturity investment securities,677500000,2015-02-28
+Redemption of held-to-maturity investment securities,126875000,2016-02-27
+Redemption of held-to-maturity investment securities,86240000,2017-02-25
+Redemption of available-for-sale investment securities,,2015-02-28
+Redemption of available-for-sale investment securities,28905000,2016-02-27
+Redemption of available-for-sale investment securities,,2017-02-25
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,330637000,2015-02-28
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,328395000,2016-02-27
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,373574000,2017-02-25
+us-gaap_PaymentsToAcquireInterestInJointVenture,,2015-02-28
+us-gaap_PaymentsToAcquireInterestInJointVenture,0,2016-02-27
+us-gaap_PaymentsToAcquireInterestInJointVenture,3318000,2017-02-25
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2015-02-28
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2016-02-27
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,201277000,2017-02-25
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,48769000,2015-02-28
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-275632000,2016-02-27
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-491929000,2017-02-25
+Proceeds from exercise of stock options,41197000,2015-02-28
+Proceeds from exercise of stock options,9109000,2016-02-27
+Proceeds from exercise of stock options,20424000,2017-02-25
+Proceeds from issuance of senior unsecured notes,1500000000,2015-02-28
+Proceeds from issuance of senior unsecured notes,,2016-02-27
+Proceeds from issuance of senior unsecured notes,,2017-02-25
+us-gaap_PaymentsOfFinancingCosts,10092000,2015-02-28
+us-gaap_PaymentsOfFinancingCosts,,2016-02-27
+us-gaap_PaymentsOfFinancingCosts,,2017-02-25
+us-gaap_RepaymentsOfOtherDebt,,2015-02-28
+us-gaap_RepaymentsOfOtherDebt,7646000,2016-02-27
+us-gaap_RepaymentsOfOtherDebt,,2017-02-25
+Excess tax benefit from stock-based compensation,14561000,2015-02-28
+Excess tax benefit from stock-based compensation,10370000,2016-02-27
+Excess tax benefit from stock-based compensation,1483000,2017-02-25
+us-gaap_PaymentsOfDividends,,2015-02-28
+us-gaap_PaymentsOfDividends,0,2016-02-27
+us-gaap_PaymentsOfDividends,55612000,2017-02-25
+us-gaap_PaymentsForRepurchaseOfCommonStock,10200000000,2017-02-25
+us-gaap_PaymentsForRepurchaseOfCommonStock,2250597000,2015-02-28
+us-gaap_PaymentsForRepurchaseOfCommonStock,1100585000,2016-02-27
+us-gaap_PaymentsForRepurchaseOfCommonStock,547022000,2017-02-25
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-704931000,2015-02-28
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-1088752000,2016-02-27
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,-580727000,2017-02-25
+Effect of exchange rate changes on cash and cash equivalents,-13269000,2015-02-28
+Effect of exchange rate changes on cash and cash equivalents,-7801000,2016-02-27
+Effect of exchange rate changes on cash and cash equivalents,3624000,2017-02-25
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,509058000,2015-02-28
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-360001000,2016-02-27
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-27244000,2017-02-25
+Cash and cash equivalents,366516000,2014-03-01
+Cash and cash equivalents,875574000,2015-02-28
+Cash and cash equivalents,515573000,2016-02-27
+Cash and cash equivalents,488329000,2017-02-25
+Cash and cash equivalents,366516000,2014-03-01
+Cash and cash equivalents,875574000,2015-02-28
+Cash and cash equivalents,515573000,2016-02-27
+Cash and cash equivalents,488329000,2017-02-25

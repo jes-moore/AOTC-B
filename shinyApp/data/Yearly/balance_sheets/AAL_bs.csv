@@ -1,0 +1,82 @@
+Metric,Amount,endDate
+Assets,48415000000,2015-12-31
+Assets,51274000000,2016-12-31
+Cash,1140000000,2013-12-31
+Cash,994000000,2014-12-31
+Cash,390000000,2015-12-31
+Cash,322000000,2016-12-31
+Short-term Investments,5864000000,2015-12-31
+Short-term Investments,6037000000,2016-12-31
+"Restricted Cash and Investments, Current",695000000,2015-12-31
+"Restricted Cash and Investments, Current",638000000,2016-12-31
+"Receivables, Net, Current",1425000000,2015-12-31
+"Receivables, Net, Current",1594000000,2016-12-31
+"Airline Related Inventory, Net",863000000,2015-12-31
+"Airline Related Inventory, Net",1094000000,2016-12-31
+"Prepaid Expense and Other Assets, Current",748000000,2015-12-31
+"Prepaid Expense and Other Assets, Current",639000000,2016-12-31
+"Assets, Current",9985000000,2015-12-31
+"Assets, Current",10324000000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+Liabilities and Equity,48415000000,2015-12-31
+Liabilities and Equity,51274000000,2016-12-31
+"Long-term Debt and Capital Lease Obligations, Current",2231000000,2015-12-31
+"Long-term Debt and Capital Lease Obligations, Current",1855000000,2016-12-31
+"Accounts Payable, Current",1563000000,2015-12-31
+"Accounts Payable, Current",1592000000,2016-12-31
+"Employee-related Liabilities, Current",1205000000,2015-12-31
+"Employee-related Liabilities, Current",1516000000,2016-12-31
+"Air Traffic Liability, Current",3747000000,2015-12-31
+"Air Traffic Liability, Current",3912000000,2016-12-31
+"Frequent Flier Liability, Current",2525000000,2015-12-31
+"Frequent Flier Liability, Current",2789000000,2016-12-31
+"Other Accrued Liabilities, Current",2334000000,2015-12-31
+"Other Accrued Liabilities, Current",2208000000,2016-12-31
+"Liabilities, Current",13605000000,2015-12-31
+"Liabilities, Current",13872000000,2016-12-31
+Long-term Debt and Capital Lease Obligations,18330000000,2015-12-31
+Long-term Debt and Capital Lease Obligations,22489000000,2016-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",7450000000,2015-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",7842000000,2016-12-31
+"Deferred Credits and Other Liabilities, Noncurrent",667000000,2015-12-31
+"Deferred Credits and Other Liabilities, Noncurrent",526000000,2016-12-31
+"Other Liabilities, Noncurrent",2728000000,2015-12-31
+"Other Liabilities, Noncurrent",2760000000,2016-12-31
+"Liabilities, Noncurrent",29175000000,2015-12-31
+"Liabilities, Noncurrent",33617000000,2016-12-31
+Goodwill,4091000000,2015-12-31
+Goodwill,4091000000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",2249000000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",2173000000,2016-12-31
+"Deferred Tax Assets, Net, Noncurrent",2477000000,2015-12-31
+"Deferred Tax Assets, Net, Noncurrent",1498000000,2016-12-31
+"Other Assets, Miscellaneous, Noncurrent",2103000000,2015-12-31
+"Other Assets, Miscellaneous, Noncurrent",2029000000,2016-12-31
+"Other Assets, Noncurrent",10920000000,2015-12-31
+"Other Assets, Noncurrent",9791000000,2016-12-31
+"Flight Equipment, Gross",33185000000,2015-12-31
+"Flight Equipment, Gross",37028000000,2016-12-31
+"Ground Property and Equipment, Gross",6402000000,2015-12-31
+"Ground Property and Equipment, Gross",7116000000,2016-12-31
+Deposits on Flight Equipment,1067000000,2015-12-31
+Deposits on Flight Equipment,1209000000,2016-12-31
+"Property, Plant and Equipment, Gross",40654000000,2015-12-31
+"Property, Plant and Equipment, Gross",45353000000,2016-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",13144000000,2015-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",14194000000,2016-12-31
+"Property, Plant and Equipment, Net",27510000000,2015-12-31
+"Property, Plant and Equipment, Net",31159000000,2016-12-31
+"Common Stock, Value, Issued",6000000,2015-12-31
+"Common Stock, Value, Issued",5000000,2016-12-31
+"Additional Paid in Capital, Common Stock",11591000000,2015-12-31
+"Additional Paid in Capital, Common Stock",7223000000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-4559000000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-4732000000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-5083000000,2016-12-31
+Retained Earnings (Accumulated Deficit),-1230000000,2015-12-31
+Retained Earnings (Accumulated Deficit),1640000000,2016-12-31
+Stockholders' Equity Attributable to Parent,-2731000000,2013-12-31
+Stockholders' Equity Attributable to Parent,2021000000,2014-12-31
+Stockholders' Equity Attributable to Parent,5635000000,2015-12-31
+Stockholders' Equity Attributable to Parent,3785000000,2016-12-31

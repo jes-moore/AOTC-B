@@ -1,0 +1,92 @@
+Metric,Amount,endDate
+Net sales,940162000,2015-01-31
+Net sales,252767000,2015-05-02
+Net sales,983968000,2016-01-30
+Net sales,227822000,2015-08-01
+Net sales,269713000,2015-10-31
+Net sales,233666000,2016-01-30
+Net sales,260470000,2016-04-30
+Net sales,1001102000,2017-01-28
+Net sales,231907000,2016-07-30
+Net sales,274524000,2016-10-29
+Net sales,234201000,2017-01-28
+"Cost of sales (including buying, distribution and occupancy costs)",666483000,2015-01-31
+"Cost of sales (including buying, distribution and occupancy costs)",693452000,2016-01-30
+"Cost of sales (including buying, distribution and occupancy costs)",711867000,2017-01-28
+Gross profit,273679000,2015-01-31
+Gross profit,74689000,2015-05-02
+Gross profit,290516000,2016-01-30
+Gross profit,66274000,2015-08-01
+Gross profit,81317000,2015-10-31
+Gross profit,68236000,2016-01-30
+Gross profit,75556000,2016-04-30
+Gross profit,289235000,2017-01-28
+Gross profit,67230000,2016-07-30
+Gross profit,82010000,2016-10-29
+Gross profit,64439000,2017-01-28
+"Selling, general and administrative expenses",231826000,2015-01-31
+"Selling, general and administrative expenses",243883000,2016-01-30
+"Selling, general and administrative expenses",251323000,2017-01-28
+Operating income,41853000,2015-01-31
+Operating income,17030000,2015-05-02
+Operating income,46633000,2016-01-30
+Operating income,7877000,2015-08-01
+Operating income,15173000,2015-10-31
+Operating income,6553000,2016-01-30
+Operating income,17285000,2016-04-30
+Operating income,37912000,2017-01-28
+Operating income,6660000,2016-07-30
+Operating income,15452000,2016-10-29
+Operating income,-1485000,2017-01-28
+"Investment Income, Interest",14000,2015-01-31
+"Investment Income, Interest",39000,2016-01-30
+"Investment Income, Interest",6000,2017-01-28
+Interest expense,165000,2015-01-31
+Interest expense,168000,2016-01-30
+Interest expense,169000,2017-01-28
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",41702000,2015-01-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",46504000,2016-01-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",37749000,2017-01-28
+Income tax expense,16175000,2015-01-31
+Income tax expense,17737000,2016-01-30
+Income tax expense,14232000,2017-01-28
+Net income,25527000,2015-01-31
+Net income,10396000,2015-05-02
+Net income,28767000,2016-01-30
+Net income,4817000,2015-08-01
+Net income,9386000,2015-10-31
+Net income,4168000,2016-01-30
+Net income,10661000,2016-04-30
+Net income,23517000,2017-01-28
+Net income,23517000,2017-01-28
+Net income,4104000,2016-07-30
+Net income,9672000,2016-10-29
+Net income,-920000,2017-01-28
+Basic,1.27,2015-01-31
+Basic,0.52,2015-05-02
+Basic,1.45,2016-01-30
+Basic,0.24,2015-08-01
+Basic,0.47,2015-10-31
+Basic,0.21,2016-01-30
+Basic,0.56,2016-04-30
+Basic,1.28,2017-01-28
+Basic,0.22,2016-07-30
+Basic,0.54,2016-10-29
+Basic,-0.05,2017-01-28
+Diluted,1.27,2015-01-31
+Diluted,0.52,2015-05-02
+Diluted,1.45,2016-01-30
+Diluted,0.24,2015-08-01
+Diluted,0.47,2015-10-31
+Diluted,0.21,2016-01-30
+Diluted,0.56,2016-04-30
+Diluted,1.28,2017-01-28
+Diluted,0.22,2016-07-30
+Diluted,0.54,2016-10-29
+Diluted,-0.05,2017-01-28
+"Net income available for basic common shares and basic earnings per share, Shares",19777000,2015-01-31
+"Net income available for basic common shares and basic earnings per share, Shares",19417000,2016-01-30
+"Net income available for basic common shares and basic earnings per share, Shares",18017000,2017-01-28
+"Net income available for diluted common shares and diluted earnings per share, Shares",19791000,2015-01-31
+"Net income available for diluted common shares and diluted earnings per share, Shares",19427000,2016-01-30
+"Net income available for diluted common shares and diluted earnings per share, Shares",18022000,2017-01-28

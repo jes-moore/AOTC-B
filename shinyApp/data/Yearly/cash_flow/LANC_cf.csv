@@ -1,0 +1,93 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,74986000,2014-06-30
+Net Income (Loss) Attributable to Parent,22761000,2014-09-30
+Net Income (Loss) Attributable to Parent,32954000,2014-12-31
+Net Income (Loss) Attributable to Parent,20403000,2015-03-31
+Net Income (Loss) Attributable to Parent,25568000,2015-06-30
+Net Income (Loss) Attributable to Parent,101686000,2015-06-30
+Net Income (Loss) Attributable to Parent,27628000,2015-09-30
+Net Income (Loss) Attributable to Parent,34511000,2015-12-31
+Net Income (Loss) Attributable to Parent,29011000,2016-03-31
+Net Income (Loss) Attributable to Parent,30614000,2016-06-30
+Net Income (Loss) Attributable to Parent,121764000,2016-06-30
+"Depreciation, Depletion and Amortization",20407000,2014-06-30
+"Depreciation, Depletion and Amortization",21111000,2015-06-30
+"Depreciation, Depletion and Amortization",24147000,2016-06-30
+Deferred income taxes and other noncash changes,2720000,2014-06-30
+Deferred income taxes and other noncash changes,306000,2015-06-30
+Deferred income taxes and other noncash changes,-525000,2016-06-30
+Share-based Compensation,2472000,2014-06-30
+Share-based Compensation,3040000,2015-06-30
+Share-based Compensation,3326000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1020000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",563000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1417000,2016-06-30
+Gain (Loss) on Disposition of Property Plant Equipment,6000,2014-06-30
+Gain (Loss) on Disposition of Property Plant Equipment,0,2015-06-30
+Gain (Loss) on Disposition of Property Plant Equipment,0,2016-06-30
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",-44033000,2014-06-30
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",0,2015-06-30
+"Discontinued Operation, Gain (Loss) from Disposal of Discontinued Operation, before Income Tax",0,2016-06-30
+Pension Plan Activity,243000,2014-06-30
+Pension Plan Activity,591000,2015-06-30
+Pension Plan Activity,296000,2016-06-30
+Increase (Decrease) in Accounts and Other Receivables,6881000,2014-06-30
+Increase (Decrease) in Accounts and Other Receivables,1900000,2015-06-30
+Increase (Decrease) in Accounts and Other Receivables,3547000,2016-06-30
+Increase (Decrease) in Inventories,-1122000,2014-06-30
+Increase (Decrease) in Inventories,-366000,2015-06-30
+Increase (Decrease) in Inventories,-1802000,2016-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,1147000,2014-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,-5229000,2015-06-30
+Increase (Decrease) in Prepaid Expense and Other Assets,-1445000,2016-06-30
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,-7352000,2014-06-30
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,4088000,2015-06-30
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,-4114000,2016-06-30
+Net Cash Provided by (Used in) Operating Activities,129091000,2014-06-30
+Net Cash Provided by (Used in) Operating Activities,132772000,2015-06-30
+Net Cash Provided by (Used in) Operating Activities,142585000,2016-06-30
+"Payments to Acquire Businesses, Net of Cash Acquired",0,2014-06-30
+"Payments to Acquire Businesses, Net of Cash Acquired",92217000,2015-06-30
+"Payments to Acquire Businesses, Net of Cash Acquired",12000,2016-06-30
+"Payments to Acquire Property, Plant, and Equipment",15961000,2014-06-30
+"Payments to Acquire Property, Plant, and Equipment",18298000,2015-06-30
+"Payments to Acquire Property, Plant, and Equipment",16671000,2016-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",6000,2014-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",0,2015-06-30
+"Proceeds from Sale of Property, Plant, and Equipment",0,2016-06-30
+"Disposal Group, Including Discontinued Operation, Proceeds from Disposal of Business, Net",25600000,2014-01-30
+"Disposal Group, Including Discontinued Operation, Proceeds from Disposal of Business, Net",25610000,2014-06-30
+"Disposal Group, Including Discontinued Operation, Proceeds from Disposal of Business, Net",0,2015-06-30
+"Disposal Group, Including Discontinued Operation, Proceeds from Disposal of Business, Net",0,2016-06-30
+Payments for (Proceeds from) Other Investing Activities,1180000,2014-06-30
+Payments for (Proceeds from) Other Investing Activities,1810000,2015-06-30
+Payments for (Proceeds from) Other Investing Activities,740000,2016-06-30
+Net Cash Provided by (Used in) Investing Activities,8475000,2014-06-30
+Net Cash Provided by (Used in) Investing Activities,-112325000,2015-06-30
+Net Cash Provided by (Used in) Investing Activities,-17423000,2016-06-30
+Payments for Repurchase of Common Stock,3120000,2014-06-30
+Payments for Repurchase of Common Stock,569000,2015-06-30
+Payments for Repurchase of Common Stock,155000,2016-06-30
+"Payments of Ordinary Dividends, Common Stock",46988000,2014-06-30
+"Payments of Ordinary Dividends, Common Stock",49778000,2015-06-30
+"Payments of Ordinary Dividends, Common Stock",190546000,2016-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1020000,2014-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",563000,2015-06-30
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",1417000,2016-06-30
+Increase (Decrease) in Book Overdrafts,-324000,2014-06-30
+Increase (Decrease) in Book Overdrafts,0,2015-06-30
+Increase (Decrease) in Book Overdrafts,0,2016-06-30
+Net Cash Provided by (Used in) Financing Activities,-49412000,2014-06-30
+Net Cash Provided by (Used in) Financing Activities,-49784000,2015-06-30
+Net Cash Provided by (Used in) Financing Activities,-189284000,2016-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",88154000,2014-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",-29337000,2015-06-30
+"Cash and Cash Equivalents, Period Increase (Decrease)",-64122000,2016-06-30
+"Cash and Cash Equivalents, at Carrying Value",123385000,2013-06-30
+"Cash and Cash Equivalents, at Carrying Value",211539000,2014-06-30
+"Cash and Cash Equivalents, at Carrying Value",182202000,2015-06-30
+"Cash and Cash Equivalents, at Carrying Value",118080000,2016-06-30
+"Cash and Cash Equivalents, at Carrying Value",123385000,2013-06-30
+"Cash and Cash Equivalents, at Carrying Value",211539000,2014-06-30
+"Cash and Cash Equivalents, at Carrying Value",182202000,2015-06-30
+"Cash and Cash Equivalents, at Carrying Value",118080000,2016-06-30

@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+Net sales,1737000000,2014-12-31
+Net sales,385000000,2015-03-31
+Net sales,2112000000,2015-12-31
+Net sales,617000000,2015-06-30
+Net sales,575000000,2015-09-30
+Net sales,535000000,2015-12-31
+Net sales,475000000,2016-03-31
+Net sales,2093000000,2016-12-31
+Net sales,537000000,2016-06-30
+Net sales,533000000,2016-09-30
+Net sales,548000000,2016-12-31
+Cost of Goods Sold,1530000000,2014-12-31
+Cost of Goods Sold,350000000,2015-03-31
+Cost of Goods Sold,1992000000,2015-12-31
+Cost of Goods Sold,593000000,2015-06-30
+Cost of Goods Sold,536000000,2015-09-30
+Cost of Goods Sold,513000000,2015-12-31
+Cost of Goods Sold,455000000,2016-03-31
+Cost of Goods Sold,1846000000,2016-12-31
+Cost of Goods Sold,480000000,2016-06-30
+Cost of Goods Sold,453000000,2016-09-30
+Cost of Goods Sold,458000000,2016-12-31
+Gross Profit,207000000,2014-12-31
+Gross Profit,35000000,2015-03-31
+Gross Profit,120000000,2015-12-31
+Gross Profit,24000000,2015-06-30
+Gross Profit,39000000,2015-09-30
+Gross Profit,22000000,2015-12-31
+Gross Profit,20000000,2016-03-31
+Gross Profit,247000000,2016-12-31
+Gross Profit,57000000,2016-06-30
+Gross Profit,80000000,2016-09-30
+Gross Profit,90000000,2016-12-31
+"Selling, General and Administrative Expense",192000000,2014-12-31
+"Selling, General and Administrative Expense",217000000,2015-12-31
+"Selling, General and Administrative Expense",210000000,2016-12-31
+Restructuring expense,15000000,2014-12-31
+Restructuring expense,21000000,2015-12-31
+Restructuring expense,1000000,2016-12-31
+Income from operations,0,2014-12-31
+Income from operations,-118000000,2015-12-31
+Income from operations,36000000,2016-12-31
+Interest and Debt Expense,133000000,2014-12-31
+Interest and Debt Expense,176000000,2015-12-31
+Interest and Debt Expense,184000000,2016-12-31
+Gain Loss On Liquidation Of Subsidiaries,-35000000,2014-12-31
+Gain Loss On Liquidation Of Subsidiaries,0,2015-12-31
+Gain Loss On Liquidation Of Subsidiaries,0,2016-12-31
+Gain (loss) on extinguishment of debt,-8000000,2014-12-31
+Gain (loss) on extinguishment of debt,0,2015-12-31
+Gain (loss) on extinguishment of debt,4000000,2016-12-31
+Other Nonoperating Income (Expense),27000000,2014-12-31
+Other Nonoperating Income (Expense),28000000,2015-12-31
+Other Nonoperating Income (Expense),-29000000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-149000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-266000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-173000000,2016-12-31
+Income Tax Expense (Benefit),268000000,2014-12-31
+Income Tax Expense (Benefit),41000000,2015-12-31
+Income Tax Expense (Benefit),-115000000,2016-12-31
+Net income (loss),-417000000,2014-12-31
+Net income (loss),-46000000,2015-03-31
+Net income (loss),-307000000,2015-12-31
+Net income (loss),-118000000,2015-06-30
+Net income (loss),-54000000,2015-09-30
+Net income (loss),-89000000,2015-12-31
+Net income (loss),-92000000,2016-03-31
+Net income (loss),-58000000,2016-12-31
+Net income (loss),-48000000,2016-06-30
+Net income (loss),-42000000,2016-09-30
+Net income (loss),124000000,2016-12-31
+Less: Net income attributable to noncontrolling interest,10000000,2014-12-31
+Less: Net income attributable to noncontrolling interest,3000000,2015-03-31
+Less: Net income attributable to noncontrolling interest,11000000,2015-12-31
+Less: Net income attributable to noncontrolling interest,1000000,2015-06-30
+Less: Net income attributable to noncontrolling interest,6000000,2015-09-30
+Less: Net income attributable to noncontrolling interest,1000000,2015-12-31
+Less: Net income attributable to noncontrolling interest,-1000000,2016-03-31
+Less: Net income attributable to noncontrolling interest,1000000,2016-12-31
+Less: Net income attributable to noncontrolling interest,2000000,2016-06-30
+Less: Net income attributable to noncontrolling interest,-2000000,2016-09-30
+Less: Net income attributable to noncontrolling interest,2000000,2016-12-31
+Net Income (Loss) Attributable to Parent,-427000000,2014-12-31
+Net Income (Loss) Attributable to Parent,-49000000,2015-03-31
+Net Income (Loss) Attributable to Parent,-318000000,2015-12-31
+Net Income (Loss) Attributable to Parent,-119000000,2015-06-30
+Net Income (Loss) Attributable to Parent,-60000000,2015-09-30
+Net Income (Loss) Attributable to Parent,-90000000,2015-12-31
+Net Income (Loss) Attributable to Parent,-91000000,2016-03-31
+Net Income (Loss) Attributable to Parent,-59000000,2016-12-31
+Net Income (Loss) Attributable to Parent,-50000000,2016-06-30
+Net Income (Loss) Attributable to Parent,-40000000,2016-09-30
+Net Income (Loss) Attributable to Parent,122000000,2016-12-31
+Increase (decrease) in income (loss) per share (in dollars per share),-3.74,2014-12-31
+Increase (decrease) in income (loss) per share (in dollars per share),-0.42,2015-03-31
+Increase (decrease) in income (loss) per share (in dollars per share),-2.75,2015-12-31
+Increase (decrease) in income (loss) per share (in dollars per share),-1.03,2015-06-30
+Increase (decrease) in income (loss) per share (in dollars per share),-0.52,2015-09-30
+Increase (decrease) in income (loss) per share (in dollars per share),-0.78,2015-12-31
+Increase (decrease) in income (loss) per share (in dollars per share),-0.50,2016-12-31
+Weighted-average ordinary shares (in shares),114281000,2014-12-31
+Weighted-average ordinary shares (in shares),115566000,2015-12-31
+Weighted-average ordinary shares (in shares),116161000,2016-12-31

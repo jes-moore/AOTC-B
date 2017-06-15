@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+Revenue,1249000,2014-12-31
+Revenue,375000,2015-03-31
+Revenue,1555000,2015-12-31
+Revenue,400000,2015-06-30
+Revenue,375000,2015-09-30
+Revenue,405000,2015-12-31
+Revenue,375000,2016-03-31
+Revenue,1550000,2016-12-31
+Revenue,398000,2016-06-30
+Revenue,375000,2016-09-30
+Revenue,402000,2016-12-31
+Royalty expense,6100000,2014-12-31
+Royalty expense,5265000,2015-12-31
+Royalty expense,884000,2016-12-31
+Research and Development Expense,2004000,2014-12-31
+Research and Development Expense,2277000,2015-12-31
+Research and Development Expense,2499000,2016-12-31
+"Selling, general and administrative expenses",28310000,2014-12-31
+"Selling, general and administrative expenses",23190000,2015-12-31
+"Selling, general and administrative expenses",26672000,2016-12-31
+Cash settlement resulting from litigation,200000000,2010-06-30
+Cash settlement resulting from litigation,223000000,2014-12-31
+Cash settlement resulting from litigation,23000000,2014-12-31
+Cash settlement resulting from litigation,23000000,2014-12-31
+Cash settlement resulting from litigation,0,2015-12-31
+Cash settlement resulting from litigation,0,2016-12-31
+Operating Expenses,13414000,2014-12-31
+Operating Expenses,30732000,2015-12-31
+Operating Expenses,30055000,2016-12-31
+Loss from operations,-12165000,2014-12-31
+Loss from operations,-5759000,2015-03-31
+Loss from operations,-29177000,2015-12-31
+Loss from operations,-9567000,2015-06-30
+Loss from operations,-6102000,2015-09-30
+Loss from operations,-7749000,2015-12-31
+Loss from operations,-8618000,2016-03-31
+Loss from operations,-28505000,2016-12-31
+Loss from operations,-5353000,2016-06-30
+Loss from operations,-7287000,2016-09-30
+Loss from operations,-7247000,2016-12-31
+Unrealized Gain (Loss) on Derivatives,2238000,2014-12-31
+Unrealized Gain (Loss) on Derivatives,-117000,2015-12-31
+Unrealized Gain (Loss) on Derivatives,0,2016-12-31
+"Interest and other income, net",40000,2014-12-31
+"Interest and other income, net",68000,2015-12-31
+"Interest and other income, net",69000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-9887000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-29226000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",-28436000,2016-12-31
+Income Tax Expense (Benefit),15000,2014-12-31
+Income Tax Expense (Benefit),8000,2015-12-31
+Income Tax Expense (Benefit),133000,2016-12-31
+Net loss,-9902000,2014-12-31
+Net loss,-5855000,2015-03-31
+Net loss,-29234000,2015-12-31
+Net loss,-9546000,2015-06-30
+Net loss,-6097000,2015-09-30
+Net loss,-7736000,2015-12-31
+Net loss,-8610000,2016-03-31
+Net loss,-28569000,2016-12-31
+Net loss,-5337000,2016-06-30
+Net loss,-7387000,2016-09-30
+Net loss,-7235000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-0.19,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.56,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.51,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",51570472,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",52384494,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",55984825,2016-12-31

@@ -1,0 +1,60 @@
+Metric,Amount,endDate
+Cash and cash equivalents,588000,2013-12-31
+Cash and cash equivalents,527000,2014-12-31
+Cash and cash equivalents,10309000,2015-12-31
+Cash and cash equivalents,21829000,2016-12-31
+"Trade and other receivables, less allowance for doubtful accounts of $515 and $751",27567000,2015-12-31
+"Trade and other receivables, less allowance for doubtful accounts of $515 and $751",25555000,2016-12-31
+Costs and estimated earnings in excess of billings on uncompleted contracts,42592000,2015-12-31
+Costs and estimated earnings in excess of billings on uncompleted contracts,43663000,2016-12-31
+Inventories,29475000,2015-12-31
+Inventories,19037000,2016-12-31
+Refundable income taxes,3413000,2015-12-31
+Refundable income taxes,159000,2016-12-31
+Prepaid expenses and other,1923000,2015-12-31
+Prepaid expenses and other,1937000,2016-12-31
+us-gaap_AssetsCurrent,115279000,2015-12-31
+us-gaap_AssetsCurrent,112180000,2016-12-31
+"Property and equipment, net",131848000,2015-12-31
+"Property and equipment, net",118101000,2016-12-31
+Other assets,12253000,2015-12-31
+Other assets,11274000,2016-12-31
+Assets,259380000,2015-12-31
+Assets,241555000,2016-12-31
+Accounts payable,4739000,2015-12-31
+Accounts payable,5267000,2016-12-31
+Accrued liabilities,15971000,2015-12-31
+Accrued liabilities,10925000,2016-12-31
+Billings in excess of costs and estimated earnings on uncompleted contracts,520000,2015-12-31
+Billings in excess of costs and estimated earnings on uncompleted contracts,2038000,2016-12-31
+Current portion of capital lease obligations,340000,2015-12-31
+Current portion of capital lease obligations,325000,2016-12-31
+us-gaap_LiabilitiesCurrent,21570000,2015-12-31
+us-gaap_LiabilitiesCurrent,18555000,2016-12-31
+"Capital lease obligations, less current portion",718000,2015-12-31
+"Capital lease obligations, less current portion",602000,2016-12-31
+Deferred income taxes,5124000,2015-12-31
+Deferred income taxes,1282000,2016-12-31
+Other long-term liabilities,14408000,2015-12-31
+Other long-term liabilities,11903000,2016-12-31
+us-gaap_Liabilities,41820000,2015-12-31
+us-gaap_Liabilities,32342000,2016-12-31
+Commitments and contingencies (Note 14),,2015-12-31
+Commitments and contingencies (Note 14),,2016-12-31
+"Preferred stock, $.01 par value, 10,000,000 shares authorized, none issued or outstanding",,2015-12-31
+"Preferred stock, $.01 par value, 10,000,000 shares authorized, none issued or outstanding",,2016-12-31
+"Common stock, $.01 par value, 15,000,000 shares authorized, 9,601,011 and 9,564,752 shares issued and outstanding",96000,2015-12-31
+"Common stock, $.01 par value, 15,000,000 shares authorized, 9,601,011 and 9,564,752 shares issued and outstanding",96000,2016-12-31
+Additional paid-in-capital,117819000,2015-12-31
+Additional paid-in-capital,118680000,2016-12-31
+Retained earnings,101183000,2015-12-31
+Retained earnings,91920000,2016-12-31
+Accumulated other comprehensive loss,-1833000,2014-12-31
+Accumulated other comprehensive loss,-1538000,2015-12-31
+Accumulated other comprehensive loss,-1483000,2016-12-31
+us-gaap_StockholdersEquity,261850000,2013-12-31
+us-gaap_StockholdersEquity,245635000,2014-12-31
+us-gaap_StockholdersEquity,217560000,2015-12-31
+us-gaap_StockholdersEquity,209213000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,259380000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,241555000,2016-12-31

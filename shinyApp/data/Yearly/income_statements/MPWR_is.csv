@@ -1,0 +1,180 @@
+Metric,Amount,endDate
+Revenue,282535000,2014-12-31
+Revenue,73538000,2015-03-31
+Revenue,333067000,2015-12-31
+Revenue,81416000,2015-06-30
+Revenue,91194000,2015-09-30
+Revenue,86918000,2015-12-31
+Revenue,84512000,2016-03-31
+Revenue,388665000,2016-12-31
+Revenue,94079000,2016-06-30
+Revenue,106456000,2016-09-30
+Revenue,103618000,2016-12-31
+Cost of revenue,129917000,2014-12-31
+Cost of revenue,33855000,2015-03-31
+Cost of revenue,152898000,2015-12-31
+Cost of revenue,37287000,2015-06-30
+Cost of revenue,41754000,2015-09-30
+Cost of revenue,40001000,2015-12-31
+Cost of revenue,39002000,2016-03-31
+Cost of revenue,177792000,2016-12-31
+Cost of revenue,43153000,2016-06-30
+Cost of revenue,48531000,2016-09-30
+Cost of revenue,47107000,2016-12-31
+us-gaap_GrossProfit,152618000,2014-12-31
+us-gaap_GrossProfit,39683000,2015-03-31
+us-gaap_GrossProfit,180169000,2015-12-31
+us-gaap_GrossProfit,44129000,2015-06-30
+us-gaap_GrossProfit,49440000,2015-09-30
+us-gaap_GrossProfit,46917000,2015-12-31
+us-gaap_GrossProfit,45510000,2016-03-31
+us-gaap_GrossProfit,210873000,2016-12-31
+us-gaap_GrossProfit,50926000,2016-06-30
+us-gaap_GrossProfit,57925000,2016-09-30
+us-gaap_GrossProfit,56511000,2016-12-31
+Research and development,58590000,2014-12-31
+Research and development,16038000,2015-03-31
+Research and development,65787000,2015-12-31
+Research and development,15743000,2015-06-30
+Research and development,17272000,2015-09-30
+Research and development,16734000,2015-12-31
+Research and development,17321000,2016-03-31
+Research and development,73643000,2016-12-31
+Research and development,17876000,2016-06-30
+Research and development,20472000,2016-09-30
+Research and development,17974000,2016-12-31
+"Selling, general and administrative",66755000,2014-12-31
+"Selling, general and administrative",17518000,2015-03-31
+"Selling, general and administrative",72312000,2015-12-31
+"Selling, general and administrative",17964000,2015-06-30
+"Selling, general and administrative",18722000,2015-09-30
+"Selling, general and administrative",18107000,2015-12-31
+"Selling, general and administrative",17768000,2016-03-31
+"Selling, general and administrative",83012000,2016-12-31
+"Selling, general and administrative",21531000,2016-06-30
+"Selling, general and administrative",22397000,2016-09-30
+"Selling, general and administrative",21316000,2016-12-31
+us-gaap_GainLossRelatedToLitigationSettlement,8027000,2014-12-31
+us-gaap_GainLossRelatedToLitigationSettlement,-270000,2015-03-31
+us-gaap_GainLossRelatedToLitigationSettlement,-1000000,2015-12-31
+us-gaap_GainLossRelatedToLitigationSettlement,-311000,2015-06-30
+us-gaap_GainLossRelatedToLitigationSettlement,-136000,2015-09-30
+us-gaap_GainLossRelatedToLitigationSettlement,-283000,2015-12-31
+us-gaap_GainLossRelatedToLitigationSettlement,-45000,2016-03-31
+us-gaap_GainLossRelatedToLitigationSettlement,229000,2016-12-31
+us-gaap_GainLossRelatedToLitigationSettlement,8000,2016-06-30
+us-gaap_GainLossRelatedToLitigationSettlement,-55000,2016-09-30
+us-gaap_GainLossRelatedToLitigationSettlement,321000,2016-12-31
+us-gaap_OperatingExpenses,117318000,2014-12-31
+us-gaap_OperatingExpenses,33826000,2015-03-31
+us-gaap_OperatingExpenses,139099000,2015-12-31
+us-gaap_OperatingExpenses,34018000,2015-06-30
+us-gaap_OperatingExpenses,36130000,2015-09-30
+us-gaap_OperatingExpenses,35124000,2015-12-31
+us-gaap_OperatingExpenses,35134000,2016-03-31
+us-gaap_OperatingExpenses,156426000,2016-12-31
+us-gaap_OperatingExpenses,39399000,2016-06-30
+us-gaap_OperatingExpenses,42924000,2016-09-30
+us-gaap_OperatingExpenses,38969000,2016-12-31
+Income from operations,35300000,2014-12-31
+Income from operations,5857000,2015-03-31
+Income from operations,41070000,2015-12-31
+Income from operations,10111000,2015-06-30
+Income from operations,13310000,2015-09-30
+Income from operations,11793000,2015-12-31
+Income from operations,10376000,2016-03-31
+Income from operations,54447000,2016-12-31
+Income from operations,11527000,2016-06-30
+Income from operations,15001000,2016-09-30
+Income from operations,17542000,2016-12-31
+"Interest and other income, net",1092000,2014-12-31
+"Interest and other income, net",642000,2015-03-31
+"Interest and other income, net",1421000,2015-12-31
+"Interest and other income, net",235000,2015-06-30
+"Interest and other income, net",-6000,2015-09-30
+"Interest and other income, net",550000,2015-12-31
+"Interest and other income, net",543000,2016-03-31
+"Interest and other income, net",2817000,2016-12-31
+"Interest and other income, net",597000,2016-06-30
+"Interest and other income, net",780000,2016-09-30
+"Interest and other income, net",897000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,36392000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,6499000,2015-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,42491000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,10346000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,13304000,2015-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,12343000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,10919000,2016-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,57264000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,12124000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,15781000,2016-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,18439000,2016-12-31
+Income tax provision,897000,2014-12-31
+Income tax provision,536000,2015-03-31
+Income tax provision,7319000,2015-12-31
+Income tax provision,2447000,2015-06-30
+Income tax provision,2103000,2015-09-30
+Income tax provision,2233000,2015-12-31
+Income tax provision,344000,2016-03-31
+Income tax provision,4544000,2016-12-31
+Income tax provision,926000,2016-06-30
+Income tax provision,1408000,2016-09-30
+Income tax provision,1866000,2016-12-31
+Net income,35495000,2014-12-31
+Net income,5963000,2015-03-31
+Net income,35172000,2015-12-31
+Net income,7899000,2015-06-30
+Net income,11201000,2015-09-30
+Net income,10110000,2015-12-31
+Net income,10575000,2016-03-31
+Net income,52720000,2016-12-31
+Net income,11198000,2016-06-30
+Net income,14373000,2016-09-30
+Net income,16573000,2016-12-31
+Basic (in dollars per share),0.92,2014-12-31
+Basic (in dollars per share),0.15,2015-03-31
+Basic (in dollars per share),0.89,2015-12-31
+Basic (in dollars per share),0.20,2015-06-30
+Basic (in dollars per share),0.28,2015-09-30
+Basic (in dollars per share),0.26,2015-12-31
+Basic (in dollars per share),0.26,2016-03-31
+Basic (in dollars per share),1.30,2016-12-31
+Basic (in dollars per share),0.28,2016-06-30
+Basic (in dollars per share),0.35,2016-09-30
+Basic (in dollars per share),0.41,2016-12-31
+Diluted (in dollars per share),0.89,2014-12-31
+Diluted (in dollars per share),0.15,2015-03-31
+Diluted (in dollars per share),0.86,2015-12-31
+Diluted (in dollars per share),0.19,2015-06-30
+Diluted (in dollars per share),0.28,2015-09-30
+Diluted (in dollars per share),0.24,2015-12-31
+Diluted (in dollars per share),0.25,2016-03-31
+Diluted (in dollars per share),1.26,2016-12-31
+Diluted (in dollars per share),0.27,2016-06-30
+Diluted (in dollars per share),0.34,2016-09-30
+Diluted (in dollars per share),0.39,2016-12-31
+Basic (in shares),38686000,2014-12-31
+Basic (in shares),39470000,2015-12-31
+Basic (in shares),40436000,2016-12-31
+Diluted (in shares),39793000,2014-12-31
+Diluted (in shares),40596000,2015-03-31
+Diluted (in shares),40869000,2015-12-31
+Diluted (in shares),40745000,2015-06-30
+Diluted (in shares),40689000,2015-09-30
+Diluted (in shares),41445000,2015-12-31
+Diluted (in shares),41646000,2016-03-31
+Diluted (in shares),41915000,2016-12-31
+Diluted (in shares),41716000,2016-06-30
+Diluted (in shares),41895000,2016-09-30
+Diluted (in shares),42404000,2016-12-31
+Cash dividends declared per common share (in dollars per share),0.45,2014-12-31
+Cash dividends declared per common share (in dollars per share),0.20,2015-03-31
+Cash dividends declared per common share (in dollars per share),0.80,2015-12-31
+Cash dividends declared per common share (in dollars per share),0.20,2015-06-30
+Cash dividends declared per common share (in dollars per share),0.20,2015-09-30
+Cash dividends declared per common share (in dollars per share),0.20,2015-12-31
+Cash dividends declared per common share (in dollars per share),0.20,2016-03-31
+Cash dividends declared per common share (in dollars per share),0.80,2016-12-31
+Cash dividends declared per common share (in dollars per share),0.20,2016-06-30
+Cash dividends declared per common share (in dollars per share),0.20,2016-09-30
+Cash dividends declared per common share (in dollars per share),0.20,2016-12-31

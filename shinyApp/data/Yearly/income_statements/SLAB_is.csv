@@ -1,0 +1,52 @@
+Metric,Amount,endDate
+"Revenue, Net",620704000,2015-01-03
+"Revenue, Net",697626000,2016-12-31
+"Revenue, Net",644826000,2016-01-02
+Cost of Goods Sold,242153000,2015-01-03
+Cost of Goods Sold,276122000,2016-12-31
+Cost of Goods Sold,264056000,2016-01-02
+Gross Profit,378551000,2015-01-03
+Gross Profit,421504000,2016-12-31
+Gross Profit,380770000,2016-01-02
+Research and Development Expense,172985000,2015-01-03
+Research and Development Expense,199744000,2016-12-31
+Research and Development Expense,188050000,2016-01-02
+"Selling, General and Administrative Expense",154145000,2015-01-03
+"Selling, General and Administrative Expense",155483000,2016-12-31
+"Selling, General and Administrative Expense",160486000,2016-01-02
+Operating Expenses,327130000,2015-01-03
+Operating Expenses,355227000,2016-12-31
+Operating Expenses,348536000,2016-01-02
+Operating Income (Loss),51421000,2015-01-03
+Operating Income (Loss),66277000,2016-12-31
+Operating Income (Loss),32234000,2016-01-02
+"Investment Income, Interest",1007000,2015-01-03
+"Investment Income, Interest",1291000,2016-12-31
+"Investment Income, Interest",730000,2016-01-02
+Interest Expense.,3154000,2015-01-03
+Interest Expense.,2587000,2016-12-31
+Interest Expense.,2828000,2016-01-02
+Other Nonoperating Income (Expense),-234000,2015-01-03
+Other Nonoperating Income (Expense),-485000,2016-12-31
+Other Nonoperating Income (Expense),127000,2016-01-02
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",49040000,2015-01-03
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",64496000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",30263000,2016-01-02
+Income Tax Expense (Benefit),11019000,2015-01-03
+Income Tax Expense (Benefit),3002000,2016-12-31
+Income Tax Expense (Benefit),677000,2016-01-02
+"Net Income (Loss) Available to Common Stockholders, Basic",38021000,2015-01-03
+"Net Income (Loss) Available to Common Stockholders, Basic",61494000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",29586000,2016-01-02
+"Earnings Per Share, Basic",0.88,2015-01-03
+"Earnings Per Share, Basic",1.47,2016-12-31
+"Earnings Per Share, Basic",0.70,2016-01-02
+"Earnings Per Share, Diluted",0.87,2015-01-03
+"Earnings Per Share, Diluted",1.45,2016-12-31
+"Earnings Per Share, Diluted",0.69,2016-01-02
+"Weighted Average Number of Shares Outstanding, Basic",42970000,2015-01-03
+"Weighted Average Number of Shares Outstanding, Basic",41713000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",42309000,2016-01-02
+"Weighted Average Number of Shares Outstanding, Diluted",43793000,2015-01-03
+"Weighted Average Number of Shares Outstanding, Diluted",42376000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",42945000,2016-01-02

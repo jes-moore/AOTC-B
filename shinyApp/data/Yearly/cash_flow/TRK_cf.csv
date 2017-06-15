@@ -1,0 +1,123 @@
+Metric,Amount,endDate
+Net income (loss),31147000,2014-12-31
+Net income (loss),-34363000,2015-12-31
+Net income (loss),39545000,2016-12-31
+Income (Loss) from Discontinued Operation (Note 1),5710000,2014-12-31
+Income (Loss) from Discontinued Operation (Note 1),-13000,2015-12-31
+Income (Loss) from Discontinued Operation (Note 1),,2016-12-31
+us-gaap_CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,-5710000,2014-12-31
+us-gaap_CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,13000,2015-12-31
+us-gaap_CashProvidedByUsedInOperatingActivitiesDiscontinuedOperations,,2016-12-31
+us-gaap_AssetImpairmentCharges,,2014-12-31
+us-gaap_AssetImpairmentCharges,98868000,2015-12-31
+us-gaap_AssetImpairmentCharges,,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets1,2205000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets1,-653000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets1,1353000,2016-12-31
+us-gaap_AmortizationOfFinancingCosts,2014000,2014-12-31
+us-gaap_AmortizationOfFinancingCosts,1676000,2015-12-31
+us-gaap_AmortizationOfFinancingCosts,1520000,2016-12-31
+us-gaap_AmortizationOfDebtDiscountPremium,-672000,2014-12-31
+us-gaap_AmortizationOfDebtDiscountPremium,-117000,2015-12-31
+us-gaap_AmortizationOfDebtDiscountPremium,,2016-12-31
+us-gaap_DepreciationDepletionAndAmortization,78426000,2014-12-31
+us-gaap_DepreciationDepletionAndAmortization,61964000,2015-12-31
+us-gaap_DepreciationDepletionAndAmortization,54368000,2016-12-31
+us-gaap_RecognitionOfDeferredRevenue,2345000,2014-12-31
+us-gaap_RecognitionOfDeferredRevenue,2458000,2015-12-31
+us-gaap_RecognitionOfDeferredRevenue,944000,2016-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,15201000,2014-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,-12516000,2015-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,19543000,2016-12-31
+us-gaap_ShareBasedCompensation,2610000,2014-12-31
+us-gaap_ShareBasedCompensation,3383000,2015-12-31
+us-gaap_ShareBasedCompensation,3405000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,741000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,5314000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsAndNotesReceivable,-10256000,2016-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxes,585000,2014-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxes,-214000,2015-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxes,1543000,2016-12-31
+us-gaap_IncreaseDecreaseInInventories,-255000,2014-12-31
+us-gaap_IncreaseDecreaseInInventories,361000,2015-12-31
+us-gaap_IncreaseDecreaseInInventories,-499000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,287000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-19000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-335000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-1433000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,1735000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,242000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherDeferredLiability,-2843000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherDeferredLiability,3405000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherDeferredLiability,-12800000,2016-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,11000,2014-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,-2764000,2015-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,20000,2016-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,3224000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,1817000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,-2316000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,331000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,1042000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,138000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,-1388000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,15000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet,228000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,124666000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,116440000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,113773000,2016-12-31
+Borrowings under long-term debt,150000000,2014-12-31
+Borrowings under long-term debt,251383000,2015-12-31
+Borrowings under long-term debt,,2016-12-31
+us-gaap_RepaymentsOfLongTermDebt,211500000,2014-12-31
+us-gaap_RepaymentsOfLongTermDebt,331500000,2015-12-31
+us-gaap_RepaymentsOfLongTermDebt,54177000,2016-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,1608000,2014-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,3975000,2015-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,,2016-12-31
+Exercise of common stock options,131000,2014-12-31
+Exercise of common stock options,879000,2015-12-31
+Exercise of common stock options,182000,2016-12-31
+us-gaap_PaymentsOfDividendsCommonStock,24860000,2014-12-31
+us-gaap_PaymentsOfDividendsCommonStock,24807000,2015-12-31
+us-gaap_PaymentsOfDividendsCommonStock,24759000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,4167000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,6497000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,5837000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-92004000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-114517000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-84591000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,22036000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,30733000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,34635000,2016-12-31
+Proceeds from sales of property and equipment and insurance recovery,1263000,2014-12-31
+Proceeds from sales of property and equipment and insurance recovery,136000,2015-12-31
+Proceeds from sales of property and equipment and insurance recovery,2542000,2016-12-31
+Repayment of notes and other receivables,814000,2014-12-31
+Repayment of notes and other receivables,638000,2015-12-31
+Repayment of notes and other receivables,243000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-19959000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-29959000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-31850000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,12703000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-28036000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-2668000,2016-12-31
+Cash and cash equivalents,97343000,2013-12-31
+Cash and cash equivalents,110046000,2014-12-31
+Cash and cash equivalents,82010000,2015-12-31
+Cash and cash equivalents,79342000,2016-12-31
+Cash and cash equivalents,97343000,2013-12-31
+Cash and cash equivalents,110046000,2014-12-31
+Cash and cash equivalents,82010000,2015-12-31
+Cash and cash equivalents,79342000,2016-12-31
+"Cash paid for interest, net of amounts capitalized",21760000,2014-12-31
+"Cash paid for interest, net of amounts capitalized",19982000,2015-12-31
+"Cash paid for interest, net of amounts capitalized",13322000,2016-12-31
+Cash paid for income taxes,557000,2014-12-31
+Cash paid for income taxes,1015000,2015-12-31
+Cash paid for income taxes,867000,2016-12-31
+Increase (decrease) in accounts payable for capital expenditures,2115000,2014-12-31
+Increase (decrease) in accounts payable for capital expenditures,-930000,2015-12-31
+Increase (decrease) in accounts payable for capital expenditures,1284000,2016-12-31
+Increase in deferred income for exchange of property and equipment,250000,2014-12-31
+Increase in deferred income for exchange of property and equipment,250000,2015-12-31
+Increase in deferred income for exchange of property and equipment,,2016-12-31

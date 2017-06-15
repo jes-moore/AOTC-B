@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",12755264000,2014-11-30
+"Sales Revenue, Goods, Net",11936282000,2015-11-30
+"Sales Revenue, Goods, Net",12490427000,2016-11-30
+"Sales Revenue, Services, Net",1084326000,2014-11-30
+"Sales Revenue, Services, Net",1402115000,2015-11-30
+"Sales Revenue, Services, Net",1571410000,2016-11-30
+"Revenue, Net",13839590000,2014-11-30
+"Revenue, Net",13338397000,2015-11-30
+"Revenue, Net",14061837000,2016-11-30
+Cost of Goods Sold,12075828000,2014-11-30
+Cost of Goods Sold,11276819000,2015-11-30
+Cost of Goods Sold,11815479000,2016-11-30
+Cost of Services,664758000,2014-11-30
+Cost of Services,869787000,2015-11-30
+Cost of Services,963393000,2016-11-30
+Gross Profit,1099004000,2014-11-30
+Gross Profit,1191791000,2015-11-30
+Gross Profit,1282965000,2016-11-30
+"Selling, General and Administrative Expense",790497000,2014-11-30
+"Selling, General and Administrative Expense",837239000,2015-11-30
+"Selling, General and Administrative Expense",903369000,2016-11-30
+Operating Income (Loss),308507000,2014-11-30
+Operating Income (Loss),354552000,2015-11-30
+Operating Income (Loss),379596000,2016-11-30
+"Interest Income (Expense), Nonoperating, Net",-25187000,2014-11-30
+"Interest Income (Expense), Nonoperating, Net",-26296000,2015-11-30
+"Interest Income (Expense), Nonoperating, Net",-28993000,2016-11-30
+Other Nonoperating Income (Expense),962000,2014-11-30
+Other Nonoperating Income (Expense),-1061000,2015-11-30
+Other Nonoperating Income (Expense),5461000,2016-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",284282000,2014-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",327195000,2015-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",356064000,2016-11-30
+Income Tax Expense (Benefit),104132000,2014-11-30
+Income Tax Expense (Benefit),118588000,2015-11-30
+Income Tax Expense (Benefit),121059000,2016-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",180150000,2014-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",208607000,2015-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",235005000,2016-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,116000,2014-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,82000,2015-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,59000,2016-11-30
+Net Income (Loss) Attributable to Parent,180034000,2014-11-30
+Net Income (Loss) Attributable to Parent,208525000,2015-11-30
+Net Income (Loss) Attributable to Parent,234946000,2016-11-30
+"Earnings Per Share, Basic",4.61,2014-11-30
+"Earnings Per Share, Basic",5.28,2015-11-30
+"Earnings Per Share, Basic",5.91,2016-11-30
+"Earnings Per Share, Diluted",4.57,2014-11-30
+"Earnings Per Share, Diluted",5.24,2015-11-30
+"Earnings Per Share, Diluted",5.88,2016-11-30
+"Weighted Average Number of Shares Outstanding, Basic",38490000,2014-11-30
+"Weighted Average Number of Shares Outstanding, Basic",39061000,2015-11-30
+"Weighted Average Number of Shares Outstanding, Basic",39321000,2016-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",38845000,2014-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",39352000,2015-11-30
+"Weighted Average Number of Shares Outstanding, Diluted",39530000,2016-11-30
+"Common Stock, Dividends, Per Share, Declared",0.13,2014-11-30
+"Common Stock, Dividends, Per Share, Declared",0.58,2015-11-30
+"Common Stock, Dividends, Per Share, Declared",0.85,2016-11-30

@@ -1,0 +1,69 @@
+Metric,Amount,endDate
+"Revenue, Net",7620300000,2015-03-28
+"Revenue, Net",7405200000,2016-04-02
+"Revenue, Net",6652800000,2017-04-01
+Cost of Goods Sold,3242400000,2015-03-28
+Cost of Goods Sold,3218500000,2016-04-02
+Cost of Goods Sold,3001700000,2017-04-01
+Gross Profit,4377900000,2015-03-28
+Gross Profit,4186700000,2016-04-02
+Gross Profit,3651100000,2017-04-01
+"Selling, General and Administrative Expense",3300300000,2015-03-28
+"Selling, General and Administrative Expense",3389700000,2016-04-02
+"Selling, General and Administrative Expense",3149400000,2017-04-01
+Amortization of Intangible Assets,25200000,2015-03-28
+Amortization of Intangible Assets,23700000,2016-04-02
+Amortization of Intangible Assets,24100000,2017-04-01
+Asset Impairment Charges,6900000,2015-03-28
+Asset Impairment Charges,48800000,2016-04-02
+Asset Impairment Charges,253800000,2017-04-01
+Restructuring and other charges,10100000,2015-03-28
+Restructuring and other charges,142600000,2016-04-02
+Restructuring and other charges,318600000,2017-04-01
+Operating Expenses,3342500000,2015-03-28
+Operating Expenses,3604800000,2016-04-02
+Operating Expenses,3745900000,2017-04-01
+Operating Income (Loss),1035400000,2015-03-28
+Operating Income (Loss),581900000,2016-04-02
+Operating Income (Loss),-94800000,2017-04-01
+"Foreign Currency Transaction Gain (Loss), before Tax",-25900000,2015-03-28
+"Foreign Currency Transaction Gain (Loss), before Tax",-3800000,2016-04-02
+"Foreign Currency Transaction Gain (Loss), before Tax",1100000,2017-04-01
+Interest Expense,16700000,2015-03-28
+Interest Expense,21000000,2016-04-02
+Interest Expense,12400000,2017-04-01
+Other Nonoperating Income,6100000,2015-03-28
+Other Nonoperating Income,5600000,2016-04-02
+Other Nonoperating Income,6400000,2017-04-01
+Income (Loss) from Equity Method Investments,-11500000,2015-03-28
+Income (Loss) from Equity Method Investments,-10900000,2016-04-02
+Income (Loss) from Equity Method Investments,-5200000,2017-04-01
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",987400000,2015-03-28
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",551800000,2016-04-02
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-104900000,2017-04-01
+Income Tax Expense (Benefit),285200000,2015-03-28
+Income Tax Expense (Benefit),155400000,2016-04-02
+Income Tax Expense (Benefit),-5600000,2017-04-01
+Net Income (Loss) Attributable to Parent,702200000,2015-03-28
+Net Income (Loss) Attributable to Parent,396400000,2016-04-02
+Net Income (Loss) Attributable to Parent,-99300000,2017-04-01
+"Earnings Per Share, Basic",7.96,2015-03-28
+"Earnings Per Share, Basic",4.65,2016-04-02
+"Earnings Per Share, Basic",-1.20,2017-04-01
+"Earnings Per Share, Diluted",7.88,2015-03-28
+"Earnings Per Share, Diluted",4.62,2016-04-02
+"Earnings Per Share, Diluted",-1.20,2017-04-01
+"Weighted Average Number of Shares Outstanding, Basic",88200000,2015-03-28
+"Weighted Average Number of Shares Outstanding, Basic",85200000,2016-04-02
+"Weighted Average Number of Shares Outstanding, Basic",82700000,2017-04-01
+"Weighted Average Number of Shares Outstanding, Diluted",89100000,2015-03-28
+"Weighted Average Number of Shares Outstanding, Diluted",85900000,2016-04-02
+"Weighted Average Number of Shares Outstanding, Diluted",82700000,2017-04-01
+"Common Stock, Dividends, Per Share, Declared",0.45,2013-11-05
+"Common Stock, Dividends, Per Share, Declared",0.50,2015-02-03
+"Common Stock, Dividends, Per Share, Declared",1.85,2015-03-28
+"Common Stock, Dividends, Per Share, Declared",2.00,2016-04-02
+"Common Stock, Dividends, Per Share, Declared",2.00,2017-04-01
+Depreciation,269200000,2015-03-28
+Depreciation,285700000,2016-04-02
+Depreciation,283400000,2017-04-01

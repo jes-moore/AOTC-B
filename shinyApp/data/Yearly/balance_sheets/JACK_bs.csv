@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+Cash,9644000,2013-09-29
+Cash,10578000,2014-09-28
+Cash,17743000,2015-09-27
+Cash,17030000,2016-10-02
+"Receivables, Net, Current",47975000,2015-09-27
+"Receivables, Net, Current",73360000,2016-10-02
+"Inventory, Net",7376000,2015-09-27
+"Inventory, Net",8229000,2016-10-02
+"Prepaid Expense, Current",16240000,2015-09-27
+"Prepaid Expense, Current",40398000,2016-10-02
+"Assets Held-for-sale, Not Part of Disposal Group, Current",15516000,2015-09-27
+"Assets Held-for-sale, Not Part of Disposal Group, Current",14259000,2016-10-02
+"Other Assets, Current",3106000,2015-09-27
+"Other Assets, Current",2129000,2016-10-02
+"Assets, Current",107956000,2015-09-27
+"Assets, Current",155405000,2016-10-02
+Land,112991000,2015-09-27
+Land,117166000,2016-10-02
+"Buildings and Improvements, Gross",1091237000,2015-09-27
+"Buildings and Improvements, Gross",1116244000,2016-10-02
+"Fixtures and Equipment, Gross",315235000,2015-09-27
+"Fixtures and Equipment, Gross",331644000,2016-10-02
+"Construction in Progress, Gross",43914000,2015-09-27
+"Construction in Progress, Gross",40522000,2016-10-02
+"Property, Plant and Equipment, Gross",1563377000,2015-09-27
+"Property, Plant and Equipment, Gross",1605576000,2016-10-02
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",835114000,2015-09-27
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",886526000,2016-10-02
+"Property, Plant and Equipment, Net",728263000,2015-09-27
+"Property, Plant and Equipment, Net",719050000,2016-10-02
+"Intangible Assets, Net (Excluding Goodwill)",14765000,2015-09-27
+"Intangible Assets, Net (Excluding Goodwill)",14042000,2016-10-02
+Goodwill,149074000,2014-09-28
+Goodwill,149027000,2015-09-27
+Goodwill,166046000,2016-10-02
+"Other Assets, Noncurrent",303968000,2015-09-27
+"Other Assets, Noncurrent",294248000,2016-10-02
+Assets,1303979000,2015-09-27
+Assets,1348791000,2016-10-02
+"Long-term Debt and Capital Lease Obligations, Current",26677000,2015-09-27
+"Long-term Debt and Capital Lease Obligations, Current",57574000,2016-10-02
+"Accounts Payable, Current",32137000,2015-09-27
+"Accounts Payable, Current",40736000,2016-10-02
+"Accrued Liabilities, Current",170575000,2015-09-27
+"Accrued Liabilities, Current",181250000,2016-10-02
+"Liabilities, Current",229389000,2015-09-27
+"Liabilities, Current",279560000,2016-10-02
+Long-term Debt and Capital Lease Obligations,688579000,2015-09-27
+Long-term Debt and Capital Lease Obligations,937512000,2016-10-02
+"Other Liabilities, Noncurrent",370058000,2015-09-27
+"Other Liabilities, Noncurrent",348925000,2016-10-02
+"Preferred Stock, Value, Issued",0,2015-09-27
+"Preferred Stock, Value, Issued",0,2016-10-02
+"Common Stock, Value, Issued",811000,2015-09-27
+"Common Stock, Value, Issued",816000,2016-10-02
+"Additional Paid in Capital, Common Stock",402986000,2015-09-27
+"Additional Paid in Capital, Common Stock",432564000,2016-10-02
+Retained Earnings (Accumulated Deficit),1316119000,2015-09-27
+Retained Earnings (Accumulated Deficit),1399721000,2016-10-02
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-132530000,2015-09-27
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-187021000,2016-10-02
+"Treasury Stock, Value",1571433000,2015-09-27
+"Treasury Stock, Value",1863286000,2016-10-02
+Stockholders' Equity Attributable to Parent,472018000,2013-09-29
+Stockholders' Equity Attributable to Parent,257911000,2014-09-28
+Stockholders' Equity Attributable to Parent,15953000,2015-09-27
+Stockholders' Equity Attributable to Parent,-217206000,2016-10-02
+Liabilities and Equity,1303979000,2015-09-27
+Liabilities and Equity,1348791000,2016-10-02

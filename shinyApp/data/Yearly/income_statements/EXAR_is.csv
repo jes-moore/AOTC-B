@@ -1,0 +1,149 @@
+Metric,Amount,endDate
+Net sales,89595000,2014-03-30
+Net sales,30719000,2014-06-29
+Net sales,125791000,2015-03-29
+Net sales,43159000,2014-09-28
+Net sales,44315000,2014-12-28
+Net sales,43857000,2015-03-29
+Net sales,40422000,2015-06-28
+Net sales,113587000,2016-03-27
+Net sales,34742000,2015-09-27
+Net sales,37439000,2015-12-27
+Net sales,36775000,2016-03-27
+"Net sales, related party",35727000,2014-03-30
+"Net sales, related party",36259000,2015-03-29
+"Net sales, related party",35791000,2016-03-27
+us-gaap_Revenues,125322000,2014-03-30
+us-gaap_Revenues,162050000,2015-03-29
+us-gaap_Revenues,149378000,2016-03-27
+us-gaap_CostOfGoodsSold,48067000,2014-03-30
+us-gaap_CostOfGoodsSold,71139000,2015-03-29
+us-gaap_CostOfGoodsSold,64662000,2016-03-27
+"Cost of sales, related party",15738000,2014-03-30
+"Cost of sales, related party",14359000,2015-03-29
+"Cost of sales, related party",15929000,2016-03-27
+Amortization of purchased intangible assets and inventory step-up,7600000,2014-03-30
+Amortization of purchased intangible assets and inventory step-up,11740000,2015-03-29
+Amortization of purchased intangible assets and inventory step-up,9884000,2016-03-27
+Impairment of intangible assets,1600000,2014-03-30
+Impairment of intangible assets,12300000,2015-09-27
+Restructuring charges and exit costs,3000000,2014-03-30
+Restructuring charges and exit costs,12200000,2015-03-29
+Restructuring charges and exit costs,4500000,2016-03-27
+us-gaap_GainLossRelatedToLitigationSettlement,,2014-03-30
+us-gaap_GainLossRelatedToLitigationSettlement,,2015-03-29
+us-gaap_GainLossRelatedToLitigationSettlement,1500000,2016-03-27
+Warranty reserve,1440000,2014-03-30
+Warranty reserve,-1078000,2015-03-29
+Warranty reserve,,2016-03-27
+us-gaap_CostOfGoodsAndServicesSold,74668000,2014-03-30
+us-gaap_CostOfGoodsAndServicesSold,112124000,2015-03-29
+us-gaap_CostOfGoodsAndServicesSold,89820000,2016-03-27
+us-gaap_GrossProfit,50654000,2014-03-30
+us-gaap_GrossProfit,10956000,2014-06-29
+us-gaap_GrossProfit,49926000,2015-03-29
+us-gaap_GrossProfit,4132000,2014-09-28
+us-gaap_GrossProfit,16890000,2014-12-28
+us-gaap_GrossProfit,17948000,2015-03-29
+us-gaap_GrossProfit,17437000,2015-06-28
+us-gaap_GrossProfit,59558000,2016-03-27
+us-gaap_GrossProfit,12656000,2015-09-27
+us-gaap_GrossProfit,14692000,2015-12-27
+us-gaap_GrossProfit,14773000,2016-03-27
+Research and development,27048000,2014-03-30
+Research and development,37181000,2015-03-29
+Research and development,31403000,2016-03-27
+"Selling, general and administrative",33055000,2014-03-30
+"Selling, general and administrative",43758000,2015-03-29
+"Selling, general and administrative",39235000,2016-03-27
+Merger and acquisition costs,1880000,2014-03-30
+Merger and acquisition costs,7348000,2015-03-29
+Merger and acquisition costs,,2016-03-27
+Net change in fair value of contingent consideration,-10455000,2014-03-30
+Net change in fair value of contingent consideration,-4343000,2015-03-29
+Net change in fair value of contingent consideration,,2016-03-27
+us-gaap_OperatingExpenses,54355000,2014-03-30
+us-gaap_OperatingExpenses,92989000,2015-03-29
+us-gaap_OperatingExpenses,76091000,2016-03-27
+us-gaap_OperatingIncomeLoss,-3701000,2014-03-30
+us-gaap_OperatingIncomeLoss,-11352000,2014-06-29
+us-gaap_OperatingIncomeLoss,-43063000,2015-03-29
+us-gaap_OperatingIncomeLoss,-22830000,2014-09-28
+us-gaap_OperatingIncomeLoss,-6535000,2014-12-28
+us-gaap_OperatingIncomeLoss,-2346000,2015-03-29
+us-gaap_OperatingIncomeLoss,-2339000,2015-06-28
+us-gaap_OperatingIncomeLoss,-16533000,2016-03-27
+us-gaap_OperatingIncomeLoss,-5251000,2015-09-27
+us-gaap_OperatingIncomeLoss,-6853000,2015-12-27
+us-gaap_OperatingIncomeLoss,-2090000,2016-03-27
+"Interest income and other, net",1503000,2014-03-30
+"Interest income and other, net",571000,2015-03-29
+"Interest income and other, net",34000,2016-03-27
+us-gaap_InterestExpense,156000,2014-03-30
+us-gaap_InterestExpense,1082000,2015-03-29
+us-gaap_InterestExpense,212000,2016-03-27
+us-gaap_ImpairmentOfInvestments,323000,2014-03-30
+us-gaap_ImpairmentOfInvestments,544000,2015-03-29
+us-gaap_ImpairmentOfInvestments,,2016-03-27
+us-gaap_OtherNonoperatingIncomeExpense,1024000,2014-03-30
+us-gaap_OtherNonoperatingIncomeExpense,-1055000,2015-03-29
+us-gaap_OtherNonoperatingIncomeExpense,-178000,2016-03-27
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-2677000,2014-03-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-44118000,2015-03-29
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-16711000,2016-03-27
+Provision for (benefit from) income taxes,-8478000,2014-03-30
+Provision for (benefit from) income taxes,889000,2015-03-29
+Provision for (benefit from) income taxes,-685000,2016-03-27
+Net income (loss),5801000,2014-03-30
+Net income (loss),-45007000,2015-03-29
+Net income (loss),-16026000,2016-03-27
+Net loss attributable to non-controlling interests,,2014-03-30
+Net loss attributable to non-controlling interests,-37000,2015-03-29
+Net loss attributable to non-controlling interests,,2016-03-27
+Net income,5801000,2014-03-30
+Net income,-12105000,2014-06-29
+Net income,-44970000,2015-03-29
+Net income,-23352000,2014-09-28
+Net income,-6599000,2014-12-28
+Net income,-2914000,2015-03-29
+Net income,-2510000,2015-06-28
+Net income,-16026000,2016-03-27
+Net income,-4197000,2015-09-27
+Net income,-7137000,2015-12-27
+Net income,-2182000,2016-03-27
+us-gaap_EarningsPerShareBasic,0.12,2014-03-30
+us-gaap_EarningsPerShareBasic,-0.26,2014-06-29
+us-gaap_EarningsPerShareBasic,-0.95,2015-03-29
+us-gaap_EarningsPerShareBasic,-0.50,2014-09-28
+us-gaap_EarningsPerShareBasic,-0.14,2014-12-28
+us-gaap_EarningsPerShareBasic,-0.06,2015-03-29
+us-gaap_EarningsPerShareBasic,-0.05,2015-06-28
+us-gaap_EarningsPerShareBasic,-0.33,2016-03-27
+us-gaap_EarningsPerShareBasic,-0.09,2015-09-27
+us-gaap_EarningsPerShareBasic,-0.15,2015-12-27
+us-gaap_EarningsPerShareBasic,-0.04,2016-03-27
+us-gaap_EarningsPerShareDiluted,0.12,2014-03-30
+us-gaap_EarningsPerShareDiluted,-0.26,2014-06-29
+us-gaap_EarningsPerShareDiluted,-0.95,2015-03-29
+us-gaap_EarningsPerShareDiluted,-0.50,2014-09-28
+us-gaap_EarningsPerShareDiluted,-0.14,2014-12-28
+us-gaap_EarningsPerShareDiluted,-0.06,2015-03-29
+us-gaap_EarningsPerShareDiluted,-0.05,2015-06-28
+us-gaap_EarningsPerShareDiluted,-0.33,2016-03-27
+us-gaap_EarningsPerShareDiluted,-0.09,2015-09-27
+us-gaap_EarningsPerShareDiluted,-0.15,2015-12-27
+us-gaap_EarningsPerShareDiluted,-0.04,2016-03-27
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,47291000,2014-03-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,47253000,2015-03-29
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,48240000,2016-03-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,48823000,2014-03-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47236,2014-06-29
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47253000,2015-03-29
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47139,2014-09-28
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47119,2014-12-28
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47516,2015-03-29
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,47927,2015-06-28
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,48240000,2016-03-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,48121,2015-09-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,48386,2015-12-27
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,48240,2016-03-27

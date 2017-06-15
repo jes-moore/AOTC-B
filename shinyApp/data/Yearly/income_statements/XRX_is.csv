@@ -1,0 +1,85 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",5582000000,2013-12-31
+"Sales Revenue, Goods, Net",5288000000,2014-12-31
+"Sales Revenue, Goods, Net",4748000000,2015-12-31
+"Sales Revenue, Services, Net",13941000000,2013-12-31
+"Sales Revenue, Services, Net",13865000000,2014-12-31
+"Sales Revenue, Services, Net",12951000000,2015-12-31
+"Interest Income, Operating",483000000,2013-12-31
+"Interest Income, Operating",387000000,2014-12-31
+"Interest Income, Operating",346000000,2015-12-31
+Revenues,20006000000,2013-12-31
+Revenues,19540000000,2014-12-31
+Revenues,18045000000,2015-12-31
+Cost of Goods Sold,3550000000,2013-12-31
+Cost of Goods Sold,3269000000,2014-12-31
+Cost of Goods Sold,2961000000,2015-12-31
+Cost of Services,9808000000,2013-12-31
+Cost of Services,9885000000,2014-12-31
+Cost of Services,9691000000,2015-12-31
+Financing Interest Expense,163000000,2013-12-31
+Financing Interest Expense,140000000,2014-12-31
+Financing Interest Expense,130000000,2015-12-31
+Research Development And Engineering Expenses,603000000,2013-12-31
+Research Development And Engineering Expenses,577000000,2014-12-31
+Research Development And Engineering Expenses,563000000,2015-12-31
+"Selling, General and Administrative Expense",4073000000,2013-12-31
+"Selling, General and Administrative Expense",3788000000,2014-12-31
+"Selling, General and Administrative Expense",3559000000,2015-12-31
+"Restructuring, Settlement and Impairment Provisions",115000000,2013-12-31
+"Restructuring, Settlement and Impairment Provisions",128000000,2014-12-31
+"Restructuring, Settlement and Impairment Provisions",186000000,2015-12-31
+Amortization of Intangible Assets,305000000,2013-12-31
+Amortization of Intangible Assets,315000000,2014-12-31
+Amortization of Intangible Assets,310000000,2015-12-31
+"Other Cost and Expense, Operating",146000000,2013-12-31
+"Other Cost and Expense, Operating",232000000,2014-12-31
+"Other Cost and Expense, Operating",233000000,2015-12-31
+Costs and Expenses,18763000000,2013-12-31
+Costs and Expenses,18334000000,2014-12-31
+Costs and Expenses,17633000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",1243000000,2013-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",1206000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",412000000,2015-12-31
+Income Tax Expense (Benefit),253000000,2013-12-31
+Income Tax Expense (Benefit),215000000,2014-12-31
+Income Tax Expense (Benefit),-23000000,2015-12-31
+Income (Loss) from Equity Method Investments,169000000,2013-12-31
+Income (Loss) from Equity Method Investments,160000000,2014-12-31
+Income (Loss) from Equity Method Investments,135000000,2015-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",1159000000,2013-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",1151000000,2014-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",570000000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",20000000,2013-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-115000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-78000000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1179000000,2013-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",1036000000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",492000000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,20000000,2013-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,23000000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,18000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1159000000,2013-12-31
+Net Income (Loss) Attributable to Parent,1013000000,2014-12-31
+Net Income (Loss) Attributable to Parent,474000000,2015-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,1139000000,2013-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,1128000000,2014-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,552000000,2015-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.91,2013-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.96,2014-12-31
+"Income (Loss) from Continuing Operations, Per Basic Share",0.50,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.02,2013-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.10,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.08,2015-12-31
+"Earnings Per Share, Basic",0.93,2013-12-31
+"Earnings Per Share, Basic",0.86,2014-12-31
+"Earnings Per Share, Basic",0.42,2015-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.89,2013-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.94,2014-12-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.49,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.02,2013-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.09,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.07,2015-12-31
+"Earnings Per Share, Diluted",0.91,2013-12-31
+"Earnings Per Share, Diluted",0.85,2014-12-31
+"Earnings Per Share, Diluted",0.42,2015-12-31

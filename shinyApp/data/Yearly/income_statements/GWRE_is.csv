@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+Licenses Revenue,151921000,2014-07-31
+Licenses Revenue,179172000,2015-07-31
+Licenses Revenue,219751000,2016-07-31
+Maintenance Revenue,41888000,2014-07-31
+Maintenance Revenue,50024000,2015-07-31
+Maintenance Revenue,59931000,2016-07-31
+Technology Services Revenue,156437000,2014-07-31
+Technology Services Revenue,151341000,2015-07-31
+Technology Services Revenue,144764000,2016-07-31
+Revenues,350246000,2014-07-31
+Revenues,380537000,2015-07-31
+Revenues,424446000,2016-07-31
+License Costs,4442000,2014-07-31
+License Costs,4605000,2015-07-31
+License Costs,7184000,2016-07-31
+Maintenance Costs,8118000,2014-07-31
+Maintenance Costs,9073000,2015-07-31
+Maintenance Costs,11547000,2016-07-31
+Cost of Services,136387000,2014-07-31
+Cost of Services,133506000,2015-07-31
+Cost of Services,133103000,2016-07-31
+Cost of Revenue,148947000,2014-07-31
+Cost of Revenue,147184000,2015-07-31
+Cost of Revenue,151834000,2016-07-31
+License Gross Profit,147479000,2014-07-31
+License Gross Profit,174567000,2015-07-31
+License Gross Profit,212567000,2016-07-31
+Maintenance Gross Profit,33770000,2014-07-31
+Maintenance Gross Profit,40951000,2015-07-31
+Maintenance Gross Profit,48384000,2016-07-31
+Services Gross Profit,20050000,2014-07-31
+Services Gross Profit,17835000,2015-07-31
+Services Gross Profit,11661000,2016-07-31
+Gross Profit,201299000,2014-07-31
+Gross Profit,233353000,2015-07-31
+Gross Profit,272612000,2016-07-31
+Research and Development Expense,76178000,2014-07-31
+Research and Development Expense,93440000,2015-07-31
+Research and Development Expense,112496000,2016-07-31
+Selling and Marketing Expense,71295000,2014-07-31
+Selling and Marketing Expense,82023000,2015-07-31
+Selling and Marketing Expense,92765000,2016-07-31
+General and Administrative Expense,35404000,2014-07-31
+General and Administrative Expense,41397000,2015-07-31
+General and Administrative Expense,50914000,2016-07-31
+Operating Expenses,182877000,2014-07-31
+Operating Expenses,216860000,2015-07-31
+Operating Expenses,256175000,2016-07-31
+Operating Income (Loss),18422000,2014-07-31
+Operating Income (Loss),16493000,2015-07-31
+Operating Income (Loss),16437000,2016-07-31
+"Interest Income (Expense), Nonoperating, Net",1350000,2014-07-31
+"Interest Income (Expense), Nonoperating, Net",2245000,2015-07-31
+"Interest Income (Expense), Nonoperating, Net",4850000,2016-07-31
+Other Nonoperating Income (Expense),174000,2014-07-31
+Other Nonoperating Income (Expense),-1998000,2015-07-31
+Other Nonoperating Income (Expense),-505000,2016-07-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",19946000,2014-07-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",16740000,2015-07-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",20782000,2016-07-31
+Income Tax Expense (Benefit),5225000,2014-07-31
+Income Tax Expense (Benefit),6855000,2015-07-31
+Income Tax Expense (Benefit),5806000,2016-07-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",14721000,2014-07-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",9885000,2015-07-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",14976000,2016-07-31
+"Earnings Per Share, Basic",0.22,2014-07-31
+"Earnings Per Share, Basic",0.14,2015-07-31
+"Earnings Per Share, Basic",0.21,2016-07-31
+"Earnings Per Share, Diluted",0.21,2014-07-31
+"Earnings Per Share, Diluted",0.14,2015-07-31
+"Earnings Per Share, Diluted",0.20,2016-07-31
+"Weighted Average Number of Shares Outstanding, Basic",65748896,2014-07-31
+"Weighted Average Number of Shares Outstanding, Basic",70075908,2015-07-31
+"Weighted Average Number of Shares Outstanding, Basic",72026694,2016-07-31
+"Weighted Average Number of Shares Outstanding, Diluted",69112733,2014-07-31
+"Weighted Average Number of Shares Outstanding, Diluted",72314433,2015-07-31
+"Weighted Average Number of Shares Outstanding, Diluted",73765960,2016-07-31

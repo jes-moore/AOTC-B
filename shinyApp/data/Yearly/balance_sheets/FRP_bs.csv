@@ -1,0 +1,69 @@
+Metric,Amount,endDate
+Cash,42700000,2013-12-31
+Cash,37587000,2014-12-31
+Cash,26560000,2015-12-31
+Cash,34924000,2016-12-31
+"Accounts Receivable, Net, Current",60136000,2015-12-31
+"Accounts Receivable, Net, Current",62395000,2016-12-31
+"Prepaid Expense, Current",24410000,2015-12-31
+"Prepaid Expense, Current",24498000,2016-12-31
+"Other Assets, Current",5030000,2015-12-31
+"Other Assets, Current",4898000,2016-12-31
+"Assets, Current",116136000,2015-12-31
+"Assets, Current",126715000,2016-12-31
+"Property, Plant and Equipment, Net",1118781000,2015-12-31
+"Property, Plant and Equipment, Net",1024352000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",83879000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",75913000,2016-12-31
+"Restricted Cash and Cash Equivalents, Noncurrent",651000,2015-12-31
+"Restricted Cash and Cash Equivalents, Noncurrent",653000,2016-12-31
+"Other Assets, Noncurrent",3079000,2015-12-31
+"Other Assets, Noncurrent",3202000,2016-12-31
+Assets,1322526000,2015-12-31
+Assets,1230835000,2016-12-31
+"Secured Debt, Current",6400000,2015-12-31
+"Secured Debt, Current",6400000,2016-12-31
+"Capital Lease Obligations, Current",918000,2015-12-31
+"Capital Lease Obligations, Current",1227000,2016-12-31
+"Accounts Payable and Other Accrued Liabilities, Current",28157000,2015-12-31
+"Accounts Payable and Other Accrued Liabilities, Current",27598000,2016-12-31
+"Interest Payable, Current",9983000,2015-12-31
+"Interest Payable, Current",10120000,2016-12-31
+"Employee-related Liabilities, Current",24753000,2015-12-31
+"Employee-related Liabilities, Current",26187000,2016-12-31
+"Other Accrued Liabilities, Current",50018000,2015-12-31
+"Other Accrued Liabilities, Current",47918000,2016-12-31
+"Liabilities, Current",120229000,2015-12-31
+"Liabilities, Current",119450000,2016-12-31
+"Capital Lease Obligations, Noncurrent",1223000,2015-12-31
+"Capital Lease Obligations, Noncurrent",1311000,2016-12-31
+"Defined Benefit Pension Plan, Liabilities, Noncurrent",150562000,2015-12-31
+"Defined Benefit Pension Plan, Liabilities, Noncurrent",133917000,2016-12-31
+"Other Postretirement Defined Benefit Plan, Liabilities, Noncurrent",94042000,2015-12-31
+"Other Postretirement Defined Benefit Plan, Liabilities, Noncurrent",87629000,2016-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",35075000,2015-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",28016000,2016-12-31
+"Other Liabilities, Noncurrent",22739000,2015-12-31
+"Other Liabilities, Noncurrent",16219000,2016-12-31
+"Secured Long-term Debt, Noncurrent",900145000,2015-12-31
+"Secured Long-term Debt, Noncurrent",898370000,2016-12-31
+"Liabilities, Noncurrent",1203786000,2015-12-31
+"Liabilities, Noncurrent",1165462000,2016-12-31
+Liabilities,1324015000,2015-12-31
+Liabilities,1284912000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+"Common Stock, Value, Issued",269000,2015-12-31
+"Common Stock, Value, Issued",271000,2016-12-31
+"Additional Paid in Capital, Common Stock",521842000,2015-12-31
+"Additional Paid in Capital, Common Stock",527613000,2016-12-31
+Retained Earnings (Accumulated Deficit),-707592000,2015-12-31
+Retained Earnings (Accumulated Deficit),-603497000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",183992000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",21536000,2016-12-31
+Stockholders' Equity Attributable to Parent,-309196000,2013-12-31
+Stockholders' Equity Attributable to Parent,-600284000,2014-12-31
+Stockholders' Equity Attributable to Parent,-1489000,2015-12-31
+Stockholders' Equity Attributable to Parent,-54077000,2016-12-31
+Liabilities and Equity,1322526000,2015-12-31
+Liabilities and Equity,1230835000,2016-12-31

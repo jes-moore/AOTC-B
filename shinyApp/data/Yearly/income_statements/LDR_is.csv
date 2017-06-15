@@ -1,0 +1,133 @@
+Metric,Amount,endDate
+"Sales Revenue, Services, Net",127698000,2014-09-30
+"Sales Revenue, Services, Net",128771000,2015-09-30
+"Sales Revenue, Services, Net",130614000,2016-09-30
+"Sales Revenue, Goods, Net",27364000,2014-09-30
+"Sales Revenue, Goods, Net",22543000,2015-09-30
+"Sales Revenue, Goods, Net",18625000,2016-09-30
+Revenues,155062000,2014-09-30
+Revenues,37547000,2014-12-31
+Revenues,151314000,2015-09-30
+Revenues,36530000,2015-12-31
+Revenues,149239000,2016-09-30
+Revenues,38139000,2015-03-31
+Revenues,38082000,2016-03-31
+Revenues,35467000,2015-06-30
+Revenues,37854000,2016-06-30
+Revenues,40161000,2015-09-30
+Revenues,36773000,2016-09-30
+Service costs,61649000,2014-09-30
+Service costs,63876000,2015-09-30
+Service costs,66795000,2016-09-30
+Product costs,12506000,2014-09-30
+Product costs,8709000,2015-09-30
+Product costs,6966000,2016-09-30
+Cost of Revenue,74155000,2014-09-30
+Cost of Revenue,72585000,2015-09-30
+Cost of Revenue,73761000,2016-09-30
+Gross Profit,80907000,2014-09-30
+Gross Profit,19796000,2014-12-31
+Gross Profit,78729000,2015-09-30
+Gross Profit,18515000,2015-12-31
+Gross Profit,75478000,2016-09-30
+Gross Profit,19528000,2015-03-31
+Gross Profit,19755000,2016-03-31
+Gross Profit,18646000,2015-06-30
+Gross Profit,19518000,2016-06-30
+Gross Profit,20759000,2015-09-30
+Gross Profit,17690000,2016-09-30
+Operating Expenses,54904000,2014-09-30
+Operating Expenses,53989000,2015-09-30
+Operating Expenses,48837000,2016-09-30
+Goodwill and Intangible Asset Impairment,62188000,2014-09-30
+Business Combination Acquisition Related Costs,3802000,2014-09-30
+Business Combination Acquisition Related Costs,1041000,2015-09-30
+Business Combination Acquisition Related Costs,0,2016-09-30
+Business Combination Acquisition Related Costs,1041000,2015-09-30
+Operating Income (Loss),-39987000,2014-09-30
+Operating Income (Loss),6141000,2014-12-31
+Operating Income (Loss),23699000,2015-09-30
+Operating Income (Loss),6252000,2015-12-31
+Operating Income (Loss),26641000,2016-09-30
+Operating Income (Loss),5630000,2015-03-31
+Operating Income (Loss),7217000,2016-03-31
+Operating Income (Loss),5111000,2015-06-30
+Operating Income (Loss),7713000,2016-06-30
+Operating Income (Loss),6817000,2015-09-30
+Operating Income (Loss),5459000,2016-09-30
+Income (Loss) from Equity Method Investments,2939000,2014-09-30
+Income (Loss) from Equity Method Investments,2307000,2015-09-30
+Income (Loss) from Equity Method Investments,1483000,2016-09-30
+"Interest expense, net",-3424000,2014-09-30
+"Interest expense, net",-4370000,2015-09-30
+"Interest expense, net",-3419000,2016-09-30
+Other Nonoperating Income (Expense),-26000,2014-09-30
+Other Nonoperating Income (Expense),-314000,2015-09-30
+Other Nonoperating Income (Expense),3648000,2016-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-40498000,2014-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",21322000,2015-09-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",28353000,2016-09-30
+Income Tax Expense (Benefit),-15800000,2014-09-30
+Income Tax Expense (Benefit),6273000,2015-09-30
+Income Tax Expense (Benefit),9899000,2016-09-30
+Net income (loss),-24698000,2014-09-30
+Net income (loss),15049000,2015-09-30
+Net income (loss),18454000,2016-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,505000,2014-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,506000,2015-09-30
+Net Income (Loss) Attributable to Noncontrolling Interest,701000,2016-09-30
+"Net income attributed to Landauer, Inc.",-25203000,2014-09-30
+"Net income attributed to Landauer, Inc.",4377000,2014-12-31
+"Net income attributed to Landauer, Inc.",14543000,2015-09-30
+"Net income attributed to Landauer, Inc.",3643000,2015-12-31
+"Net income attributed to Landauer, Inc.",17753000,2016-09-30
+"Net income attributed to Landauer, Inc.",3547000,2015-03-31
+"Net income attributed to Landauer, Inc.",4279000,2016-03-31
+"Net income attributed to Landauer, Inc.",4055000,2015-06-30
+"Net income attributed to Landauer, Inc.",7265000,2016-06-30
+"Net income attributed to Landauer, Inc.",2564000,2015-09-30
+"Net income attributed to Landauer, Inc.",2566000,2016-09-30
+Net income (loss) per share – Basic,-2.65,2014-09-30
+Net income (loss) per share – Basic,0.46,2014-12-31
+Net income (loss) per share – Basic,1.52,2015-09-30
+Net income (loss) per share – Basic,0.38,2015-12-31
+Net income (loss) per share – Basic,1.86,2016-09-30
+Net income (loss) per share – Basic,0.37,2015-03-31
+Net income (loss) per share – Basic,0.45,2016-03-31
+Net income (loss) per share – Basic,0.42,2015-06-30
+Net income (loss) per share – Basic,0.76,2016-06-30
+Net income (loss) per share – Basic,0.27,2015-09-30
+Net income (loss) per share – Basic,0.27,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic",9524000,2014-09-30
+"Weighted Average Number of Shares Outstanding, Basic",9446000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",9511000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic",9460000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",9526000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic",9493000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic",9518000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic",9509000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",9531000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",9533000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic",9532000,2016-09-30
+Net income (loss) per share – Diluted,-2.65,2014-09-30
+Net income (loss) per share – Diluted,0.46,2014-12-31
+Net income (loss) per share – Diluted,1.52,2015-09-30
+Net income (loss) per share – Diluted,0.38,2015-12-31
+Net income (loss) per share – Diluted,1.85,2016-09-30
+Net income (loss) per share – Diluted,0.37,2015-03-31
+Net income (loss) per share – Diluted,0.45,2016-03-31
+Net income (loss) per share – Diluted,0.42,2015-06-30
+Net income (loss) per share – Diluted,0.76,2016-06-30
+Net income (loss) per share – Diluted,0.27,2015-09-30
+Net income (loss) per share – Diluted,0.26,2016-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",9524000,2014-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",9474000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",9540000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",9492000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",9569000,2016-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",9520000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",9550000,2016-03-31
+"Weighted Average Number of Shares Outstanding, Diluted",9534000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",9564000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",9570000,2015-09-30
+"Weighted Average Number of Shares Outstanding, Diluted",9584000,2016-09-30

@@ -1,0 +1,204 @@
+Metric,Amount,endDate
+Interest and fees on taxable loans,34530000,2014-12-31
+Interest and fees on taxable loans,37241000,2015-12-31
+Interest and fees on taxable loans,40827000,2016-12-31
+Interest and fees on tax-exempt loans,339000,2014-12-31
+Interest and fees on tax-exempt loans,540000,2015-12-31
+Interest and fees on tax-exempt loans,960000,2016-12-31
+Interest and dividends on taxable investment securities,5053000,2014-12-31
+Interest and dividends on taxable investment securities,6792000,2015-12-31
+Interest and dividends on taxable investment securities,11264000,2016-12-31
+Interest and dividends on tax-exempt investment securities,364000,2014-12-31
+Interest and dividends on tax-exempt investment securities,585000,2015-12-31
+Interest and dividends on tax-exempt investment securities,703000,2016-12-31
+Interest on federal funds sold and other interest-earning assets,187000,2014-12-31
+Interest on federal funds sold and other interest-earning assets,278000,2015-12-31
+Interest on federal funds sold and other interest-earning assets,473000,2016-12-31
+Interest income,40473000,2014-12-31
+Interest income,10761000,2015-03-31
+Interest income,45436000,2015-12-31
+Interest income,10899000,2015-06-30
+Interest income,11370000,2015-09-30
+Interest income,12406000,2015-12-31
+Interest income,12762000,2016-03-31
+Interest income,54227000,2016-12-31
+Interest income,13209000,2016-06-30
+Interest income,13620000,2016-09-30
+Interest income,14636000,2016-12-31
+us-gaap_InterestExpenseNegotiableOrderOfWithdrawalNOWDeposits,888000,2014-12-31
+us-gaap_InterestExpenseNegotiableOrderOfWithdrawalNOWDeposits,1401000,2015-12-31
+us-gaap_InterestExpenseNegotiableOrderOfWithdrawalNOWDeposits,2088000,2016-12-31
+frbk_InterestExpenseOnMoneyMarketAndSavingsDeposits,1929000,2014-12-31
+frbk_InterestExpenseOnMoneyMarketAndSavingsDeposits,2170000,2015-12-31
+frbk_InterestExpenseOnMoneyMarketAndSavingsDeposits,2639000,2016-12-31
+us-gaap_InterestExpenseTimeDeposits,719000,2014-12-31
+us-gaap_InterestExpenseTimeDeposits,695000,2015-12-31
+us-gaap_InterestExpenseTimeDeposits,942000,2016-12-31
+us-gaap_InterestExpenseBorrowings,1108000,2014-12-31
+us-gaap_InterestExpenseBorrowings,1115000,2015-12-31
+us-gaap_InterestExpenseBorrowings,1194000,2016-12-31
+Interest expense,4644000,2014-12-31
+Interest expense,1294000,2015-03-31
+Interest expense,5381000,2015-12-31
+Interest expense,1290000,2015-06-30
+Interest expense,1378000,2015-09-30
+Interest expense,1419000,2015-12-31
+Interest expense,1471000,2016-03-31
+Interest expense,6863000,2016-12-31
+Interest expense,1612000,2016-06-30
+Interest expense,1834000,2016-09-30
+Interest expense,1946000,2016-12-31
+us-gaap_InterestIncomeExpenseNet,35829000,2014-12-31
+us-gaap_InterestIncomeExpenseNet,9467000,2015-03-31
+us-gaap_InterestIncomeExpenseNet,40055000,2015-12-31
+us-gaap_InterestIncomeExpenseNet,9609000,2015-06-30
+us-gaap_InterestIncomeExpenseNet,9992000,2015-09-30
+us-gaap_InterestIncomeExpenseNet,10987000,2015-12-31
+us-gaap_InterestIncomeExpenseNet,11291000,2016-03-31
+us-gaap_InterestIncomeExpenseNet,47364000,2016-12-31
+us-gaap_InterestIncomeExpenseNet,11597000,2016-06-30
+us-gaap_InterestIncomeExpenseNet,11786000,2016-09-30
+us-gaap_InterestIncomeExpenseNet,12690000,2016-12-31
+Provision for loan losses,900000,2014-12-31
+Provision for loan losses,,2015-03-31
+Provision for loan losses,500000,2015-12-31
+Provision for loan losses,,2015-06-30
+Provision for loan losses,,2015-09-30
+Provision for loan losses,500000,2015-12-31
+Provision for loan losses,300000,2016-03-31
+Provision for loan losses,1557000,2016-12-31
+Provision for loan losses,650000,2016-06-30
+Provision for loan losses,607000,2016-09-30
+Provision for loan losses,,2016-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,34929000,2014-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,39555000,2015-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,45807000,2016-12-31
+Loan advisory and servicing fees,1452000,2014-12-31
+Loan advisory and servicing fees,2226000,2015-12-31
+Loan advisory and servicing fees,1627000,2016-12-31
+Mortgage banking income,,2014-12-31
+Mortgage banking income,,2015-12-31
+Mortgage banking income,5062000,2016-12-31
+Gain on sales of SBA loans,4717000,2014-12-31
+Gain on sales of SBA loans,3139000,2015-12-31
+Gain on sales of SBA loans,4981000,2016-12-31
+Service fees on deposit accounts,1224000,2014-12-31
+Service fees on deposit accounts,1720000,2015-12-31
+Service fees on deposit accounts,2658000,2016-12-31
+Legal settlements,,2014-12-31
+Legal settlements,2550000,2015-12-31
+Legal settlements,,2016-12-31
+Gain on sale of investment securities,458000,2014-12-31
+Gain on sale of investment securities,108000,2015-12-31
+Gain on sale of investment securities,656000,2016-12-31
+Impairment charges on investment securities,7000,2014-12-31
+Impairment charges on investment securities,3000,2015-12-31
+Impairment charges on investment securities,7000,2016-12-31
+us-gaap_NoninterestIncomeOtherOperatingIncome,173000,2014-12-31
+us-gaap_NoninterestIncomeOtherOperatingIncome,203000,2015-12-31
+us-gaap_NoninterestIncomeOtherOperatingIncome,335000,2016-12-31
+Non-interest income,8017000,2014-12-31
+Non-interest income,1577000,2015-03-31
+Non-interest income,9943000,2015-12-31
+Non-interest income,2022000,2015-06-30
+Non-interest income,1604000,2015-09-30
+Non-interest income,4740000,2015-12-31
+Non-interest income,2412000,2016-03-31
+Non-interest income,15312000,2016-12-31
+Non-interest income,3031000,2016-06-30
+Non-interest income,5142000,2016-09-30
+Non-interest income,4727000,2016-12-31
+Salaries and employee benefits,20089000,2014-12-31
+Salaries and employee benefits,22488000,2015-12-31
+Salaries and employee benefits,28602000,2016-12-31
+Occupancy,4247000,2014-12-31
+Occupancy,4929000,2015-12-31
+Occupancy,6109000,2016-12-31
+Depreciation and amortization,2382000,2014-12-31
+Depreciation and amortization,3080000,2015-12-31
+Depreciation and amortization,3518000,2016-12-31
+Legal,1290000,2014-12-31
+Legal,915000,2015-12-31
+Legal,459000,2016-12-31
+Other real estate owned,1794000,2014-12-31
+Other real estate owned,4239000,2015-12-31
+Other real estate owned,2182000,2016-12-31
+Advertising,597000,2014-12-31
+Advertising,627000,2015-12-31
+Advertising,811000,2016-12-31
+Data processing,1345000,2014-12-31
+Data processing,1593000,2015-12-31
+Data processing,2408000,2016-12-31
+Insurance,586000,2014-12-31
+Insurance,720000,2015-12-31
+Insurance,962000,2016-12-31
+Professional fees,1468000,2014-12-31
+Professional fees,1268000,2015-12-31
+Professional fees,1580000,2016-12-31
+Regulatory assessments and costs,1065000,2014-12-31
+Regulatory assessments and costs,1248000,2015-12-31
+Regulatory assessments and costs,1413000,2016-12-31
+"Taxes, other",616000,2014-12-31
+"Taxes, other",689000,2015-12-31
+"Taxes, other",366000,2016-12-31
+Other operating expenses,5071000,2014-12-31
+Other operating expenses,5295000,2015-12-31
+Other operating expenses,7883000,2016-12-31
+Non-interest expense,40550000,2014-12-31
+Non-interest expense,10518000,2015-03-31
+Non-interest expense,47091000,2015-12-31
+Non-interest expense,11103000,2015-06-30
+Non-interest expense,11024000,2015-09-30
+Non-interest expense,14446000,2015-12-31
+Non-interest expense,12343000,2016-03-31
+Non-interest expense,56293000,2016-12-31
+Non-interest expense,12967000,2016-06-30
+Non-interest expense,15013000,2016-09-30
+Non-interest expense,15970000,2016-12-31
+Net loss before taxes,2396000,2014-12-31
+Net loss before taxes,2407000,2015-12-31
+Net loss before taxes,4826000,2016-12-31
+Benefit for income taxes,-46000,2014-12-31
+Benefit for income taxes,-9000,2015-03-31
+Benefit for income taxes,-26000,2015-12-31
+Benefit for income taxes,-10000,2015-06-30
+Benefit for income taxes,-5000,2015-09-30
+Benefit for income taxes,-2000,2015-12-31
+Benefit for income taxes,-25000,2016-03-31
+Benefit for income taxes,-119000,2016-12-31
+Benefit for income taxes,-12000,2016-06-30
+Benefit for income taxes,-32000,2016-09-30
+Benefit for income taxes,-50000,2016-12-31
+Net income,2442000,2014-12-31
+Net income,528000,2015-03-31
+Net income,2433000,2015-12-31
+Net income,533000,2015-06-30
+Net income,582000,2015-09-30
+Net income,790000,2015-12-31
+Net income,1085000,2016-03-31
+Net income,4945000,2016-12-31
+Net income,1023000,2016-06-30
+Net income,1340000,2016-09-30
+Net income,1497000,2016-12-31
+Basic (in dollars per share),0.07,2014-12-31
+Basic (in dollars per share),0.01,2015-03-31
+Basic (in dollars per share),0.06,2015-12-31
+Basic (in dollars per share),0.01,2015-06-30
+Basic (in dollars per share),0.02,2015-09-30
+Basic (in dollars per share),0.02,2015-12-31
+Basic (in dollars per share),0.03,2016-03-31
+Basic (in dollars per share),0.13,2016-12-31
+Basic (in dollars per share),0.03,2016-06-30
+Basic (in dollars per share),0.04,2016-09-30
+Basic (in dollars per share),0.03,2016-12-31
+Diluted (in dollars per share),0.07,2014-12-31
+Diluted (in dollars per share),0.01,2015-03-31
+Diluted (in dollars per share),0.06,2015-12-31
+Diluted (in dollars per share),0.01,2015-06-30
+Diluted (in dollars per share),0.02,2015-09-30
+Diluted (in dollars per share),0.02,2015-12-31
+Diluted (in dollars per share),0.03,2016-03-31
+Diluted (in dollars per share),0.12,2016-12-31
+Diluted (in dollars per share),0.03,2016-06-30
+Diluted (in dollars per share),0.03,2016-09-30
+Diluted (in dollars per share),0.03,2016-12-31

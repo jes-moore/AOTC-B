@@ -1,0 +1,105 @@
+Metric,Amount,endDate
+Net sales,121831000,2016-05-01
+Net sales,136163000,2016-07-31
+Net sales,145298000,2016-10-30
+Net sales,173927000,2017-01-29
+Net sales,60956000,2015-05-03
+Net sales,60140000,2015-08-02
+Net sales,65338000,2015-11-01
+Net sales,60565000,2016-01-31
+Net sales,577219000,2017-01-29
+Net sales,246999000,2016-01-31
+Net sales,244350000,2015-02-01
+Cost of sales,95232000,2016-05-01
+Cost of sales,107685000,2016-07-31
+Cost of sales,114372000,2016-10-30
+Cost of sales,133809000,2017-01-29
+Cost of sales,44581000,2015-05-03
+Cost of sales,44047000,2015-08-02
+Cost of sales,47173000,2015-11-01
+Cost of sales,42510000,2016-01-31
+Cost of sales,451098000,2017-01-29
+Cost of sales,178311000,2016-01-31
+Cost of sales,181550000,2015-02-01
+Gross Profit,26599000,2016-05-01
+Gross Profit,28478000,2016-07-31
+Gross Profit,30926000,2016-10-30
+Gross Profit,40118000,2017-01-29
+Gross Profit,16375000,2015-05-03
+Gross Profit,16093000,2015-08-02
+Gross Profit,18165000,2015-11-01
+Gross Profit,18055000,2016-01-31
+Gross Profit,126121000,2017-01-29
+Gross Profit,68688000,2016-01-31
+Gross Profit,62800000,2015-02-01
+Selling and administrative expenses,20944000,2016-05-01
+Selling and administrative expenses,19441000,2016-07-31
+Selling and administrative expenses,20653000,2016-10-30
+Selling and administrative expenses,22728000,2017-01-29
+Selling and administrative expenses,11133000,2015-05-03
+Selling and administrative expenses,10234000,2015-08-02
+Selling and administrative expenses,11525000,2015-11-01
+Selling and administrative expenses,11534000,2016-01-31
+Selling and administrative expenses,83767000,2017-01-29
+Selling and administrative expenses,44426000,2016-01-31
+Selling and administrative expenses,43752000,2015-02-01
+Intangible asset amortization,3134000,2017-01-29
+Intangible asset amortization,0,2016-01-31
+Intangible asset amortization,0,2015-02-01
+Operating Income,39220000,2017-01-29
+Operating Income,24262000,2016-01-31
+Operating Income,19048000,2015-02-01
+"Other income, net",930000,2017-01-29
+"Other income, net",261000,2016-01-31
+"Other income, net",403000,2015-02-01
+"Interest Income (Expense), Net",-954000,2017-01-29
+"Interest Income (Expense), Net",-64000,2016-01-31
+"Interest Income (Expense), Net",-53000,2015-02-01
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",39196000,2017-01-29
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",24459000,2016-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",19398000,2015-02-01
+Income taxes,13909000,2017-01-29
+Income taxes,8274000,2016-01-31
+Income taxes,6820000,2015-02-01
+Net income,2500000,2016-05-01
+Net income,5349000,2016-07-31
+Net income,6459000,2016-10-30
+Net income,10979000,2017-01-29
+Net income,3472000,2015-05-03
+Net income,3938000,2015-08-02
+Net income,4630000,2015-11-01
+Net income,4145000,2016-01-31
+Net income,25287000,2017-01-29
+Net income,16185000,2016-01-31
+Net income,12578000,2015-02-01
+Basic (in Dollars per share),0.22,2016-05-01
+Basic (in Dollars per share),0.46,2016-07-31
+Basic (in Dollars per share),0.56,2016-10-30
+Basic (in Dollars per share),0.95,2017-01-29
+Basic (in Dollars per share),0.32,2015-05-03
+Basic (in Dollars per share),0.36,2015-08-02
+Basic (in Dollars per share),0.43,2015-11-01
+Basic (in Dollars per share),0.38,2016-01-31
+Basic (in Dollars per share),2.19,2017-01-29
+Basic (in Dollars per share),1.50,2016-01-31
+Basic (in Dollars per share),1.17,2015-02-01
+Diluted (in Dollars per share),0.22,2016-05-01
+Diluted (in Dollars per share),0.46,2016-07-31
+Diluted (in Dollars per share),0.56,2016-10-30
+Diluted (in Dollars per share),0.95,2017-01-29
+Diluted (in Dollars per share),0.32,2015-05-03
+Diluted (in Dollars per share),0.36,2015-08-02
+Diluted (in Dollars per share),0.43,2015-11-01
+Diluted (in Dollars per share),0.38,2016-01-31
+Diluted (in Dollars per share),2.18,2017-01-29
+Diluted (in Dollars per share),1.49,2016-01-31
+Diluted (in Dollars per share),1.16,2015-02-01
+Basic (in Shares),11531000,2017-01-29
+Basic (in Shares),10779000,2016-01-31
+Basic (in Shares),10736000,2015-02-01
+Diluted (in Shares),11563000,2017-01-29
+Diluted (in Shares),10807000,2016-01-31
+Diluted (in Shares),10771000,2015-02-01
+Cash dividends declared per share (in Dollars per share),0.42,2017-01-29
+Cash dividends declared per share (in Dollars per share),0.40,2016-01-31
+Cash dividends declared per share (in Dollars per share),0.40,2015-02-01

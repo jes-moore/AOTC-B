@@ -1,0 +1,107 @@
+Metric,Amount,endDate
+Net income (loss),4410000,2014-12-31
+Net income (loss),-10254000,2015-03-31
+Net income (loss),-39119000,2015-12-31
+Net income (loss),-11697000,2015-06-30
+Net income (loss),-10014000,2015-09-30
+Net income (loss),-7154000,2015-12-31
+Net income (loss),-12673000,2016-03-31
+Net income (loss),10733000,2016-12-31
+Net income (loss),-5657000,2016-06-30
+Net income (loss),36282000,2016-09-30
+Net income (loss),-7219000,2016-12-31
+us-gaap_DepreciationDepletionAndAmortization,545000,2014-12-31
+us-gaap_DepreciationDepletionAndAmortization,565000,2015-12-31
+us-gaap_DepreciationDepletionAndAmortization,2078000,2016-12-31
+us-gaap_ShareBasedCompensation,3523000,2014-12-31
+us-gaap_ShareBasedCompensation,2948000,2015-12-31
+us-gaap_ShareBasedCompensation,2457000,2016-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,110000,2014-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,2000,2015-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,296000,2016-12-31
+Intangible impairment charges,2676000,2014-12-31
+Intangible impairment charges,0,2015-12-31
+Intangible impairment charges,0,2016-12-31
+Paid in-kind interest,0,2014-12-31
+Paid in-kind interest,0,2015-12-31
+Paid in-kind interest,765000,2016-12-31
+Non-cash interest expense,0,2014-12-31
+Non-cash interest expense,0,2015-12-31
+Non-cash interest expense,38000,2016-12-31
+Deferred income tax,-989000,2014-12-31
+Deferred income tax,-133000,2015-12-31
+Deferred income tax,1811000,2016-12-31
+Change in contingent consideration liability,1500000,2014-12-31
+Change in contingent consideration liability,1600000,2015-12-31
+Change in contingent consideration liability,-4600000,2016-12-31
+pgnx_SubsidiaryEscrowSharesReturned,82000,2014-12-31
+pgnx_SubsidiaryEscrowSharesReturned,0,2015-12-31
+pgnx_SubsidiaryEscrowSharesReturned,0,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,-2770000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,3415000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,1322000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,572000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,3058000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,-1314000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,1535000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,778000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,-435000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,-202000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableTrade,243000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,493000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,2354000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherAccruedLiabilities,6581000,2016-12-31
+Deferred tax and other current liabilities,0,2014-12-31
+Deferred tax and other current liabilities,-60000,2015-12-31
+Deferred tax and other current liabilities,-158000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,-3000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,-80000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,343000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,13726000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,-40137000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,19209000,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,0,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,6202000,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,0,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,714000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,370000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4286000,2016-12-31
+Proceeds from sale of fixed assets,143000,2014-12-31
+Proceeds from sale of fixed assets,48000,2015-12-31
+Proceeds from sale of fixed assets,347000,2016-12-31
+Proceeds from redemption of auction rate securities,2400000,2014-12-31
+Proceeds from redemption of auction rate securities,0,2015-12-31
+Proceeds from redemption of auction rate securities,0,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,1829000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-6524000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-3939000,2016-12-31
+Net proceeds from issuance of long-term debt,0,2014-12-31
+Net proceeds from issuance of long-term debt,0,2015-12-31
+Net proceeds from issuance of long-term debt,48650000,2016-12-31
+Net proceeds from public offering of common stock,37459000,2014-12-31
+Net proceeds from public offering of common stock,0,2015-12-31
+Net proceeds from public offering of common stock,0,2016-12-31
+Proceeds from exercise of stock options,428000,2014-12-31
+Proceeds from exercise of stock options,1737000,2015-12-31
+Proceeds from exercise of stock options,1340000,2016-12-31
+us-gaap_PaymentsToMinorityShareholders,,2014-12-31
+us-gaap_PaymentsToMinorityShareholders,292000,2015-12-31
+us-gaap_PaymentsToMinorityShareholders,368000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,37887000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,1445000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,49622000,2016-12-31
+Effect of currency rate changes on cash and cash equivalents,0,2014-12-31
+Effect of currency rate changes on cash and cash equivalents,17000,2015-12-31
+Effect of currency rate changes on cash and cash equivalents,-86000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,53442000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-45199000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,64806000,2016-12-31
+Cash and cash equivalents,65860000,2013-12-31
+Cash and cash equivalents,119302000,2014-12-31
+Cash and cash equivalents,74103000,2015-12-31
+Cash and cash equivalents,138909000,2016-12-31
+Cash and cash equivalents,65860000,2013-12-31
+Cash and cash equivalents,119302000,2014-12-31
+Cash and cash equivalents,74103000,2015-12-31
+Cash and cash equivalents,138909000,2016-12-31

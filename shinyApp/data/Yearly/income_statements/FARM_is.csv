@@ -1,0 +1,115 @@
+Metric,Amount,endDate
+"Revenue, Net",528380000,2014-06-30
+"Revenue, Net",135984000,2014-09-30
+"Revenue, Net",144809000,2014-12-31
+"Revenue, Net",132507000,2015-03-31
+"Revenue, Net",132582000,2015-06-30
+"Revenue, Net",545882000,2015-06-30
+"Revenue, Net",133445000,2015-09-30
+"Revenue, Net",142307000,2015-12-31
+"Revenue, Net",134468000,2016-03-31
+"Revenue, Net",134162000,2016-06-30
+"Revenue, Net",544382000,2016-06-30
+Cost of Goods Sold,332466000,2014-06-30
+Cost of Goods Sold,348846000,2015-06-30
+Cost of Goods Sold,335907000,2016-06-30
+Gross Profit,195914000,2014-06-30
+Gross Profit,48121000,2014-09-30
+Gross Profit,53142000,2014-12-31
+Gross Profit,46569000,2015-03-31
+Gross Profit,49204000,2015-06-30
+Gross Profit,197036000,2015-06-30
+Gross Profit,50579000,2015-09-30
+Gross Profit,52908000,2015-12-31
+Gross Profit,52560000,2016-03-31
+Gross Profit,52428000,2016-06-30
+Gross Profit,208475000,2016-06-30
+Selling Expense,155088000,2014-06-30
+Selling Expense,151753000,2015-06-30
+Selling Expense,150198000,2016-06-30
+General and Administrative Expense,35724000,2014-06-30
+General and Administrative Expense,31173000,2015-06-30
+General and Administrative Expense,41970000,2016-06-30
+Restructuring and other transition expenses,0,2014-06-30
+Restructuring and other transition expenses,10432000,2015-06-30
+Restructuring and other transition expenses,16533000,2016-06-30
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2014-06-30
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2015-06-30
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",5603000,2016-06-30
+Gain (Loss) on Disposition of Assets,3814000,2014-06-30
+Gain (Loss) on Disposition of Assets,-394000,2015-06-30
+Gain (Loss) on Disposition of Assets,2802000,2016-06-30
+Operating Expenses,186998000,2014-06-30
+Operating Expenses,193752000,2015-06-30
+Operating Expenses,200296000,2016-06-30
+Operating Income (Loss),8916000,2014-06-30
+Operating Income (Loss),2601000,2014-09-30
+Operating Income (Loss),3505000,2014-12-31
+Operating Income (Loss),-1405000,2015-03-31
+Operating Income (Loss),-1417000,2015-06-30
+Operating Income (Loss),3284000,2015-06-30
+Operating Income (Loss),-563000,2015-09-30
+Operating Income (Loss),5361000,2015-12-31
+Operating Income (Loss),306000,2016-03-31
+Operating Income (Loss),3075000,2016-06-30
+Operating Income (Loss),8179000,2016-06-30
+"Investment Income, Dividend",1073000,2014-06-30
+"Investment Income, Dividend",1172000,2015-06-30
+"Investment Income, Dividend",1115000,2016-06-30
+"Investment Income, Interest",429000,2014-06-30
+"Investment Income, Interest",381000,2015-06-30
+"Investment Income, Interest",496000,2016-06-30
+Interest Expense,1258000,2014-06-30
+Interest Expense,769000,2015-06-30
+Interest Expense,425000,2016-06-30
+Other Nonoperating Income (Expense),3677000,2014-06-30
+Other Nonoperating Income (Expense),-3014000,2015-06-30
+Other Nonoperating Income (Expense),556000,2016-06-30
+Nonoperating Income (Expense),3921000,2014-06-30
+Nonoperating Income (Expense),-2230000,2015-06-30
+Nonoperating Income (Expense),1742000,2016-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",12837000,2014-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",1054000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",9921000,2016-06-30
+Income Tax Expense (Benefit),705000,2014-06-30
+Income Tax Expense (Benefit),402000,2015-06-30
+Income Tax Expense (Benefit),-79997000,2016-06-30
+Net Income (Loss) Attributable to Parent,12132000,2014-06-30
+Net Income (Loss) Attributable to Parent,2515000,2014-09-30
+Net Income (Loss) Attributable to Parent,2896000,2014-12-31
+Net Income (Loss) Attributable to Parent,-2572000,2015-03-31
+Net Income (Loss) Attributable to Parent,-2187000,2015-06-30
+Net Income (Loss) Attributable to Parent,652000,2015-06-30
+Net Income (Loss) Attributable to Parent,-1074000,2015-09-30
+Net Income (Loss) Attributable to Parent,5561000,2015-12-31
+Net Income (Loss) Attributable to Parent,1192000,2016-03-31
+Net Income (Loss) Attributable to Parent,84239000,2016-06-30
+Net Income (Loss) Attributable to Parent,89918000,2016-06-30
+"Earnings Per Share, Basic",0.76,2014-06-30
+"Earnings Per Share, Basic",0.16,2014-09-30
+"Earnings Per Share, Basic",0.18,2014-12-31
+"Earnings Per Share, Basic",-0.16,2015-03-31
+"Earnings Per Share, Basic",-0.13,2015-06-30
+"Earnings Per Share, Basic",0.04,2015-06-30
+"Earnings Per Share, Basic",-0.07,2015-09-30
+"Earnings Per Share, Basic",0.34,2015-12-31
+"Earnings Per Share, Basic",0.07,2016-03-31
+"Earnings Per Share, Basic",5.09,2016-06-30
+"Earnings Per Share, Basic",5.45,2016-06-30
+"Earnings Per Share, Diluted",0.76,2014-06-30
+"Earnings Per Share, Diluted",0.16,2014-09-30
+"Earnings Per Share, Diluted",0.18,2014-12-31
+"Earnings Per Share, Diluted",-0.16,2015-03-31
+"Earnings Per Share, Diluted",-0.13,2015-06-30
+"Earnings Per Share, Diluted",0.04,2015-06-30
+"Earnings Per Share, Diluted",-0.07,2015-09-30
+"Earnings Per Share, Diluted",0.34,2015-12-31
+"Earnings Per Share, Diluted",0.07,2016-03-31
+"Earnings Per Share, Diluted",5.05,2016-06-30
+"Earnings Per Share, Diluted",5.41,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",15909631,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",16127610,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",16502523,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",16014587,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",16267134,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",16627402,2016-06-30

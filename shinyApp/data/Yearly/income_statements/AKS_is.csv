@@ -1,0 +1,87 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",5570400000,2013-12-31
+"Sales Revenue, Goods, Net",1383500000,2014-03-31
+"Sales Revenue, Goods, Net",1530800000,2014-06-30
+"Sales Revenue, Goods, Net",1593800000,2014-09-30
+"Sales Revenue, Goods, Net",1997600000,2014-12-31
+"Sales Revenue, Goods, Net",6505700000,2014-12-31
+"Sales Revenue, Goods, Net",1750900000,2015-03-31
+"Sales Revenue, Goods, Net",1689400000,2015-06-30
+"Sales Revenue, Goods, Net",1709900000,2015-09-30
+"Sales Revenue, Goods, Net",1542700000,2015-12-31
+"Sales Revenue, Goods, Net",6692900000,2015-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization Pension And OPEB Costs And Other Items,5107800000,2013-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization Pension And OPEB Costs And Other Items,6007700000,2014-12-31
+Cost Of Goods Sold Excluding Depreciation Depletion And Amortization Pension And OPEB Costs And Other Items,6032000000,2015-12-31
+Selling General And Administrative Expense Excluding Pension And OPEB Costs And Other Items,205300000,2013-12-31
+Selling General And Administrative Expense Excluding Pension And OPEB Costs And Other Items,247200000,2014-12-31
+Selling General And Administrative Expense Excluding Pension And OPEB Costs And Other Items,261900000,2015-12-31
+Depreciation,190100000,2013-12-31
+Depreciation,201900000,2014-12-31
+Depreciation,216000000,2015-12-31
+Defined Benefit Plan Net Periodic Benefit Cost (Credit) Excluding Corridor Adjustment,-68600000,2013-12-31
+Defined Benefit Plan Net Periodic Benefit Cost (Credit) Excluding Corridor Adjustment,-92500000,2014-12-31
+Defined Benefit Plan Net Periodic Benefit Cost (Credit) Excluding Corridor Adjustment,-63000000,2015-12-31
+Pension And Other Postretirement Benefit Corridor Charge (Credit),0,2013-12-31
+Pension And Other Postretirement Benefit Corridor Charge (Credit),2000000,2014-12-31
+Pension And Other Postretirement Benefit Corridor Charge (Credit),131200000,2015-12-31
+Charge For Facility Idling,0,2013-12-31
+Charge For Facility Idling,0,2014-12-31
+Charge For Facility Idling,28100000,2015-12-31
+Costs and Expenses,5434600000,2013-12-31
+Costs and Expenses,6366300000,2014-12-31
+Costs and Expenses,6606200000,2015-12-31
+Operating Income (Loss),135800000,2013-12-31
+Operating Income (Loss),-35300000,2014-03-31
+Operating Income (Loss),36500000,2014-06-30
+Operating Income (Loss),63700000,2014-09-30
+Operating Income (Loss),74500000,2014-12-31
+Operating Income (Loss),139400000,2014-12-31
+Operating Income (Loss),33800000,2015-03-31
+Operating Income (Loss),7100000,2015-06-30
+Operating Income (Loss),80200000,2015-09-30
+Operating Income (Loss),-34400000,2015-12-31
+Operating Income (Loss),86700000,2015-12-31
+Interest Expense,127400000,2013-12-31
+Interest Expense,144700000,2014-12-31
+Interest Expense,173000000,2015-12-31
+"Equity Method Investment, Other than Temporary Impairment",0,2013-12-31
+"Equity Method Investment, Other than Temporary Impairment",0,2014-12-31
+"Equity Method Investment, Other than Temporary Impairment",256300000,2015-03-31
+"Equity Method Investment, Other than Temporary Impairment",256300000,2015-12-31
+Impairment Of Investment In Unconsolidated Subsidiary,0,2013-12-31
+Impairment Of Investment In Unconsolidated Subsidiary,0,2014-12-31
+Impairment Of Investment In Unconsolidated Subsidiary,41600000,2015-12-31
+Other Nonoperating Income (Expense),-1400000,2013-12-31
+Other Nonoperating Income (Expense),-21100000,2014-12-31
+Other Nonoperating Income (Expense),1400000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",7000000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-26400000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-382800000,2015-12-31
+Income Tax Expense (Benefit),-10400000,2013-12-31
+Income Tax Expense (Benefit),7700000,2014-12-31
+Income Tax Expense (Benefit),63400000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",17400000,2013-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-34100000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-446200000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,64200000,2013-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,62800000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,62800000,2015-12-31
+Net Income (Loss) Attributable to Parent,-46800000,2013-12-31
+Net Income (Loss) Attributable to Parent,-86100000,2014-03-31
+Net Income (Loss) Attributable to Parent,-17100000,2014-06-30
+Net Income (Loss) Attributable to Parent,-7200000,2014-09-30
+Net Income (Loss) Attributable to Parent,13500000,2014-12-31
+Net Income (Loss) Attributable to Parent,-96900000,2014-12-31
+Net Income (Loss) Attributable to Parent,-306300000,2015-03-31
+Net Income (Loss) Attributable to Parent,-64000000,2015-06-30
+Net Income (Loss) Attributable to Parent,6700000,2015-09-30
+Net Income (Loss) Attributable to Parent,-145400000,2015-12-31
+Net Income (Loss) Attributable to Parent,-509000000,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.34,2013-12-31
+"Earnings Per Share, Basic and Diluted",-0.65,2014-12-31
+"Earnings Per Share, Basic and Diluted",-1.72,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.36,2015-06-30
+"Earnings Per Share, Basic and Diluted",0.04,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.82,2015-12-31
+"Earnings Per Share, Basic and Diluted",-2.86,2015-12-31

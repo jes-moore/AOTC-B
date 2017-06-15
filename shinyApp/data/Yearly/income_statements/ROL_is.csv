@@ -1,0 +1,85 @@
+Metric,Amount,endDate
+Customer services,1411566000,2014-12-31
+Customer services,1485305000,2015-12-31
+Customer services,1573477000,2016-12-31
+Customer services,392150000,2015-06-30
+Customer services,399746000,2015-09-30
+Customer services,352736000,2016-03-31
+Customer services,330909000,2015-03-31
+Customer services,362500000,2015-12-31
+Customer services,411133000,2016-06-30
+Customer services,423994000,2016-09-30
+Customer services,385614000,2016-12-31
+Cost of services provided,707739000,2014-12-31
+Cost of services provided,735976000,2015-12-31
+Cost of services provided,772348000,2016-12-31
+Depreciation and amortization,43509000,2014-12-31
+Depreciation and amortization,44522000,2015-12-31
+Depreciation and amortization,50902000,2016-12-31
+"Sales, general and administrative",441706000,2014-12-31
+"Sales, general and administrative",463742000,2015-12-31
+"Sales, general and administrative",490528000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",618000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",1953000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",777000,2016-12-31
+"Interest Income (Expense), Net",254000,2014-12-31
+"Interest Income (Expense), Net",160000,2015-12-31
+"Interest Income (Expense), Net",160000,2016-12-31
+Comprehensive Income (Loss) [Policy Text Block],1192082000,2014-12-31
+Comprehensive Income (Loss) [Policy Text Block],1242127000,2015-12-31
+Comprehensive Income (Loss) [Policy Text Block],1312841000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",219484000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",243178000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",260636000,2016-12-31
+Current,73380000,2014-12-31
+Current,87536000,2015-12-31
+Current,96515000,2016-12-31
+Deferred,8440000,2014-12-31
+Deferred,3493000,2015-12-31
+Deferred,-3248000,2016-12-31
+TOTAL PROVISION FOR INCOME TAXES,81820000,2014-12-31
+TOTAL PROVISION FOR INCOME TAXES,91029000,2015-12-31
+TOTAL PROVISION FOR INCOME TAXES,93267000,2016-12-31
+NET INCOME,137664000,2014-12-31
+NET INCOME,152149000,2015-12-31
+NET INCOME,167369000,2016-12-31
+NET INCOME,45073000,2015-06-30
+NET INCOME,45046000,2015-09-30
+NET INCOME,31928000,2016-03-31
+NET INCOME,30281000,2015-03-31
+NET INCOME,31749000,2015-12-31
+NET INCOME,47783000,2016-06-30
+NET INCOME,49651000,2016-09-30
+NET INCOME,38007000,2016-12-31
+INCOME PER SHARE - BASIC,0.63,2014-12-31
+INCOME PER SHARE - BASIC,0.7,2015-12-31
+INCOME PER SHARE - BASIC,0.77,2016-12-31
+INCOME PER SHARE - BASIC,0.21,2015-06-30
+INCOME PER SHARE - BASIC,0.21,2015-09-30
+INCOME PER SHARE - BASIC,0.15,2016-03-31
+INCOME PER SHARE - BASIC,0.14,2015-03-31
+INCOME PER SHARE - BASIC,0.15,2015-12-31
+INCOME PER SHARE - BASIC,0.22,2016-06-30
+INCOME PER SHARE - BASIC,0.23,2016-09-30
+INCOME PER SHARE - BASIC,0.17,2016-12-31
+INCOME PER SHARE - DILUTED,0.63,2014-12-31
+INCOME PER SHARE - DILUTED,0.7,2015-12-31
+INCOME PER SHARE - DILUTED,0.77,2016-12-31
+INCOME PER SHARE - DILUTED,0.21,2015-06-30
+INCOME PER SHARE - DILUTED,0.21,2015-09-30
+INCOME PER SHARE - DILUTED,0.15,2016-03-31
+INCOME PER SHARE - DILUTED,0.14,2015-03-31
+INCOME PER SHARE - DILUTED,0.15,2015-12-31
+INCOME PER SHARE - DILUTED,0.22,2016-06-30
+INCOME PER SHARE - DILUTED,0.23,2016-09-30
+INCOME PER SHARE - DILUTED,0.17,2016-12-31
+Weighted average shares outstanding - basic,218695000,2014-12-31
+Weighted average shares outstanding - basic,218583000,2015-12-31
+Weighted average shares outstanding - basic,218244000,2016-12-31
+Weighted average shares outstanding - diluted,218695000,2014-12-31
+Weighted average shares outstanding - diluted,218583000,2015-12-31
+Weighted average shares outstanding - diluted,218244000,2016-12-31
+DIVIDENDS PAID PER SHARE,0.35,2014-12-31
+DIVIDENDS PAID PER SHARE,0.42,2015-12-31
+DIVIDENDS PAID PER SHARE,0.5,2016-12-31
+DIVIDENDS PAID PER SHARE,.10,2016-12-10

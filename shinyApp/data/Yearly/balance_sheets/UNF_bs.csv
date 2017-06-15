@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+Cash and cash equivalents,197479000,2013-08-31
+Cash and cash equivalents,191769000,2014-08-30
+Cash and cash equivalents,276553000,2015-08-29
+Cash and cash equivalents,363795000,2016-08-27
+"Receivables, less reserves of $7,675,000 and $6,007,000 respectively",151851000,2015-08-29
+"Receivables, less reserves of $7,675,000 and $6,007,000 respectively",156578000,2016-08-27
+Inventories,80449000,2015-08-29
+Inventories,78887000,2016-08-27
+Rental merchandise in service,140384000,2015-08-29
+Rental merchandise in service,138105000,2016-08-27
+Prepaid and deferred income taxes,204000,2015-08-29
+Prepaid and deferred income taxes,10418000,2016-08-27
+Prepaid expenses and other current assets,12382000,2015-08-29
+Prepaid expenses and other current assets,29831000,2016-08-27
+us-gaap_AssetsCurrent,661823000,2015-08-29
+us-gaap_AssetsCurrent,777614000,2016-08-27
+"Property, plant and equipment, net",513853000,2015-08-29
+"Property, plant and equipment, net",539818000,2016-08-27
+Goodwill,303648000,2014-08-30
+Goodwill,313133000,2015-08-29
+Goodwill,320641000,2016-08-27
+"Customer contracts, net",38024000,2015-08-29
+"Customer contracts, net",35854000,2016-08-27
+"Other intangible assets, net",2025000,2015-08-29
+"Other intangible assets, net",2810000,2016-08-27
+Deferred income taxes,1475000,2015-08-29
+Deferred income taxes,97000,2016-08-27
+Other assets,2904000,2015-08-29
+Other assets,25173000,2016-08-27
+Total assets,1424161000,2014-08-30
+Total assets,1533237000,2015-08-29
+Total assets,1702007000,2016-08-27
+Loans payable,1385000,2015-08-29
+Loans payable,0,2016-08-27
+us-gaap_AccountsPayableCurrent,50826000,2015-08-29
+us-gaap_AccountsPayableCurrent,50884000,2016-08-27
+us-gaap_AccruedLiabilitiesCurrent,113022000,2015-08-29
+us-gaap_AccruedLiabilitiesCurrent,100782000,2016-08-27
+unf_AccruedAndDeferredIncomeTaxesCurrent,18878000,2015-08-29
+unf_AccruedAndDeferredIncomeTaxesCurrent,969000,2016-08-27
+us-gaap_LiabilitiesCurrent,184111000,2015-08-29
+us-gaap_LiabilitiesCurrent,152635000,2016-08-27
+us-gaap_AccountsPayableAndAccruedLiabilitiesNoncurrent,54566000,2015-08-29
+us-gaap_AccountsPayableAndAccruedLiabilitiesNoncurrent,104921000,2016-08-27
+unf_AccruedAndDeferredIncomeTaxesLongTerm,52352000,2015-08-29
+unf_AccruedAndDeferredIncomeTaxesLongTerm,79670000,2016-08-27
+us-gaap_Liabilities,291029000,2015-08-29
+us-gaap_Liabilities,337226000,2016-08-27
+"Preferred Stock, $1.00 par value; 2,000,000 shares authorized; no shares issued and outstanding",0,2015-08-29
+"Preferred Stock, $1.00 par value; 2,000,000 shares authorized; no shares issued and outstanding",0,2016-08-27
+Capital surplus,67611000,2015-08-29
+Capital surplus,72561000,2016-08-27
+Retained earnings,1197000000,2015-08-29
+Retained earnings,1319142000,2016-08-27
+Accumulated other comprehensive (loss) income,-2533000,2014-08-30
+Accumulated other comprehensive (loss) income,-24413000,2015-08-29
+Accumulated other comprehensive (loss) income,-28949000,2016-08-27
+Total shareholders’ equity,1013398000,2013-08-31
+Total shareholders’ equity,1134459000,2014-08-30
+Total shareholders’ equity,1242208000,2015-08-29
+Total shareholders’ equity,1364781000,2016-08-27
+us-gaap_LiabilitiesAndStockholdersEquity,1533237000,2015-08-29
+us-gaap_LiabilitiesAndStockholdersEquity,1702007000,2016-08-27

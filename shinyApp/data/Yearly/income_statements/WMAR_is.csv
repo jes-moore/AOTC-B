@@ -1,0 +1,96 @@
+Metric,Amount,endDate
+Revenues,675751000,2015-01-03
+Revenues,127067000,2015-04-04
+Revenues,253177000,2015-07-04
+Revenues,194375000,2015-10-03
+Revenues,130205000,2016-01-02
+Revenues,704825000,2016-01-02
+Revenues,130405000,2016-04-02
+Revenues,251599000,2016-07-02
+Revenues,191852000,2016-10-01
+Revenues,129515000,2016-12-31
+Revenues,703371000,2016-12-31
+Cost of Goods Sold,482564000,2015-01-03
+Cost of Goods Sold,502780000,2016-01-02
+Cost of Goods Sold,497711000,2016-12-31
+Gross Profit,193187000,2015-01-03
+Gross Profit,26982000,2015-04-04
+Gross Profit,90760000,2015-07-04
+Gross Profit,56260000,2015-10-03
+Gross Profit,28043000,2016-01-02
+Gross Profit,202045000,2016-01-02
+Gross Profit,32905000,2016-04-02
+Gross Profit,89230000,2016-07-02
+Gross Profit,55350000,2016-10-01
+Gross Profit,28175000,2016-12-31
+Gross Profit,205660000,2016-12-31
+"Selling, General and Administrative Expense",188755000,2015-01-03
+"Selling, General and Administrative Expense",44975000,2015-04-04
+"Selling, General and Administrative Expense",53492000,2015-07-04
+"Selling, General and Administrative Expense",47576000,2015-10-03
+"Selling, General and Administrative Expense",48256000,2016-01-02
+"Selling, General and Administrative Expense",194299000,2016-01-02
+"Selling, General and Administrative Expense",48043000,2016-04-02
+"Selling, General and Administrative Expense",52718000,2016-07-02
+"Selling, General and Administrative Expense",47871000,2016-10-01
+"Selling, General and Administrative Expense",44992000,2016-12-31
+"Selling, General and Administrative Expense",193624000,2016-12-31
+Operating Income (Loss),4432000,2015-01-03
+Operating Income (Loss),-17993000,2015-04-04
+Operating Income (Loss),37268000,2015-07-04
+Operating Income (Loss),8684000,2015-10-03
+Operating Income (Loss),-20213000,2016-01-02
+Operating Income (Loss),7746000,2016-01-02
+Operating Income (Loss),-15138000,2016-04-02
+Operating Income (Loss),36512000,2016-07-02
+Operating Income (Loss),7479000,2016-10-01
+Operating Income (Loss),-16817000,2016-12-31
+Operating Income (Loss),12036000,2016-12-31
+Interest Expense,428000,2015-01-03
+Interest Expense,452000,2016-01-02
+Interest Expense,432000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",4004000,2015-01-03
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",7294000,2016-01-02
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",11604000,2016-12-31
+Income Tax Expense (Benefit),2056000,2015-01-03
+Income Tax Expense (Benefit),2774000,2016-01-02
+Income Tax Expense (Benefit),5069000,2016-12-31
+Net Income (Loss) Attributable to Parent,1948000,2015-01-03
+Net Income (Loss) Attributable to Parent,-10259000,2015-04-04
+Net Income (Loss) Attributable to Parent,20945000,2015-07-04
+Net Income (Loss) Attributable to Parent,4892000,2015-10-03
+Net Income (Loss) Attributable to Parent,-11058000,2016-01-02
+Net Income (Loss) Attributable to Parent,4520000,2016-01-02
+Net Income (Loss) Attributable to Parent,-9113000,2016-04-02
+Net Income (Loss) Attributable to Parent,21584000,2016-07-02
+Net Income (Loss) Attributable to Parent,3853000,2016-10-01
+Net Income (Loss) Attributable to Parent,-9789000,2016-12-31
+Net Income (Loss) Attributable to Parent,6535000,2016-12-31
+"Earnings Per Share, Basic",0.08,2015-01-03
+"Earnings Per Share, Basic",-0.42,2015-04-04
+"Earnings Per Share, Basic",0.85,2015-07-04
+"Earnings Per Share, Basic",0.20,2015-10-03
+"Earnings Per Share, Basic",-0.45,2016-01-02
+"Earnings Per Share, Basic",0.18,2016-01-02
+"Earnings Per Share, Basic",-0.37,2016-04-02
+"Earnings Per Share, Basic",0.87,2016-07-02
+"Earnings Per Share, Basic",0.15,2016-10-01
+"Earnings Per Share, Basic",-0.39,2016-12-31
+"Earnings Per Share, Basic",0.26,2016-12-31
+"Earnings Per Share, Diluted",0.08,2015-01-03
+"Earnings Per Share, Diluted",-0.42,2015-04-04
+"Earnings Per Share, Diluted",0.85,2015-07-04
+"Earnings Per Share, Diluted",0.20,2015-10-03
+"Earnings Per Share, Diluted",-0.45,2016-01-02
+"Earnings Per Share, Diluted",0.18,2016-01-02
+"Earnings Per Share, Diluted",-0.37,2016-04-02
+"Earnings Per Share, Diluted",0.86,2016-07-02
+"Earnings Per Share, Diluted",0.15,2016-10-01
+"Earnings Per Share, Diluted",-0.39,2016-12-31
+"Earnings Per Share, Diluted",0.26,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",24244000,2015-01-03
+"Weighted Average Number of Shares Outstanding, Basic",24629000,2016-01-02
+"Weighted Average Number of Shares Outstanding, Basic",24893000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",24408000,2015-01-03
+"Weighted Average Number of Shares Outstanding, Diluted",24734000,2016-01-02
+"Weighted Average Number of Shares Outstanding, Diluted",24988000,2016-12-31

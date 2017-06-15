@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",245935000,2013-12-31
+"Sales Revenue, Goods, Net",303446000,2014-12-31
+"Sales Revenue, Goods, Net",343659000,2015-12-31
+"Sales Revenue, Services, Net",17132000,2013-12-31
+"Sales Revenue, Services, Net",23473000,2014-12-31
+"Sales Revenue, Services, Net",29717000,2015-12-31
+"Revenue, Net",263067000,2013-12-31
+"Revenue, Net",326919000,2014-12-31
+"Revenue, Net",373376000,2015-12-31
+Cost of Goods Sold,78344000,2013-12-31
+Cost of Goods Sold,90651000,2014-12-31
+Cost of Goods Sold,105314000,2015-12-31
+Cost of Services,9844000,2013-12-31
+Cost of Services,12454000,2014-12-31
+Cost of Services,14741000,2015-12-31
+Cost of Goods and Services Sold,88188000,2013-12-31
+Cost of Goods and Services Sold,103105000,2014-12-31
+Cost of Goods and Services Sold,120055000,2015-12-31
+Gross Profit,174879000,2013-12-31
+Gross Profit,223814000,2014-12-31
+Gross Profit,253321000,2015-12-31
+Research and Development Expense,61783000,2013-12-31
+Research and Development Expense,77164000,2014-12-31
+Research and Development Expense,94234000,2015-12-31
+Selling and Marketing Expense,79185000,2013-12-31
+Selling and Marketing Expense,98634000,2014-12-31
+Selling and Marketing Expense,109864000,2015-12-31
+General and Administrative Expense,33752000,2013-12-31
+General and Administrative Expense,33622000,2014-12-31
+General and Administrative Expense,41799000,2015-12-31
+Operating Expenses,174720000,2013-12-31
+Operating Expenses,209420000,2014-12-31
+Operating Expenses,245897000,2015-12-31
+Operating Income (Loss),159000,2013-12-31
+Operating Income (Loss),14394000,2014-12-31
+Operating Income (Loss),7424000,2015-12-31
+"Interest Income (Expense), Net",187000,2013-12-31
+"Interest Income (Expense), Net",199000,2014-12-31
+"Interest Income (Expense), Net",701000,2015-12-31
+"Other Cost and Expense, Operating",-456000,2013-12-31
+"Other Cost and Expense, Operating",-463000,2014-12-31
+"Other Cost and Expense, Operating",-524000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-110000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",14130000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",7601000,2015-12-31
+Income Tax Expense (Benefit),-1899000,2013-12-31
+Income Tax Expense (Benefit),5940000,2014-12-31
+Income Tax Expense (Benefit),2911000,2015-12-31
+Net Income (Loss) Attributable to Parent,1789000,2013-12-31
+Net Income (Loss) Attributable to Parent,8190000,2014-12-31
+Net Income (Loss) Attributable to Parent,4690000,2015-12-31
+"Earnings Per Share, Basic",0.02,2013-12-31
+"Earnings Per Share, Basic",0.10,2014-12-31
+"Earnings Per Share, Basic",0.05,2015-12-31
+"Earnings Per Share, Diluted",0.02,2013-12-31
+"Earnings Per Share, Diluted",0.09,2014-12-31
+"Earnings Per Share, Diluted",0.05,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",76744000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",82908000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",87418000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",93361000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",93668000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",95851000,2015-12-31

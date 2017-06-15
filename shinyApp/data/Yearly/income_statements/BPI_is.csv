@@ -1,0 +1,86 @@
+Metric,Amount,endDate
+"Sales Revenue, Services, Net",751449000,2013-12-31
+"Sales Revenue, Services, Net",157270000,2014-03-31
+"Sales Revenue, Services, Net",171522000,2014-06-30
+"Sales Revenue, Services, Net",162654000,2014-09-30
+"Sales Revenue, Services, Net",147259000,2014-12-31
+"Sales Revenue, Services, Net",638705000,2014-12-31
+"Sales Revenue, Services, Net",142518000,2015-03-31
+"Sales Revenue, Services, Net",147057000,2015-06-30
+"Sales Revenue, Services, Net",140762000,2015-09-30
+"Sales Revenue, Services, Net",131392000,2015-12-31
+"Sales Revenue, Services, Net",561729000,2015-12-31
+Cost of Services,365404000,2013-12-31
+Cost of Services,315079000,2014-12-31
+Cost of Services,281496000,2015-12-31
+Marketing and Advertising Expense,234511000,2013-12-31
+Marketing and Advertising Expense,231134000,2014-12-31
+Marketing and Advertising Expense,197584000,2015-12-31
+General and Administrative Expense,76081000,2013-12-31
+General and Administrative Expense,61353000,2014-12-31
+General and Administrative Expense,56588000,2015-12-31
+Restructuring Costs and Asset Impairment Charges,6990000,2013-12-31
+Restructuring Costs and Asset Impairment Charges,16828000,2014-12-31
+Restructuring Costs and Asset Impairment Charges,68356000,2015-12-31
+Costs and Expenses,682986000,2013-12-31
+Costs and Expenses,624394000,2014-12-31
+Costs and Expenses,604024000,2015-12-31
+Operating Income (Loss),68463000,2013-12-31
+Operating Income (Loss),-7858000,2014-03-31
+Operating Income (Loss),22414000,2014-06-30
+Operating Income (Loss),10581000,2014-09-30
+Operating Income (Loss),-10826000,2014-12-31
+Operating Income (Loss),14311000,2014-12-31
+Operating Income (Loss),-1200000,2015-03-31
+Operating Income (Loss),-512000,2015-06-30
+Operating Income (Loss),-34479000,2015-09-30
+Operating Income (Loss),-6104000,2015-12-31
+Operating Income (Loss),-42295000,2015-12-31
+Other Nonoperating Income (Expense),3082000,2013-12-31
+Other Nonoperating Income (Expense),2884000,2014-12-31
+Other Nonoperating Income (Expense),2106000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",71545000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",17195000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-40189000,2015-12-31
+Income Tax Expense (Benefit),25662000,2013-12-31
+Income Tax Expense (Benefit),7527000,2014-12-31
+Income Tax Expense (Benefit),30265000,2015-12-31
+Net Income (Loss) Attributable to Parent,45883000,2013-12-31
+Net Income (Loss) Attributable to Parent,-4330000,2014-03-31
+Net Income (Loss) Attributable to Parent,12955000,2014-06-30
+Net Income (Loss) Attributable to Parent,6291000,2014-09-30
+Net Income (Loss) Attributable to Parent,-5248000,2014-12-31
+Net Income (Loss) Attributable to Parent,9668000,2014-12-31
+Net Income (Loss) Attributable to Parent,-371000,2015-03-31
+Net Income (Loss) Attributable to Parent,-650000,2015-06-30
+Net Income (Loss) Attributable to Parent,-62746000,2015-09-30
+Net Income (Loss) Attributable to Parent,-6687000,2015-12-31
+Net Income (Loss) Attributable to Parent,-70454000,2015-12-31
+"Earnings Per Share, Basic",0.85,2013-12-31
+"Earnings Per Share, Basic",-0.10,2014-03-31
+"Earnings Per Share, Basic",0.29,2014-06-30
+"Earnings Per Share, Basic",0.14,2014-09-30
+"Earnings Per Share, Basic",-0.12,2014-12-31
+"Earnings Per Share, Basic",0.21,2014-12-31
+"Earnings Per Share, Basic",-0.01,2015-03-31
+"Earnings Per Share, Basic",-0.01,2015-06-30
+"Earnings Per Share, Basic",-1.37,2015-09-30
+"Earnings Per Share, Basic",-0.15,2015-12-31
+"Earnings Per Share, Basic",-1.54,2015-12-31
+"Earnings Per Share, Diluted",0.83,2013-12-31
+"Earnings Per Share, Diluted",-0.10,2014-03-31
+"Earnings Per Share, Diluted",0.28,2014-06-30
+"Earnings Per Share, Diluted",0.14,2014-09-30
+"Earnings Per Share, Diluted",-0.12,2014-12-31
+"Earnings Per Share, Diluted",0.21,2014-12-31
+"Earnings Per Share, Diluted",-0.01,2015-03-31
+"Earnings Per Share, Diluted",-0.01,2015-06-30
+"Earnings Per Share, Diluted",-1.37,2015-09-30
+"Earnings Per Share, Diluted",-0.15,2015-12-31
+"Earnings Per Share, Diluted",-1.54,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",53923000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",45204000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",45665000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",55487000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",46512000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",45665000,2015-12-31

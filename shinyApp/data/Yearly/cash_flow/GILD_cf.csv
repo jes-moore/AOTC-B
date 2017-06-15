@@ -1,0 +1,134 @@
+Metric,Amount,endDate
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",12059000000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",4332000000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",4497000000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",4592000000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",4685000000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",18106000000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3567000000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3497000000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3325000000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",3099000000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",13488000000,2016-12-31
+Depreciation,125000000,2014-12-31
+Depreciation,161000000,2015-12-31
+Depreciation,177000000,2016-12-31
+Amortization,925000000,2014-12-31
+Amortization,937000000,2015-12-31
+Amortization,981000000,2016-12-31
+Share-based Compensation,360000000,2014-12-31
+Share-based Compensation,382000000,2015-12-31
+Share-based Compensation,380000000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",482000000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",585000000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",194000000,2016-12-31
+Tax benefits from exercise and vesting of stock-based awards,484000000,2014-12-31
+Tax benefits from exercise and vesting of stock-based awards,586000000,2015-12-31
+Tax benefits from exercise and vesting of stock-based awards,186000000,2016-12-31
+Increase (Decrease) in Deferred Income Taxes,236000000,2014-12-31
+Increase (Decrease) in Deferred Income Taxes,393000000,2015-12-31
+Increase (Decrease) in Deferred Income Taxes,119000000,2016-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",0,2014-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",0,2015-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",432000000,2016-12-31
+"Other Operating Activities, Cash Flow Statement",101000000,2014-12-31
+"Other Operating Activities, Cash Flow Statement",-24000000,2015-12-31
+"Other Operating Activities, Cash Flow Statement",-24000000,2016-12-31
+Increase (Decrease) in Accounts Receivable,2578000000,2014-12-31
+Increase (Decrease) in Accounts Receivable,1397000000,2015-12-31
+Increase (Decrease) in Accounts Receivable,-1192000000,2016-12-31
+Increase (Decrease) in Inventories,-143000000,2014-12-31
+Increase (Decrease) in Inventories,855000000,2015-12-31
+Increase (Decrease) in Inventories,488000000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,371000000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,90000000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,520000000,2016-12-31
+Increase (Decrease) in Accounts Payable,-289000000,2014-12-31
+Increase (Decrease) in Accounts Payable,226000000,2015-12-31
+Increase (Decrease) in Accounts Payable,47000000,2016-12-31
+Increase (Decrease) in Income Taxes Payable,533000000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,269000000,2015-12-31
+Increase (Decrease) in Income Taxes Payable,1010000000,2016-12-31
+Increase (Decrease) in Accrued Liabilities,2013000000,2014-12-31
+Increase (Decrease) in Accrued Liabilities,2632000000,2015-12-31
+Increase (Decrease) in Accrued Liabilities,425000000,2016-12-31
+Increase (Decrease) in Deferred Revenue,31000000,2014-12-31
+Increase (Decrease) in Deferred Revenue,374000000,2015-12-31
+Increase (Decrease) in Deferred Revenue,-304000000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,12818000000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,20329000000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,16669000000,2016-12-31
+Payments to Acquire Available-for-sale Securities,2107000000,2014-12-31
+Payments to Acquire Available-for-sale Securities,17239000000,2015-12-31
+Payments to Acquire Available-for-sale Securities,25619000000,2016-12-31
+Proceeds from Sale of Available-for-sale Securities,807000000,2014-12-31
+Proceeds from Sale of Available-for-sale Securities,4792000000,2015-12-31
+Proceeds from Sale of Available-for-sale Securities,13039000000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",52000000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",719000000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",1700000000,2016-12-31
+Payments to Acquire Other Investments,18000000,2014-12-31
+Payments to Acquire Other Investments,0,2015-12-31
+Payments to Acquire Other Investments,357000000,2016-12-31
+Payments to Acquire Productive Assets,557000000,2014-12-31
+Payments to Acquire Productive Assets,747000000,2015-12-31
+Payments to Acquire Productive Assets,748000000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-1823000000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-12475000000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-11985000000,2016-12-31
+"Proceeds from Debt, Net of Issuance Costs",7932000000,2014-12-31
+"Proceeds from Debt, Net of Issuance Costs",9902000000,2015-12-31
+"Proceeds from Debt, Net of Issuance Costs",5293000000,2016-12-31
+"Proceeds from Hedge, Financing Activities",2543000000,2014-12-31
+"Proceeds from Hedge, Financing Activities",784000000,2015-12-31
+"Proceeds from Hedge, Financing Activities",956000000,2016-12-31
+"Purchases of convertible note hedges, cash outflow",26000000,2014-12-31
+"Purchases of convertible note hedges, cash outflow",0,2015-12-31
+"Purchases of convertible note hedges, cash outflow",0,2016-12-31
+Proceeds from Issuance of Common Stock,331000000,2014-12-31
+Proceeds from Issuance of Common Stock,319000000,2015-12-31
+Proceeds from Issuance of Common Stock,208000000,2016-12-31
+Payments for Repurchase of Common Stock,5349000000,2014-12-31
+Payments for Repurchase of Common Stock,10002000000,2015-12-31
+Payments for Repurchase of Common Stock,11001000000,2016-12-31
+Repayments of Debt,4779000000,2014-12-31
+Repayments of Debt,997000000,2015-12-31
+Repayments of Debt,1981000000,2016-12-31
+Payment to Settle Warrants Related to Convertible Notes,4093000000,2014-12-31
+Payment to Settle Warrants Related to Convertible Notes,3865000000,2015-12-31
+Payment to Settle Warrants Related to Convertible Notes,469000000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",482000000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",585000000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",194000000,2016-12-31
+Payment of contingent consideration,101000000,2014-12-31
+Payment of contingent consideration,3000000,2015-12-31
+Payment of contingent consideration,2000000,2016-12-31
+Payments of Dividends,0,2014-12-31
+Payments of Dividends,1874000000,2015-12-31
+Payments of Dividends,2455000000,2016-12-31
+Proceeds from (Payments to) Noncontrolling Interests,35000000,2014-12-31
+Proceeds from (Payments to) Noncontrolling Interests,188000000,2015-12-31
+Proceeds from (Payments to) Noncontrolling Interests,-90000000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-3025000000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,-4963000000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,-9347000000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-56000000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-67000000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,41000000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",7914000000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",2824000000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-4622000000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",2113000000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",10027000000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",12851000000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",8229000000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",2113000000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",10027000000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",12851000000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",8229000000,2016-12-31
+"Interest Paid, Net",330000000,2014-12-31
+"Interest Paid, Net",529000000,2015-12-31
+"Interest Paid, Net",885000000,2016-12-31
+Income Taxes Paid,2060000000,2014-12-31
+Income Taxes Paid,3137000000,2015-12-31
+Income Taxes Paid,2436000000,2016-12-31

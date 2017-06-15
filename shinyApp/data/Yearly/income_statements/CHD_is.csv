@@ -1,0 +1,95 @@
+Metric,Amount,endDate
+Sales Revenue Goods Net,3297600000,2014-12-31
+Sales Revenue Goods Net,812300000,2015-03-31
+Sales Revenue Goods Net,3394800000,2015-12-31
+Sales Revenue Goods Net,847100000,2015-06-30
+Sales Revenue Goods Net,861800000,2015-09-30
+Sales Revenue Goods Net,873600000,2015-12-31
+Sales Revenue Goods Net,849000000,2016-03-31
+Sales Revenue Goods Net,3493100000,2016-12-31
+Sales Revenue Goods Net,877400000,2016-06-30
+Sales Revenue Goods Net,870700000,2016-09-30
+Sales Revenue Goods Net,896000000,2016-12-31
+Cost Of Goods Sold,1844700000,2014-12-31
+Cost Of Goods Sold,1883000000,2015-12-31
+Cost Of Goods Sold,1902500000,2016-12-31
+Gross Profit,1452900000,2014-12-31
+Gross Profit,355500000,2015-03-31
+Gross Profit,1511800000,2015-12-31
+Gross Profit,373100000,2015-06-30
+Gross Profit,385800000,2015-09-30
+Gross Profit,397400000,2015-12-31
+Gross Profit,379000000,2016-03-31
+Gross Profit,1590600000,2016-12-31
+Gross Profit,408000000,2016-06-30
+Gross Profit,395600000,2016-09-30
+Gross Profit,408000000,2016-12-31
+Marketing And Advertising Expense,416900000,2014-12-31
+Marketing And Advertising Expense,417500000,2015-12-31
+Marketing And Advertising Expense,427200000,2016-12-31
+Selling General And Administrative Expense,394800000,2014-12-31
+Selling General And Administrative Expense,420100000,2015-12-31
+Selling General And Administrative Expense,439200000,2016-12-31
+Operating Income Loss,641200000,2014-12-31
+Operating Income Loss,172100000,2015-03-31
+Operating Income Loss,674200000,2015-12-31
+Operating Income Loss,142300000,2015-06-30
+Operating Income Loss,190600000,2015-09-30
+Operating Income Loss,169200000,2015-12-31
+Operating Income Loss,179500000,2016-03-31
+Operating Income Loss,724200000,2016-12-31
+Operating Income Loss,175300000,2016-06-30
+Operating Income Loss,196000000,2016-09-30
+Operating Income Loss,173400000,2016-12-31
+Income Loss From Equity Method Investments,11600000,2014-12-31
+Income Loss From Equity Method Investments,-5800000,2015-12-31
+Income Loss From Equity Method Investments,9200000,2016-12-31
+Investment Income Nonoperating,2300000,2014-12-31
+Investment Income Nonoperating,1500000,2015-12-31
+Investment Income Nonoperating,1700000,2016-12-31
+Other Nonoperating Income Expense,-2800000,2014-12-31
+Other Nonoperating Income Expense,-4000000,2015-12-31
+Other Nonoperating Income Expense,-1500000,2016-12-31
+Interest Expense,27400000,2014-12-31
+Interest Expense,30500000,2015-12-31
+Interest Expense,27700000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,624900000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,635400000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,705900000,2016-12-31
+Income Tax Expense Benefit,211000000,2014-12-31
+Income Tax Expense Benefit,225000000,2015-12-31
+Income Tax Expense Benefit,246900000,2016-12-31
+Profit Loss,413900000,2014-12-31
+Profit Loss,410400000,2015-12-31
+Profit Loss,459000000,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,270200000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,262200000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,257600000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,275000000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,267200000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,262100000,2016-12-31
+Earnings Per Share Basic,1.53,2014-12-31
+Earnings Per Share Basic,0.41,2015-03-31
+Earnings Per Share Basic,1.57,2015-12-31
+Earnings Per Share Basic,0.28,2015-06-30
+Earnings Per Share Basic,0.46,2015-09-30
+Earnings Per Share Basic,0.42,2015-12-31
+Earnings Per Share Basic,0.44,2016-03-31
+Earnings Per Share Basic,1.78,2016-12-31
+Earnings Per Share Basic,0.43,2016-06-30
+Earnings Per Share Basic,0.48,2016-09-30
+Earnings Per Share Basic,0.43,2016-12-31
+Earnings Per Share Diluted,1.51,2014-12-31
+Earnings Per Share Diluted,0.40,2015-03-31
+Earnings Per Share Diluted,1.54,2015-12-31
+Earnings Per Share Diluted,0.28,2015-06-30
+Earnings Per Share Diluted,0.45,2015-09-30
+Earnings Per Share Diluted,0.41,2015-12-31
+Earnings Per Share Diluted,0.43,2016-03-31
+Earnings Per Share Diluted,1.75,2016-12-31
+Earnings Per Share Diluted,0.43,2016-06-30
+Earnings Per Share Diluted,0.47,2016-09-30
+Earnings Per Share Diluted,0.42,2016-12-31
+Common Stock Dividends Per Share Cash Paid,0.62,2014-12-31
+Common Stock Dividends Per Share Cash Paid,0.67,2015-12-31
+Common Stock Dividends Per Share Cash Paid,0.71,2016-12-31

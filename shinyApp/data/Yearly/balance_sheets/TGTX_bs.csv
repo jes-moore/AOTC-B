@@ -1,0 +1,65 @@
+Metric,Amount,endDate
+Cash and cash equivalents,40485466,2013-12-31
+Cash and cash equivalents,55713784,2014-12-31
+Cash and cash equivalents,55061329,2015-12-31
+Cash and cash equivalents,25031280,2016-12-31
+Short-term investment securities,22166512,2015-12-31
+Short-term investment securities,19853860,2016-12-31
+Interest receivable,186021,2015-12-31
+Interest receivable,83852,2016-12-31
+Prepaid research and development,9151142,2015-12-31
+Prepaid research and development,5678755,2016-12-31
+Other current assets,308327,2015-12-31
+Other current assets,216397,2016-12-31
+"Assets, Current",86873331,2015-12-31
+"Assets, Current",50864144,2016-12-31
+Restricted cash,579143,2015-12-31
+Restricted cash,583208,2016-12-31
+Long-term investment securities,25003032,2015-12-31
+Long-term investment securities,0,2016-12-31
+"Leasehold interest, net",0,2015-12-31
+"Leasehold interest, net",2042281,2016-12-31
+"Equipment, net",47122,2015-12-31
+"Equipment, net",328148,2016-12-31
+Goodwill,799391,2015-12-31
+Goodwill,799391,2016-12-31
+Other assets,171182,2015-12-31
+Other assets,164375,2016-12-31
+Assets [Default Label],113473201,2015-12-31
+Assets [Default Label],54781547,2016-12-31
+Accounts payable and accrued expenses,9346068,2015-12-31
+Accounts payable and accrued expenses,15267668,2016-12-31
+Accrued compensation,818472,2015-12-31
+Accrued compensation,1389516,2016-12-31
+Current portion of deferred revenue,152381,2015-12-31
+Current portion of deferred revenue,152381,2016-12-31
+Notes payable,211549,2015-12-31
+Notes payable,68875,2016-12-31
+"Liabilities, Current",10528470,2015-12-31
+"Liabilities, Current",16878440,2016-12-31
+Deferred rent,0,2015-12-31
+Deferred rent,816257,2016-12-31
+"Deferred revenue, net of current portion",1371429,2015-12-31
+"Deferred revenue, net of current portion",1219048,2016-12-31
+Liabilities,11899899,2015-12-31
+Liabilities,18913745,2016-12-31
+Commitments and contingencies,,2015-12-31
+Commitments and contingencies,,2016-12-31
+"Preferred stock, $0.001 par value per share (10,000,000 shares authorized, none issued and outstanding as of December 31, 2016 and 2015)",0,2015-12-31
+"Preferred stock, $0.001 par value per share (10,000,000 shares authorized, none issued and outstanding as of December 31, 2016 and 2015)",0,2016-12-31
+"Common stock, $0.001 par value per share (150,000,000 shares authorized, 56,820,423 and 54,095,110 shares issued, 56,779,114 and 54,053,801 shares outstanding at December 31, 2016 and 2015, respectively)",54095,2015-12-31
+"Common stock, $0.001 par value per share (150,000,000 shares authorized, 56,820,423 and 54,095,110 shares issued, 56,779,114 and 54,053,801 shares outstanding at December 31, 2016 and 2015, respectively)",56820,2016-12-31
+Contingently issuable shares,6,2015-12-31
+Contingently issuable shares,0,2016-12-31
+Additional paid-in capital,259887464,2015-12-31
+Additional paid-in capital,272432139,2016-12-31
+"Treasury Stock, Value",234337,2015-12-31
+"Treasury Stock, Value",234337,2016-12-31
+Accumulated deficit,-158133926,2015-12-31
+Accumulated deficit,-236386820,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",40054492,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",80101884,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",101573302,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",35867802,2016-12-31
+Liabilities and Equity,113473201,2015-12-31
+Liabilities and Equity,54781547,2016-12-31

@@ -1,0 +1,83 @@
+Metric,Amount,endDate
+"Revenue, Net",16435000000,2015-01-31
+"Revenue, Net",3657000000,2015-05-02
+"Revenue, Net",3898000000,2015-08-01
+"Revenue, Net",3857000000,2015-10-31
+"Revenue, Net",4385000000,2016-01-30
+"Revenue, Net",15797000000,2016-01-30
+"Revenue, Net",3438000000,2016-04-30
+"Revenue, Net",3851000000,2016-07-30
+"Revenue, Net",3798000000,2016-10-29
+"Revenue, Net",4429000000,2017-01-28
+"Revenue, Net",15516000000,2017-01-28
+"Cost of Merchandise Sales, Buying and Occupancy Costs",10146000000,2015-01-31
+"Cost of Merchandise Sales, Buying and Occupancy Costs",10077000000,2016-01-30
+"Cost of Merchandise Sales, Buying and Occupancy Costs",9876000000,2017-01-28
+Gross Profit,6289000000,2015-01-31
+Gross Profit,1382000000,2015-05-02
+Gross Profit,1458000000,2015-08-01
+Gross Profit,1440000000,2015-10-31
+Gross Profit,1440000000,2016-01-30
+Gross Profit,5720000000,2016-01-30
+Gross Profit,1209000000,2016-04-30
+Gross Profit,1437000000,2016-07-30
+Gross Profit,1493000000,2016-10-29
+Gross Profit,1501000000,2017-01-28
+Gross Profit,5640000000,2017-01-28
+Operating Expenses,4206000000,2015-01-31
+Operating Expenses,4196000000,2016-01-30
+Operating Expenses,4449000000,2017-01-28
+Operating Income (Loss),2083000000,2015-01-31
+Operating Income (Loss),1524000000,2016-01-30
+Operating Income (Loss),1191000000,2017-01-28
+Interest Expense,75000000,2015-01-31
+Interest Expense,59000000,2016-01-30
+Interest Expense,75000000,2017-01-28
+"Investment Income, Interest",5000000,2015-01-31
+"Investment Income, Interest",6000000,2016-01-30
+"Investment Income, Interest",8000000,2017-01-28
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",2013000000,2015-01-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1471000000,2016-01-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1124000000,2017-01-28
+Income Tax Expense (Benefit),751000000,2015-01-31
+Income Tax Expense (Benefit),551000000,2016-01-30
+Income Tax Expense (Benefit),448000000,2017-01-28
+Net Income (Loss) Attributable to Parent,1262000000,2015-01-31
+Net Income (Loss) Attributable to Parent,239000000,2015-05-02
+Net Income (Loss) Attributable to Parent,219000000,2015-08-01
+Net Income (Loss) Attributable to Parent,248000000,2015-10-31
+Net Income (Loss) Attributable to Parent,214000000,2016-01-30
+Net Income (Loss) Attributable to Parent,920000000,2016-01-30
+Net Income (Loss) Attributable to Parent,127000000,2016-04-30
+Net Income (Loss) Attributable to Parent,125000000,2016-07-30
+Net Income (Loss) Attributable to Parent,204000000,2016-10-29
+Net Income (Loss) Attributable to Parent,220000000,2017-01-28
+Net Income (Loss) Attributable to Parent,676000000,2017-01-28
+"Weighted Average Number of Shares Outstanding, Basic",435000000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Basic",411000000,2016-01-30
+"Weighted Average Number of Shares Outstanding, Basic",399000000,2017-01-28
+"Weighted Average Number of Shares Outstanding, Diluted",440000000,2015-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",413000000,2016-01-30
+"Weighted Average Number of Shares Outstanding, Diluted",400000000,2017-01-28
+"Earnings Per Share, Basic",2.90,2015-01-31
+"Earnings Per Share, Basic",0.57,2015-05-02
+"Earnings Per Share, Basic",0.53,2015-08-01
+"Earnings Per Share, Basic",0.61,2015-10-31
+"Earnings Per Share, Basic",0.54,2016-01-30
+"Earnings Per Share, Basic",2.24,2016-01-30
+"Earnings Per Share, Basic",0.32,2016-04-30
+"Earnings Per Share, Basic",0.31,2016-07-30
+"Earnings Per Share, Basic",0.51,2016-10-29
+"Earnings Per Share, Basic",0.55,2017-01-28
+"Earnings Per Share, Basic",1.69,2017-01-28
+"Earnings Per Share, Diluted",2.87,2015-01-31
+"Earnings Per Share, Diluted",0.56,2015-05-02
+"Earnings Per Share, Diluted",0.52,2015-08-01
+"Earnings Per Share, Diluted",0.61,2015-10-31
+"Earnings Per Share, Diluted",0.53,2016-01-30
+"Earnings Per Share, Diluted",2.23,2016-01-30
+"Earnings Per Share, Diluted",0.32,2016-04-30
+"Earnings Per Share, Diluted",0.31,2016-07-30
+"Earnings Per Share, Diluted",0.51,2016-10-29
+"Earnings Per Share, Diluted",0.55,2017-01-28
+"Earnings Per Share, Diluted",1.69,2017-01-28

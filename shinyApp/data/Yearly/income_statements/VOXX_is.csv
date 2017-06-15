@@ -1,0 +1,160 @@
+Metric,Amount,endDate
+"Revenue, Net",757498000,2015-02-28
+"Revenue, Net",164383000,2015-05-31
+"Revenue, Net",154174000,2015-08-31
+"Revenue, Net",192506000,2015-11-30
+"Revenue, Net",169683000,2016-02-29
+"Revenue, Net",680746000,2016-02-29
+"Revenue, Net",155456000,2016-05-31
+"Revenue, Net",159262000,2016-08-31
+"Revenue, Net",198937000,2016-11-30
+"Revenue, Net",167387000,2017-02-28
+"Revenue, Net",681042000,2017-02-28
+Cost of Goods Sold,533628000,2015-02-28
+Cost of Goods Sold,485061000,2016-02-29
+Cost of Goods Sold,479527000,2017-02-28
+Gross Profit,223870000,2015-02-28
+Gross Profit,48043000,2015-05-31
+Gross Profit,44975000,2015-08-31
+Gross Profit,55843000,2015-11-30
+Gross Profit,46824000,2016-02-29
+Gross Profit,195685000,2016-02-29
+Gross Profit,46101000,2016-05-31
+Gross Profit,46493000,2016-08-31
+Gross Profit,58213000,2016-11-30
+Gross Profit,50708000,2017-02-28
+Gross Profit,201515000,2017-02-28
+Selling Expense,54136000,2015-02-28
+Selling Expense,48513000,2016-02-29
+Selling Expense,48205000,2017-02-28
+General and Administrative Expense,114849000,2015-02-28
+General and Administrative Expense,111382000,2016-02-29
+General and Administrative Expense,107882000,2017-02-28
+Engineering and Technical Support Expense,37157000,2015-02-28
+Engineering and Technical Support Expense,37490000,2016-02-29
+Engineering and Technical Support Expense,45600000,2017-02-28
+"Goodwill, Impairment Loss",0,2015-02-28
+"Goodwill, Impairment Loss",0,2016-02-29
+"Goodwill, Impairment Loss",0,2017-02-28
+Impairment of Intangible Assets (Excluding Goodwill),0,2015-02-28
+Impairment of Intangible Assets (Excluding Goodwill),9070000,2016-02-29
+Impairment of Intangible Assets (Excluding Goodwill),0,2017-02-28
+Asset Impairment Charges,9304000,2015-02-28
+Asset Impairment Charges,9070000,2016-02-29
+Asset Impairment Charges,0,2017-02-28
+Restructuring Charges,1134000,2015-02-28
+Restructuring Charges,0,2016-02-29
+Restructuring Charges,0,2017-02-28
+"Business Combination, Acquisition Related Costs",0,2015-02-28
+"Business Combination, Acquisition Related Costs",800000,2016-02-29
+"Business Combination, Acquisition Related Costs",0,2017-02-28
+Operating Expenses,207276000,2015-02-28
+Operating Expenses,207255000,2016-02-29
+Operating Expenses,201687000,2017-02-28
+Operating Income (Loss),16594000,2015-02-28
+Operating Income (Loss),-11570000,2016-02-29
+Operating Income (Loss),-172000,2017-02-28
+Interest and Debt Expense,6851000,2015-02-28
+Interest and Debt Expense,8075000,2016-02-29
+Interest and Debt Expense,7488000,2017-02-28
+Income (Loss) from Equity Method Investments,5866000,2015-02-28
+Income (Loss) from Equity Method Investments,6538000,2016-02-29
+Income (Loss) from Equity Method Investments,6797000,2017-02-28
+"Foreign Currency Transaction Gain (Loss), before Tax",-6504000,2015-02-28
+"Foreign Currency Transaction Gain (Loss), before Tax",108000,2016-02-29
+"Foreign Currency Transaction Gain (Loss), before Tax",-509000,2017-02-28
+Impairment of Long-Lived Assets Held-for-use,-9304000,2015-02-28
+Impairment of Long-Lived Assets Held-for-use,0,2016-02-29
+Impairment of Long-Lived Assets Held-for-use,0,2017-02-28
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",0,2015-02-28
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",4679000,2016-02-29
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",0,2017-02-28
+Other Nonoperating Income (Expense),1495000,2015-02-28
+Other Nonoperating Income (Expense),632000,2016-02-29
+Other Nonoperating Income (Expense),-572000,2017-02-28
+Nonoperating Income (Expense),-15898000,2015-02-28
+Nonoperating Income (Expense),3772000,2016-02-29
+Nonoperating Income (Expense),-1271000,2017-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",696000,2015-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-7798000,2016-02-29
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-1443000,2017-02-28
+Income Tax Expense (Benefit),1638000,2015-02-28
+Income Tax Expense (Benefit),-1735000,2016-02-29
+Income Tax Expense (Benefit),1759000,2017-02-28
+Net Income (Loss) Attributable to Parent,-942000,2015-02-28
+Net Income (Loss) Attributable to Parent,-714000,2015-05-31
+Net Income (Loss) Attributable to Parent,-4394000,2015-08-31
+Net Income (Loss) Attributable to Parent,7777000,2015-11-30
+Net Income (Loss) Attributable to Parent,-5351000,2016-02-29
+Net Income (Loss) Attributable to Parent,-2682000,2016-02-29
+Net Income (Loss) Attributable to Parent,-4308000,2016-05-31
+Net Income (Loss) Attributable to Parent,3020000,2016-08-31
+Net Income (Loss) Attributable to Parent,5800000,2016-11-30
+Net Income (Loss) Attributable to Parent,-90000,2017-02-28
+Net Income (Loss) Attributable to Parent,4422000,2017-02-28
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-02-28
+Net Income (Loss) Attributable to Noncontrolling Interest,-3381000,2016-02-29
+Net Income (Loss) Attributable to Noncontrolling Interest,-7624000,2017-02-28
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-942000,2015-02-28
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-6063000,2016-02-29
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-3202000,2017-02-28
+"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",-33170000,2015-02-28
+"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",-5702000,2016-02-29
+"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",-3194000,2017-02-28
+"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax",235000,2014-02-28
+"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax",-32935000,2015-02-28
+"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax",-38637000,2016-02-29
+"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax",-41831000,2017-02-28
+"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax",3258000,2015-02-28
+"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax",-2440000,2016-02-29
+"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax",210000,2017-02-28
+"Accumulated Other Comprehensive Income (Loss), Cumulative Changes in Net Gain (Loss) from Cash Flow Hedges, Effect Net of Tax",-715000,2014-02-28
+"Accumulated Other Comprehensive Income (Loss), Cumulative Changes in Net Gain (Loss) from Cash Flow Hedges, Effect Net of Tax",2543000,2015-02-28
+"Accumulated Other Comprehensive Income (Loss), Cumulative Changes in Net Gain (Loss) from Cash Flow Hedges, Effect Net of Tax",103000,2016-02-29
+"Accumulated Other Comprehensive Income (Loss), Cumulative Changes in Net Gain (Loss) from Cash Flow Hedges, Effect Net of Tax",313000,2017-02-28
+"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",-1423000,2015-02-28
+"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",640000,2016-02-29
+"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax",-180000,2017-02-28
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-1873000,2014-02-28
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-33235000,2015-02-28
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-40717000,2016-02-29
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-43898000,2017-02-28
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",-27000,2015-02-28
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",20000,2016-02-29
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",-17000,2017-02-28
+"Accumulated Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",-74000,2014-02-28
+"Accumulated Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",-101000,2015-02-28
+"Accumulated Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",-81000,2016-02-29
+"Accumulated Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax",-98000,2017-02-28
+"Other Comprehensive Income (Loss), Net of Tax",-31362000,2015-02-28
+"Other Comprehensive Income (Loss), Net of Tax",-7482000,2016-02-29
+"Other Comprehensive Income (Loss), Net of Tax",-3181000,2017-02-28
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",-32304000,2015-02-28
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",-10164000,2016-02-29
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",1241000,2017-02-28
+"Earnings Per Share, Basic",-0.04,2015-02-28
+"Earnings Per Share, Basic",-0.03,2015-05-31
+"Earnings Per Share, Basic",-0.18,2015-08-31
+"Earnings Per Share, Basic",0.32,2015-11-30
+"Earnings Per Share, Basic",-0.22,2016-02-29
+"Earnings Per Share, Basic",-0.11,2016-02-29
+"Earnings Per Share, Basic",-0.18,2016-05-31
+"Earnings Per Share, Basic",0.12,2016-08-31
+"Earnings Per Share, Basic",0.24,2016-11-30
+"Earnings Per Share, Basic",0.00,2017-02-28
+"Earnings Per Share, Basic",0.18,2017-02-28
+"Earnings Per Share, Diluted",-0.04,2015-02-28
+"Earnings Per Share, Diluted",-0.03,2015-05-31
+"Earnings Per Share, Diluted",-0.18,2015-08-31
+"Earnings Per Share, Diluted",0.32,2015-11-30
+"Earnings Per Share, Diluted",-0.22,2016-02-29
+"Earnings Per Share, Diluted",-0.18,2016-05-31
+"Earnings Per Share, Diluted",0.12,2016-08-31
+"Earnings Per Share, Diluted",0.24,2016-11-30
+"Earnings Per Share, Diluted",0.00,2017-02-28
+"Weighted Average Number of Shares Outstanding, Basic",24330361,2015-02-28
+"Weighted Average Number of Shares Outstanding, Basic",24172710,2016-02-29
+"Weighted Average Number of Shares Outstanding, Basic",24160324,2017-02-28
+"Weighted Average Number of Shares Outstanding, Diluted",24330361,2015-02-28
+"Weighted Average Number of Shares Outstanding, Diluted",24172710,2016-02-29
+"Weighted Average Number of Shares Outstanding, Diluted",24240310,2017-02-28

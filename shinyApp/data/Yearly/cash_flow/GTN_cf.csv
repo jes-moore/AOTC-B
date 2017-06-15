@@ -1,0 +1,128 @@
+Metric,Amount,endDate
+Net income,48061000,2014-12-31
+Net income,5595000,2015-03-31
+Net income,39301000,2015-12-31
+Net income,12110000,2015-06-30
+Net income,6609000,2015-09-30
+Net income,14987000,2015-12-31
+Net income,8990000,2016-03-31
+Net income,62273000,2016-12-31
+Net income,17662000,2016-06-30
+Net income,-213000,2016-09-30
+Net income,35834000,2016-12-31
+Depreciation,30248000,2014-12-31
+Depreciation,36712000,2015-12-31
+Depreciation,45923000,2016-12-31
+Amortization of intangible assets,8297000,2014-12-31
+Amortization of intangible assets,11982000,2015-12-31
+Amortization of intangible assets,16596000,2016-12-31
+us-gaap_AmortizationOfFinancingCosts,2970000,2014-12-31
+us-gaap_AmortizationOfFinancingCosts,3194000,2015-12-31
+us-gaap_AmortizationOfFinancingCosts,4884000,2016-12-31
+"Amortization of original issue discount and premium related to long-term debt, net",-863000,2014-12-31
+"Amortization of original issue discount and premium related to long-term debt, net",-863000,2015-12-31
+"Amortization of original issue discount and premium related to long-term debt, net",-779000,2016-12-31
+Share-based compensation,5012000,2014-12-31
+Share-based compensation,4019000,2015-12-31
+Share-based compensation,5099000,2016-12-31
+Loss from early extinguishment of debt,-5086000,2014-12-31
+Loss from early extinguishment of debt,,2015-12-31
+Loss from early extinguishment of debt,-31987000,2016-12-31
+gtn_AmortizationOfProgramBroadcastRights,12871000,2014-12-31
+gtn_AmortizationOfProgramBroadcastRights,14960000,2015-12-31
+gtn_AmortizationOfProgramBroadcastRights,19001000,2016-12-31
+gtn_PaymentsOnProgramBroadcastObligations,15087000,2014-12-31
+gtn_PaymentsOnProgramBroadcastObligations,14576000,2015-12-31
+gtn_PaymentsOnProgramBroadcastObligations,18786000,2016-12-31
+us-gaap_EmployeeBenefitsAndShareBasedCompensation,25000,2014-12-31
+us-gaap_EmployeeBenefitsAndShareBasedCompensation,26000,2015-12-31
+us-gaap_EmployeeBenefitsAndShareBasedCompensation,29000,2016-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,30938000,2014-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,25770000,2015-12-31
+us-gaap_DeferredIncomeTaxExpenseBenefit,41386000,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets,-623000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets,-80000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets,-329000,2016-12-31
+us-gaap_OtherNoncashIncomeExpense,778000,2014-12-31
+us-gaap_OtherNoncashIncomeExpense,2568000,2015-12-31
+us-gaap_OtherNoncashIncomeExpense,1817000,2016-12-31
+us-gaap_IncreaseDecreaseInReceivables,17442000,2014-12-31
+us-gaap_IncreaseDecreaseInReceivables,14787000,2015-12-31
+us-gaap_IncreaseDecreaseInReceivables,6107000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidTaxes,,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidTaxes,,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidTaxes,14642000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,-4898000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,3705000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,-2032000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,2197000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-141000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,518000,2016-12-31
+"Employee compensation, benefits and pension costs",6964000,2014-12-31
+"Employee compensation, benefits and pension costs",3528000,2015-12-31
+"Employee compensation, benefits and pension costs",871000,2016-12-31
+Accrued network fees and other expenses,1685000,2014-12-31
+Accrued network fees and other expenses,12684000,2015-12-31
+Accrued network fees and other expenses,-5175000,2016-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,4920000,2014-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,-4907000,2015-12-31
+us-gaap_IncreaseDecreaseInInterestPayableNet,19736000,2016-12-31
+Income taxes payable,345000,2014-12-31
+Income taxes payable,-1123000,2015-12-31
+Income taxes payable,2145000,2016-12-31
+"Deferred revenue, current portion",3249000,2014-12-31
+"Deferred revenue, current portion",-3972000,2015-12-31
+"Deferred revenue, current portion",1130000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,134219000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,105614000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,206633000,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,461185000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,185126000,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,431846000,2016-12-31
+us-gaap_ProceedsFromDivestitureOfBusinesses,,2014-12-31
+us-gaap_ProceedsFromDivestitureOfBusinesses,0,2015-12-31
+us-gaap_ProceedsFromDivestitureOfBusinesses,11200000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,32215000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,24222000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,43604000,2016-12-31
+us-gaap_ProceedsFromSaleOfPropertyPlantAndEquipment,1508000,2014-12-31
+us-gaap_ProceedsFromSaleOfPropertyPlantAndEquipment,3115000,2015-12-31
+us-gaap_ProceedsFromSaleOfPropertyPlantAndEquipment,2979000,2016-12-31
+gtn_PaymentsOnAcquisitionRelatedLiabilities,10000000,2014-12-31
+gtn_PaymentsOnAcquisitionRelatedLiabilities,91000,2015-12-31
+gtn_PaymentsOnAcquisitionRelatedLiabilities,,2016-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,,2014-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,58000,2015-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,18063000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-501892000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-206382000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-479334000,2016-12-31
+Proceeds from borrowings on long-term debt,644000000,2014-12-31
+Proceeds from borrowings on long-term debt,0,2015-12-31
+Proceeds from borrowings on long-term debt,1656000000,2016-12-31
+us-gaap_RepaymentsOfLongTermDebt,249623000,2014-12-31
+us-gaap_RepaymentsOfLongTermDebt,0,2015-12-31
+us-gaap_RepaymentsOfLongTermDebt,1100000000,2016-12-31
+Tender and redemption premiums for 2020 Notes,,2014-12-31
+Tender and redemption premiums for 2020 Notes,,2015-12-31
+Tender and redemption premiums for 2020 Notes,-27502000,2016-12-31
+Proceeds from issuance of common stock,,2014-12-31
+Proceeds from issuance of common stock,167313000,2015-12-31
+Proceeds from issuance of common stock,0,2016-12-31
+gtn_IncreaseDecreaseInDeferredAndOtherLoanCosts,9413000,2014-12-31
+gtn_IncreaseDecreaseInDeferredAndOtherLoanCosts,-4000,2015-12-31
+gtn_IncreaseDecreaseInDeferredAndOtherLoanCosts,27926000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,384964000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,167317000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,500572000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,17291000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,66549000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,227871000,2016-12-31
+Cash,13478000,2013-12-31
+Cash,30769000,2014-12-31
+Cash,97318000,2015-12-31
+Cash,325189000,2016-12-31
+Cash,13478000,2013-12-31
+Cash,30769000,2014-12-31
+Cash,97318000,2015-12-31
+Cash,325189000,2016-12-31

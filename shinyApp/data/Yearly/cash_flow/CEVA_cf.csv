@@ -1,0 +1,114 @@
+Metric,Amount,endDate
+Depreciation,752000,2014-12-31
+Depreciation,1058000,2015-12-31
+Depreciation,1399000,2016-12-31
+Amortization of Intangible Assets,649000,2014-12-31
+Amortization of Intangible Assets,1298000,2015-12-31
+Amortization of Intangible Assets,1236000,2016-12-31
+Share-based Compensation,5011000,2014-12-31
+Share-based Compensation,4015000,2015-12-31
+Share-based Compensation,6236000,2016-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",6000,2014-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",-78000,2015-12-31
+"Available-for-sale Securities, Gross Realized Gain (Loss)",-9000,2016-12-31
+"Investment Income, Amortization of Premium",1121000,2014-12-31
+"Investment Income, Amortization of Premium",1111000,2015-12-31
+"Investment Income, Amortization of Premium",1064000,2016-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",-604000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",-237000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), Unrealized",-75000,2016-12-31
+"Cost-method Investments, Realized Gain (Loss), Excluding Other than Temporary Impairments",-404000,2014-12-31
+Increase (Decrease) in Accounts Receivable,2381000,2014-12-31
+Increase (Decrease) in Accounts Receivable,-4279000,2015-12-31
+Increase (Decrease) in Accounts Receivable,10966000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-819000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,136000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,622000,2016-12-31
+Increase Decrease In Accrued Interest On Bank Deposits,-351000,2014-12-31
+Increase Decrease In Accrued Interest On Bank Deposits,318000,2015-12-31
+Increase Decrease In Accrued Interest On Bank Deposits,195000,2016-12-31
+Increase Decrease In Deferred Tax Net,2531000,2014-12-31
+Increase Decrease In Deferred Tax Net,-1213000,2015-12-31
+Increase Decrease In Deferred Tax Net,-613000,2016-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-655000,2014-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-161000,2015-12-31
+"Increase (Decrease) in Accounts Payable, Trade",-190000,2016-12-31
+Increase (Decrease) in Deferred Revenue,950000,2014-12-31
+Increase (Decrease) in Deferred Revenue,1082000,2015-12-31
+Increase (Decrease) in Deferred Revenue,3495000,2016-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,-188000,2014-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,-158000,2015-12-31
+Increase (Decrease) in Other Accounts Payable and Accrued Liabilities,-277000,2016-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",169000,2014-12-31
+"Business Combination, Contingent Consideration Arrangements, Change in Amount of Contingent Consideration, Liability",97000,2015-12-31
+Increase Decrease In Accrued Salaries And Related Expenses,-800000,2014-12-31
+Increase Decrease In Accrued Salaries And Related Expenses,-1679000,2015-12-31
+Increase Decrease In Accrued Salaries And Related Expenses,94000,2016-12-31
+Increase (Decrease) in Income Taxes Payable,-1057000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,93000,2015-12-31
+Increase (Decrease) in Income Taxes Payable,668000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",112000,2015-12-31
+Increase Decrease In Accrued Severance Pay Net,54000,2014-12-31
+Increase Decrease In Accrued Severance Pay Net,184000,2015-12-31
+Increase Decrease In Accrued Severance Pay Net,134000,2016-12-31
+Business Acquisition Contingent Consideration Paid,3700000,2015-12-31
+Payments for Repurchase of Common Stock,18657000,2014-12-31
+Payments for Repurchase of Common Stock,10078000,2015-12-31
+Payments for Repurchase of Common Stock,3417000,2016-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",2974000,2014-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",6713000,2015-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",9615000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",0,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",112000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",0,2016-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-15683000,2014-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",-6953000,2015-12-31
+"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",6198000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",13489000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",1416000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",2184000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",2387000,2016-12-31
+Investment In Bank Deposits,51511000,2014-12-31
+Investment In Bank Deposits,53328000,2015-12-31
+Investment In Bank Deposits,41476000,2016-12-31
+Proceeds From Bank Deposits,45306000,2014-12-31
+Proceeds From Bank Deposits,47451000,2015-12-31
+Proceeds From Bank Deposits,37594000,2016-12-31
+Payments to Acquire Available-for-sale Securities,38413000,2014-12-31
+Payments to Acquire Available-for-sale Securities,29800000,2015-12-31
+Payments to Acquire Available-for-sale Securities,43537000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",2033000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",4392000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Available-for-sale Securities",8022000,2016-12-31
+Proceeds from Sale of Available-for-sale Securities,55566000,2014-12-31
+Proceeds from Sale of Available-for-sale Securities,23713000,2015-12-31
+Proceeds from Sale of Available-for-sale Securities,20754000,2016-12-31
+Proceeds from Sale of Other Investments,1032000,2014-12-31
+Proceeds from Sale of Other Investments,111000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-892000,2014-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-9645000,2015-12-31
+"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",-21030000,2016-12-31
+Net Income (Loss) Attributable to Parent,-819000,2014-12-31
+Net Income (Loss) Attributable to Parent,6267000,2015-12-31
+Net Income (Loss) Attributable to Parent,13100000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",9109000,2014-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",19380000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",14459000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-485000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-39000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-135000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-7951000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",2743000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-508000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",24117000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",16166000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",18909000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",18401000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",24117000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",16166000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",18909000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",18401000,2016-12-31
+"Income Taxes Paid, Net",1276000,2014-12-31
+"Income Taxes Paid, Net",2185000,2015-12-31
+"Income Taxes Paid, Net",3287000,2016-12-31
+Capital Expenditures Incurred but Not yet Paid,86000,2016-12-31

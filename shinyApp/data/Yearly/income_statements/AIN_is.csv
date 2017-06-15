@@ -1,0 +1,118 @@
+Metric,Amount,endDate
+Net sales,180300000,2014-03-31
+Net sales,745345000,2014-12-31
+Net sales,193500000,2014-06-30
+Net sales,179900000,2014-09-30
+Net sales,191600000,2014-12-31
+Net sales,181300000,2015-03-31
+Net sales,709868000,2015-12-31
+Net sales,172300000,2015-06-30
+Net sales,178800000,2015-09-30
+Net sales,177500000,2015-12-31
+Net sales,172300000,2016-03-31
+Net sales,779839000,2016-12-31
+Net sales,203200000,2016-06-30
+Net sales,191300000,2016-09-30
+Net sales,213000000,2016-12-31
+Cost of goods sold,453710000,2014-12-31
+Cost of goods sold,431182000,2015-12-31
+Cost of goods sold,479271000,2016-12-31
+Gross profit,74800000,2014-03-31
+Gross profit,291635000,2014-12-31
+Gross profit,75300000,2014-06-30
+Gross profit,68600000,2014-09-30
+Gross profit,72900000,2014-12-31
+Gross profit,76700000,2015-03-31
+Gross profit,278686000,2015-12-31
+Gross profit,54600000,2015-06-30
+Gross profit,75700000,2015-09-30
+Gross profit,71700000,2015-12-31
+Gross profit,72500000,2016-03-31
+Gross profit,300568000,2016-12-31
+Gross profit,78300000,2016-06-30
+Gross profit,72400000,2016-09-30
+Gross profit,77400000,2016-12-31
+"Selling, general and administrative expenses",147198000,2014-12-31
+"Selling, general and administrative expenses",146192000,2015-12-31
+"Selling, general and administrative expenses",160112000,2016-12-31
+"Technical, product engineering, and research expenses",59128000,2014-12-31
+"Technical, product engineering, and research expenses",44753000,2015-12-31
+"Technical, product engineering, and research expenses",40304000,2016-12-31
+"Restructuring and other, net",5759000,2014-12-31
+"Restructuring and other, net",23846000,2015-12-31
+"Restructuring and other, net",8376000,2016-12-31
+Pension settlement charge,-8190000,2014-12-31
+Pension settlement charge,,2015-12-31
+Pension settlement charge,,2016-12-31
+Operating loss,71360000,2014-12-31
+Operating loss,63895000,2015-12-31
+Operating loss,91776000,2016-12-31
+"Investment Income, Interest",1541000,2014-12-31
+"Investment Income, Interest",1857000,2015-12-31
+"Investment Income, Interest",2077000,2016-12-31
+Interest expense,12254000,2014-12-31
+Interest expense,11841000,2015-12-31
+Interest expense,15541000,2016-12-31
+Other Nonoperating Income (Expense),6853000,2014-12-31
+Other Nonoperating Income (Expense),-2433000,2015-12-31
+Other Nonoperating Income (Expense),-46000,2016-12-31
+Loss before income taxes,67500000,2014-12-31
+Loss before income taxes,51478000,2015-12-31
+Loss before income taxes,78266000,2016-12-31
+Income tax expense/(benefit),25751000,2014-12-31
+Income tax expense/(benefit),-5787000,2015-12-31
+Income tax expense/(benefit),25454000,2016-12-31
+Net income,41749000,2014-12-31
+Net income,57265000,2015-12-31
+Net income,52812000,2016-12-31
+Net income/(loss) attributable to the noncontrolling interest,180000,2014-12-31
+Net income/(loss) attributable to the noncontrolling interest,-14000,2015-12-31
+Net income/(loss) attributable to the noncontrolling interest,79000,2016-12-31
+Net loss attributable to the Company,10600000,2014-03-31
+Net loss attributable to the Company,41569000,2014-12-31
+Net loss attributable to the Company,11200000,2014-06-30
+Net loss attributable to the Company,11800000,2014-09-30
+Net loss attributable to the Company,8000000,2014-12-31
+Net loss attributable to the Company,12200000,2015-03-31
+Net loss attributable to the Company,57279000,2015-12-31
+Net loss attributable to the Company,-2200000,2015-06-30
+Net loss attributable to the Company,9700000,2015-09-30
+Net loss attributable to the Company,37600000,2015-12-31
+Net loss attributable to the Company,13500000,2016-03-31
+Net loss attributable to the Company,52733000,2016-12-31
+Net loss attributable to the Company,10400000,2016-06-30
+Net loss attributable to the Company,13100000,2016-09-30
+Net loss attributable to the Company,15800000,2016-12-31
+Earnings per share attributable to Company shareholders - Basic,0.33,2014-03-31
+Earnings per share attributable to Company shareholders - Basic,1.31,2014-12-31
+Earnings per share attributable to Company shareholders - Basic,0.35,2014-06-30
+Earnings per share attributable to Company shareholders - Basic,0.37,2014-09-30
+Earnings per share attributable to Company shareholders - Basic,0.26,2014-12-31
+Earnings per share attributable to Company shareholders - Basic,0.38,2015-03-31
+Earnings per share attributable to Company shareholders - Basic,1.79,2015-12-31
+Earnings per share attributable to Company shareholders - Basic,-0.07,2015-06-30
+Earnings per share attributable to Company shareholders - Basic,0.30,2015-09-30
+Earnings per share attributable to Company shareholders - Basic,1.18,2015-12-31
+Earnings per share attributable to Company shareholders - Basic,0.42,2016-03-31
+Earnings per share attributable to Company shareholders - Basic,1.64,2016-12-31
+Earnings per share attributable to Company shareholders - Basic,0.32,2016-06-30
+Earnings per share attributable to Company shareholders - Basic,0.41,2016-09-30
+Earnings per share attributable to Company shareholders - Basic,0.49,2016-12-31
+Earnings per share attributable to Company shareholders - Diluted,0.33,2014-03-31
+Earnings per share attributable to Company shareholders - Diluted,1.30,2014-12-31
+Earnings per share attributable to Company shareholders - Diluted,0.35,2014-06-30
+Earnings per share attributable to Company shareholders - Diluted,0.37,2014-09-30
+Earnings per share attributable to Company shareholders - Diluted,0.25,2014-12-31
+Earnings per share attributable to Company shareholders - Diluted,0.38,2015-03-31
+Earnings per share attributable to Company shareholders - Diluted,1.79,2015-12-31
+Earnings per share attributable to Company shareholders - Diluted,-0.07,2015-06-30
+Earnings per share attributable to Company shareholders - Diluted,0.30,2015-09-30
+Earnings per share attributable to Company shareholders - Diluted,1.18,2015-12-31
+Earnings per share attributable to Company shareholders - Diluted,0.42,2016-03-31
+Earnings per share attributable to Company shareholders - Diluted,1.64,2016-12-31
+Earnings per share attributable to Company shareholders - Diluted,0.32,2016-06-30
+Earnings per share attributable to Company shareholders - Diluted,0.41,2016-09-30
+Earnings per share attributable to Company shareholders - Diluted,0.49,2016-12-31
+"Dividends declared per share, Class A and Class B",0.63,2014-12-31
+"Dividends declared per share, Class A and Class B",0.67,2015-12-31
+"Dividends declared per share, Class A and Class B",0.68,2016-12-31

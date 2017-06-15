@@ -1,0 +1,68 @@
+Metric,Amount,endDate
+Cash and due from banks,24005801,2015-12-31
+Cash and due from banks,29478068,2016-12-31
+Interest bearing deposits in financial institutions,26993091,2015-12-31
+Interest bearing deposits in financial institutions,31737259,2016-12-31
+Securities available-for-sale,537632990,2015-12-31
+Securities available-for-sale,516079506,2016-12-31
+"Loans receivable, net",701328171,2015-12-31
+"Loans receivable, net",752181730,2016-12-31
+Loans held for sale,539370,2015-12-31
+Loans held for sale,242618,2016-12-31
+"Bank premises and equipment, net",17007798,2015-12-31
+"Bank premises and equipment, net",16049379,2016-12-31
+Accrued income receivable,7565791,2015-12-31
+Accrued income receivable,7768689,2016-12-31
+Other real estate owned,8436000,2014-12-31
+Other real estate owned,1249915,2015-12-31
+Other real estate owned,545757,2016-12-31
+us-gaap_DeferredTaxAssetsNet,1276571,2015-12-31
+us-gaap_DeferredTaxAssetsNet,3485689,2016-12-31
+"Other intangible assets, net",1029000,2014-01-09
+"Other intangible assets, net",1730000,2014-12-31
+"Other intangible assets, net",1308731,2015-12-31
+"Other intangible assets, net",1352812,2016-12-31
+Goodwill,6732216,2015-12-31
+Goodwill,6732216,2016-12-31
+Other assets,1106698,2015-12-31
+Other assets,799306,2016-12-31
+us-gaap_Assets,1326747143,2015-12-31
+us-gaap_Assets,1366453029,2016-12-31
+"Demand, noninterest bearing",202542011,2015-12-31
+"Demand, noninterest bearing",212074792,2016-12-31
+NOW accounts,298227493,2015-12-31
+NOW accounts,310427812,2016-12-31
+Savings and money market,354026475,2015-12-31
+Savings and money market,381852433,2016-12-31
+"Time, $250,000 and over",36956653,2015-12-31
+"Time, $250,000 and over",39031663,2016-12-31
+Other time,182440490,2015-12-31
+Other time,166022165,2016-12-31
+us-gaap_Deposits,1074193122,2015-12-31
+us-gaap_Deposits,1109408865,2016-12-31
+Securities sold under agreements to repurchase,54289915,2015-12-31
+Securities sold under agreements to repurchase,58337367,2016-12-31
+Federal Home Loan Bank (FHLB) advances,18542203,2015-12-31
+Federal Home Loan Bank (FHLB) advances,14500000,2016-12-31
+Other borrowings,13000000,2015-12-31
+Other borrowings,13000000,2016-12-31
+Dividends payable,1862183,2015-12-31
+Dividends payable,1955292,2016-12-31
+Accrued expenses and other liabilities,3609663,2015-12-31
+Accrued expenses and other liabilities,4146262,2016-12-31
+us-gaap_Liabilities,1165497086,2015-12-31
+us-gaap_Liabilities,1201347786,2016-12-31
+"Common stock, $2 par value, authorized 18,000,000 shares; issued and outstanding 9,310,913 shares as of December 31, 2016 and 2015",18621826,2015-12-31
+"Common stock, $2 par value, authorized 18,000,000 shares; issued and outstanding 9,310,913 shares as of December 31, 2016 and 2015",18621826,2016-12-31
+Additional paid-in capital,20878728,2015-12-31
+Additional paid-in capital,20878728,2016-12-31
+Retained earnings,118267767,2015-12-31
+Retained earnings,126181376,2016-12-31
+Accumulated other comprehensive income (loss),3481736,2015-12-31
+Accumulated other comprehensive income (loss),-576687,2016-12-31
+us-gaap_StockholdersEquity,142106184,2013-12-31
+us-gaap_StockholdersEquity,154674418,2014-12-31
+us-gaap_StockholdersEquity,161250057,2015-12-31
+us-gaap_StockholdersEquity,165105243,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1326747143,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1366453029,2016-12-31

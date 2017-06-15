@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+Cash and cash equivalents,1315000,2013-06-30
+Cash and cash equivalents,15508000,2014-06-30
+Cash and cash equivalents,24699000,2015-06-30
+Cash and cash equivalents,9077000,2016-06-30
+"Trade receivables, net of allowance for doubtful accounts of $1,588 and $1,002 at June 30, 2016 and June 30, 2015, respectively",130892000,2015-06-30
+"Trade receivables, net of allowance for doubtful accounts of $1,588 and $1,002 at June 30, 2016 and June 30, 2015, respectively",134572000,2016-06-30
+Prepaid expenses and other current assets,33267000,2015-06-30
+Prepaid expenses and other current assets,38498000,2016-06-30
+Tires in service,1857000,2015-06-30
+Tires in service,3175000,2016-06-30
+Leased revenue equipment held for sale,52591000,2015-06-30
+Leased revenue equipment held for sale,24937000,2016-06-30
+Revenue equipment held for sale,49856000,2015-06-30
+Revenue equipment held for sale,44876000,2016-06-30
+Income tax receivable,17926000,2015-06-30
+Income tax receivable,473000,2016-06-30
+us-gaap_AssetsCurrent,311088000,2015-06-30
+us-gaap_AssetsCurrent,255608000,2016-06-30
+"Property and equipment, net of accumulated depreciation and amortization of $142,423 and $147,446 at June 30, 2016 and June 30, 2015, respectively",788530000,2015-06-30
+"Property and equipment, net of accumulated depreciation and amortization of $142,423 and $147,446 at June 30, 2016 and June 30, 2015, respectively",636733000,2016-06-30
+"Leased assets, net of accumulated depreciation and amortization of $9,717 at June 30, 2016",,2015-06-30
+"Leased assets, net of accumulated depreciation and amortization of $9,717 at June 30, 2016",99300000,2016-06-30
+us-gaap_InventoryNoncurrent,2173000,2015-06-30
+us-gaap_InventoryNoncurrent,3603000,2016-06-30
+Goodwill,55357000,2015-06-30
+Goodwill,62451000,2016-06-30
+Investment in unconsolidated companies,,2015-06-30
+Investment in unconsolidated companies,2253000,2016-06-30
+Other assets,11458000,2015-06-30
+Other assets,43342000,2016-06-30
+us-gaap_Assets,1168606000,2015-06-30
+us-gaap_Assets,1103290000,2016-06-30
+Accounts payable,13699000,2015-06-30
+Accounts payable,26499000,2016-06-30
+Accrued salaries and benefits,16329000,2015-06-30
+Accrued salaries and benefits,17090000,2016-06-30
+Accrued insurance and claims,14808000,2015-06-30
+Accrued insurance and claims,20727000,2016-06-30
+Accrued fuel expense,10979000,2015-06-30
+Accrued fuel expense,8258000,2016-06-30
+Accrued purchase transportation,16259000,2015-06-30
+Accrued purchase transportation,22046000,2016-06-30
+Accrued equipment purchases,775000,2015-06-30
+Accrued equipment purchases,,2016-06-30
+Deferred leasing revenue,31872000,2015-06-30
+Deferred leasing revenue,15918000,2016-06-30
+Other accrued expenses,31835000,2015-06-30
+Other accrued expenses,29560000,2016-06-30
+Current maturities of long-term debt,948000,2015-06-30
+Current maturities of long-term debt,0,2016-06-30
+Current maturities of capital lease obligations,62992000,2015-06-30
+Current maturities of capital lease obligations,51397000,2016-06-30
+us-gaap_LiabilitiesCurrent,200496000,2015-06-30
+us-gaap_LiabilitiesCurrent,191495000,2016-06-30
+"Long term debt, net of current maturities",133199000,2015-06-30
+"Long term debt, net of current maturities",152032000,2016-06-30
+"Capital lease obligations, net of current maturities",366452000,2015-06-30
+"Capital lease obligations, net of current maturities",247383000,2016-06-30
+Other long term liabilities,953000,2015-06-30
+Other long term liabilities,22227000,2016-06-30
+Deferred income taxes,101163000,2015-06-30
+Deferred income taxes,109138000,2016-06-30
+"Common stock, $0.033 par value, authorized 40,000 shares; issued and outstanding 28,715 and 28,342 shares at June 30, 2016 and 2015, respectively",935000,2015-06-30
+"Common stock, $0.033 par value, authorized 40,000 shares; issued and outstanding 28,715 and 28,342 shares at June 30, 2016 and 2015, respectively",948000,2016-06-30
+us-gaap_TreasuryStockValue,3453000,2015-06-30
+us-gaap_TreasuryStockValue,3453000,2016-06-30
+Additional paid-in capital,195682000,2015-06-30
+Additional paid-in capital,198576000,2016-06-30
+Retained earnings,195412000,2015-06-30
+Retained earnings,218056000,2016-06-30
+Accumulated other comprehensive loss,-22233000,2015-06-30
+Accumulated other comprehensive loss,-33112000,2016-06-30
+us-gaap_StockholdersEquity,225689000,2013-06-30
+us-gaap_StockholdersEquity,259003000,2014-06-30
+us-gaap_StockholdersEquity,366343000,2015-06-30
+us-gaap_StockholdersEquity,381015000,2016-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,1168606000,2015-06-30
+us-gaap_LiabilitiesAndStockholdersEquity,1103290000,2016-06-30

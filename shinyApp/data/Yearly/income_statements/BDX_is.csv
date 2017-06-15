@@ -1,0 +1,78 @@
+Metric,Amount,endDate
+"Revenue, Net",8446000000,2014-09-30
+"Revenue, Net",2051000000,2014-12-31
+"Revenue, Net",2051000000,2015-03-31
+"Revenue, Net",3120000000,2015-06-30
+"Revenue, Net",3059000000,2015-09-30
+"Revenue, Net",10282000000,2015-09-30
+"Revenue, Net",2986000000,2015-12-31
+"Revenue, Net",3067000000,2016-03-31
+"Revenue, Net",3198000000,2016-06-30
+"Revenue, Net",3231000000,2016-09-30
+"Revenue, Net",12483000000,2016-09-30
+Cost of Goods and Services Sold,4145000000,2014-09-30
+Cost of Goods and Services Sold,5587000000,2015-09-30
+Cost of Goods and Services Sold,6492000000,2016-09-30
+"Selling, General and Administrative Expense",2145000000,2014-09-30
+"Selling, General and Administrative Expense",2563000000,2015-09-30
+"Selling, General and Administrative Expense",3005000000,2016-09-30
+Research and Development Expense,550000000,2014-09-30
+Research and Development Expense,632000000,2015-09-30
+Research and Development Expense,828000000,2016-09-30
+Acquisition Related Costs And Restructuring Charges,0,2014-09-30
+Acquisition Related Costs And Restructuring Charges,426000000,2015-09-30
+Acquisition Related Costs And Restructuring Charges,728000000,2016-09-30
+Costs and Expenses,6840000000,2014-09-30
+Costs and Expenses,9207000000,2015-09-30
+Costs and Expenses,11053000000,2016-09-30
+Operating Income (Loss),1606000000,2014-09-30
+Operating Income (Loss),1074000000,2015-09-30
+Operating Income (Loss),1430000000,2016-09-30
+Interest Expense,135000000,2014-09-30
+Interest Expense,371000000,2015-09-30
+Interest Expense,388000000,2016-09-30
+"Investment Income, Interest",46000000,2014-09-30
+"Investment Income, Interest",15000000,2015-09-30
+"Investment Income, Interest",21000000,2016-09-30
+Other Nonoperating Income (Expense),5000000,2014-09-30
+Other Nonoperating Income (Expense),21000000,2015-09-30
+Other Nonoperating Income (Expense),11000000,2016-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1522000000,2014-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",739000000,2015-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",1074000000,2016-09-30
+Income Tax Expense (Benefit),337000000,2014-09-30
+Income Tax Expense (Benefit),44000000,2015-09-30
+Income Tax Expense (Benefit),97000000,2016-09-30
+Net Income (Loss) Attributable to Parent,1185000000,2014-09-30
+Net Income (Loss) Attributable to Parent,236000000,2014-12-31
+Net Income (Loss) Attributable to Parent,216000000,2015-03-31
+Net Income (Loss) Attributable to Parent,62000000,2015-06-30
+Net Income (Loss) Attributable to Parent,181000000,2015-09-30
+Net Income (Loss) Attributable to Parent,695000000,2015-09-30
+Net Income (Loss) Attributable to Parent,229000000,2015-12-31
+Net Income (Loss) Attributable to Parent,338000000,2016-03-31
+Net Income (Loss) Attributable to Parent,390000000,2016-06-30
+Net Income (Loss) Attributable to Parent,19000000,2016-09-30
+Net Income (Loss) Attributable to Parent,976000000,2016-09-30
+"Earnings Per Share, Basic",6.13,2014-09-30
+"Earnings Per Share, Basic",1.22,2014-12-31
+"Earnings Per Share, Basic",1.10,2015-03-31
+"Earnings Per Share, Basic",0.30,2015-06-30
+"Earnings Per Share, Basic",0.86,2015-09-30
+"Earnings Per Share, Basic",3.43,2015-09-30
+"Earnings Per Share, Basic",1.08,2015-12-31
+"Earnings Per Share, Basic",1.59,2016-03-31
+"Earnings Per Share, Basic",1.83,2016-06-30
+"Earnings Per Share, Basic",0.09,2016-09-30
+"Earnings Per Share, Basic",4.59,2016-09-30
+"Earnings Per Share, Diluted",5.99,2014-09-30
+"Earnings Per Share, Diluted",1.20,2014-12-31
+"Earnings Per Share, Diluted",1.08,2015-03-31
+"Earnings Per Share, Diluted",0.29,2015-06-30
+"Earnings Per Share, Diluted",0.84,2015-09-30
+"Earnings Per Share, Diluted",3.35,2015-09-30
+"Earnings Per Share, Diluted",1.06,2015-12-31
+"Earnings Per Share, Diluted",1.56,2016-03-31
+"Earnings Per Share, Diluted",1.80,2016-06-30
+"Earnings Per Share, Diluted",0.09,2016-09-30
+"Earnings Per Share, Diluted",4.49,2016-09-30

@@ -1,0 +1,144 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,162300000,2014-03-29
+Net Income (Loss) Attributable to Parent,227200000,2014-06-28
+Net Income (Loss) Attributable to Parent,228700000,2014-09-27
+Net Income (Loss) Attributable to Parent,265500000,2015-01-03
+Net Income (Loss) Attributable to Parent,760900000,2015-01-03
+Net Income (Loss) Attributable to Parent,189400000,2015-04-04
+Net Income (Loss) Attributable to Parent,271500000,2015-07-04
+Net Income (Loss) Attributable to Parent,248900000,2015-10-03
+Net Income (Loss) Attributable to Parent,255500000,2016-01-02
+Net Income (Loss) Attributable to Parent,883700000,2016-01-02
+Net Income (Loss) Attributable to Parent,965300000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",263400000,2015-01-03
+"Depreciation, Depletion and Amortization, Nonproduction",256900000,2016-01-02
+"Depreciation, Depletion and Amortization, Nonproduction",263600000,2016-12-31
+Amortization of Intangible Assets,186400000,2015-01-03
+Amortization of Intangible Assets,157100000,2016-01-02
+Amortization of Intangible Assets,144400000,2016-12-31
+Asset Impairment Charges,63100000,2015-01-03
+Asset Impairment Charges,9800000,2016-01-02
+Asset Impairment Charges,10700000,2016-12-31
+Share-based Compensation,57100000,2015-01-03
+Share-based Compensation,67900000,2016-01-02
+Share-based Compensation,81200000,2016-12-31
+"Provision for Doubtful Accounts, Including Divestiture",22100000,2015-01-03
+"Provision for Doubtful Accounts, Including Divestiture",29500000,2016-01-02
+"Provision for Doubtful Accounts, Including Divestiture",21900000,2016-12-31
+Deferred Income Tax Expense (Benefit),42400000,2015-01-03
+Deferred Income Tax Expense (Benefit),-1300000,2016-01-02
+Deferred Income Tax Expense (Benefit),-25700000,2016-12-31
+Other Noncash Income (Expense),-12300000,2015-01-03
+Other Noncash Income (Expense),-18800000,2016-01-02
+Other Noncash Income (Expense),-29300000,2016-12-31
+Increase (Decrease) in Accounts Receivable,-81600000,2015-01-03
+Increase (Decrease) in Accounts Receivable,41300000,2016-01-02
+Increase (Decrease) in Accounts Receivable,69400000,2016-12-31
+Increase (Decrease) in Inventories,175900000,2015-01-03
+Increase (Decrease) in Inventories,54700000,2016-01-02
+Increase (Decrease) in Inventories,23900000,2016-12-31
+Increase (Decrease) in Accounts Payable,71700000,2015-01-03
+Increase (Decrease) in Accounts Payable,-9700000,2016-01-02
+Increase (Decrease) in Accounts Payable,159700000,2016-12-31
+Increase (Decrease) in Deferred Revenue,12800000,2015-01-03
+Increase (Decrease) in Deferred Revenue,7700000,2016-01-02
+Increase (Decrease) in Deferred Revenue,-9200000,2016-12-31
+Increase (Decrease) in Accrued Liabilities,59700000,2015-01-03
+Increase (Decrease) in Accrued Liabilities,-59000000,2016-01-02
+Increase (Decrease) in Accrued Liabilities,-28100000,2016-12-31
+Increase (Decrease) in Other Current Assets,-25800000,2015-01-03
+Increase (Decrease) in Other Current Assets,-19800000,2016-01-02
+Increase (Decrease) in Other Current Assets,-26000000,2016-12-31
+"Increase (Decrease) in Long-term Receivables, Current",13200000,2015-01-03
+"Increase (Decrease) in Long-term Receivables, Current",12600000,2016-01-02
+"Increase (Decrease) in Long-term Receivables, Current",-1200000,2016-12-31
+Increase (Decrease) in Pension and Postretirement Obligations,-155000000,2015-01-03
+Increase (Decrease) in Pension and Postretirement Obligations,-65800000,2016-01-02
+Increase (Decrease) in Pension and Postretirement Obligations,-56800000,2016-12-31
+Increase (Decrease) in Other Noncurrent Liabilities,-58500000,2015-01-03
+Increase (Decrease) in Other Noncurrent Liabilities,-13000000,2016-01-02
+Increase (Decrease) in Other Noncurrent Liabilities,42500000,2016-12-31
+Increase (Decrease) in Other Noncurrent Assets,-39200000,2015-01-03
+Increase (Decrease) in Other Noncurrent Assets,11500000,2016-01-02
+Increase (Decrease) in Other Noncurrent Assets,47500000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,1295900000,2015-01-03
+Net Cash Provided by (Used in) Operating Activities,1182300000,2016-01-02
+Net Cash Provided by (Used in) Operating Activities,1485200000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",291000000,2015-01-03
+"Payments to Acquire Property, Plant, and Equipment",311400000,2016-01-02
+"Payments to Acquire Property, Plant, and Equipment",347000000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",15400000,2015-01-03
+"Proceeds from Sale of Property, Plant, and Equipment",29100000,2016-01-02
+"Proceeds from Sale of Property, Plant, and Equipment",10600000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",3200000,2015-01-03
+"Payments to Acquire Businesses, Net of Cash Acquired",17600000,2016-01-02
+"Payments to Acquire Businesses, Net of Cash Acquired",59300000,2016-12-31
+"Proceeds from Divestiture of Businesses, Net of Cash Divested",-3900000,2015-01-03
+"Proceeds from Divestiture of Businesses, Net of Cash Divested",0,2016-01-02
+"Proceeds from Divestiture of Businesses, Net of Cash Divested",24000000,2016-12-31
+"Payments for (Proceeds from) Derivative Instrument, Investing Activities",61400000,2015-01-03
+"Payments for (Proceeds from) Derivative Instrument, Investing Activities",-137700000,2016-01-02
+"Payments for (Proceeds from) Derivative Instrument, Investing Activities",-104700000,2016-12-31
+Payments for (Proceeds from) Other Investing Activities,38100000,2015-01-03
+Payments for (Proceeds from) Other Investing Activities,42800000,2016-01-02
+Payments for (Proceeds from) Other Investing Activities,17000000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-382200000,2015-01-03
+Net Cash Provided by (Used in) Investing Activities,-205000000,2016-01-02
+Net Cash Provided by (Used in) Investing Activities,-284000000,2016-12-31
+Repayments of Long-term Debt,46600000,2015-01-03
+Repayments of Long-term Debt,16100000,2016-01-02
+Repayments of Long-term Debt,0,2016-12-31
+Proceeds from (Repayments of) Short-term Debt,-391000000,2015-01-03
+Proceeds from (Repayments of) Short-term Debt,1200000,2016-01-02
+Proceeds from (Repayments of) Short-term Debt,1900000,2016-12-31
+Payments of Stock Issuance Costs,16400000,2015-01-03
+Payments of Stock Issuance Costs,17000000,2016-01-02
+Payments of Stock Issuance Costs,13800000,2016-12-31
+Payments for Repurchase of Common Stock,124200000,2016-02-01
+Payments for Repurchase of Common Stock,230900000,2016-02-08
+Payments for Repurchase of Common Stock,28200000,2015-01-03
+Payments for Repurchase of Common Stock,326100000,2015-04-04
+Payments for Repurchase of Common Stock,649800000,2016-01-02
+Payments for Repurchase of Common Stock,374100000,2016-12-31
+Proceeds from Issuance of Preferred Stock and Preference Stock,0,2015-01-03
+Proceeds from Issuance of Preferred Stock and Preference Stock,632500000,2016-01-02
+Proceeds from Issuance of Preferred Stock and Preference Stock,0,2016-12-31
+Payments for Repurchase of Preferred Stock and Preference Stock,0,2015-01-03
+Payments for Repurchase of Preferred Stock and Preference Stock,632500000,2016-01-02
+Payments for Repurchase of Preferred Stock and Preference Stock,0,2016-12-31
+Cash Settlement on Forward Stock Purchase Contract,345000000,2016-11-17
+Cash Settlement on Forward Stock Purchase Contract,0,2015-01-03
+Cash Settlement on Forward Stock Purchase Contract,0,2016-01-02
+Cash Settlement on Forward Stock Purchase Contract,-147400000,2016-12-31
+Payments to Noncontrolling Interests,0,2015-01-03
+Payments to Noncontrolling Interests,33500000,2016-01-02
+Payments to Noncontrolling Interests,12500000,2016-12-31
+"Payments for (Proceeds from) Hedge, Financing Activities",33400000,2015-01-03
+"Payments for (Proceeds from) Hedge, Financing Activities",0,2016-01-02
+"Payments for (Proceeds from) Hedge, Financing Activities",-27000000,2016-12-31
+Proceeds from Issuance of Common Stock,71300000,2015-01-03
+Proceeds from Issuance of Common Stock,163500000,2016-01-02
+Proceeds from Issuance of Common Stock,418500000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",321300000,2015-01-03
+"Payments of Ordinary Dividends, Common Stock",319900000,2016-01-02
+"Payments of Ordinary Dividends, Common Stock",330900000,2016-12-31
+Proceeds from (Payments for) Other Financing Activities,-600000,2015-01-03
+Proceeds from (Payments for) Other Financing Activities,-4000000,2016-01-02
+Proceeds from (Payments for) Other Financing Activities,-1800000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-766200000,2015-01-03
+Net Cash Provided by (Used in) Financing Activities,-875600000,2016-01-02
+Net Cash Provided by (Used in) Financing Activities,-433100000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-147100000,2015-01-03
+Effect of Exchange Rate on Cash and Cash Equivalents,-132900000,2016-01-02
+Effect of Exchange Rate on Cash and Cash Equivalents,-101700000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",400000,2015-01-03
+"Cash and Cash Equivalents, Period Increase (Decrease)",-31200000,2016-01-02
+"Cash and Cash Equivalents, Period Increase (Decrease)",666400000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",496200000,2013-12-28
+"Cash and Cash Equivalents, at Carrying Value",496600000,2015-01-03
+"Cash and Cash Equivalents, at Carrying Value",465400000,2016-01-02
+"Cash and Cash Equivalents, at Carrying Value",1131800000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",496200000,2013-12-28
+"Cash and Cash Equivalents, at Carrying Value",496600000,2015-01-03
+"Cash and Cash Equivalents, at Carrying Value",465400000,2016-01-02
+"Cash and Cash Equivalents, at Carrying Value",1131800000,2016-12-31

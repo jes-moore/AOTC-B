@@ -1,0 +1,52 @@
+Metric,Amount,endDate
+Revenues,120010000,2013-12-31
+Revenues,136022000,2014-12-31
+Revenues,143978000,2015-12-31
+Cost of Revenue,65286000,2013-12-31
+Cost of Revenue,65708000,2014-12-31
+Cost of Revenue,63892000,2015-12-31
+Gross Profit,54724000,2013-12-31
+Gross Profit,70314000,2014-12-31
+Gross Profit,80086000,2015-12-31
+Operating Income (Loss),7333000,2013-12-31
+Operating Income (Loss),13284000,2014-12-31
+Operating Income (Loss),17891000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",7081000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",12664000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",17890000,2015-12-31
+Income Tax Expense (Benefit),-6337000,2013-12-31
+Income Tax Expense (Benefit),2734000,2014-12-31
+Income Tax Expense (Benefit),5540000,2015-12-31
+Net Income (Loss) Attributable to Parent,13418000,2013-12-31
+Net Income (Loss) Attributable to Parent,9930000,2014-12-31
+Net Income (Loss) Attributable to Parent,12350000,2015-12-31
+"Earnings Per Share, Basic",0.91,2013-12-31
+"Earnings Per Share, Basic",0.61,2014-12-31
+"Earnings Per Share, Basic",0.75,2015-12-31
+"Earnings Per Share, Diluted",0.89,2013-12-31
+"Earnings Per Share, Diluted",0.59,2014-12-31
+"Earnings Per Share, Diluted",0.73,2015-12-31
+"Interest Income (Expense), Nonoperating, Net",44000,2013-12-31
+"Interest Income (Expense), Nonoperating, Net",29000,2014-12-31
+"Interest Income (Expense), Nonoperating, Net",15000,2015-12-31
+Other Nonoperating Income (Expense),-296000,2013-12-31
+Other Nonoperating Income (Expense),-649000,2014-12-31
+Other Nonoperating Income (Expense),-16000,2015-12-31
+Nonoperating Income (Expense),-252000,2013-12-31
+Nonoperating Income (Expense),-620000,2014-12-31
+Nonoperating Income (Expense),-1000,2015-12-31
+Research and Development Expense,10961000,2013-12-31
+Research and Development Expense,13821000,2014-12-31
+Research and Development Expense,16965000,2015-12-31
+"Selling, General and Administrative Expense",36430000,2013-12-31
+"Selling, General and Administrative Expense",43209000,2014-12-31
+"Selling, General and Administrative Expense",45230000,2015-12-31
+Operating Expenses,47391000,2013-12-31
+Operating Expenses,57030000,2014-12-31
+Operating Expenses,62195000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",14792000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",16323000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",16396000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",15150000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",16828000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",16957000,2015-12-31

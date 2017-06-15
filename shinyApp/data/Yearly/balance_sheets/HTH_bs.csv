@@ -1,0 +1,91 @@
+Metric,Amount,endDate
+Cash and Due from Banks.,652036000,2015-12-31
+Cash and Due from Banks.,669357000,2016-12-31
+Federal Funds Sold,17409000,2015-12-31
+Federal Funds Sold,21407000,2016-12-31
+Securities Purchased under Agreements to Resell,105660000,2015-12-31
+Securities Purchased under Agreements to Resell,89430000,2016-12-31
+Cash and Securities Segregated under Securities Exchange Commission Regulation,158613000,2015-12-31
+Cash and Securities Segregated under Securities Exchange Commission Regulation,180993000,2016-12-31
+Trading Securities,214146000,2015-12-31
+Trading Securities,265534000,2016-12-31
+Available-for-sale Securities,673706000,2015-12-31
+Available-for-sale Securities,598007000,2016-12-31
+Held-to-maturity Securities,332022000,2015-12-31
+Held-to-maturity Securities,351831000,2016-12-31
+Marketable Securities,1219874000,2015-12-31
+Marketable Securities,1215372000,2016-12-31
+Loans Receivable Held For Sale Net Not Part Of Disposal Group Or Discontinued Operation,1533678000,2015-12-31
+Loans Receivable Held For Sale Net Not Part Of Disposal Group Or Discontinued Operation,1795463000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",5207617000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",5843499000,2016-12-31
+"Loans and Leases Receivable, Allowance",45415000,2015-12-31
+"Loans and Leases Receivable, Allowance",54186000,2016-12-31
+"Loans and Leases Receivable, Net Amount",5162202000,2015-12-31
+"Loans and Leases Receivable, Net Amount",5789313000,2016-12-31
+"Loans and Leases Receivable, Net Reported Amount, Covered",378762000,2015-12-31
+"Loans and Leases Receivable, Net Reported Amount, Covered",255714000,2016-12-31
+Receivables from Brokers-Dealers and Clearing Organizations,1362499000,2015-12-31
+Receivables from Brokers-Dealers and Clearing Organizations,1497741000,2016-12-31
+"Property, Plant and Equipment, Net",200618000,2015-12-31
+"Property, Plant and Equipment, Net",190361000,2016-12-31
+FDIC Indemnification Asset,188291000,2013-12-31
+FDIC Indemnification Asset,130437000,2014-12-31
+FDIC Indemnification Asset,91648000,2015-12-31
+FDIC Indemnification Asset,71313000,2016-12-31
+"Other Real Estate, Covered",142833000,2013-12-31
+"Other Real Estate, Covered",136945000,2014-12-31
+"Other Real Estate, Covered",99090000,2015-12-31
+"Other Real Estate, Covered",51642000,2016-12-31
+Other Assets.,578236000,2015-12-31
+Other Assets.,613453000,2016-12-31
+Goodwill,251808000,2015-12-31
+Goodwill,251808000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",54868000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",44695000,2016-12-31
+Assets,11867001000,2015-12-31
+Assets,12738062000,2016-12-31
+Noninterest-bearing Deposit Liabilities,2235436000,2015-12-31
+Noninterest-bearing Deposit Liabilities,2199483000,2016-12-31
+Interest-bearing Deposit Liabilities,4717247000,2015-12-31
+Interest-bearing Deposit Liabilities,4864328000,2016-12-31
+Deposits.,6952683000,2015-12-31
+Deposits.,7063811000,2016-12-31
+Payables to Broker-Dealers and Clearing Organizations,1338305000,2015-12-31
+Payables to Broker-Dealers and Clearing Organizations,1347128000,2016-12-31
+Short-term Debt,947373000,2015-12-31
+Short-term Debt,1417289000,2016-12-31
+"Financial Instruments Sold, Not yet Purchased, at Fair Value",130044000,2015-12-31
+"Financial Instruments Sold, Not yet Purchased, at Fair Value",153889000,2016-12-31
+Long-term Debt,238716000,2015-12-31
+Long-term Debt,317912000,2016-12-31
+Junior Subordinated Debenture Owed to Unconsolidated Subsidiary Trust,67012000,2015-12-31
+Junior Subordinated Debenture Owed to Unconsolidated Subsidiary Trust,67012000,2016-12-31
+Other Liabilities,454743000,2015-12-31
+Other Liabilities,496501000,2016-12-31
+Liabilities,10128876000,2015-12-31
+Liabilities,10863542000,2016-12-31
+Commitments and Contingencies.,,2015-12-31
+Commitments and Contingencies.,,2016-12-31
+"Common Stock, Value, Issued",989000,2015-12-31
+"Common Stock, Value, Issued",985000,2016-12-31
+Additional Paid in Capital,1577270000,2015-12-31
+Additional Paid in Capital,1572877000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",2629000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",485000,2016-12-31
+Retained Earnings (Accumulated Deficit),155475000,2015-12-31
+Retained Earnings (Accumulated Deficit),295568000,2016-12-31
+Compensation and Benefits Trust,1034000,2015-12-31
+Compensation and Benefits Trust,903000,2016-12-31
+"Common Stock Issued, Employee Stock Trust",443000,2015-12-31
+"Common Stock Issued, Employee Stock Trust",309000,2016-12-31
+Stockholders' Equity Attributable to Parent,1736954000,2015-12-31
+Stockholders' Equity Attributable to Parent,1870509000,2016-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,1171000,2015-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,4011000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1311922000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1461239000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1738125000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1874520000,2016-12-31
+Liabilities and Equity,11867001000,2015-12-31
+Liabilities and Equity,12738062000,2016-12-31

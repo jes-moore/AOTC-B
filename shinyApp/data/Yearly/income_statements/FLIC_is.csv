@@ -1,0 +1,176 @@
+Metric,Amount,endDate
+Loans,59209000,2014-12-31
+Loans,70558000,2015-12-31
+Loans,82456000,2016-12-31
+Taxable,9359000,2014-12-31
+Taxable,7991000,2015-12-31
+Taxable,7981000,2016-12-31
+Nontaxable,13408000,2014-12-31
+Nontaxable,13586000,2015-12-31
+Nontaxable,13686000,2016-12-31
+Interest income,81976000,2014-12-31
+Interest income,22058000,2015-03-31
+Interest income,92135000,2015-12-31
+Interest income,22667000,2015-06-30
+Interest income,22903000,2015-09-30
+Interest income,24507000,2015-12-31
+Interest income,25107000,2016-03-31
+Interest income,104123000,2016-12-31
+Interest income,25681000,2016-06-30
+Interest income,26232000,2016-09-30
+Interest income,27103000,2016-12-31
+"Savings, NOW and money market deposits",1955000,2014-12-31
+"Savings, NOW and money market deposits",2564000,2015-12-31
+"Savings, NOW and money market deposits",5344000,2016-12-31
+Time deposits,6171000,2014-12-31
+Time deposits,5987000,2015-12-31
+Time deposits,5107000,2016-12-31
+us-gaap_InterestExpenseOtherShortTermBorrowings,148000,2014-12-31
+us-gaap_InterestExpenseOtherShortTermBorrowings,183000,2015-12-31
+us-gaap_InterestExpenseOtherShortTermBorrowings,296000,2016-12-31
+us-gaap_InterestExpenseLongTermDebt,6774000,2014-12-31
+us-gaap_InterestExpenseLongTermDebt,7795000,2015-12-31
+us-gaap_InterestExpenseLongTermDebt,7255000,2016-12-31
+Interest expense,15048000,2014-12-31
+Interest expense,4252000,2015-03-31
+Interest expense,16529000,2015-12-31
+Interest expense,4173000,2015-06-30
+Interest expense,3970000,2015-09-30
+Interest expense,4134000,2015-12-31
+Interest expense,4406000,2016-03-31
+Interest expense,18002000,2016-12-31
+Interest expense,4408000,2016-06-30
+Interest expense,4541000,2016-09-30
+Interest expense,4647000,2016-12-31
+Net interest income,66928000,2014-12-31
+Net interest income,17806000,2015-03-31
+Net interest income,75606000,2015-12-31
+Net interest income,18494000,2015-06-30
+Net interest income,18933000,2015-09-30
+Net interest income,20373000,2015-12-31
+Net interest income,20701000,2016-03-31
+Net interest income,86121000,2016-12-31
+Net interest income,21273000,2016-06-30
+Net interest income,21691000,2016-09-30
+Net interest income,22456000,2016-12-31
+Provision for loan losses,3189000,2014-12-31
+Provision for loan losses,411000,2015-03-31
+Provision for loan losses,4317000,2015-12-31
+Provision for loan losses,942000,2015-06-30
+Provision for loan losses,1049000,2015-09-30
+Provision for loan losses,1915000,2015-12-31
+Provision for loan losses,253000,2016-03-31
+Provision for loan losses,3480000,2016-12-31
+Provision for loan losses,139000,2016-06-30
+Provision for loan losses,1118000,2016-09-30
+Provision for loan losses,1970000,2016-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,63739000,2014-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,71289000,2015-12-31
+us-gaap_InterestIncomeExpenseAfterProvisionForLoanLoss,82641000,2016-12-31
+Investment Management Division income,2058000,2014-12-31
+Investment Management Division income,2044000,2015-12-31
+Investment Management Division income,2000000,2016-12-31
+Service charges on deposit accounts,2974000,2014-12-31
+Service charges on deposit accounts,2577000,2015-12-31
+Service charges on deposit accounts,2666000,2016-12-31
+Net gains on sales of securities,141000,2014-12-31
+Net gains on sales of securities,,2015-03-31
+Net gains on sales of securities,1324000,2015-12-31
+Net gains on sales of securities,1133000,2015-06-30
+Net gains on sales of securities,,2015-09-30
+Net gains on sales of securities,191000,2015-12-31
+Net gains on sales of securities,,2016-03-31
+Net gains on sales of securities,1868000,2016-12-31
+Net gains on sales of securities,1844000,2016-06-30
+Net gains on sales of securities,24000,2016-09-30
+Net gains on sales of securities,,2016-12-31
+Other,2228000,2014-12-31
+Other,2813000,2015-12-31
+Other,2845000,2016-12-31
+us-gaap_NoninterestIncome,7401000,2014-12-31
+us-gaap_NoninterestIncome,8758000,2015-12-31
+us-gaap_NoninterestIncome,9379000,2016-12-31
+Salaries,18885000,2014-12-31
+Salaries,20680000,2015-12-31
+Salaries,22116000,2016-12-31
+Employee benefits,4833000,2014-12-31
+Employee benefits,6021000,2015-12-31
+Employee benefits,6889000,2016-12-31
+Occupancy and equipment,8880000,2014-12-31
+Occupancy and equipment,8798000,2015-12-31
+Occupancy and equipment,9264000,2016-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2014-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2015-03-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-1084000,2015-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-1084000,2015-06-30
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2015-09-30
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2015-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2016-03-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-1756000,2016-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-1756000,2016-06-30
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2016-09-30
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2016-12-31
+Other operating expenses,9433000,2014-12-31
+Other operating expenses,10108000,2015-12-31
+Other operating expenses,12066000,2016-12-31
+,42031000,2014-12-31
+,46691000,2015-12-31
+,52091000,2016-12-31
+Income before income taxes,29109000,2014-12-31
+Income before income taxes,8204000,2015-03-31
+Income before income taxes,33356000,2015-12-31
+Income before income taxes,8593000,2015-06-30
+Income before income taxes,8321000,2015-09-30
+Income before income taxes,8238000,2015-12-31
+Income before income taxes,9771000,2016-03-31
+Income before income taxes,39929000,2016-12-31
+Income before income taxes,9993000,2016-06-30
+Income before income taxes,10613000,2016-09-30
+Income before income taxes,9552000,2016-12-31
+Income tax expense,6095000,2014-12-31
+Income tax expense,1719000,2015-03-31
+Income tax expense,7466000,2015-12-31
+Income tax expense,2317000,2015-06-30
+Income tax expense,1810000,2015-09-30
+Income tax expense,1620000,2015-12-31
+Income tax expense,2136000,2016-03-31
+Income tax expense,9049000,2016-12-31
+Income tax expense,2264000,2016-06-30
+Income tax expense,2615000,2016-09-30
+Income tax expense,2034000,2016-12-31
+Net income,23014000,2014-12-31
+Net income,6485000,2015-03-31
+Net income,25890000,2015-12-31
+Net income,6276000,2015-06-30
+Net income,6511000,2015-09-30
+Net income,6618000,2015-12-31
+Net income,7635000,2016-03-31
+Net income,30880000,2016-12-31
+Net income,7729000,2016-06-30
+Net income,7998000,2016-09-30
+Net income,7518000,2016-12-31
+Basic (in dollars per share),1.11,2014-12-31
+Basic (in dollars per share),0.31,2015-03-31
+Basic (in dollars per share),1.23,2015-12-31
+Basic (in dollars per share),0.30,2015-06-30
+Basic (in dollars per share),0.31,2015-09-30
+Basic (in dollars per share),0.31,2015-12-31
+Basic (in dollars per share),0.36,2016-03-31
+Basic (in dollars per share),1.35,2016-12-31
+Basic (in dollars per share),0.34,2016-06-30
+Basic (in dollars per share),0.34,2016-09-30
+Basic (in dollars per share),0.32,2016-12-31
+Diluted (in dollars per share),1.10,2014-12-31
+Diluted (in dollars per share),0.31,2015-03-31
+Diluted (in dollars per share),1.22,2015-12-31
+Diluted (in dollars per share),0.30,2015-06-30
+Diluted (in dollars per share),0.31,2015-09-30
+Diluted (in dollars per share),0.31,2015-12-31
+Diluted (in dollars per share),0.35,2016-03-31
+Diluted (in dollars per share),1.34,2016-12-31
+Diluted (in dollars per share),0.34,2016-06-30
+Diluted (in dollars per share),0.34,2016-09-30
+Diluted (in dollars per share),0.31,2016-12-31
+Cash dividends declared per share (in dollars per share),0.48,2014-12-31
+Cash dividends declared per share (in dollars per share),0.52,2015-12-31
+Cash dividends declared per share (in dollars per share),0.55,2016-12-31

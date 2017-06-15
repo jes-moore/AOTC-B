@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+Net sales,403298000,2014-12-31
+Net sales,84865000,2015-03-31
+Net sales,236608000,2015-12-31
+Net sales,53846000,2015-06-30
+Net sales,52335000,2015-09-30
+Net sales,45562000,2015-12-31
+Net sales,33928000,2016-03-31
+Net sales,156256000,2016-12-31
+Net sales,42061000,2016-06-30
+Net sales,41088000,2016-09-30
+Net sales,39179000,2016-12-31
+Cost of sales,362722000,2014-12-31
+Cost of sales,249233000,2015-12-31
+Cost of sales,159481000,2016-12-31
+Gross profit (loss),40576000,2014-12-31
+Gross profit (loss),3891000,2015-03-31
+Gross profit (loss),-12625000,2015-12-31
+Gross profit (loss),-2593000,2015-06-30
+Gross profit (loss),-2511000,2015-09-30
+Gross profit (loss),-11412000,2015-12-31
+Gross profit (loss),-5437000,2016-03-31
+Gross profit (loss),-3225000,2016-12-31
+Gross profit (loss),-2162000,2016-06-30
+Gross profit (loss),2123000,2016-09-30
+Gross profit (loss),2251000,2016-12-31
+"Selling, general and administrative expense",24316000,2014-12-31
+"Selling, general and administrative expense",22303000,2015-12-31
+"Selling, general and administrative expense",17178000,2016-12-31
+Impairment of goodwill,16066000,2014-12-31
+Impairment of goodwill,5282000,2015-12-31
+Impairment of goodwill,,2016-12-31
+Restructuring expense,,2014-12-31
+Restructuring expense,,2015-12-31
+Restructuring expense,600000,2015-04-30
+Restructuring expense,990000,2016-12-31
+Operating Income (loss),194000,2014-12-31
+Operating Income (loss),-3083000,2015-03-31
+Operating Income (loss),-40210000,2015-12-31
+Operating Income (loss),-13327000,2015-06-30
+Operating Income (loss),-7284000,2015-09-30
+Operating Income (loss),-16516000,2015-12-31
+Operating Income (loss),-10036000,2016-03-31
+Operating Income (loss),-13533000,2016-12-31
+Operating Income (loss),-6253000,2016-06-30
+Operating Income (loss),-2063000,2016-09-30
+Operating Income (loss),4819000,2016-12-31
+Other income,108000,2014-12-31
+Other income,88000,2015-12-31
+Other income,23000,2016-12-31
+Interest income,466000,2014-12-31
+Interest income,173000,2015-12-31
+Interest income,14000,2016-12-31
+us-gaap_InterestExpense,2290000,2014-12-31
+us-gaap_InterestExpense,1390000,2015-12-31
+us-gaap_InterestExpense,523000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-1522000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-41339000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-14019000,2016-12-31
+Income tax expense (benefit),4651000,2014-12-31
+Income tax expense (benefit),-11951000,2015-12-31
+Income tax expense (benefit),-4756000,2016-12-31
+Loss from continuing operations,-6173000,2014-12-31
+Loss from continuing operations,-29388000,2015-12-31
+Loss from continuing operations,-9263000,2016-12-31
+Loss from operations of discontinued business,-2151000,2014-12-31
+Loss from operations of discontinued business,,2015-12-31
+Loss from operations of discontinued business,,2016-12-31
+Loss on sale of business,-13497000,2014-12-31
+Loss on sale of business,,2015-12-31
+Loss on sale of business,,2016-12-31
+Income tax benefit,-3934000,2014-12-31
+Income tax benefit,,2015-12-31
+Income tax benefit,,2016-12-31
+Loss from discontinued operations,-11714000,2014-12-31
+Loss from discontinued operations,,2015-12-31
+Loss from discontinued operations,,2016-12-31
+Net loss,-17887000,2014-12-31
+Net loss,-2101000,2015-03-31
+Net loss,-29388000,2015-12-31
+Net loss,-12079000,2015-06-30
+Net loss,-1515000,2015-09-30
+Net loss,-13693000,2015-12-31
+Net loss,-9583000,2016-03-31
+Net loss,-9263000,2016-12-31
+Net loss,-6242000,2016-06-30
+Net loss,727000,2016-09-30
+Net loss,5834000,2016-12-31
+Continuing operations (in dollars per share),-0.65,2014-12-31
+Continuing operations (in dollars per share),-3.07,2015-12-31
+Continuing operations (in dollars per share),-0.97,2016-12-31
+Discontinued operations (in dollars per share),-1.23,2014-12-31
+Discontinued operations (in dollars per share),,2015-12-31
+Discontinued operations (in dollars per share),,2016-12-31
+Net loss per share (in dollars per share),-1.88,2014-12-31
+Net loss per share (in dollars per share),-0.22,2015-03-31
+Net loss per share (in dollars per share),-3.07,2015-12-31
+Net loss per share (in dollars per share),-1.26,2015-06-30
+Net loss per share (in dollars per share),-0.16,2015-09-30
+Net loss per share (in dollars per share),-1.43,2015-12-31
+Net loss per share (in dollars per share),-0.97,2016-12-31
+Basic and diluted (in shares),9515000,2014-12-31
+Basic and diluted (in shares),9560000,2015-12-31
+Basic and diluted (in shares),9588000,2016-12-31

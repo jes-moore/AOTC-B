@@ -1,0 +1,85 @@
+Metric,Amount,endDate
+Asset Management Fees,768102000,2014-12-31
+Asset Management Fees,709562000,2015-12-31
+Asset Management Fees,557112000,2016-12-31
+Fees and Commissions,678678000,2014-12-31
+Fees and Commissions,663998000,2015-12-31
+Fees and Commissions,561670000,2016-12-31
+Shareholder Service Fees,150979000,2014-12-31
+Shareholder Service Fees,143071000,2015-12-31
+Shareholder Service Fees,120241000,2016-12-31
+Revenues,361074000,2015-12-31
+Revenues,292913000,2016-12-31
+Revenues,1597759000,2014-12-31
+Revenues,1516631000,2015-12-31
+Revenues,385458000,2015-03-31
+Revenues,1239023000,2016-12-31
+Revenues,323816000,2016-03-31
+Revenues,393990000,2015-06-30
+Revenues,319208000,2016-06-30
+Revenues,376109000,2015-09-30
+Revenues,303086000,2016-09-30
+Expense Related to Distribution or Servicing and Underwriting Fees,783327000,2014-12-31
+Expense Related to Distribution or Servicing and Underwriting Fees,769781000,2015-12-31
+Expense Related to Distribution or Servicing and Underwriting Fees,671105000,2016-12-31
+Labor and Related Expense,194410000,2014-12-31
+Labor and Related Expense,200752000,2015-12-31
+Labor and Related Expense,209849000,2016-12-31
+General and Administrative Expense,104637000,2014-12-31
+General and Administrative Expense,105066000,2015-12-31
+General and Administrative Expense,83996000,2016-12-31
+Subadvisory Fees for Mutual Funds,8436000,2014-12-31
+Subadvisory Fees for Mutual Funds,9134000,2015-12-31
+Subadvisory Fees for Mutual Funds,9572000,2016-12-31
+"Depreciation, Nonproduction",14634000,2014-12-31
+"Depreciation, Nonproduction",16046000,2015-12-31
+"Depreciation, Nonproduction",18359000,2016-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",7900000,2014-12-31
+"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",9749000,2016-12-31
+Operating Expenses,1113344000,2014-12-31
+Operating Expenses,1100779000,2015-12-31
+Operating Expenses,1002630000,2016-12-31
+Operating Income (Loss),484415000,2014-12-31
+Operating Income (Loss),415852000,2015-12-31
+Operating Income (Loss),236393000,2016-12-31
+Nonoperating Income (Expense),16790000,2014-12-31
+Nonoperating Income (Expense),-5244000,2015-12-31
+Nonoperating Income (Expense),-763000,2016-12-31
+Interest Expense,11042000,2014-12-31
+Interest Expense,11068000,2015-12-31
+Interest Expense,11122000,2016-12-31
+Income before provision for income taxes,490163000,2014-12-31
+Income before provision for income taxes,399540000,2015-12-31
+Income before provision for income taxes,224508000,2016-12-31
+Income Tax Expense (Benefit),176832000,2014-12-31
+Income Tax Expense (Benefit),154004000,2015-12-31
+Income Tax Expense (Benefit),76187000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",313331000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",245536000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",148321000,2016-12-31
+Net Income (Loss) Attributable to Redeemable Noncontrolling Interest,1414000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",62920000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",22417000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",313331000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",245536000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",67113000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",146907000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",36968000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",67445000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",33695000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",48058000,2015-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",53827000,2016-09-30
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.76,2015-12-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.27,2016-12-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",3.71,2014-12-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",2.94,2015-12-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.80,2015-03-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",1.78,2016-12-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.45,2016-03-31
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.80,2015-06-30
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.41,2016-06-30
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.58,2015-09-30
+"Net income per share attributable to Waddell and Reed Financial, Inc. common shareholders, basic and diluted (in dollars per share)",0.65,2016-09-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",84485000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",83499000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",82668000,2016-12-31

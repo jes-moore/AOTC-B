@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+Cash and due from banks,42829000,2015-12-31
+Cash and due from banks,50200000,2016-12-31
+Interest-earning deposits,46463000,2015-12-31
+Interest-earning deposits,133396000,2016-12-31
+Federal funds sold,599000,2015-12-31
+Federal funds sold,0,2016-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,146965000,2013-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,172738000,2014-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,89891000,2015-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,183596000,2016-12-31
+Securities available for sale,346992000,2015-12-31
+Securities available for sale,328060000,2016-12-31
+Federal Home Loan Bank stock,7567000,2015-12-31
+Federal Home Loan Bank stock,8026000,2016-12-31
+Loans,2277727000,2015-12-31
+Loans,2378620000,2016-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,15681000,2015-12-31
+us-gaap_LoansAndLeasesReceivableAllowance,17961000,2016-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmount,2262046000,2015-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmount,2360659000,2016-12-31
+"Premises and equipment, net",46862000,2015-12-31
+"Premises and equipment, net",45456000,2016-12-31
+Bank owned life insurance,58971000,2015-12-31
+Bank owned life insurance,67198000,2016-12-31
+Goodwill,49473000,2015-12-31
+Goodwill,49473000,2016-12-31
+Core deposit intangible,12631000,2015-12-31
+Core deposit intangible,9957000,2016-12-31
+Other assets,29123000,2015-12-31
+Other assets,30146000,2016-12-31
+Total assets,2903556000,2015-12-31
+Total assets,3082571000,2016-12-31
+Noninterest-bearing,674568000,2015-12-31
+Noninterest-bearing,810600000,2016-12-31
+Interest-bearing,1600814000,2015-12-31
+Interest-bearing,1564385000,2016-12-31
+us-gaap_Deposits,2275382000,2015-12-31
+us-gaap_Deposits,2374985000,2016-12-31
+Securities sold under agreements to repurchase,154771000,2015-12-31
+Securities sold under agreements to repurchase,131710000,2016-12-31
+Federal Home Loan Bank advances,68000000,2015-12-31
+Federal Home Loan Bank advances,175000000,2016-12-31
+Subordinated debentures,32000000,2012-02-29
+Subordinated debentures,55154000,2015-12-31
+Subordinated debentures,44835000,2016-12-31
+Accrued interest and other liabilities,16445000,2015-12-31
+Accrued interest and other liabilities,15230000,2016-12-31
+Liabilities,2569752000,2015-12-31
+Liabilities,2741760000,2016-12-31
+"Preferred stock, no par value; 1,000,000 shares authorized; 0 shares outstanding at December 31, 2016 and December 31, 2015",0,2015-12-31
+"Preferred stock, no par value; 1,000,000 shares authorized; 0 shares outstanding at December 31, 2016 and December 31, 2015",0,2016-12-31
+"Common stock, no par value; 40,000,000 shares authorized; 16,416,695 shares outstanding at December 31, 2016 and 16,358,711 shares outstanding at December 31, 2015",304819000,2015-12-31
+"Common stock, no par value; 40,000,000 shares authorized; 16,416,695 shares outstanding at December 31, 2016 and 16,358,711 shares outstanding at December 31, 2015",305488000,2016-12-31
+Retained earnings,27722000,2015-12-31
+Retained earnings,40904000,2016-12-31
+Accumulated other comprehensive income (loss),1263000,2015-12-31
+Accumulated other comprehensive income (loss),-5581000,2016-12-31
+Shareholders’ equity,153325000,2013-12-31
+Shareholders’ equity,328138000,2014-12-31
+Shareholders’ equity,333804000,2015-12-31
+Shareholders’ equity,340811000,2016-12-31
+Total liabilities and shareholders’ equity,2903556000,2015-12-31
+Total liabilities and shareholders’ equity,3082571000,2016-12-31

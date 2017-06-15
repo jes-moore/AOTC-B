@@ -1,0 +1,131 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,846912000,2014-12-31
+Net Income (Loss) Attributable to Parent,244737000,2015-04-05
+Net Income (Loss) Attributable to Parent,-99941000,2015-07-05
+Net Income (Loss) Attributable to Parent,140266000,2015-10-04
+Net Income (Loss) Attributable to Parent,227889000,2015-12-31
+Net Income (Loss) Attributable to Parent,512951000,2015-12-31
+Net Income (Loss) Attributable to Parent,229832000,2016-04-03
+Net Income (Loss) Attributable to Parent,145956000,2016-07-03
+Net Income (Loss) Attributable to Parent,227403000,2016-10-02
+Net Income (Loss) Attributable to Parent,116853000,2016-12-31
+Net Income (Loss) Attributable to Parent,720044000,2016-12-31
+"Depreciation, Depletion and Amortization",211532000,2014-12-31
+"Depreciation, Depletion and Amortization",244928000,2015-12-31
+"Depreciation, Depletion and Amortization",301837000,2016-12-31
+Share-based Compensation,54068000,2014-12-31
+Share-based Compensation,51533000,2015-12-31
+Share-based Compensation,54785000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",53497000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",24839000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",22062000,2016-12-31
+Deferred Income Taxes and Tax Credits,18796000,2014-12-31
+Deferred Income Taxes and Tax Credits,-38537000,2015-12-31
+Deferred Income Taxes and Tax Credits,-38097000,2016-12-31
+Restructuring Costs and Asset Impairment Charges,15900000,2014-12-31
+Restructuring Costs and Asset Impairment Charges,280802000,2015-12-31
+Restructuring Costs and Asset Impairment Charges,4204000,2016-12-31
+Gain (Loss) on Extinguishment of Debt,0,2014-12-31
+Gain (Loss) on Extinguishment of Debt,-28326000,2015-12-31
+Gain (Loss) on Extinguishment of Debt,0,2016-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net",0,2014-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net",39489000,2015-12-31
+"Other than Temporary Impairment Losses, Investments, Portion Recognized in Earnings, Net",43482000,2016-12-31
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",0,2014-12-31
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",0,2015-12-31
+"Business Combination, Bargain Purchase, Gain Recognized, Amount",26650000,2016-12-31
+"Other Operating Activities, Cash Flow Statement",-11027000,2014-12-31
+"Other Operating Activities, Cash Flow Statement",28467000,2015-12-31
+"Other Operating Activities, Cash Flow Statement",51375000,2016-12-31
+Increase (Decrease) in Accounts Receivable,67464000,2014-12-31
+Increase (Decrease) in Accounts Receivable,24440000,2015-12-31
+Increase (Decrease) in Accounts Receivable,-21096000,2016-12-31
+Increase (Decrease) in Inventories,88497000,2014-12-31
+Increase (Decrease) in Inventories,-52049000,2015-12-31
+Increase (Decrease) in Inventories,-13965000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,7245000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-118007000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,42955000,2016-12-31
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,-59102000,2014-12-31
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,29406000,2015-12-31
+Increase (Decrease) in Accounts Payable and Accrued Liabilities,-72295000,2016-12-31
+Pension and Other Postretirement Benefit Contributions,53110000,2014-12-31
+Pension and Other Postretirement Benefit Contributions,53273000,2015-12-31
+Pension and Other Postretirement Benefit Contributions,41697000,2016-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-37111000,2014-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",30413000,2015-12-31
+"Increase (Decrease) in Other Operating Assets and Liabilities, Net",-16443000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,844377000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,1214456000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,983475000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",370789000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",356810000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",269476000,2016-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",1612000,2014-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",1205000,2015-12-31
+"Proceeds from Sale of Property, Plant, and Equipment",3651000,2016-12-31
+Proceeds from Divestiture of Businesses,0,2014-12-31
+Proceeds from Divestiture of Businesses,32408000,2015-12-31
+Proceeds from Divestiture of Businesses,0,2016-12-31
+Payments to Acquire Equity Method Investments,0,2014-12-31
+Payments to Acquire Equity Method Investments,30720000,2015-12-31
+Payments to Acquire Equity Method Investments,44255000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",396265000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",218654000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",285374000,2016-12-31
+Payments for (Proceeds from) Short-term Investments,97131000,2014-12-31
+Payments for (Proceeds from) Short-term Investments,-95316000,2015-12-31
+Payments for (Proceeds from) Short-term Investments,0,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-862573000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,-477255000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-595454000,2016-12-31
+Proceeds from (Repayments of) Short-term Debt,117515000,2014-12-31
+Proceeds from (Repayments of) Short-term Debt,10720000,2015-12-31
+Proceeds from (Repayments of) Short-term Debt,275607000,2016-12-31
+Proceeds from Issuance of Long-term Debt,3051000,2014-12-31
+Proceeds from Issuance of Long-term Debt,599031000,2015-12-31
+Proceeds from Issuance of Long-term Debt,792953000,2016-12-31
+Repayments of Long-term Debt,1442000,2014-12-31
+Repayments of Long-term Debt,355446000,2015-12-31
+Repayments of Long-term Debt,500000000,2016-12-31
+"Payments to Acquire Businesses, Gross",0,2014-12-31
+"Payments to Acquire Businesses, Gross",0,2015-12-31
+"Payments to Acquire Businesses, Gross",35762000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",440414000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",476132000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",499475000,2016-12-31
+Payments for Repurchase of Common Stock,576755000,2014-12-31
+Payments for Repurchase of Common Stock,582623000,2015-12-31
+Payments for Repurchase of Common Stock,592550000,2016-12-31
+Proceeds from Stock Options Exercised,122306000,2014-12-31
+Proceeds from Stock Options Exercised,72719000,2015-12-31
+Proceeds from Stock Options Exercised,102722000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",53497000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",24839000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",22062000,2016-12-31
+Proceeds from (Payments for) Other Financing Activities,2940000,2014-12-31
+Proceeds from (Payments for) Other Financing Activities,-48270000,2015-12-31
+Proceeds from (Payments for) Other Financing Activities,0,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-719302000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,-755162000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,-434443000,2016-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-6156000,2014-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-10364000,2015-12-31
+Effect of Exchange Rate on Cash and Cash Equivalents,-3140000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-743654000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-28325000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-49562000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",1118508000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",374854000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",346529000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",296967000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",1118508000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",374854000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",346529000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",296967000,2016-12-31
+"Interest Paid, Net",87801000,2014-12-31
+"Interest Paid, Net",88448000,2015-12-31
+"Interest Paid, Net",90951000,2016-12-31
+"Income Taxes Paid, Net",384318000,2014-12-31
+"Income Taxes Paid, Net",368926000,2015-12-31
+"Income Taxes Paid, Net",425539000,2016-12-31

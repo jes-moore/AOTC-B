@@ -1,0 +1,102 @@
+Metric,Amount,endDate
+Net sales,162086000,2015-03-01
+Net sales,37829000,2015-05-31
+Net sales,145855000,2016-02-28
+Net sales,37947000,2015-08-30
+Net sales,34323000,2015-11-29
+Net sales,35756000,2016-02-28
+Net sales,31490000,2016-05-29
+Net sales,114609000,2017-02-26
+Net sales,29058000,2016-08-28
+Net sales,26462000,2016-11-27
+Net sales,27599000,2017-02-26
+Cost of sales,113133000,2015-03-01
+Cost of sales,103103000,2016-02-28
+Cost of sales,84568000,2017-02-26
+us-gaap_GrossProfit,48953000,2015-03-01
+us-gaap_GrossProfit,11367000,2015-05-31
+us-gaap_GrossProfit,42752000,2016-02-28
+us-gaap_GrossProfit,10361000,2015-08-30
+us-gaap_GrossProfit,10297000,2015-11-29
+us-gaap_GrossProfit,10727000,2016-02-28
+us-gaap_GrossProfit,8787000,2016-05-29
+us-gaap_GrossProfit,30041000,2017-02-26
+us-gaap_GrossProfit,7234000,2016-08-28
+us-gaap_GrossProfit,6634000,2016-11-27
+us-gaap_GrossProfit,7386000,2017-02-26
+"Selling, general and administrative expenses",24373000,2015-03-01
+"Selling, general and administrative expenses",21211000,2016-02-28
+"Selling, general and administrative expenses",19739000,2017-02-26
+Restructuring charges (Note 8),1179000,2015-03-01
+Restructuring charges (Note 8),535000,2016-02-28
+Restructuring charges (Note 8),313000,2017-02-26
+us-gaap_OperatingIncomeLoss,23401000,2015-03-01
+us-gaap_OperatingIncomeLoss,21006000,2016-02-28
+us-gaap_OperatingIncomeLoss,9989000,2017-02-26
+Interest expense (Note 10),1438000,2015-03-01
+Interest expense (Note 10),1657000,2016-02-28
+Interest expense (Note 10),1432000,2017-02-26
+Interest and other income,827000,2015-03-01
+Interest and other income,1149000,2016-02-28
+Interest and other income,1704000,2017-02-26
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,22790000,2015-03-01
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,20498000,2016-02-28
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,10261000,2017-02-26
+Income tax provision (Note 4),2747000,2015-03-01
+Income tax provision (Note 4),2469000,2016-02-28
+Income tax provision (Note 4),978000,2017-02-26
+Net earnings,20043000,2015-03-01
+Net earnings,4777000,2015-05-31
+Net earnings,18029000,2016-02-28
+Net earnings,4569000,2015-08-30
+Net earnings,4109000,2015-11-29
+Net earnings,4574000,2016-02-28
+Net earnings,2950000,2016-05-29
+Net earnings,9283000,2017-02-26
+Net earnings,1981000,2016-08-28
+Net earnings,1875000,2016-11-27
+Net earnings,2477000,2017-02-26
+Basic earnings per share (in dollars per share),0.96,2015-03-01
+Basic earnings per share (in dollars per share),0.23,2015-05-31
+Basic earnings per share (in dollars per share),0.89,2016-02-28
+Basic earnings per share (in dollars per share),0.23,2015-08-30
+Basic earnings per share (in dollars per share),0.20,2015-11-29
+Basic earnings per share (in dollars per share),0.23,2016-02-28
+Basic earnings per share (in dollars per share),0.15,2016-05-29
+Basic earnings per share (in dollars per share),0.46,2017-02-26
+Basic earnings per share (in dollars per share),0.10,2016-08-28
+Basic earnings per share (in dollars per share),0.09,2016-11-27
+Basic earnings per share (in dollars per share),0.12,2017-02-26
+Weighted average common shares outstanding for basic EPS (in shares),20912000,2015-03-01
+Weighted average common shares outstanding for basic EPS (in shares),20546000,2015-05-31
+Weighted average common shares outstanding for basic EPS (in shares),20347000,2016-02-28
+Weighted average common shares outstanding for basic EPS (in shares),20337000,2015-08-30
+Weighted average common shares outstanding for basic EPS (in shares),20253000,2015-11-29
+Weighted average common shares outstanding for basic EPS (in shares),20251000,2016-02-28
+Weighted average common shares outstanding for basic EPS (in shares),20235000,2016-05-29
+Weighted average common shares outstanding for basic EPS (in shares),20235000,2017-02-26
+Weighted average common shares outstanding for basic EPS (in shares),20235000,2016-08-28
+Weighted average common shares outstanding for basic EPS (in shares),20235000,2016-11-27
+Weighted average common shares outstanding for basic EPS (in shares),20235000,2017-02-26
+Diluted earnings per share (in dollars per share),0.96,2015-03-01
+Diluted earnings per share (in dollars per share),0.23,2015-05-31
+Diluted earnings per share (in dollars per share),0.89,2016-02-28
+Diluted earnings per share (in dollars per share),0.23,2015-08-30
+Diluted earnings per share (in dollars per share),0.20,2015-11-29
+Diluted earnings per share (in dollars per share),0.23,2016-02-28
+Diluted earnings per share (in dollars per share),0.15,2016-05-29
+Diluted earnings per share (in dollars per share),0.46,2017-02-26
+Diluted earnings per share (in dollars per share),0.10,2016-08-28
+Diluted earnings per share (in dollars per share),0.09,2016-11-27
+Diluted earnings per share (in dollars per share),0.12,2017-02-26
+Diluted weighted average shares (in shares),20986000,2015-03-01
+Diluted weighted average shares (in shares),20565000,2015-05-31
+Diluted weighted average shares (in shares),20352000,2016-02-28
+Diluted weighted average shares (in shares),20340000,2015-08-30
+Diluted weighted average shares (in shares),20253000,2015-11-29
+Diluted weighted average shares (in shares),20251000,2016-02-28
+Diluted weighted average shares (in shares),20235000,2016-05-29
+Diluted weighted average shares (in shares),20239000,2017-02-26
+Diluted weighted average shares (in shares),20235000,2016-08-28
+Diluted weighted average shares (in shares),20235000,2016-11-27
+Diluted weighted average shares (in shares),20253000,2017-02-26

@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+Cost of Goods Sold,212979000,2014-12-30
+Cost of Goods Sold,226942000,2015-12-29
+Cost of Goods Sold,251460000,2017-01-03
+Labor and Related Expense,298703000,2014-12-30
+Labor and Related Expense,317050000,2015-12-29
+Labor and Related Expense,345370000,2017-01-03
+Occupancy And Operating Costs,182149000,2014-12-30
+Occupancy And Operating Costs,192739000,2015-12-29
+Occupancy And Operating Costs,204583000,2017-01-03
+General and Administrative Expense,51558000,2014-12-30
+General and Administrative Expense,53827000,2015-12-29
+General and Administrative Expense,55373000,2017-01-03
+"Depreciation, Depletion and Amortization",55387000,2014-12-30
+"Depreciation, Depletion and Amortization",59417000,2015-12-29
+"Depreciation, Depletion and Amortization",64275000,2017-01-03
+Pre-Opening Costs,4973000,2014-12-30
+Pre-Opening Costs,6562000,2015-12-29
+Pre-Opening Costs,6977000,2017-01-03
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-1963000,2014-12-30
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-2908000,2015-12-29
+Gain (Loss) on Sale of Assets and Asset Impairment Charges,-2971000,2017-01-03
+Gain (Loss) on Contract Termination,2910000,2015-12-29
+Legal And Other Expenses,2431000,2014-12-30
+Legal And Other Expenses,402000,2017-01-03
+Costs and Expenses,810143000,2014-12-30
+Costs and Expenses,856535000,2015-12-29
+Costs and Expenses,931411000,2017-01-03
+"Earnings Per Share, Basic",0.99,2014-12-30
+"Earnings Per Share, Basic",1.76,2015-12-29
+"Earnings Per Share, Basic",1.91,2017-01-03
+"Earnings Per Share, Basic",0.37,2015-03-31
+"Earnings Per Share, Basic",0.48,2015-06-30
+"Earnings Per Share, Basic",0.48,2015-09-29
+"Earnings Per Share, Basic",0.43,2015-12-29
+"Earnings Per Share, Basic",0.48,2016-03-29
+"Earnings Per Share, Basic",0.57,2016-06-28
+"Earnings Per Share, Basic",0.30,2016-09-27
+"Earnings Per Share, Basic",0.56,2017-01-03
+"Earnings Per Share, Diluted",0.97,2014-12-30
+"Earnings Per Share, Diluted",1.73,2015-12-29
+"Earnings Per Share, Diluted",1.88,2017-01-03
+"Earnings Per Share, Diluted",0.36,2015-03-31
+"Earnings Per Share, Diluted",0.47,2015-06-30
+"Earnings Per Share, Diluted",0.48,2015-09-29
+"Earnings Per Share, Diluted",0.43,2015-12-29
+"Earnings Per Share, Diluted",0.47,2016-03-29
+"Earnings Per Share, Diluted",0.56,2016-06-28
+"Earnings Per Share, Diluted",0.30,2016-09-27
+"Earnings Per Share, Diluted",0.55,2017-01-03
+"Sales Revenue, Goods, Net",845569000,2014-12-30
+"Sales Revenue, Goods, Net",919597000,2015-12-29
+"Sales Revenue, Goods, Net",993052000,2017-01-03
+"Sales Revenue, Goods, Net",225069000,2015-03-31
+"Sales Revenue, Goods, Net",232013000,2015-06-30
+"Sales Revenue, Goods, Net",229412000,2015-09-29
+"Sales Revenue, Goods, Net",233103000,2015-12-29
+"Sales Revenue, Goods, Net",243401000,2016-03-29
+"Sales Revenue, Goods, Net",250328000,2016-06-28
+"Sales Revenue, Goods, Net",233702000,2016-09-27
+"Sales Revenue, Goods, Net",265621000,2017-01-03
+Operating Income (Loss),35426000,2014-12-30
+Operating Income (Loss),63062000,2015-12-29
+Operating Income (Loss),61641000,2017-01-03
+Operating Income (Loss),13092000,2015-03-31
+Operating Income (Loss),17581000,2015-06-30
+Operating Income (Loss),16511000,2015-09-29
+Operating Income (Loss),15878000,2015-12-29
+Operating Income (Loss),16393000,2016-03-29
+Operating Income (Loss),19561000,2016-06-28
+Operating Income (Loss),9071000,2016-09-27
+Operating Income (Loss),16616000,2017-01-03
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",36323000,2014-12-30
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",62107000,2015-12-29
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",61091000,2017-01-03
+Income Tax Expense (Benefit),8926000,2014-12-30
+Income Tax Expense (Benefit),16782000,2015-12-29
+Income Tax Expense (Benefit),15534000,2017-01-03
+Net Income (Loss) Attributable to Parent,27397000,2014-12-30
+Net Income (Loss) Attributable to Parent,45325000,2015-12-29
+Net Income (Loss) Attributable to Parent,45557000,2017-01-03
+Net Income (Loss) Attributable to Parent,9615000,2015-03-31
+Net Income (Loss) Attributable to Parent,12438000,2015-06-30
+Net Income (Loss) Attributable to Parent,12364000,2015-09-29
+Net Income (Loss) Attributable to Parent,10908000,2015-12-29
+Net Income (Loss) Attributable to Parent,11644000,2016-03-29
+Net Income (Loss) Attributable to Parent,13789000,2016-06-28
+Net Income (Loss) Attributable to Parent,7237000,2016-09-27
+Net Income (Loss) Attributable to Parent,12887000,2017-01-03
+"Interest Income (Expense), Net",-238000,2014-12-30
+"Interest Income (Expense), Net",-1015000,2015-12-29
+"Interest Income (Expense), Net",-1730000,2017-01-03
+Other Nonoperating Income (Expense),1135000,2014-12-30
+Other Nonoperating Income (Expense),60000,2015-12-29
+Other Nonoperating Income (Expense),1180000,2017-01-03
+Nonoperating Income (Expense),897000,2014-12-30
+Nonoperating Income (Expense),-955000,2015-12-29
+Nonoperating Income (Expense),-550000,2017-01-03
+"Weighted Average Number of Shares Outstanding, Basic",27710000,2014-12-30
+"Weighted Average Number of Shares Outstanding, Basic",25718000,2015-12-29
+"Weighted Average Number of Shares Outstanding, Basic",23824000,2017-01-03
+"Weighted Average Number of Shares Outstanding, Diluted",28316000,2014-12-30
+"Weighted Average Number of Shares Outstanding, Diluted",26231000,2015-12-29
+"Weighted Average Number of Shares Outstanding, Diluted",24233000,2017-01-03

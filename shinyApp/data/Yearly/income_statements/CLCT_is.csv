@@ -1,0 +1,198 @@
+Metric,Amount,endDate
+"Grading, authentication and related services revenues",60571000,2014-06-30
+"Grading, authentication and related services revenues",16178000,2014-09-30
+"Grading, authentication and related services revenues",61684000,2015-06-30
+"Grading, authentication and related services revenues",14148000,2014-12-31
+"Grading, authentication and related services revenues",15987000,2015-03-31
+"Grading, authentication and related services revenues",15371000,2015-06-30
+"Grading, authentication and related services revenues",14618000,2015-09-30
+"Grading, authentication and related services revenues",60954000,2016-06-30
+"Grading, authentication and related services revenues",12636000,2015-12-31
+"Grading, authentication and related services revenues",17329000,2016-03-31
+"Grading, authentication and related services revenues",16371000,2016-06-30
+"Cost of grading, authentication and related services",22663000,2014-06-30
+"Cost of grading, authentication and related services",5796000,2014-09-30
+"Cost of grading, authentication and related services",23053000,2015-06-30
+"Cost of grading, authentication and related services",5067000,2014-12-31
+"Cost of grading, authentication and related services",5875000,2015-03-31
+"Cost of grading, authentication and related services",6315000,2015-06-30
+"Cost of grading, authentication and related services",5147000,2015-09-30
+"Cost of grading, authentication and related services",22902000,2016-06-30
+"Cost of grading, authentication and related services",5010000,2015-12-31
+"Cost of grading, authentication and related services",6288000,2016-03-31
+"Cost of grading, authentication and related services",6457000,2016-06-30
+us-gaap_GrossProfit,37908000,2014-06-30
+us-gaap_GrossProfit,10382000,2014-09-30
+us-gaap_GrossProfit,38631000,2015-06-30
+us-gaap_GrossProfit,9081000,2014-12-31
+us-gaap_GrossProfit,10112000,2015-03-31
+us-gaap_GrossProfit,9056000,2015-06-30
+us-gaap_GrossProfit,9471000,2015-09-30
+us-gaap_GrossProfit,38052000,2016-06-30
+us-gaap_GrossProfit,7626000,2015-12-31
+us-gaap_GrossProfit,11041000,2016-03-31
+us-gaap_GrossProfit,9914000,2016-06-30
+us-gaap_SellingAndMarketingExpense,9106000,2014-06-30
+us-gaap_SellingAndMarketingExpense,8896000,2015-06-30
+us-gaap_SellingAndMarketingExpense,8635000,2016-06-30
+us-gaap_GeneralAndAdministrativeExpense,16326000,2014-06-30
+us-gaap_GeneralAndAdministrativeExpense,17627000,2015-06-30
+us-gaap_GeneralAndAdministrativeExpense,17047000,2016-06-30
+us-gaap_OperatingExpenses,25432000,2014-06-30
+us-gaap_OperatingExpenses,26523000,2015-06-30
+us-gaap_OperatingExpenses,25682000,2016-06-30
+us-gaap_OperatingIncomeLoss,12476000,2014-06-30
+us-gaap_OperatingIncomeLoss,3025000,2014-09-30
+us-gaap_OperatingIncomeLoss,12108000,2015-06-30
+us-gaap_OperatingIncomeLoss,2646000,2014-12-31
+us-gaap_OperatingIncomeLoss,3672000,2015-03-31
+us-gaap_OperatingIncomeLoss,2765000,2015-06-30
+us-gaap_OperatingIncomeLoss,3195000,2015-09-30
+us-gaap_OperatingIncomeLoss,12370000,2016-06-30
+us-gaap_OperatingIncomeLoss,1689000,2015-12-31
+us-gaap_OperatingIncomeLoss,4405000,2016-03-31
+us-gaap_OperatingIncomeLoss,3081000,2016-06-30
+"Interest income, net",36000,2014-06-30
+"Interest income, net",38000,2015-06-30
+"Interest income, net",22000,2016-06-30
+"Other income (expense), net",3000,2014-06-30
+"Other income (expense), net",-80000,2015-06-30
+"Other income (expense), net",-73000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,12515000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,12066000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,12319000,2016-06-30
+us-gaap_IncomeTaxExpenseBenefit,5081000,2014-06-30
+us-gaap_IncomeTaxExpenseBenefit,1249000,2014-09-30
+us-gaap_IncomeTaxExpenseBenefit,4682000,2015-06-30
+us-gaap_IncomeTaxExpenseBenefit,971000,2014-12-31
+us-gaap_IncomeTaxExpenseBenefit,1450000,2015-03-31
+us-gaap_IncomeTaxExpenseBenefit,1012000,2015-06-30
+us-gaap_IncomeTaxExpenseBenefit,1226000,2015-09-30
+us-gaap_IncomeTaxExpenseBenefit,4720000,2016-06-30
+us-gaap_IncomeTaxExpenseBenefit,679000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,1695000,2016-03-31
+us-gaap_IncomeTaxExpenseBenefit,1120000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperations,7434000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperations,1782000,2014-09-30
+us-gaap_IncomeLossFromContinuingOperations,7384000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperations,1668000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperations,2182000,2015-03-31
+us-gaap_IncomeLossFromContinuingOperations,1752000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperations,1943000,2015-09-30
+us-gaap_IncomeLossFromContinuingOperations,7599000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperations,995000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperations,2713000,2016-03-31
+us-gaap_IncomeLossFromContinuingOperations,1948000,2016-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-75000,2014-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,22000,2014-09-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,17000,2015-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-13000,2014-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-12000,2015-03-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,20000,2015-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-12000,2015-09-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,41000,2016-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-6000,2015-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,65000,2016-03-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-6000,2016-06-30
+Net income,7359000,2014-06-30
+Net income,1804000,2014-09-30
+Net income,7401000,2015-06-30
+Net income,1655000,2014-12-31
+Net income,2170000,2015-03-31
+Net income,1772000,2015-06-30
+Net income,1931000,2015-09-30
+Net income,7640000,2016-06-30
+Net income,989000,2015-12-31
+Net income,2778000,2016-03-31
+Net income,1942000,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.91,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.21,2014-09-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.88,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.20,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.26,2015-03-31
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.21,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.23,2015-09-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.90,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.12,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.32,2016-03-31
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.23,2016-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,-0.01,2014-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,0.01,2014-09-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,0.01,2015-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2014-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2015-03-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2015-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2015-09-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2016-06-30
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2015-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,0.01,2016-03-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2016-06-30
+us-gaap_EarningsPerShareBasic,0.90,2014-06-30
+us-gaap_EarningsPerShareBasic,0.22,2014-09-30
+us-gaap_EarningsPerShareBasic,0.89,2015-06-30
+us-gaap_EarningsPerShareBasic,0.20,2014-12-31
+us-gaap_EarningsPerShareBasic,0.26,2015-03-31
+us-gaap_EarningsPerShareBasic,0.21,2015-06-30
+us-gaap_EarningsPerShareBasic,0.23,2015-09-30
+us-gaap_EarningsPerShareBasic,0.90,2016-06-30
+us-gaap_EarningsPerShareBasic,0.12,2015-12-31
+us-gaap_EarningsPerShareBasic,0.33,2016-03-31
+us-gaap_EarningsPerShareBasic,0.23,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.90,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.21,2014-09-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.87,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.20,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.26,2015-03-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.21,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.23,2015-09-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.89,2016-06-30
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.12,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.32,2016-03-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.23,2016-06-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",-0.01,2014-06-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2014-09-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2015-06-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",-0.01,2014-12-31
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",-0.01,2015-03-31
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2015-06-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2015-09-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2016-06-30
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2015-12-31
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2016-03-31
+"Income (loss) from discontinued operations, (net of income taxes) (in dollars per share)",,2016-06-30
+us-gaap_EarningsPerShareDiluted,0.89,2014-06-30
+us-gaap_EarningsPerShareDiluted,0.21,2014-09-30
+us-gaap_EarningsPerShareDiluted,0.87,2015-06-30
+us-gaap_EarningsPerShareDiluted,0.19,2014-12-31
+us-gaap_EarningsPerShareDiluted,0.25,2015-03-31
+us-gaap_EarningsPerShareDiluted,0.21,2015-06-30
+us-gaap_EarningsPerShareDiluted,0.23,2015-09-30
+us-gaap_EarningsPerShareDiluted,0.89,2016-06-30
+us-gaap_EarningsPerShareDiluted,0.12,2015-12-31
+us-gaap_EarningsPerShareDiluted,0.32,2016-03-31
+us-gaap_EarningsPerShareDiluted,0.23,2016-06-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8167000,2014-06-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8326000,2014-09-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8345000,2015-06-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8339000,2014-12-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8353000,2015-03-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8361000,2015-06-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8434000,2015-09-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8445000,2016-06-30
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8441000,2015-12-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8447000,2016-03-31
+us-gaap_WeightedAverageNumberOfSharesOutstandingBasic,8459000,2016-06-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8247000,2014-06-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8502000,2014-09-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8518000,2015-06-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8519000,2014-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8531000,2015-03-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8519000,2015-06-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8534000,2015-09-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8545000,2016-06-30
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8549000,2015-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8549000,2016-03-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,8548000,2016-06-30
+us-gaap_CommonStockDividendsPerShareDeclared,1.30,2014-06-30
+us-gaap_CommonStockDividendsPerShareDeclared,1.35,2015-06-30
+us-gaap_CommonStockDividendsPerShareDeclared,1.40,2016-06-30

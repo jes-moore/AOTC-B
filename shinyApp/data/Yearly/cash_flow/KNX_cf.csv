@@ -1,0 +1,147 @@
+Metric,Amount,endDate
+Net income,70024000,2013-12-31
+Net income,104021000,2014-12-31
+Net income,118457000,2015-12-31
+us-gaap_DepreciationDepletionAndAmortization,86129000,2013-12-31
+us-gaap_DepreciationDepletionAndAmortization,92893000,2014-12-31
+us-gaap_DepreciationDepletionAndAmortization,111023000,2015-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,7550000,2013-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,16840000,2014-12-31
+us-gaap_GainLossOnSaleOfPropertyPlantEquipment,15346000,2015-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,467000,2013-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,,2014-12-31
+us-gaap_GainLossOnSaleOfOtherAssets,208000,2015-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,1925000,2013-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,3165000,2014-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,8591000,2015-12-31
+us-gaap_UnrealizedGainLossOnInvestments,669000,2013-12-31
+us-gaap_UnrealizedGainLossOnInvestments,6139000,2014-12-31
+us-gaap_UnrealizedGainLossOnInvestments,422000,2015-12-31
+Impairment of investment in Transportation Resource Partners,209000,2013-12-31
+Impairment of investment in Transportation Resource Partners,1041000,2014-12-31
+Impairment of investment in Transportation Resource Partners,177000,2015-12-31
+Compensation expense for issuance of common stock to certain members of board of directors,167000,2013-12-31
+Compensation expense for issuance of common stock to certain members of board of directors,200000,2014-12-31
+Compensation expense for issuance of common stock to certain members of board of directors,354000,2015-12-31
+Provision for allowance for doubtful accounts and notes receivable,1008000,2013-12-31
+Provision for allowance for doubtful accounts and notes receivable,1351000,2014-12-31
+Provision for allowance for doubtful accounts and notes receivable,1359000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,5338000,2013-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-17060000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-21532000,2015-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,,2013-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,5273000,2014-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,3175000,2015-12-31
+us-gaap_ShareBasedCompensation,2815000,2013-12-31
+us-gaap_ShareBasedCompensation,4503000,2014-12-31
+us-gaap_ShareBasedCompensation,7012000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,14828000,2013-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,17031000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,-10266000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,-1384000,2013-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,1872000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherCurrentAssets,870000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-2008000,2013-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,1647000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-103000,2015-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,,2013-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,19432000,2014-12-31
+us-gaap_IncreaseDecreaseInIncomeTaxesReceivable,22535000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,390000,2013-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,-442000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,1236000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,2424000,2013-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,4285000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-8543000,2015-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,3517000,2013-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,22790000,2014-12-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,-3592000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,138518000,2013-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,177187000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,205765000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,140612000,2013-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,260389000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,221660000,2015-12-31
+Proceeds from sale of equipment/assets held for sale,55244000,2013-12-31
+Proceeds from sale of equipment/assets held for sale,81555000,2014-12-31
+Proceeds from sale of equipment/assets held for sale,72246000,2015-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,10035000,2013-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,,2014-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,,2015-12-31
+Cash proceeds from sale of available-for-sale securities,8782000,2013-12-31
+Cash proceeds from sale of available-for-sale securities,6355000,2014-12-31
+Cash proceeds from sale of available-for-sale securities,12528000,2015-12-31
+Cash receipt from notes receivable,2383000,2013-12-31
+Cash receipt from notes receivable,2309000,2014-12-31
+Cash receipt from notes receivable,1779000,2015-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,646000,2013-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,,2014-12-31
+us-gaap_PaymentsToAcquireNotesReceivable,,2015-12-31
+Cash proceeds from related party notes receivable,1570000,2013-12-31
+Cash proceeds from related party notes receivable,748000,2014-12-31
+Cash proceeds from related party notes receivable,,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesGross,,2013-12-31
+us-gaap_PaymentsToAcquireBusinessesGross,110517000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesGross,3500000,2015-12-31
+us-gaap_PaymentsToAcquireOtherInvestments,3201000,2013-12-31
+us-gaap_PaymentsToAcquireOtherInvestments,129000,2014-12-31
+us-gaap_PaymentsToAcquireOtherInvestments,70000,2015-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-467000,2013-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-12814000,2014-12-31
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-360000,2015-12-31
+us-gaap_IncreaseDecreaseInRestrictedCashAndInvestments,-343000,2013-12-31
+us-gaap_IncreaseDecreaseInRestrictedCashAndInvestments,-339000,2014-12-31
+us-gaap_IncreaseDecreaseInRestrictedCashAndInvestments,18000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-85705000,2013-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-266915000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-138335000,2015-12-31
+us-gaap_PaymentsOfDividendsCommonStock,19445000,2013-12-31
+us-gaap_PaymentsOfDividendsCommonStock,19648000,2014-12-31
+us-gaap_PaymentsOfDividendsCommonStock,19885000,2015-12-31
+Excess tax benefits related to stock-based compensation,,2013-12-31
+Excess tax benefits related to stock-based compensation,5273000,2014-12-31
+Excess tax benefits related to stock-based compensation,3175000,2015-12-31
+us-gaap_RepaymentsOfLinesOfCredit,42000000,2013-12-31
+us-gaap_RepaymentsOfLinesOfCredit,-96400000,2014-12-31
+us-gaap_RepaymentsOfLinesOfCredit,22400000,2015-12-31
+us-gaap_PaymentsToMinorityShareholders,405000,2013-12-31
+us-gaap_PaymentsToMinorityShareholders,589000,2014-12-31
+us-gaap_PaymentsToMinorityShareholders,1280000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,,2013-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,45345000,2015-12-31
+Proceeds from exercise of stock options,4345000,2013-12-31
+Proceeds from exercise of stock options,24366000,2014-12-31
+Proceeds from exercise of stock options,9930000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-57505000,2013-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,105802000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-75805000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-4692000,2013-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,16074000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-8375000,2015-12-31
+Cash and cash equivalents,5684000,2012-12-31
+Cash and cash equivalents,992000,2013-12-31
+Cash and cash equivalents,17066000,2014-12-31
+Cash and cash equivalents,8691000,2015-12-31
+Cash and cash equivalents,5684000,2012-12-31
+Cash and cash equivalents,992000,2013-12-31
+Cash and cash equivalents,17066000,2014-12-31
+Cash and cash equivalents,8691000,2015-12-31
+Equipment acquired included in accounts payable,2892000,2013-12-31
+Equipment acquired included in accounts payable,25000,2014-12-31
+Equipment acquired included in accounts payable,4251000,2015-12-31
+Dividend accrued for restricted stock units,205000,2013-12-31
+Dividend accrued for restricted stock units,196000,2014-12-31
+Dividend accrued for restricted stock units,178000,2015-12-31
+Transfer from property and equipment to assets held for sale,40422000,2013-12-31
+Transfer from property and equipment to assets held for sale,56521000,2014-12-31
+Transfer from property and equipment to assets held for sale,49786000,2015-12-31
+Financing provided to independent contractors for equipment sold,1731000,2013-12-31
+Financing provided to independent contractors for equipment sold,1579000,2014-12-31
+Financing provided to independent contractors for equipment sold,787000,2015-12-31
+Income taxes paid,51904000,2013-12-31
+Income taxes paid,68020000,2014-12-31
+Income taxes paid,65594000,2015-12-31
+Interest expense paid,450000,2013-12-31
+Interest expense paid,666000,2014-12-31
+Interest expense paid,1037000,2015-12-31

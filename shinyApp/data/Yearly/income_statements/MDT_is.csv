@@ -1,0 +1,99 @@
+Metric,Amount,endDate
+"Revenue, Net",17005000000,2014-04-25
+"Revenue, Net",4273000000,2014-07-25
+"Revenue, Net",4366000000,2014-10-24
+"Revenue, Net",4318000000,2015-01-23
+"Revenue, Net",7304000000,2015-04-24
+"Revenue, Net",20261000000,2015-04-24
+"Revenue, Net",7274000000,2015-07-31
+"Revenue, Net",7058000000,2015-10-30
+"Revenue, Net",6934000000,2016-01-29
+"Revenue, Net",7567000000,2016-04-29
+"Revenue, Net",28833000000,2016-04-29
+Cost of Goods and Services Sold,4333000000,2014-04-25
+Cost of Goods and Services Sold,6309000000,2015-04-24
+Cost of Goods and Services Sold,9142000000,2016-04-29
+Research and Development Expense (Excluding Acquired in Process Cost),1477000000,2014-04-25
+Research and Development Expense (Excluding Acquired in Process Cost),1640000000,2015-04-24
+Research and Development Expense (Excluding Acquired in Process Cost),2224000000,2016-04-29
+"Selling, General and Administrative Expense",5847000000,2014-04-25
+"Selling, General and Administrative Expense",6904000000,2015-04-24
+"Selling, General and Administrative Expense",9469000000,2016-04-29
+Special Charges (Gains),40000000,2014-04-25
+Special Charges (Gains),-38000000,2015-04-24
+Special Charges (Gains),70000000,2016-04-29
+"Restructuring Charges, Net of Restructuring Reversals",78000000,2014-04-25
+"Restructuring Charges, Net of Restructuring Reversals",237000000,2015-04-24
+"Restructuring Charges, Net of Restructuring Reversals",290000000,2016-04-29
+"Loss Contingency Accrual, Provision",770000000,2014-04-25
+"Loss Contingency Accrual, Provision",42000000,2015-04-24
+"Loss Contingency Accrual, Provision",26000000,2016-04-29
+Acquisition Related (Gains) Charges,117000000,2014-04-25
+Acquisition Related (Gains) Charges,550000000,2015-04-24
+Acquisition Related (Gains) Charges,283000000,2016-04-29
+Amortization of Intangible Assets,349000000,2014-04-25
+Amortization of Intangible Assets,733000000,2015-04-24
+Amortization of Intangible Assets,1931000000,2016-04-29
+Nonoperating Income (Expense),-181000000,2014-04-25
+Nonoperating Income (Expense),-118000000,2015-04-24
+Nonoperating Income (Expense),-107000000,2016-04-29
+Operating Income (Loss),3813000000,2014-04-25
+Operating Income (Loss),3766000000,2015-04-24
+Operating Income (Loss),5291000000,2016-04-29
+"Interest Income, Other",271000000,2014-04-25
+"Interest Income, Other",386000000,2015-04-24
+"Interest Income, Other",431000000,2016-04-29
+Interest Expense,379000000,2014-04-25
+Interest Expense,666000000,2015-04-24
+Interest Expense,1386000000,2016-04-29
+"Interest Income (Expense), Nonoperating, Net",-108000000,2014-04-25
+"Interest Income (Expense), Nonoperating, Net",-280000000,2015-04-24
+"Interest Income (Expense), Nonoperating, Net",-955000000,2016-04-29
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",3705000000,2014-04-25
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",3486000000,2015-04-24
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",4336000000,2016-04-29
+Income Tax Expense (Benefit),640000000,2014-04-25
+Income Tax Expense (Benefit),811000000,2015-04-24
+Income Tax Expense (Benefit),798000000,2016-04-29
+Net Income (Loss) Attributable to Parent,3065000000,2014-04-25
+Net Income (Loss) Attributable to Parent,871000000,2014-07-25
+Net Income (Loss) Attributable to Parent,828000000,2014-10-24
+Net Income (Loss) Attributable to Parent,977000000,2015-01-23
+Net Income (Loss) Attributable to Parent,-1000000,2015-04-24
+Net Income (Loss) Attributable to Parent,2675000000,2015-04-24
+Net Income (Loss) Attributable to Parent,820000000,2015-07-31
+Net Income (Loss) Attributable to Parent,520000000,2015-10-30
+Net Income (Loss) Attributable to Parent,1095000000,2016-01-29
+Net Income (Loss) Attributable to Parent,1104000000,2016-04-29
+Net Income (Loss) Attributable to Parent,3538000000,2016-04-29
+"Earnings Per Share, Basic",3.06,2014-04-25
+"Earnings Per Share, Basic",0.88,2014-07-25
+"Earnings Per Share, Basic",0.84,2014-10-24
+"Earnings Per Share, Basic",0.99,2015-01-23
+"Earnings Per Share, Basic",0.00,2015-04-24
+"Earnings Per Share, Basic",2.44,2015-04-24
+"Earnings Per Share, Basic",0.58,2015-07-31
+"Earnings Per Share, Basic",0.37,2015-10-30
+"Earnings Per Share, Basic",0.78,2016-01-29
+"Earnings Per Share, Basic",0.79,2016-04-29
+"Earnings Per Share, Basic",2.51,2016-04-29
+"Earnings Per Share, Diluted",3.02,2014-04-25
+"Earnings Per Share, Diluted",0.87,2014-07-25
+"Earnings Per Share, Diluted",0.83,2014-10-24
+"Earnings Per Share, Diluted",0.98,2015-01-23
+"Earnings Per Share, Diluted",0.00,2015-04-24
+"Earnings Per Share, Diluted",2.41,2015-04-24
+"Earnings Per Share, Diluted",0.57,2015-07-31
+"Earnings Per Share, Diluted",0.36,2015-10-30
+"Earnings Per Share, Diluted",0.77,2016-01-29
+"Earnings Per Share, Diluted",0.78,2016-04-29
+"Earnings Per Share, Diluted",2.48,2016-04-29
+"Weighted Average Number of Shares Outstanding, Basic",1002100000,2014-04-25
+"Weighted Average Number of Shares Outstanding, Basic",1095500000,2015-04-24
+"Weighted Average Number of Shares Outstanding, Basic",1409600000,2016-04-29
+"Weighted Average Number of Shares Outstanding, Diluted",1013600000,2014-04-25
+"Weighted Average Number of Shares Outstanding, Diluted",1109000000,2015-04-24
+"Weighted Average Number of Shares Outstanding, Diluted",1425900000,2016-04-29
+"Common Stock, Dividends, Per Share, Declared",1.12,2014-04-25
+"Common Stock, Dividends, Per Share, Declared",1.22,2015-04-24
+"Common Stock, Dividends, Per Share, Declared",1.52,2016-04-29

@@ -1,0 +1,80 @@
+Metric,Amount,endDate
+"Earnings Per Share, Basic",4.33,2014-12-31
+"Earnings Per Share, Basic",4.91,2015-12-31
+"Earnings Per Share, Basic",5.16,2016-12-31
+"Earnings Per Share, Basic",0.65,2015-03-31
+"Earnings Per Share, Basic",1.86,2015-06-30
+"Earnings Per Share, Basic",0.71,2016-03-31
+"Earnings Per Share, Basic",1.82,2016-06-30
+"Earnings Per Share, Basic",1.64,2015-09-30
+"Earnings Per Share, Basic",0.75,2015-12-31
+"Earnings Per Share, Basic",1.78,2016-09-30
+"Earnings Per Share, Basic",0.81,2016-12-31
+"Earnings Per Share, Diluted",4.32,2014-12-31
+"Earnings Per Share, Diluted",4.90,2015-12-31
+"Earnings Per Share, Diluted",5.15,2016-12-31
+"Earnings Per Share, Diluted",0.65,2015-03-31
+"Earnings Per Share, Diluted",1.85,2015-06-30
+"Earnings Per Share, Diluted",0.71,2016-03-31
+"Earnings Per Share, Diluted",1.82,2016-06-30
+"Earnings Per Share, Diluted",1.64,2015-09-30
+"Earnings Per Share, Diluted",0.75,2015-12-31
+"Earnings Per Share, Diluted",1.78,2016-09-30
+"Earnings Per Share, Diluted",0.81,2016-12-31
+Revenues,3944540000,2014-12-31
+Revenues,4113239000,2015-12-31
+Revenues,4220702000,2016-12-31
+Revenues,808972000,2015-03-31
+Revenues,1223439000,2015-06-30
+Revenues,851424000,2016-03-31
+Revenues,1214435000,2016-06-30
+Revenues,1177012000,2015-09-30
+Revenues,903816000,2015-12-31
+Revenues,1241232000,2016-09-30
+Revenues,913611000,2016-12-31
+Cost of Goods and Services Sold,2988138000,2014-12-31
+Cost of Goods and Services Sold,3105882000,2015-12-31
+Cost of Goods and Services Sold,3186118000,2016-12-31
+Gross Profit,956402000,2014-12-31
+Gross Profit,1007357000,2015-12-31
+Gross Profit,1034584000,2016-12-31
+Gross Profit,204225000,2015-03-31
+Gross Profit,295245000,2015-06-30
+Gross Profit,212447000,2016-03-31
+Gross Profit,291861000,2016-06-30
+Gross Profit,285846000,2015-09-30
+Gross Profit,222041000,2015-12-31
+Gross Profit,302204000,2016-09-30
+Gross Profit,228072000,2016-12-31
+"Selling, General and Administrative Expense",650655000,2014-12-31
+"Selling, General and Administrative Expense",670609000,2015-12-31
+"Selling, General and Administrative Expense",688952000,2016-12-31
+Operating Income (Loss),305747000,2014-12-31
+Operating Income (Loss),336748000,2015-12-31
+Operating Income (Loss),345632000,2016-12-31
+"Interest Income (Expense), Net",-5206000,2014-12-31
+"Interest Income (Expense), Net",-5547000,2015-12-31
+"Interest Income (Expense), Net",-3713000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",300541000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",331201000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",341919000,2016-12-31
+Income Tax Expense (Benefit),91839000,2014-12-31
+Income Tax Expense (Benefit),104677000,2015-12-31
+Income Tax Expense (Benefit),105936000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",208702000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",226524000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",235983000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,57315000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,53595000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,53173000,2016-12-31
+Net Income (Loss) Attributable to Parent,151387000,2014-12-31
+Net Income (Loss) Attributable to Parent,172929000,2015-12-31
+Net Income (Loss) Attributable to Parent,182810000,2016-12-31
+Net Income (Loss) Attributable to Parent,23048000,2015-03-31
+Net Income (Loss) Attributable to Parent,65423000,2015-06-30
+Net Income (Loss) Attributable to Parent,25537000,2016-03-31
+Net Income (Loss) Attributable to Parent,64621000,2016-06-30
+Net Income (Loss) Attributable to Parent,57968000,2015-09-30
+Net Income (Loss) Attributable to Parent,26490000,2015-12-31
+Net Income (Loss) Attributable to Parent,63099000,2016-09-30
+Net Income (Loss) Attributable to Parent,29553000,2016-12-31

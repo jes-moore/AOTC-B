@@ -1,0 +1,114 @@
+Metric,Amount,endDate
+Revenue Mineral Sales,30797000,2015-12-31
+Revenue Mineral Sales,33564000,2016-12-31
+Revenue Mineral Sales,144567000,2014-12-31
+Revenue Mineral Sales,128390000,2015-12-31
+Revenue Mineral Sales,29362000,2015-03-31
+Revenue Mineral Sales,137190000,2016-12-31
+Revenue Mineral Sales,33154000,2016-03-31
+Revenue Mineral Sales,31779000,2015-06-30
+Revenue Mineral Sales,32376000,2016-06-30
+Revenue Mineral Sales,36452000,2015-09-30
+Revenue Mineral Sales,38096000,2016-09-30
+Oil and Gas Revenue,497000,2015-12-31
+Oil and Gas Revenue,602000,2016-12-31
+Oil and Gas Revenue,5274000,2014-12-31
+Oil and Gas Revenue,2447000,2015-12-31
+Oil and Gas Revenue,702000,2015-03-31
+Oil and Gas Revenue,2092000,2016-12-31
+Oil and Gas Revenue,432000,2016-03-31
+Oil and Gas Revenue,671000,2015-06-30
+Oil and Gas Revenue,504000,2016-06-30
+Oil and Gas Revenue,577000,2015-09-30
+Oil and Gas Revenue,554000,2016-09-30
+"Revenue, Net",31294000,2015-12-31
+"Revenue, Net",34166000,2016-12-31
+"Revenue, Net",149841000,2014-12-31
+"Revenue, Net",130837000,2015-12-31
+"Revenue, Net",30064000,2015-03-31
+"Revenue, Net",139282000,2016-12-31
+"Revenue, Net",33586000,2016-03-31
+"Revenue, Net",32450000,2015-06-30
+"Revenue, Net",32880000,2016-06-30
+"Revenue, Net",37029000,2015-09-30
+"Revenue, Net",38650000,2016-09-30
+Costs of Metals Sold,96798000,2014-12-31
+Costs of Metals Sold,85080000,2015-12-31
+Costs of Metals Sold,89095000,2016-12-31
+"Results of Operations, Production or Lifting Costs",1546000,2014-12-31
+"Results of Operations, Production or Lifting Costs",1259000,2015-12-31
+"Results of Operations, Production or Lifting Costs",1164000,2016-12-31
+"Cost of Goods Sold, Depreciation, Depletion and Amortization",14706000,2014-12-31
+"Cost of Goods Sold, Depreciation, Depletion and Amortization",15784000,2015-12-31
+"Cost of Goods Sold, Depreciation, Depletion and Amortization",15931000,2016-12-31
+Cost of Goods and Services Sold,113050000,2014-12-31
+Cost of Goods and Services Sold,102123000,2015-12-31
+Cost of Goods and Services Sold,106190000,2016-12-31
+Gross Profit,5470000,2015-12-31
+Gross Profit,7434000,2016-12-31
+Gross Profit,36791000,2014-12-31
+Gross Profit,28714000,2015-12-31
+Gross Profit,5864000,2015-03-31
+Gross Profit,33092000,2016-12-31
+Gross Profit,7848000,2016-03-31
+Gross Profit,7013000,2015-06-30
+Gross Profit,7241000,2016-06-30
+Gross Profit,10367000,2015-09-30
+Gross Profit,10569000,2016-09-30
+"Selling, General and Administrative Expense",9469000,2014-12-31
+"Selling, General and Administrative Expense",9628000,2015-12-31
+"Selling, General and Administrative Expense",9612000,2016-12-31
+Operating Income (Loss),27322000,2014-12-31
+Operating Income (Loss),19086000,2015-12-31
+Operating Income (Loss),23480000,2016-12-31
+Interest Expense,1529000,2014-12-31
+Interest Expense,1036000,2015-12-31
+Interest Expense,246000,2016-12-31
+Other Nonoperating Income (Expense),129000,2014-12-31
+Other Nonoperating Income (Expense),-569000,2015-12-31
+Other Nonoperating Income (Expense),384000,2016-12-31
+Nonoperating Income (Expense),-1400000,2014-12-31
+Nonoperating Income (Expense),-1605000,2015-12-31
+Nonoperating Income (Expense),138000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",25922000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",17481000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",23618000,2016-12-31
+Income Tax Expense (Benefit),6555000,2014-12-31
+Income Tax Expense (Benefit),4595000,2015-12-31
+Income Tax Expense (Benefit),5864000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",2286000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",3920000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",19367000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",12886000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",2365000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",17754000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",4066000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",2559000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",3687000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",5676000,2015-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",6081000,2016-09-30
+"Earnings Per Share, Basic",0.41,2015-12-31
+"Earnings Per Share, Basic",0.70,2016-12-31
+"Earnings Per Share, Basic",3.47,2014-12-31
+"Earnings Per Share, Basic",2.30,2015-12-31
+"Earnings Per Share, Basic",0.42,2015-03-31
+"Earnings Per Share, Basic",3.19,2016-12-31
+"Earnings Per Share, Basic",0.73,2016-03-31
+"Earnings Per Share, Basic",0.46,2015-06-30
+"Earnings Per Share, Basic",0.66,2016-06-30
+"Earnings Per Share, Basic",1.01,2015-09-30
+"Earnings Per Share, Basic",1.09,2016-09-30
+"Earnings Per Share, Diluted",0.41,2015-12-31
+"Earnings Per Share, Diluted",0.70,2016-12-31
+"Earnings Per Share, Diluted",3.47,2014-12-31
+"Earnings Per Share, Diluted",2.30,2015-12-31
+"Earnings Per Share, Diluted",0.42,2015-03-31
+"Earnings Per Share, Diluted",3.19,2016-12-31
+"Earnings Per Share, Diluted",0.73,2016-03-31
+"Earnings Per Share, Diluted",0.46,2015-06-30
+"Earnings Per Share, Diluted",0.66,2016-06-30
+"Earnings Per Share, Diluted",1.01,2015-09-30
+"Earnings Per Share, Diluted",1.09,2016-09-30
+"Common Stock, Dividends, Per Share, Cash Paid",0.50,2014-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.50,2015-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.50,2016-12-31

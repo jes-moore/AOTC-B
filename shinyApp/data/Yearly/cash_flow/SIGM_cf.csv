@@ -1,0 +1,126 @@
+Metric,Amount,endDate
+Net (loss) income,-21701000,2015-01-31
+Net (loss) income,-382000,2015-05-02
+Net (loss) income,158000,2016-01-30
+Net (loss) income,296000,2015-08-01
+Net (loss) income,6435000,2015-10-31
+Net (loss) income,-6191000,2016-01-30
+Net (loss) income,-8098000,2016-04-30
+Net (loss) income,-18315000,2017-01-28
+Net (loss) income,-18315000,2017-01-28
+Net (loss) income,-1722000,2016-07-30
+Net (loss) income,221000,2016-10-29
+Net (loss) income,-8716000,2017-01-28
+us-gaap_DepreciationDepletionAndAmortization,21708000,2015-01-31
+us-gaap_DepreciationDepletionAndAmortization,21972000,2016-01-30
+us-gaap_DepreciationDepletionAndAmortization,20739000,2017-01-28
+us-gaap_ShareBasedCompensation,6279000,2015-01-31
+us-gaap_ShareBasedCompensation,6559000,2016-01-30
+us-gaap_ShareBasedCompensation,6505000,2017-01-28
+us-gaap_InventoryWriteDown,4267000,2015-01-31
+us-gaap_InventoryWriteDown,3157000,2016-01-30
+us-gaap_InventoryWriteDown,2004000,2017-01-28
+sigm_ProvisionForSalesReturnsDiscountsAndDoubtfulAccounts,1202000,2015-01-31
+sigm_ProvisionForSalesReturnsDiscountsAndDoubtfulAccounts,500000,2016-01-30
+sigm_ProvisionForSalesReturnsDiscountsAndDoubtfulAccounts,-372000,2017-01-28
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-342000,2015-01-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-2355000,2016-01-30
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-258000,2017-01-28
+Gain on sale of development project,,2015-01-31
+Gain on sale of development project,7551000,2016-01-30
+Gain on sale of development project,,2017-01-28
+"Impairment of intangibles, IP, mask sets, and design tools",2811000,2015-01-31
+"Impairment of intangibles, IP, mask sets, and design tools",1783000,2016-01-30
+"Impairment of intangibles, IP, mask sets, and design tools",1148000,2017-01-28
+Impairment (gain on sale) of privately-held investments,602000,2015-01-31
+Impairment (gain on sale) of privately-held investments,-136000,2016-01-30
+Impairment (gain on sale) of privately-held investments,885000,2017-01-28
+us-gaap_OtherNoncashIncomeExpense,-239000,2015-01-31
+us-gaap_OtherNoncashIncomeExpense,277000,2016-01-30
+us-gaap_OtherNoncashIncomeExpense,1019000,2017-01-28
+us-gaap_IncreaseDecreaseInAccountsReceivable,-30000,2015-01-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,4447000,2016-01-30
+us-gaap_IncreaseDecreaseInAccountsReceivable,5126000,2017-01-28
+us-gaap_IncreaseDecreaseInInventories,4310000,2015-01-31
+us-gaap_IncreaseDecreaseInInventories,9420000,2016-01-30
+us-gaap_IncreaseDecreaseInInventories,-6558000,2017-01-28
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,1288000,2015-01-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,4851000,2016-01-30
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-4365000,2017-01-28
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,-3124000,2015-01-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,4868000,2016-01-30
+us-gaap_IncreaseDecreaseInOtherNoncurrentAssets,302000,2017-01-28
+us-gaap_IncreaseDecreaseInAccountsPayable,3672000,2015-01-31
+us-gaap_IncreaseDecreaseInAccountsPayable,392000,2016-01-30
+us-gaap_IncreaseDecreaseInAccountsPayable,-12046000,2017-01-28
+us-gaap_IncreaseDecreaseInAccruedLiabilities,6750000,2015-01-31
+us-gaap_IncreaseDecreaseInAccruedLiabilities,-5294000,2016-01-30
+us-gaap_IncreaseDecreaseInAccruedLiabilities,2428000,2017-01-28
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,-2134000,2015-01-31
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,757000,2016-01-30
+us-gaap_IncreaseDecreaseInAccruedIncomeTaxesPayable,4190000,2017-01-28
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,-5917000,2015-01-31
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,-7000,2016-01-30
+us-gaap_IncreaseDecreaseInOtherNoncurrentLiabilities,-182000,2017-01-28
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,15676000,2015-01-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,782000,2016-01-30
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,11718000,2017-01-28
+us-gaap_IncreaseDecreaseInRestrictedCash,-1375000,2015-01-31
+us-gaap_IncreaseDecreaseInRestrictedCash,500000,2016-01-30
+us-gaap_IncreaseDecreaseInRestrictedCash,-597000,2017-01-28
+us-gaap_PaymentsToAcquireMarketableSecurities,3079000,2015-01-31
+us-gaap_PaymentsToAcquireMarketableSecurities,22622000,2016-01-30
+us-gaap_PaymentsToAcquireMarketableSecurities,,2017-01-28
+Sales and maturities of marketable securities,15603000,2015-01-31
+Sales and maturities of marketable securities,24705000,2016-01-30
+Sales and maturities of marketable securities,3584000,2017-01-28
+us-gaap_PaymentsToAcquireProductiveAssets,8722000,2015-01-31
+us-gaap_PaymentsToAcquireProductiveAssets,6862000,2016-01-30
+us-gaap_PaymentsToAcquireProductiveAssets,10708000,2017-01-28
+us-gaap_PaymentsToAcquireOtherProductiveAssets,3612000,2015-01-31
+us-gaap_PaymentsToAcquireOtherProductiveAssets,7193000,2016-01-30
+us-gaap_PaymentsToAcquireOtherProductiveAssets,8283000,2017-01-28
+Reimbursement of costs related to purchased IP,,2015-01-31
+Reimbursement of costs related to purchased IP,,2016-01-30
+Reimbursement of costs related to purchased IP,3008000,2017-01-28
+"Proceeds from sale of development project, net of transaction fees",,2015-01-31
+"Proceeds from sale of development project, net of transaction fees",7551000,2016-01-30
+"Proceeds from sale of development project, net of transaction fees",,2017-01-28
+Proceeds from sale of privately-held investment,,2015-01-31
+Proceeds from sale of privately-held investment,518000,2016-01-30
+Proceeds from sale of privately-held investment,,2017-01-28
+us-gaap_PaymentsForProceedsFromPreviousAcquisition,,2015-01-31
+us-gaap_PaymentsForProceedsFromPreviousAcquisition,19310000,2016-01-30
+us-gaap_PaymentsForProceedsFromPreviousAcquisition,-289000,2017-01-28
+Repayment of note receivable,230000,2015-01-31
+Repayment of note receivable,,2016-01-30
+Repayment of note receivable,,2017-01-28
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,1795000,2015-01-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-23713000,2016-01-30
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-11513000,2017-01-28
+Net proceeds from exercise of employee stock options and stock purchase rights,2314000,2015-01-31
+Net proceeds from exercise of employee stock options and stock purchase rights,3781000,2016-01-30
+Net proceeds from exercise of employee stock options and stock purchase rights,3489000,2017-01-28
+Net share settlement of equity awards issued to employees,-231000,2015-01-31
+Net share settlement of equity awards issued to employees,-219000,2016-01-30
+Net share settlement of equity awards issued to employees,-635000,2017-01-28
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,2083000,2015-01-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,3562000,2016-01-30
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,2854000,2017-01-28
+Effect of foreign exchange rate changes on cash and cash equivalents,-378000,2015-01-31
+Effect of foreign exchange rate changes on cash and cash equivalents,-343000,2016-01-30
+Effect of foreign exchange rate changes on cash and cash equivalents,-424000,2017-01-28
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,19176000,2015-01-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-19712000,2016-01-30
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,2635000,2017-01-28
+Cash and cash equivalents,64326000,2014-02-01
+Cash and cash equivalents,83502000,2015-01-31
+Cash and cash equivalents,63790000,2016-01-30
+Cash and cash equivalents,66425000,2017-01-28
+Cash and cash equivalents,64326000,2014-02-01
+Cash and cash equivalents,83502000,2015-01-31
+Cash and cash equivalents,63790000,2016-01-30
+Cash and cash equivalents,66425000,2017-01-28
+Cash paid for income taxes,6085000,2015-01-31
+Cash paid for income taxes,7004000,2016-01-30
+Cash paid for income taxes,2516000,2017-01-28

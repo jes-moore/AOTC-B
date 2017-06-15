@@ -1,0 +1,49 @@
+Metric,Amount,endDate
+"Revenue, Net",761653000,2014-12-31
+"Revenue, Net",845486000,2015-12-31
+"Revenue, Net",1079874000,2016-12-31
+Cost of Revenue,183210000,2014-12-31
+Cost of Revenue,205376000,2015-12-31
+Cost of Revenue,264580000,2016-12-31
+Gross Profit,578443000,2014-12-31
+Gross Profit,640110000,2015-12-31
+Gross Profit,815294000,2016-12-31
+Selling and Marketing Expense,332068000,2014-12-31
+Selling and Marketing Expense,390239000,2015-12-31
+Selling and Marketing Expense,490653000,2016-12-31
+Research and Development Expense,52799000,2014-12-31
+Research and Development Expense,61237000,2015-12-31
+Research and Development Expense,75720000,2016-12-31
+Operating Expenses,384867000,2014-12-31
+Operating Expenses,451476000,2015-12-31
+Operating Expenses,566373000,2016-12-31
+Operating Income (Loss),193576000,2014-12-31
+Operating Income (Loss),188634000,2015-12-31
+Operating Income (Loss),248921000,2016-12-31
+Other Nonoperating Income (Expense),-3207000,2014-12-31
+Other Nonoperating Income (Expense),-2533000,2015-12-31
+Other Nonoperating Income (Expense),-6355000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",190369000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",186101000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",242566000,2016-12-31
+Income Tax Expense (Benefit),44537000,2014-12-31
+Income Tax Expense (Benefit),42081000,2015-12-31
+Income Tax Expense (Benefit),51200000,2016-12-31
+Income (Loss) from Equity Method Investments,0,2014-12-31
+Income (Loss) from Equity Method Investments,0,2015-12-31
+Income (Loss) from Equity Method Investments,-1684000,2016-12-31
+Net Income (Loss) Attributable to Parent,145832000,2014-12-31
+Net Income (Loss) Attributable to Parent,144020000,2015-12-31
+Net Income (Loss) Attributable to Parent,189682000,2016-12-31
+"Earnings Per Share, Basic",1.81,2014-12-31
+"Earnings Per Share, Basic",1.80,2015-12-31
+"Earnings Per Share, Basic",2.38,2016-12-31
+"Earnings Per Share, Diluted",1.77,2014-12-31
+"Earnings Per Share, Diluted",1.77,2015-12-31
+"Earnings Per Share, Diluted",2.33,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",80754000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",79998000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",79856000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",82283000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",81521000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",81484000,2016-12-31

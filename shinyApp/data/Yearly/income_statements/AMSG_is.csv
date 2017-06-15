@@ -1,0 +1,73 @@
+Metric,Amount,endDate
+"Health Care Organization, Revenue",1057196000,2013-12-31
+"Health Care Organization, Revenue",1738950000,2014-12-31
+"Health Care Organization, Revenue",2832958000,2015-12-31
+Revenues,1057196000,2013-12-31
+Revenues,259561000,2014-03-31
+Revenues,278227000,2014-06-30
+Revenues,502350000,2014-09-30
+Revenues,581811000,2014-12-31
+Revenues,1621949000,2014-12-31
+Revenues,570445000,2015-03-31
+Revenues,641950000,2015-06-30
+Revenues,650227000,2015-09-30
+Revenues,704262000,2015-12-31
+Revenues,2566884000,2015-12-31
+Labor and Related Expense,327585000,2013-12-31
+Labor and Related Expense,694576000,2014-12-31
+Labor and Related Expense,1314392000,2015-12-31
+"Other Cost and Expense, Operating",216501000,2013-12-31
+"Other Cost and Expense, Operating",284928000,2014-12-31
+"Other Cost and Expense, Operating",397794000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",32400000,2013-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",60344000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",97493000,2015-12-31
+"Deconsolidation, Gain (Loss), Amount",2237000,2013-12-31
+"Deconsolidation, Gain (Loss), Amount",3411000,2014-12-31
+"Deconsolidation, Gain (Loss), Amount",36694000,2015-12-31
+Operating Income (Loss),332672000,2013-12-31
+Operating Income (Loss),394364000,2014-12-31
+Operating Income (Loss),617505000,2015-12-31
+Gains (Losses) on Extinguishment of Debt,0,2013-12-31
+Gains (Losses) on Extinguishment of Debt,-16887000,2014-12-31
+Gains (Losses) on Extinguishment of Debt,0,2015-12-31
+Income Tax Expense (Benefit),48654000,2013-12-31
+Income Tax Expense (Benefit),48103000,2014-12-31
+Income Tax Expense (Benefit),113790000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",7051000,2013-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",68000,2014-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",483000,2014-06-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-1697000,2014-09-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-150000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-1296000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-06-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-09-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-1013000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-1013000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,188841000,2013-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,191092000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,218169000,2015-12-31
+Preferred Stock Dividends and Other Adjustments,0,2013-12-31
+Preferred Stock Dividends and Other Adjustments,4503000,2014-12-31
+Preferred Stock Dividends and Other Adjustments,9056000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",1694000,2013-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-197000,2014-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",190000,2014-06-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-1376000,2014-09-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-196000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-1579000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-06-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",0,2015-09-30
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-1001000,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Attributable to Parent",-1001000,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.05,2013-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.04,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",-0.02,2015-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.05,2013-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.04,2014-12-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",-0.02,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",31954000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",39625000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",51612000,2015-12-31

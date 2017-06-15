@@ -1,0 +1,114 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",1369711000,2013-12-31
+"Sales Revenue, Goods, Net",1410858000,2014-12-31
+"Sales Revenue, Goods, Net",1451994000,2015-12-31
+"Sales Revenue, Services, Net",215113000,2013-12-31
+"Sales Revenue, Services, Net",263224000,2014-12-31
+"Sales Revenue, Services, Net",320823000,2015-12-31
+Revenues,1584824000,2013-12-31
+Revenues,406955000,2014-03-31
+Revenues,405410000,2014-06-30
+Revenues,413204000,2014-09-30
+Revenues,448513000,2014-12-31
+Revenues,1674082000,2014-12-31
+Revenues,433617000,2015-03-31
+Revenues,435874000,2015-06-30
+Revenues,439816000,2015-09-30
+Revenues,463510000,2015-12-31
+Revenues,1772817000,2015-12-31
+Cost of Goods Sold,463487000,2013-12-31
+Cost of Goods Sold,501871000,2014-12-31
+Cost of Goods Sold,526307000,2015-12-31
+Cost of Services,97629000,2013-12-31
+Cost of Services,104407000,2014-12-31
+Cost of Services,112902000,2015-12-31
+Cost of Revenue,561116000,2013-12-31
+Cost of Revenue,606278000,2014-12-31
+Cost of Revenue,639209000,2015-12-31
+Gross Profit,1023708000,2013-12-31
+Gross Profit,262027000,2014-03-31
+Gross Profit,259519000,2014-06-30
+Gross Profit,263054000,2014-09-30
+Gross Profit,283204000,2014-12-31
+Gross Profit,1067804000,2014-12-31
+Gross Profit,280936000,2015-03-31
+Gross Profit,279936000,2015-06-30
+Gross Profit,280514000,2015-09-30
+Gross Profit,292222000,2015-12-31
+Gross Profit,1133608000,2015-12-31
+"Selling, General and Administrative Expense",691359000,2013-12-31
+"Selling, General and Administrative Expense",719192000,2014-12-31
+"Selling, General and Administrative Expense",774859000,2015-12-31
+Restructuring Charges Operating Expenses,9435000,2013-12-31
+Restructuring Charges Operating Expenses,8776000,2014-12-31
+Restructuring Charges Operating Expenses,4418000,2015-12-31
+Asset Impairment Charges,5000000,2013-12-31
+Asset Impairment Charges,6468000,2014-09-30
+Asset Impairment Charges,6468000,2014-12-31
+Asset Impairment Charges,0,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",0,2013-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-735000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",0,2015-12-31
+Operating Income (Loss),317914000,2013-12-31
+Operating Income (Loss),332633000,2014-12-31
+Operating Income (Loss),354331000,2015-12-31
+Gains (Losses) on Extinguishment of Debt,0,2013-12-31
+Gains (Losses) on Extinguishment of Debt,0,2014-12-31
+Gains (Losses) on Extinguishment of Debt,-8917000,2015-03-31
+Gains (Losses) on Extinguishment of Debt,-8917000,2015-12-31
+Interest Expense,38301000,2013-12-31
+Interest Expense,36529000,2014-12-31
+Interest Expense,20299000,2015-12-31
+Nonoperating Income (Expense),1446000,2013-12-31
+Nonoperating Income (Expense),1077000,2014-12-31
+Nonoperating Income (Expense),2832000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",281059000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",297181000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",327947000,2015-12-31
+Income Tax Expense (Benefit),94407000,2013-12-31
+Income Tax Expense (Benefit),97387000,2014-12-31
+Income Tax Expense (Benefit),109318000,2015-12-31
+Net Income (Loss) Attributable to Parent,186652000,2013-12-31
+Net Income (Loss) Attributable to Parent,47324000,2014-03-31
+Net Income (Loss) Attributable to Parent,50076000,2014-06-30
+Net Income (Loss) Attributable to Parent,44431000,2014-09-30
+Net Income (Loss) Attributable to Parent,57963000,2014-12-31
+Net Income (Loss) Attributable to Parent,199794000,2014-12-31
+Net Income (Loss) Attributable to Parent,45940000,2015-03-31
+Net Income (Loss) Attributable to Parent,56063000,2015-06-30
+Net Income (Loss) Attributable to Parent,56917000,2015-09-30
+Net Income (Loss) Attributable to Parent,59709000,2015-12-31
+Net Income (Loss) Attributable to Parent,218629000,2015-12-31
+"Earnings Per Share, Basic",3.68,2013-12-31
+"Earnings Per Share, Basic",0.94,2014-03-31
+"Earnings Per Share, Basic",1.00,2014-06-30
+"Earnings Per Share, Basic",0.89,2014-09-30
+"Earnings Per Share, Basic",1.16,2014-12-31
+"Earnings Per Share, Basic",3.99,2014-12-31
+"Earnings Per Share, Basic",0.92,2015-03-31
+"Earnings Per Share, Basic",1.12,2015-06-30
+"Earnings Per Share, Basic",1.14,2015-09-30
+"Earnings Per Share, Basic",1.21,2015-12-31
+"Earnings Per Share, Basic",4.39,2015-12-31
+"Earnings Per Share, Diluted",3.65,2013-12-31
+"Earnings Per Share, Diluted",0.93,2014-03-31
+"Earnings Per Share, Diluted",0.99,2014-06-30
+"Earnings Per Share, Diluted",0.88,2014-09-30
+"Earnings Per Share, Diluted",1.16,2014-12-31
+"Earnings Per Share, Diluted",3.96,2014-12-31
+"Earnings Per Share, Diluted",0.91,2015-03-31
+"Earnings Per Share, Diluted",1.11,2015-06-30
+"Earnings Per Share, Diluted",1.13,2015-09-30
+"Earnings Per Share, Diluted",1.20,2015-12-31
+"Earnings Per Share, Diluted",4.36,2015-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.00,2013-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.25,2014-03-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2014-06-30
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2014-09-30
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2014-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.15,2014-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2015-03-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2015-06-30
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2015-09-30
+"Common Stock, Dividends, Per Share, Cash Paid",0.30,2015-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",1.20,2015-12-31

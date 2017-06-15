@@ -1,0 +1,98 @@
+Metric,Amount,endDate
+Revenue (less agency commissions),508134000,2014-12-31
+Revenue (less agency commissions),133303000,2015-03-31
+Revenue (less agency commissions),597356000,2015-12-31
+Revenue (less agency commissions),143464000,2015-06-30
+Revenue (less agency commissions),151102000,2015-09-30
+Revenue (less agency commissions),169487000,2015-12-31
+Revenue (less agency commissions),173723000,2016-03-31
+Revenue (less agency commissions),812465000,2016-12-31
+Revenue (less agency commissions),196633000,2016-06-30
+Revenue (less agency commissions),204490000,2016-09-30
+Revenue (less agency commissions),237619000,2016-12-31
+Broadcast,285990000,2014-12-31
+Broadcast,374182000,2015-12-31
+Broadcast,475131000,2016-12-31
+Corporate and administrative,29203000,2014-12-31
+Corporate and administrative,34343000,2015-12-31
+Corporate and administrative,40347000,2016-12-31
+Depreciation,30248000,2014-12-31
+Depreciation,36712000,2015-12-31
+Depreciation,45923000,2016-12-31
+Amortization of intangible assets,8297000,2014-12-31
+Amortization of intangible assets,11982000,2015-12-31
+Amortization of intangible assets,16596000,2016-12-31
+us-gaap_GainLossOnDispositionOfAssets,-623000,2014-12-31
+us-gaap_GainLossOnDispositionOfAssets,-80000,2015-12-31
+us-gaap_GainLossOnDispositionOfAssets,-329000,2016-12-31
+us-gaap_OperatingExpenses,354361000,2014-12-31
+us-gaap_OperatingExpenses,457299000,2015-12-31
+us-gaap_OperatingExpenses,578326000,2016-12-31
+Operating income,153773000,2014-12-31
+Operating income,28058000,2015-03-31
+Operating income,140057000,2015-12-31
+Operating income,38758000,2015-06-30
+Operating income,29344000,2015-09-30
+Operating income,43897000,2015-12-31
+Operating income,36111000,2016-03-31
+Operating income,234139000,2016-12-31
+Operating income,53687000,2016-06-30
+Operating income,60467000,2016-09-30
+Operating income,83874000,2016-12-31
+"Miscellaneous income, net",23000,2014-12-31
+"Miscellaneous income, net",103000,2015-12-31
+"Miscellaneous income, net",775000,2016-12-31
+us-gaap_InterestExpenseDebt,68913000,2014-12-31
+us-gaap_InterestExpenseDebt,74411000,2015-12-31
+us-gaap_InterestExpenseDebt,97236000,2016-12-31
+Loss from early extinguishment of debt,-5086000,2014-12-31
+Loss from early extinguishment of debt,,2015-12-31
+Loss from early extinguishment of debt,-31987000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,79797000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,65749000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,105691000,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,31736000,2014-12-31
+us-gaap_IncomeTaxExpenseBenefit,26448000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,43418000,2016-12-31
+Net income,48061000,2014-12-31
+Net income,5595000,2015-03-31
+Net income,39301000,2015-12-31
+Net income,12110000,2015-06-30
+Net income,6609000,2015-09-30
+Net income,14987000,2015-12-31
+Net income,8990000,2016-03-31
+Net income,62273000,2016-12-31
+Net income,17662000,2016-06-30
+Net income,-213000,2016-09-30
+Net income,35834000,2016-12-31
+us-gaap_EarningsPerShareBasic,0.83,2014-12-31
+us-gaap_EarningsPerShareBasic,0.10,2015-03-31
+us-gaap_EarningsPerShareBasic,0.58,2015-12-31
+us-gaap_EarningsPerShareBasic,0.17,2015-06-30
+us-gaap_EarningsPerShareBasic,0.09,2015-09-30
+us-gaap_EarningsPerShareBasic,0.21,2015-12-31
+us-gaap_EarningsPerShareBasic,0.13,2016-03-31
+us-gaap_EarningsPerShareBasic,0.87,2016-12-31
+us-gaap_EarningsPerShareBasic,0.25,2016-06-30
+us-gaap_EarningsPerShareBasic,,2016-09-30
+us-gaap_EarningsPerShareBasic,0.50,2016-12-31
+Weighted average shares outstanding (in shares),57862000,2014-12-31
+Weighted average shares outstanding (in shares),68330000,2015-12-31
+Weighted average shares outstanding (in shares),71848000,2016-12-31
+us-gaap_EarningsPerShareDiluted,0.82,2014-12-31
+us-gaap_EarningsPerShareDiluted,0.10,2015-03-31
+us-gaap_EarningsPerShareDiluted,0.57,2015-12-31
+us-gaap_EarningsPerShareDiluted,0.17,2015-06-30
+us-gaap_EarningsPerShareDiluted,0.09,2015-09-30
+us-gaap_EarningsPerShareDiluted,0.21,2015-12-31
+us-gaap_EarningsPerShareDiluted,0.12,2016-03-31
+us-gaap_EarningsPerShareDiluted,0.86,2016-12-31
+us-gaap_EarningsPerShareDiluted,0.24,2016-06-30
+us-gaap_EarningsPerShareDiluted,,2016-09-30
+us-gaap_EarningsPerShareDiluted,0.49,2016-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,58364000,2014-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,68987000,2015-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,72764000,2016-12-31
+Dividends declared per common share (in dollars per share),,2014-12-31
+Dividends declared per common share (in dollars per share),0,2015-12-31
+Dividends declared per common share (in dollars per share),0,2016-12-31

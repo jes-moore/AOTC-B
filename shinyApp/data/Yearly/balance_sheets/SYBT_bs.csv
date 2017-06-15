@@ -1,0 +1,69 @@
+Metric,Amount,endDate
+Cash and due from banks,35895000,2015-12-31
+Cash and due from banks,39709000,2016-12-31
+Federal funds sold and interest bearing due from banks,67938000,2015-12-31
+Federal funds sold and interest bearing due from banks,8264000,2016-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,103833000,2015-12-31
+us-gaap_CashCashEquivalentsAndFederalFundsSold,47973000,2016-12-31
+Mortgage loans held for sale,6800000,2015-12-31
+Mortgage loans held for sale,3213000,2016-12-31
+"Securities available-for-sale (amortized cost of $571,936 in 2016 and $564,391 in 2015)",565876000,2015-12-31
+"Securities available-for-sale (amortized cost of $571,936 in 2016 and $564,391 in 2015)",570074000,2016-12-31
+Federal Home Loan Bank stock and other securities,6347000,2015-12-31
+Federal Home Loan Bank stock and other securities,6347000,2016-12-31
+Loans,1868550000,2014-12-31
+Loans,2033007000,2015-12-31
+Loans,2305375000,2016-12-31
+Less allowance for loan losses,28522000,2013-12-31
+Less allowance for loan losses,24920000,2014-12-31
+Less allowance for loan losses,22441000,2015-12-31
+Less allowance for loan losses,24007000,2016-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmount,2010566000,2015-12-31
+us-gaap_LoansAndLeasesReceivableNetReportedAmount,2281368000,2016-12-31
+"Premises and equipment, net",39557000,2015-12-31
+"Premises and equipment, net",42384000,2016-12-31
+Bank owned life insurance,30996000,2015-12-31
+Bank owned life insurance,31867000,2016-12-31
+Accrued interest receivable,6610000,2015-12-31
+Accrued interest receivable,6878000,2016-12-31
+Other assets,46216000,2015-12-31
+Other assets,49377000,2016-12-31
+us-gaap_Assets,2563868000,2014-12-31
+us-gaap_Assets,2816801000,2015-12-31
+us-gaap_Assets,3039481000,2016-12-31
+Non-interest bearing,583768000,2015-12-31
+Non-interest bearing,680156000,2016-12-31
+Interest bearing,1787934000,2015-12-31
+Interest bearing,1840392000,2016-12-31
+us-gaap_Deposits,2371702000,2015-12-31
+us-gaap_Deposits,2520548000,2016-12-31
+Securities sold under agreements to repurchase,64526000,2015-12-31
+Securities sold under agreements to repurchase,67595000,2016-12-31
+Federal funds purchased,22477000,2015-12-31
+Federal funds purchased,47374000,2016-12-31
+Accrued interest payable,127000,2015-12-31
+Accrued interest payable,144000,2016-12-31
+Other liabilities,27982000,2015-12-31
+Other liabilities,38873000,2016-12-31
+Federal Home Loan Bank advances,43468000,2015-12-31
+Federal Home Loan Bank advances,51075000,2016-12-31
+us-gaap_Liabilities,2530282000,2015-12-31
+us-gaap_Liabilities,2725609000,2016-12-31
+"Preferred stock, no par value; 1,000,000 shares authorized; no shares issued or outstanding",,2015-12-31
+"Preferred stock, no par value; 1,000,000 shares authorized; no shares issued or outstanding",,2016-12-31
+"Common stock, no par value; 40,000,000 shares authorized; 22,617,098 and 14,919,351 shares issued and outstanding in 2016 and 2015, respectively",10616000,2015-12-31
+"Common stock, no par value; 40,000,000 shares authorized; 22,617,098 and 14,919,351 shares issued and outstanding in 2016 and 2015, respectively",36250000,2016-12-31
+Additional paid-in capital,44180000,2015-12-31
+Additional paid-in capital,26682000,2016-12-31
+Retained earnings,231091000,2015-12-31
+Retained earnings,252439000,2016-12-31
+Accumulated other comprehensive income,-2217000,2013-12-31
+Accumulated other comprehensive income,2085000,2014-12-31
+Accumulated other comprehensive income,632000,2015-12-31
+Accumulated other comprehensive income,-1499000,2016-12-31
+us-gaap_StockholdersEquity,229444000,2013-12-31
+us-gaap_StockholdersEquity,259895000,2014-12-31
+us-gaap_StockholdersEquity,286519000,2015-12-31
+us-gaap_StockholdersEquity,313872000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,2816801000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,3039481000,2016-12-31

@@ -1,0 +1,71 @@
+Metric,Amount,endDate
+Cash and cash equivalents,4704000000,2013-12-31
+Cash and cash equivalents,5309000000,2014-12-31
+Cash and cash equivalents,4500000000,2015-12-31
+Cash and cash equivalents,5291000000,2016-12-31
+"Short-term investments, at fair value (Note 3)",100000000,2015-12-31
+"Short-term investments, at fair value (Note 3)",0,2016-12-31
+"Trade accounts receivable, net of doubtful accounts and allowances - $59 and $48",1372000000,2015-12-31
+"Trade accounts receivable, net of doubtful accounts and allowances - $59 and $48",1481000000,2016-12-31
+"Inventories, net of inventory reserves - $151 and $146 (Note 5)",1385000000,2015-12-31
+"Inventories, net of inventory reserves - $151 and $146 (Note 5)",1471000000,2016-12-31
+"Other current assets (Note 8, 11 and 15)",912000000,2015-12-31
+"Other current assets (Note 8, 11 and 15)",805000000,2016-12-31
+us-gaap_AssetsCurrent,8269000000,2015-12-31
+us-gaap_AssetsCurrent,9048000000,2016-12-31
+Investments (Note 7),1975000000,2015-12-31
+Investments (Note 7),336000000,2016-12-31
+"Property, plant and equipment, net of accumulated depreciation - $9,884 and $9,188 (Note 9)",12648000000,2015-12-31
+"Property, plant and equipment, net of accumulated depreciation - $9,884 and $9,188 (Note 9)",12546000000,2016-12-31
+"Goodwill, net (Note 10)",1150000000,2014-12-31
+"Goodwill, net (Note 10)",1380000000,2015-12-31
+"Goodwill, net (Note 10)",1577000000,2016-12-31
+"Other intangible assets, net (Note 10)",706000000,2015-12-31
+"Other intangible assets, net (Note 10)",796000000,2016-12-31
+Deferred income taxes (Note 6),2056000000,2015-12-31
+Deferred income taxes (Note 6),2325000000,2016-12-31
+us-gaap_OtherAssetsNoncurrent,1493000000,2015-12-31
+us-gaap_OtherAssetsNoncurrent,1271000000,2016-12-31
+Total assets,30063000000,2014-12-31
+Total assets,28527000000,2015-12-31
+Total assets,27899000000,2016-12-31
+Current portion of long-term debt and short-term borrowings (Note 12),572000000,2015-12-31
+Current portion of long-term debt and short-term borrowings (Note 12),256000000,2016-12-31
+Accounts payable,934000000,2015-12-31
+Accounts payable,1079000000,2016-12-31
+Other accrued liabilities (Note 11 and 14),1308000000,2015-12-31
+Other accrued liabilities (Note 11 and 14),1416000000,2016-12-31
+us-gaap_LiabilitiesCurrent,2814000000,2015-12-31
+us-gaap_LiabilitiesCurrent,2751000000,2016-12-31
+Long-term debt,3890000000,2015-12-31
+Long-term debt,3646000000,2016-12-31
+Postretirement benefits other than pensions (Note 13),718000000,2015-12-31
+Postretirement benefits other than pensions (Note 13),737000000,2016-12-31
+Other liabilities (Note 11 and 14),2242000000,2015-12-31
+Other liabilities (Note 11 and 14),2805000000,2016-12-31
+us-gaap_Liabilities,9664000000,2015-12-31
+us-gaap_Liabilities,9939000000,2016-12-31
+Commitments and contingencies (Note 14),,2015-12-31
+Commitments and contingencies (Note 14),,2016-12-31
+"Convertible preferred stock, Series A – Par value $100 per share; Shares authorized 3,100; Shares issued: 2,300",2300000000,2015-12-31
+"Convertible preferred stock, Series A – Par value $100 per share; Shares authorized 3,100; Shares issued: 2,300",2300000000,2016-12-31
+"Common stock – Par value $0.50 per share; Shares authorized: 3.8 billion; Shares issued: 1,691 million and 1,681 million",840000000,2015-12-31
+"Common stock – Par value $0.50 per share; Shares authorized: 3.8 billion; Shares issued: 1,691 million and 1,681 million",846000000,2016-12-31
+Additional paid-in capital – common stock,13352000000,2015-12-31
+Additional paid-in capital – common stock,13695000000,2016-12-31
+Retained earnings,13832000000,2015-12-31
+Retained earnings,16880000000,2016-12-31
+us-gaap_TreasuryStockValue,9725000000,2015-12-31
+us-gaap_TreasuryStockValue,14152000000,2016-12-31
+Accumulated other comprehensive loss,-1811000000,2015-12-31
+Accumulated other comprehensive loss,-1676000000,2016-12-31
+us-gaap_StockholdersEquity,18788000000,2015-12-31
+us-gaap_StockholdersEquity,17893000000,2016-12-31
+Noncontrolling interests,75000000,2015-12-31
+Noncontrolling interests,67000000,2016-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,21211000000,2013-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,21652000000,2014-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,18863000000,2015-12-31
+us-gaap_StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,17960000000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,28527000000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,27899000000,2016-12-31

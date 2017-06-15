@@ -1,0 +1,90 @@
+Metric,Amount,endDate
+Sales Revenue Net,298634000,2014-12-31
+Sales Revenue Net,66565000,2015-03-31
+Sales Revenue Net,289382000,2015-12-31
+Sales Revenue Net,66523000,2015-06-30
+Sales Revenue Net,72486000,2015-09-30
+Sales Revenue Net,83808000,2015-12-31
+Sales Revenue Net,69474000,2016-03-31
+Sales Revenue Net,312113000,2016-12-31
+Sales Revenue Net,72724000,2016-06-30
+Sales Revenue Net,82447000,2016-09-30
+Sales Revenue Net,87468000,2016-12-31
+Cost Of Revenue,184138000,2014-12-31
+Cost Of Revenue,177480000,2015-12-31
+Cost Of Revenue,183825000,2016-12-31
+Gross Profit,114496000,2014-12-31
+Gross Profit,24650000,2015-03-31
+Gross Profit,111902000,2015-12-31
+Gross Profit,25121000,2015-06-30
+Gross Profit,31433000,2015-09-30
+Gross Profit,30698000,2015-12-31
+Gross Profit,27503000,2016-03-31
+Gross Profit,128288000,2016-12-31
+Gross Profit,31395000,2016-06-30
+Gross Profit,32986000,2016-09-30
+Gross Profit,36404000,2016-12-31
+Operating Expenses,107786000,2014-12-31
+Operating Expenses,100378000,2015-12-31
+Operating Expenses,107748000,2016-12-31
+Operating Income Loss,6710000,2014-12-31
+Operating Income Loss,11524000,2015-12-31
+Operating Income Loss,20540000,2016-12-31
+Interest Expense,3066000,2014-12-31
+Interest Expense,2562000,2015-12-31
+Interest Expense,1623000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,3644000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,8962000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Minority Interest And Income Loss From Equity Method Investments,18917000,2016-12-31
+Income Tax Expense Benefit,-451000,2014-12-31
+Income Tax Expense Benefit,2009000,2015-12-31
+Income Tax Expense Benefit,5540000,2016-12-31
+Income Loss Before Equity Method Investments,4095000,2014-12-31
+Income Loss Before Equity Method Investments,6953000,2015-12-31
+Income Loss Before Equity Method Investments,13377000,2016-12-31
+Income Loss From Equity Method Investments Net Of Gain Loss On Dilution,-29000,2014-12-31
+Income Loss From Equity Method Investments Net Of Gain Loss On Dilution,-636000,2015-12-31
+Income Loss From Equity Method Investments Net Of Gain Loss On Dilution,-353000,2016-12-31
+Profit Loss,4066000,2014-12-31
+Profit Loss,6317000,2015-12-31
+Profit Loss,13024000,2016-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-775000,2014-12-31
+Net Income Loss Attributable To Noncontrolling Interest,-274000,2015-12-31
+Net Income Loss Attributable To Noncontrolling Interest,236000,2016-12-31
+Net Income Loss,4841000,2014-12-31
+Net Income Loss,51000,2015-03-31
+Net Income Loss,6591000,2015-12-31
+Net Income Loss,781000,2015-06-30
+Net Income Loss,2772000,2015-09-30
+Net Income Loss,2987000,2015-12-31
+Net Income Loss,2794000,2016-03-31
+Net Income Loss,12788000,2016-12-31
+Net Income Loss,3246000,2016-06-30
+Net Income Loss,2877000,2016-09-30
+Net Income Loss,3871000,2016-12-31
+Earnings Per Share Basic,0.17,2014-12-31
+Earnings Per Share Basic,0.23,2015-12-31
+Earnings Per Share Basic,0.03,2015-06-30
+Earnings Per Share Basic,0.10,2015-09-30
+Earnings Per Share Basic,0.10,2015-12-31
+Earnings Per Share Basic,0.10,2016-03-31
+Earnings Per Share Basic,0.44,2016-12-31
+Earnings Per Share Basic,0.11,2016-06-30
+Earnings Per Share Basic,0.10,2016-09-30
+Earnings Per Share Basic,0.13,2016-12-31
+Earnings Per Share Diluted,0.17,2014-12-31
+Earnings Per Share Diluted,0.23,2015-12-31
+Earnings Per Share Diluted,0.03,2015-06-30
+Earnings Per Share Diluted,0.09,2015-09-30
+Earnings Per Share Diluted,0.10,2015-12-31
+Earnings Per Share Diluted,0.10,2016-03-31
+Earnings Per Share Diluted,0.44,2016-12-31
+Earnings Per Share Diluted,0.11,2016-06-30
+Earnings Per Share Diluted,0.10,2016-09-30
+Earnings Per Share Diluted,0.13,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,28436000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,28673000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,28859000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,28912000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,29237000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,29394000,2016-12-31

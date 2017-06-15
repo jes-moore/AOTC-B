@@ -1,0 +1,91 @@
+Metric,Amount,endDate
+Cash and Due from Banks,31265000000,2015-12-31
+Cash and Due from Banks,30719000000,2016-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,128088000000,2015-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,117019000000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",131322000000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",138589000000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",159353000000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",147738000000,2016-12-31
+Time Deposits and Other Short-term Investments,7744000000,2015-12-31
+Time Deposits and Other Short-term Investments,9861000000,2016-12-31
+Federal Funds Sold and Securities Purchased under Agreements to Resell,192482000000,2015-12-31
+Federal Funds Sold and Securities Purchased under Agreements to Resell,198224000000,2016-12-31
+Trading Securities,176527000000,2015-12-31
+Trading Securities,180209000000,2016-12-31
+Derivative Asset,49990000000,2015-12-31
+Derivative Asset,50000000000,2015-12-31
+Derivative Asset,42512000000,2016-12-31
+Derivative Asset,42500000000,2016-12-31
+Debt Securities Carried at Fair Value,322380000000,2015-12-31
+Debt Securities Carried at Fair Value,313660000000,2016-12-31
+Held-to-maturity Securities,84508000000,2015-12-31
+Held-to-maturity Securities,117071000000,2016-12-31
+Marketable Securities,406888000000,2015-12-31
+Marketable Securities,430731000000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",896983000000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",906683000000,2016-12-31
+"Loans and Leases Receivable, Allowance",17428000000,2013-12-31
+"Loans and Leases Receivable, Allowance",14419000000,2014-12-31
+"Loans and Leases Receivable, Allowance",12234000000,2015-12-31
+"Loans and Leases Receivable, Allowance",11237000000,2016-12-31
+"Loans and Leases Receivable, Net Amount",884749000000,2015-12-31
+"Loans and Leases Receivable, Net Amount",895446000000,2016-12-31
+"Property, Plant and Equipment, Net",9485000000,2015-12-31
+"Property, Plant and Equipment, Net",9139000000,2016-12-31
+Servicing Asset,3087000000,2015-12-31
+Servicing Asset,2747000000,2016-12-31
+Goodwill,69761000000,2015-12-31
+Goodwill,68969000000,2016-12-31
+"Finite-Lived Intangible Assets, Net",3768000000,2015-12-31
+"Finite-Lived Intangible Assets, Net",2922000000,2016-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",7453000000,2015-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group",9066000000,2016-12-31
+Other Receivables,58312000000,2015-12-31
+Other Receivables,58759000000,2016-12-31
+"Disposal Group, Including Discontinued Operation, Assets",10670000000,2016-12-31
+Other Assets,114688000000,2015-12-31
+Other Assets,120709000000,2016-12-31
+Assets,2144287000000,2015-12-31
+Assets,2187702000000,2016-12-31
+"Noninterest-bearing Deposit Liabilities, Domestic",422237000000,2015-12-31
+"Noninterest-bearing Deposit Liabilities, Domestic",438125000000,2016-12-31
+"Interest-bearing Deposit Liabilities, Domestic",703761000000,2015-12-31
+"Interest-bearing Deposit Liabilities, Domestic",750891000000,2016-12-31
+"Noninterest-bearing Deposit Liabilities, Foreign",9916000000,2015-12-31
+"Noninterest-bearing Deposit Liabilities, Foreign",12039000000,2016-12-31
+"Interest-bearing Deposit Liabilities, Foreign",61345000000,2015-12-31
+"Interest-bearing Deposit Liabilities, Foreign",59879000000,2016-12-31
+Deposits,1197259000000,2015-12-31
+Deposits,1260934000000,2016-12-31
+Federal Funds Purchased and Securities Sold under Agreements to Repurchase,174291000000,2015-12-31
+Federal Funds Purchased and Securities Sold under Agreements to Repurchase,170291000000,2016-12-31
+Trading Liabilities,66963000000,2015-12-31
+Trading Liabilities,63031000000,2016-12-31
+Derivative Liability,38450000000,2015-12-31
+Derivative Liability,39500000000,2016-12-31
+Derivative Liability,39480000000,2016-12-31
+Other Short-term Borrowings,28098000000,2015-12-31
+Other Short-term Borrowings,23944000000,2016-12-31
+Accrued Liabilities and Other Liabilities,146286000000,2015-12-31
+Accrued Liabilities and Other Liabilities,146359000000,2016-12-31
+Long-term Debt,236764000000,2015-12-31
+Long-term Debt,216823000000,2016-12-31
+Liabilities,1888111000000,2015-12-31
+Liabilities,1920862000000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+"Preferred Stock, Redeemable and NonRedeemable, Value",22273000000,2015-12-31
+"Preferred Stock, Redeemable and NonRedeemable, Value",25220000000,2016-12-31
+"Common Stocks, Including Additional Paid in Capital",151042000000,2015-12-31
+"Common Stocks, Including Additional Paid in Capital",147038000000,2016-12-31
+Retained Earnings (Accumulated Deficit),88219000000,2015-12-31
+Retained Earnings (Accumulated Deficit),101870000000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-5358000000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-7288000000,2016-12-31
+Stockholders' Equity Attributable to Parent,232475000000,2013-12-31
+Stockholders' Equity Attributable to Parent,243476000000,2014-12-31
+Stockholders' Equity Attributable to Parent,256176000000,2015-12-31
+Stockholders' Equity Attributable to Parent,266840000000,2016-12-31
+Liabilities and Equity,2144287000000,2015-12-31
+Liabilities and Equity,2187702000000,2016-12-31

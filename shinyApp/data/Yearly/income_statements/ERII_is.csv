@@ -1,0 +1,154 @@
+Metric,Amount,endDate
+Product revenue,30426000,2014-12-31
+Product revenue,5864000,2015-03-31
+Product revenue,43671000,2015-12-31
+Product revenue,10484000,2015-06-30
+Product revenue,12112000,2015-09-30
+Product revenue,15211000,2015-12-31
+Product revenue,10051000,2016-03-31
+Product revenue,49715000,2016-12-31
+Product revenue,11973000,2016-06-30
+Product revenue,11024000,2016-09-30
+Product revenue,16667000,2016-12-31
+Product cost of revenue,13713000,2014-12-31
+Product cost of revenue,2531000,2015-03-31
+Product cost of revenue,19111000,2015-12-31
+Product cost of revenue,4836000,2015-06-30
+Product cost of revenue,4948000,2015-09-30
+Product cost of revenue,6796000,2015-12-31
+Product cost of revenue,3674000,2016-03-31
+Product cost of revenue,17849000,2016-12-31
+Product cost of revenue,4236000,2016-06-30
+Product cost of revenue,3968000,2016-09-30
+Product cost of revenue,5971000,2016-12-31
+Product gross profit,16713000,2014-12-31
+Product gross profit,3333000,2015-03-31
+Product gross profit,24560000,2015-12-31
+Product gross profit,5648000,2015-06-30
+Product gross profit,7164000,2015-09-30
+Product gross profit,8415000,2015-12-31
+Product gross profit,6377000,2016-03-31
+Product gross profit,31866000,2016-12-31
+Product gross profit,7737000,2016-06-30
+Product gross profit,7056000,2016-09-30
+Product gross profit,10696000,2016-12-31
+License and development revenue,0,2014-12-31
+License and development revenue,,2015-03-31
+License and development revenue,1042000,2015-12-31
+License and development revenue,,2015-06-30
+License and development revenue,,2015-09-30
+License and development revenue,1042000,2015-12-31
+License and development revenue,1250000,2016-03-31
+License and development revenue,5000000,2016-12-31
+License and development revenue,1250000,2016-06-30
+License and development revenue,1250000,2016-09-30
+License and development revenue,1250000,2016-12-31
+General and administrative,14139000,2014-12-31
+General and administrative,6278000,2015-03-31
+General and administrative,19773000,2015-12-31
+General and administrative,5362000,2015-06-30
+General and administrative,3590000,2015-09-30
+General and administrative,4543000,2015-12-31
+General and administrative,4884000,2016-03-31
+General and administrative,16626000,2016-12-31
+General and administrative,3992000,2016-06-30
+General and administrative,3971000,2016-09-30
+General and administrative,3779000,2016-12-31
+Sales and marketing,10525000,2014-12-31
+Sales and marketing,2433000,2015-03-31
+Sales and marketing,9326000,2015-12-31
+Sales and marketing,1994000,2015-06-30
+Sales and marketing,2195000,2015-09-30
+Sales and marketing,2704000,2015-12-31
+Sales and marketing,2070000,2016-03-31
+Sales and marketing,9116000,2016-12-31
+Sales and marketing,1935000,2016-06-30
+Sales and marketing,2512000,2016-09-30
+Sales and marketing,2599000,2016-12-31
+Research and development,9690000,2014-12-31
+Research and development,2533000,2015-03-31
+Research and development,7659000,2015-12-31
+Research and development,1410000,2015-06-30
+Research and development,1474000,2015-09-30
+Research and development,2242000,2015-12-31
+Research and development,2665000,2016-03-31
+Research and development,10136000,2016-12-31
+Research and development,2422000,2016-06-30
+Research and development,2319000,2016-09-30
+Research and development,2730000,2016-12-31
+Amortization of intangibles,842000,2014-12-31
+Amortization of intangibles,159000,2015-03-31
+Amortization of intangibles,635000,2015-12-31
+Amortization of intangibles,158000,2015-06-30
+Amortization of intangibles,159000,2015-09-30
+Amortization of intangibles,159000,2015-12-31
+Amortization of intangibles,157000,2016-03-31
+Amortization of intangibles,631000,2016-12-31
+Amortization of intangibles,158000,2016-06-30
+Amortization of intangibles,158000,2016-09-30
+Amortization of intangibles,158000,2016-12-31
+Operating expenses,35196000,2014-12-31
+Operating expenses,37393000,2015-12-31
+Operating expenses,36509000,2016-12-31
+Operating income (loss),-18483000,2014-12-31
+Operating income (loss),-8070000,2015-03-31
+Operating income (loss),-11791000,2015-12-31
+Operating income (loss),-3276000,2015-06-30
+Operating income (loss),-254000,2015-09-30
+Operating income (loss),-191000,2015-12-31
+Operating income (loss),-2149000,2016-03-31
+Operating income (loss),357000,2016-12-31
+Operating income (loss),480000,2016-06-30
+Operating income (loss),-654000,2016-09-30
+Operating income (loss),2680000,2016-12-31
+us-gaap_InterestExpense,,2014-12-31
+us-gaap_InterestExpense,42000,2015-12-31
+us-gaap_InterestExpense,3000,2016-12-31
+Other non-operating income (expense),69000,2014-12-31
+Other non-operating income (expense),-139000,2015-12-31
+Other non-operating income (expense),290000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-18414000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-11972000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,644000,2016-12-31
+(Benefit from) provision for income taxes,291000,2014-12-31
+(Benefit from) provision for income taxes,-334000,2015-12-31
+(Benefit from) provision for income taxes,-390000,2016-12-31
+Net income (loss),-18705000,2014-12-31
+Net income (loss),-8283000,2015-03-31
+Net income (loss),-11638000,2015-12-31
+Net income (loss),-3327000,2015-06-30
+Net income (loss),-340000,2015-09-30
+Net income (loss),312000,2015-12-31
+Net income (loss),-1966000,2016-03-31
+Net income (loss),1034000,2016-12-31
+Net income (loss),456000,2016-06-30
+Net income (loss),-579000,2016-09-30
+Net income (loss),3123000,2016-12-31
+Net income (loss) per share - basic (in dollars per share),-0.36,2014-12-31
+Net income (loss) per share - basic (in dollars per share),-0.16,2015-03-31
+Net income (loss) per share - basic (in dollars per share),-0.22,2015-12-31
+Net income (loss) per share - basic (in dollars per share),-0.06,2015-06-30
+Net income (loss) per share - basic (in dollars per share),-0.01,2015-09-30
+Net income (loss) per share - basic (in dollars per share),0.01,2015-12-31
+Net income (loss) per share - basic (in dollars per share),-0.04,2016-03-31
+Net income (loss) per share - basic (in dollars per share),0.02,2016-12-31
+Net income (loss) per share - basic (in dollars per share),0.01,2016-06-30
+Net income (loss) per share - basic (in dollars per share),-0.01,2016-09-30
+Net income (loss) per share - basic (in dollars per share),0.06,2016-12-31
+Net income (loss) per share - diluted (in dollars per share),-0.36,2014-12-31
+Net income (loss) per share - diluted (in dollars per share),-0.16,2015-03-31
+Net income (loss) per share - diluted (in dollars per share),-0.22,2015-12-31
+Net income (loss) per share - diluted (in dollars per share),-0.06,2015-06-30
+Net income (loss) per share - diluted (in dollars per share),-0.01,2015-09-30
+Net income (loss) per share - diluted (in dollars per share),0.01,2015-12-31
+Net income (loss) per share - diluted (in dollars per share),-0.04,2016-03-31
+Net income (loss) per share - diluted (in dollars per share),0.02,2016-12-31
+Net income (loss) per share - diluted (in dollars per share),0.01,2016-06-30
+Net income (loss) per share - diluted (in dollars per share),-0.01,2016-09-30
+Net income (loss) per share - diluted (in dollars per share),0.06,2016-12-31
+Basic weighted average common shares outstanding (in shares),51675000,2014-12-31
+Basic weighted average common shares outstanding (in shares),52151000,2015-12-31
+Basic weighted average common shares outstanding (in shares),52341000,2016-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,51675000,2014-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,52151000,2015-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,55451000,2016-12-31

@@ -1,0 +1,85 @@
+Metric,Amount,endDate
+Net revenues,756345000,2014-06-29
+Net revenues,1121506000,2015-06-28
+Net revenues,1173024000,2016-07-03
+Cost of revenues,440672000,2014-06-29
+Cost of revenues,634311000,2015-06-28
+Cost of revenues,655566000,2016-07-03
+us-gaap_GrossProfit,315673000,2014-06-29
+us-gaap_GrossProfit,487195000,2015-06-28
+us-gaap_GrossProfit,517458000,2016-07-03
+Marketing and sales,194847000,2014-06-29
+Marketing and sales,299801000,2015-06-28
+Marketing and sales,318175000,2016-07-03
+Technology and development,22518000,2014-06-29
+Technology and development,34745000,2015-06-28
+Technology and development,39234000,2016-07-03
+General and administrative,54754000,2014-06-29
+General and administrative,85908000,2015-06-28
+General and administrative,84383000,2016-07-03
+Depreciation and amortization,19848000,2014-06-29
+Depreciation and amortization,29124000,2015-06-28
+Depreciation and amortization,32384000,2016-07-03
+us-gaap_OperatingExpenses,291967000,2014-06-29
+us-gaap_OperatingExpenses,449578000,2015-06-28
+us-gaap_OperatingExpenses,474176000,2016-07-03
+us-gaap_OperatingIncomeLoss,23706000,2014-06-29
+us-gaap_OperatingIncomeLoss,37617000,2015-06-28
+us-gaap_OperatingIncomeLoss,43282000,2016-07-03
+us-gaap_InterestIncomeExpenseNonoperatingNet,-1305000,2014-06-29
+us-gaap_InterestIncomeExpenseNonoperatingNet,-5753000,2015-06-28
+us-gaap_InterestIncomeExpenseNonoperatingNet,-6674000,2016-07-03
+us-gaap_OtherNonoperatingIncomeExpense,-52000,2014-06-29
+us-gaap_OtherNonoperatingIncomeExpense,-1550000,2015-06-28
+us-gaap_OtherNonoperatingIncomeExpense,14839000,2016-07-03
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,22349000,2014-06-29
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,30314000,2015-06-28
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,51447000,2016-07-03
+Income tax expense from continuing operations,8403000,2014-06-29
+Income tax expense from continuing operations,10930000,2015-06-28
+Income tax expense from continuing operations,15579000,2016-07-03
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,13946000,2014-06-29
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,19384000,2015-06-28
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,35868000,2016-07-03
+"Loss from discontinued operations, net of tax",-86000,2014-06-29
+"Loss from discontinued operations, net of tax",,2015-06-28
+"Loss from discontinued operations, net of tax",,2016-07-03
+"Gain on sale of discontinued operations, net of tax",815000,2014-06-29
+"Gain on sale of discontinued operations, net of tax",,2015-06-28
+"Gain on sale of discontinued operations, net of tax",,2016-07-03
+"Income from discontinued operations, net of tax",729000,2014-06-29
+"Income from discontinued operations, net of tax",,2015-06-28
+"Income from discontinued operations, net of tax",,2016-07-03
+Net income,14675000,2014-06-29
+Net income,19384000,2015-06-28
+Net income,35868000,2016-07-03
+Net loss attributable to noncontrolling interest,-697000,2014-06-29
+Net loss attributable to noncontrolling interest,-903000,2015-06-28
+Net loss attributable to noncontrolling interest,-1007000,2016-07-03
+"Net income attributable to 1-800-FLOWERS.COM, Inc.",15372000,2014-06-29
+"Net income attributable to 1-800-FLOWERS.COM, Inc.",20287000,2015-06-28
+"Net income attributable to 1-800-FLOWERS.COM, Inc.",36875000,2016-07-03
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.23,2014-06-29
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.31,2015-06-28
+us-gaap_IncomeLossFromContinuingOperationsPerBasicShare,0.57,2016-07-03
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,0.01,2014-06-29
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2015-06-28
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicShare,,2016-07-03
+us-gaap_EarningsPerShareBasic,0.24,2014-06-29
+us-gaap_EarningsPerShareBasic,0.31,2015-06-28
+us-gaap_EarningsPerShareBasic,0.57,2016-07-03
+From continuing operations (in dollars per share),0.22,2014-06-29
+From continuing operations (in dollars per share),0.30,2015-06-28
+From continuing operations (in dollars per share),0.55,2016-07-03
+From discontinued operations (in dollars per share),0.01,2014-06-29
+From discontinued operations (in dollars per share),,2015-06-28
+From discontinued operations (in dollars per share),,2016-07-03
+us-gaap_EarningsPerShareDiluted,0.23,2014-06-29
+us-gaap_EarningsPerShareDiluted,0.30,2015-06-28
+us-gaap_EarningsPerShareDiluted,0.55,2016-07-03
+Basic (in shares),64035000,2014-06-29
+Basic (in shares),64976000,2015-06-28
+Basic (in shares),64896000,2016-07-03
+Diluted (in shares),66460000,2014-06-29
+Diluted (in shares),67602000,2015-06-28
+Diluted (in shares),67083000,2016-07-03

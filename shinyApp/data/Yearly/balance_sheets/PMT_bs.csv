@@ -1,0 +1,132 @@
+Metric,Amount,endDate
+Cash,27411000,2013-12-31
+Cash,76386000,2014-12-31
+Cash,58108000,2015-12-31
+Cash,34476000,2016-12-31
+Short Term Investments,44949000,2015-03-31
+Short Term Investments,32417000,2015-06-30
+Short Term Investments,31518000,2015-09-30
+Short Term Investments,41865000,2015-12-31
+Short Term Investments,47500000,2016-03-31
+Short Term Investments,16877000,2016-06-30
+Short Term Investments,33353000,2016-09-30
+Short Term Investments,122088000,2016-12-31
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,316292000,2015-03-31
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,287626000,2015-06-30
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,315599000,2015-09-30
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,322473000,2015-12-31
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,364439000,2016-03-31
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,531612000,2016-06-30
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,708862000,2016-09-30
+Financial Instruments Owned Mortgages Mortgage Backed And Asset Backed Securities At Fair Value,865061000,2016-12-31
+Mortgages Held For Sale Fair Value Disclosure,1283795000,2015-12-31
+Mortgages Held For Sale Fair Value Disclosure,1673112000,2016-12-31
+Mortgage Loans On Real Estate,2555788000,2015-12-31
+Mortgage Loans On Real Estate,1721741000,2016-12-31
+Excess Spread Investment,222309000,2015-03-31
+Excess Spread Investment,359102000,2015-06-30
+Excess Spread Investment,418573000,2015-09-30
+Excess Spread Investment,412425000,2015-12-31
+Excess Spread Investment,321976000,2016-03-31
+Excess Spread Investment,294551000,2016-06-30
+Excess Spread Investment,280367000,2016-09-30
+Excess Spread Investment,288669000,2016-12-31
+Derivative Assets,10085000,2015-12-31
+Derivative Assets,33709000,2016-12-31
+Real Estate Acquired Through Foreclosure,138942000,2013-12-31
+Real Estate Acquired Through Foreclosure,303228000,2014-12-31
+Real Estate Acquired Through Foreclosure,341846000,2015-12-31
+Real Estate Acquired Through Foreclosure,274069000,2016-12-31
+Real Estate Investments,8796000,2015-12-31
+Real Estate Investments,29324000,2016-12-31
+Servicing Asset,459741000,2015-12-31
+Servicing Asset,656567000,2016-12-31
+Servicing Advances,88010000,2015-12-31
+Servicing Advances,76950000,2016-12-31
+Deposits Assets,147000000,2015-12-31
+Deposits Assets,450059000,2016-12-31
+Other Assets,88186000,2015-12-31
+Other Assets,124586000,2016-12-31
+Assets,4897258000,2014-12-31
+Assets,5730527000,2015-03-31
+Assets,6677374000,2015-06-30
+Assets,5592231000,2015-09-30
+Assets,5826924000,2015-12-31
+Assets,5820440000,2016-03-31
+Assets,5767562000,2016-06-30
+Assets,6618901000,2016-09-30
+Assets,6357502000,2016-12-31
+Assets Sold Under Agreements To Repurchase Repurchase Liability,3128780000,2015-12-31
+Assets Sold Under Agreements To Repurchase Repurchase Liability,3784001000,2016-12-31
+Mortgage Loan Participation And Sale Agreement,0,2015-12-31
+Mortgage Loan Participation And Sale Agreement,25917000,2016-12-31
+Notes Payable,236015000,2015-12-31
+Notes Payable,275106000,2016-12-31
+Convertible Debt,244317000,2015-03-31
+Convertible Debt,244559000,2015-06-30
+Convertible Debt,244805000,2015-09-30
+Convertible Debt,245054000,2015-12-31
+Convertible Debt,245307000,2016-03-31
+Convertible Debt,245564000,2016-06-30
+Convertible Debt,245824000,2016-09-30
+Convertible Debt,246089000,2016-12-31
+Asset Backed Secured Financing Liability Fair Value,162222000,2015-03-31
+Asset Backed Secured Financing Liability Fair Value,151489000,2015-06-30
+Asset Backed Secured Financing Liability Fair Value,234287000,2015-09-30
+Asset Backed Secured Financing Liability Fair Value,247690000,2015-12-31
+Asset Backed Secured Financing Liability Fair Value,344693000,2016-03-31
+Asset Backed Secured Financing Liability Fair Value,325939000,2016-06-30
+Asset Backed Secured Financing Liability Fair Value,384407000,2016-09-30
+Asset Backed Secured Financing Liability Fair Value,353898000,2016-12-31
+Interest Only Security Payable At Fair Value,0,2015-12-31
+Interest Only Security Payable At Fair Value,4114000,2016-12-31
+Advances From Federal Home Loan Banks,0,2015-03-31
+Advances From Federal Home Loan Banks,138400000,2015-06-30
+Advances From Federal Home Loan Banks,183000000,2015-09-30
+Advances From Federal Home Loan Banks,183000000,2015-12-31
+Advances From Federal Home Loan Banks,0,2016-03-31
+Advances From Federal Home Loan Banks,0,2016-06-30
+Advances From Federal Home Loan Banks,0,2016-09-30
+Advances From Federal Home Loan Banks,0,2016-12-31
+Derivative Liabilities,3157000,2015-12-31
+Derivative Liabilities,9573000,2016-12-31
+Accounts Payable And Accrued Liabilities Current And Noncurrent,64474000,2015-12-31
+Accounts Payable And Accrued Liabilities Current And Noncurrent,107758000,2016-12-31
+Accrued Income Taxes,33505000,2015-12-31
+Accrued Income Taxes,18166000,2016-12-31
+Representations And Warranties Liability,10110000,2013-12-31
+Representations And Warranties Liability,14242000,2014-12-31
+Representations And Warranties Liability,20171000,2015-12-31
+Representations And Warranties Liability,15350000,2016-12-31
+Liabilities,4188368000,2015-03-31
+Liabilities,5152077000,2015-06-30
+Liabilities,4077801000,2015-09-30
+Liabilities,4330811000,2015-12-31
+Liabilities,4405937000,2016-03-31
+Liabilities,4406735000,2016-06-30
+Liabilities,5263983000,2016-09-30
+Liabilities,5006388000,2016-12-31
+Common Stock Value,738000,2015-12-31
+Common Stock Value,667000,2016-12-31
+Additional Paid In Capital Common Stock,1469722000,2015-12-31
+Additional Paid In Capital Common Stock,1377171000,2016-12-31
+Retained Earnings Accumulated Deficit,25653000,2015-12-31
+Retained Earnings Accumulated Deficit,-26724000,2016-12-31
+Stockholders Equity,1467114000,2013-12-31
+Stockholders Equity,1578172000,2014-12-31
+Stockholders Equity,1542159000,2015-03-31
+Stockholders Equity,1525297000,2015-06-30
+Stockholders Equity,1514430000,2015-09-30
+Stockholders Equity,1496113000,2015-12-31
+Stockholders Equity,1414503000,2016-03-31
+Stockholders Equity,1360827000,2016-06-30
+Stockholders Equity,1354918000,2016-09-30
+Stockholders Equity,1351114000,2016-12-31
+Liabilities And Stockholders Equity,5730527000,2015-03-31
+Liabilities And Stockholders Equity,6677374000,2015-06-30
+Liabilities And Stockholders Equity,5592231000,2015-09-30
+Liabilities And Stockholders Equity,5826924000,2015-12-31
+Liabilities And Stockholders Equity,5820440000,2016-03-31
+Liabilities And Stockholders Equity,5767562000,2016-06-30
+Liabilities And Stockholders Equity,6618901000,2016-09-30
+Liabilities And Stockholders Equity,6357502000,2016-12-31

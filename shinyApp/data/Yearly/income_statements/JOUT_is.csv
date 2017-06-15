@@ -1,0 +1,98 @@
+Metric,Amount,endDate
+Net sales,85298000,2016-01-01
+Net sales,433727000,2016-09-30
+Net sales,430489000,2015-10-02
+Net sales,70822000,2015-01-02
+Net sales,134192000,2016-04-01
+Net sales,133111000,2015-04-03
+Net sales,139300000,2016-07-01
+Net sales,140883000,2015-07-03
+Net sales,74937000,2016-09-30
+Net sales,85673000,2015-10-02
+Net sales,425410000,2014-10-03
+Cost of Goods Sold,257265000,2016-09-30
+Cost of Goods Sold,258756000,2015-10-02
+Cost of Goods Sold,256797000,2014-10-03
+Gross profit,33299000,2016-01-01
+Gross profit,176462000,2016-09-30
+Gross profit,171733000,2015-10-02
+Gross profit,27334000,2015-01-02
+Gross profit,54995000,2016-04-01
+Gross profit,51936000,2015-04-03
+Gross profit,59283000,2016-07-01
+Gross profit,58752000,2015-07-03
+Gross profit,28885000,2016-09-30
+Gross profit,33711000,2015-10-02
+Gross profit,168613000,2014-10-03
+Marketing and selling,90690000,2016-09-30
+Marketing and selling,93707000,2015-10-02
+Marketing and selling,87902000,2014-10-03
+"Administrative management, finance and information systems",38251000,2016-09-30
+"Administrative management, finance and information systems",43690000,2015-10-02
+"Administrative management, finance and information systems",39078000,2014-10-03
+Goodwill and Intangible Asset Impairment,6197000,2016-09-30
+Goodwill and Intangible Asset Impairment,8475000,2014-10-03
+Research and development,18430000,2016-09-30
+Research and development,16483000,2015-10-02
+Research and development,16467000,2014-10-03
+Total operating expenses,153568000,2016-09-30
+Total operating expenses,153880000,2015-10-02
+Total operating expenses,151922000,2014-10-03
+Operating loss,-900000,2016-01-01
+Operating loss,22894000,2016-09-30
+Operating loss,17853000,2015-10-02
+Operating loss,-7331000,2015-01-02
+Operating loss,15138000,2016-04-01
+Operating loss,7623000,2015-04-03
+Operating loss,13583000,2016-07-01
+Operating loss,16421000,2015-07-03
+Operating loss,-4927000,2016-09-30
+Operating loss,1140000,2015-10-02
+Operating loss,16691000,2014-10-03
+Interest income,81000,2016-09-30
+Interest income,64000,2015-10-02
+Interest income,85000,2014-10-03
+Interest expense,727000,2016-09-30
+Interest expense,865000,2015-10-02
+Interest expense,788000,2014-10-03
+"Other expense (income), net",1407000,2016-09-30
+"Other expense (income), net",-1299000,2015-10-02
+"Other expense (income), net",1434000,2014-10-03
+Loss before income taxes,-519000,2016-01-01
+Loss before income taxes,23655000,2016-09-30
+Loss before income taxes,15753000,2015-10-02
+Loss before income taxes,-6924000,2015-01-02
+Loss before income taxes,14669000,2016-04-01
+Loss before income taxes,6820000,2015-04-03
+Loss before income taxes,13865000,2016-07-01
+Loss before income taxes,16101000,2015-07-03
+Loss before income taxes,-4360000,2016-09-30
+Loss before income taxes,-244000,2015-10-02
+Loss before income taxes,17422000,2014-10-03
+Income tax benefit,15000,2016-01-01
+Income tax benefit,10154000,2016-09-30
+Income tax benefit,5137000,2015-10-02
+Income tax benefit,-2730000,2015-01-02
+Income tax benefit,5348000,2016-04-01
+Income tax benefit,3174000,2015-04-03
+Income tax benefit,7024000,2016-07-01
+Income tax benefit,6104000,2015-07-03
+Income tax benefit,-2233000,2016-09-30
+Income tax benefit,-1411000,2015-10-02
+Income tax benefit,8299000,2014-10-03
+Net income (loss),-534000,2016-01-01
+Net income (loss),13501000,2016-09-30
+Net income (loss),10616000,2015-10-02
+Net income (loss),-4194000,2015-01-02
+Net income (loss),9321000,2016-04-01
+Net income (loss),3646000,2015-04-03
+Net income (loss),6841000,2016-07-01
+Net income (loss),9997000,2015-07-03
+Net income (loss),-2127000,2016-09-30
+Net income (loss),1167000,2015-10-02
+Net income (loss),9123000,2014-10-03
+Incremental Common Shares Attributable to Share-based Payment Arrangements,16000,2016-09-30
+Incremental Common Shares Attributable to Share-based Payment Arrangements,3000,2014-10-03
+Weighted average common shares - Dilutive,9855000,2016-09-30
+Weighted average common shares - Dilutive,9727000,2015-10-02
+Weighted average common shares - Dilutive,9635000,2014-10-03

@@ -1,0 +1,180 @@
+Metric,Amount,endDate
+Sales Revenue Goods Net,129333000,2014-12-31
+Sales Revenue Goods Net,353041000,2015-12-31
+Sales Revenue Goods Net,193618000,2016-12-31
+Sales Revenue Services Net,61955000,2014-12-31
+Sales Revenue Services Net,136518000,2015-12-31
+Sales Revenue Services Net,117390000,2016-12-31
+Sales Revenue Net,191288000,2014-12-31
+Sales Revenue Net,143640000,2015-03-31
+Sales Revenue Net,489559000,2015-12-31
+Sales Revenue Net,77167000,2015-06-30
+Sales Revenue Net,69505000,2015-09-30
+Sales Revenue Net,199247000,2015-12-31
+Sales Revenue Net,48620000,2016-03-31
+Sales Revenue Net,311008000,2016-12-31
+Sales Revenue Net,121952000,2016-06-30
+Sales Revenue Net,74186000,2016-09-30
+Sales Revenue Net,66250000,2016-12-31
+Cost Of Goods Sold,77158000,2014-12-31
+Cost Of Goods Sold,202430000,2015-12-31
+Cost Of Goods Sold,106583000,2016-12-31
+Cost Of Services,57793000,2014-12-31
+Cost Of Services,61386000,2015-12-31
+Cost Of Services,66226000,2016-12-31
+Cost Of Revenue,134951000,2014-12-31
+Cost Of Revenue,72185000,2015-03-31
+Cost Of Revenue,263816000,2015-12-31
+Cost Of Revenue,57211000,2015-06-30
+Cost Of Revenue,36518000,2015-09-30
+Cost Of Revenue,97902000,2015-12-31
+Cost Of Revenue,31623000,2016-03-31
+Cost Of Revenue,172809000,2016-12-31
+Cost Of Revenue,57409000,2016-06-30
+Cost Of Revenue,45944000,2016-09-30
+Cost Of Revenue,37833000,2016-12-31
+Gross Profit,56337000,2014-12-31
+Gross Profit,71455000,2015-03-31
+Gross Profit,225743000,2015-12-31
+Gross Profit,19956000,2015-06-30
+Gross Profit,32987000,2015-09-30
+Gross Profit,101345000,2015-12-31
+Gross Profit,16997000,2016-03-31
+Gross Profit,138199000,2016-12-31
+Gross Profit,64543000,2016-06-30
+Gross Profit,28242000,2016-09-30
+Gross Profit,28417000,2016-12-31
+Research And Development Expense,64771000,2014-12-31
+Research And Development Expense,61295000,2015-12-31
+Research And Development Expense,70673000,2016-12-31
+Selling And Marketing Expense,36388000,2014-12-31
+Selling And Marketing Expense,33452000,2015-12-31
+Selling And Marketing Expense,39406000,2016-12-31
+General And Administrative Expense,41260000,2014-12-31
+General And Administrative Expense,46372000,2015-12-31
+General And Administrative Expense,45801000,2016-12-31
+Impairment Of Intangible Assets Finitelived,0,2014-12-31
+Impairment Of Intangible Assets Finitelived,0,2015-12-31
+Impairment Of Intangible Assets Finitelived,2204000,2016-12-31
+Restructuring Charges,1789000,2014-12-31
+Restructuring Charges,1671000,2015-12-31
+Restructuring Charges,39000,2016-12-31
+Operating Expenses,144208000,2014-12-31
+Operating Expenses,37314000,2015-03-31
+Operating Expenses,142790000,2015-12-31
+Operating Expenses,36495000,2015-06-30
+Operating Expenses,33381000,2015-09-30
+Operating Expenses,35600000,2015-12-31
+Operating Expenses,35920000,2016-03-31
+Operating Expenses,158123000,2016-12-31
+Operating Expenses,37794000,2016-06-30
+Operating Expenses,42461000,2016-09-30
+Operating Expenses,41948000,2016-12-31
+Operating Income Loss,-87871000,2014-12-31
+Operating Income Loss,34141000,2015-03-31
+Operating Income Loss,82953000,2015-12-31
+Operating Income Loss,-16539000,2015-06-30
+Operating Income Loss,-394000,2015-09-30
+Operating Income Loss,65745000,2015-12-31
+Operating Income Loss,-18923000,2016-03-31
+Operating Income Loss,-19924000,2016-12-31
+Operating Income Loss,26749000,2016-06-30
+Operating Income Loss,-14219000,2016-09-30
+Operating Income Loss,-13531000,2016-12-31
+Investment Income Interest,316000,2014-12-31
+Investment Income Interest,468000,2015-12-31
+Investment Income Interest,470000,2016-12-31
+Interest Expense,132000,2014-12-31
+Interest Expense,52000,2015-12-31
+Interest Expense,7000,2016-12-31
+Other Nonoperating Income Expense,-61000,2014-12-31
+Other Nonoperating Income Expense,-312000,2015-12-31
+Other Nonoperating Income Expense,207000,2016-12-31
+Nonoperating Income Expense,123000,2014-12-31
+Nonoperating Income Expense,288000,2015-03-31
+Nonoperating Income Expense,104000,2015-12-31
+Nonoperating Income Expense,74000,2015-06-30
+Nonoperating Income Expense,-99000,2015-09-30
+Nonoperating Income Expense,-159000,2015-12-31
+Nonoperating Income Expense,441000,2016-03-31
+Nonoperating Income Expense,670000,2016-12-31
+Nonoperating Income Expense,333000,2016-06-30
+Nonoperating Income Expense,113000,2016-09-30
+Nonoperating Income Expense,-217000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-87748000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,34429000,2015-03-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,83057000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-16465000,2015-06-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-493000,2015-09-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,65586000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-18482000,2016-03-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-19254000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,27082000,2016-06-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-14106000,2016-09-30
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,-13748000,2016-12-31
+Income Tax Expense Benefit,1422000,2014-12-31
+Income Tax Expense Benefit,-476000,2015-03-31
+Income Tax Expense Benefit,3071000,2015-12-31
+Income Tax Expense Benefit,-290000,2015-06-30
+Income Tax Expense Benefit,129000,2015-09-30
+Income Tax Expense Benefit,3708000,2015-12-31
+Income Tax Expense Benefit,32000,2016-03-31
+Income Tax Expense Benefit,2375000,2016-12-31
+Income Tax Expense Benefit,961000,2016-06-30
+Income Tax Expense Benefit,1143000,2016-09-30
+Income Tax Expense Benefit,239000,2016-12-31
+Net Income Loss,-89170000,2014-12-31
+Net Income Loss,34905000,2015-03-31
+Net Income Loss,79986000,2015-12-31
+Net Income Loss,-16175000,2015-06-30
+Net Income Loss,-622000,2015-09-30
+Net Income Loss,61878000,2015-12-31
+Net Income Loss,-18514000,2016-03-31
+Net Income Loss,-21629000,2016-12-31
+Net Income Loss,26121000,2016-06-30
+Net Income Loss,-15249000,2016-09-30
+Net Income Loss,-13987000,2016-12-31
+Earnings Per Share Basic,-1.84,2014-12-31
+Earnings Per Share Basic,0.71,2015-03-31
+Earnings Per Share Basic,1.60,2015-12-31
+Earnings Per Share Basic,-0.32,2015-06-30
+Earnings Per Share Basic,-0.01,2015-09-30
+Earnings Per Share Basic,1.23,2015-12-31
+Earnings Per Share Basic,-0.36,2016-03-31
+Earnings Per Share Basic,-0.42,2016-12-31
+Earnings Per Share Basic,0.51,2016-06-30
+Earnings Per Share Basic,-0.29,2016-09-30
+Earnings Per Share Basic,-0.27,2016-12-31
+Earnings Per Share Diluted,-1.84,2014-12-31
+Earnings Per Share Diluted,0.69,2015-03-31
+Earnings Per Share Diluted,1.55,2015-12-31
+Earnings Per Share Diluted,-0.32,2015-06-30
+Earnings Per Share Diluted,-0.01,2015-09-30
+Earnings Per Share Diluted,1.19,2015-12-31
+Earnings Per Share Diluted,-0.36,2016-03-31
+Earnings Per Share Diluted,-0.42,2016-12-31
+Earnings Per Share Diluted,0.50,2016-06-30
+Earnings Per Share Diluted,-0.29,2016-09-30
+Earnings Per Share Diluted,-0.27,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,48377000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,49306000,2015-03-31
+Weighted Average Number Of Shares Outstanding Basic,49963000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,49862000,2015-06-30
+Weighted Average Number Of Shares Outstanding Basic,50188000,2015-09-30
+Weighted Average Number Of Shares Outstanding Basic,50481000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,50760000,2016-03-31
+Weighted Average Number Of Shares Outstanding Basic,51444000,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,51224000,2016-06-30
+Weighted Average Number Of Shares Outstanding Basic,51743000,2016-09-30
+Weighted Average Number Of Shares Outstanding Basic,52039000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,48377000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,50899000,2015-03-31
+Weighted Average Number Of Diluted Shares Outstanding,51524000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,49862000,2015-06-30
+Weighted Average Number Of Diluted Shares Outstanding,50188000,2015-09-30
+Weighted Average Number Of Diluted Shares Outstanding,52167000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,50760000,2016-03-31
+Weighted Average Number Of Diluted Shares Outstanding,51444000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,52766000,2016-06-30
+Weighted Average Number Of Diluted Shares Outstanding,51743000,2016-09-30
+Weighted Average Number Of Diluted Shares Outstanding,52039000,2016-12-31

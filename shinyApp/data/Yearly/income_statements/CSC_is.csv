@@ -1,0 +1,79 @@
+Metric,Amount,endDate
+Revenues,8117000000,2015-04-03
+Revenues,7106000000,2016-04-01
+Revenues,7607000000,2017-03-31
+Cost of Services,6159000000,2015-04-03
+Cost of Services,5185000000,2016-04-01
+Cost of Services,5545000000,2017-03-31
+"Selling, General and Administrative Expense",1220000000,2015-04-03
+"Selling, General and Administrative Expense",1040000000,2016-04-01
+"Selling, General and Administrative Expense",1279000000,2017-03-31
+"Litigation Settlement, Amount",-197000000,2015-04-03
+"Litigation Settlement, Amount",0,2016-04-01
+"Litigation Settlement, Amount",0,2017-03-31
+"Depreciation, Depletion and Amortization, Nonproduction",840000000,2015-04-03
+"Depreciation, Depletion and Amortization, Nonproduction",658000000,2016-04-01
+"Depreciation, Depletion and Amortization, Nonproduction",647000000,2017-03-31
+Restructuring Charges,256000000,2015-04-03
+Restructuring Charges,23000000,2016-04-01
+Restructuring Charges,238000000,2017-03-31
+Spinoff Costs,0,2015-04-03
+Spinoff Costs,19000000,2016-04-01
+Spinoff Costs,0,2017-03-31
+Interest Expense,126000000,2015-04-03
+Interest Expense,123000000,2016-04-01
+Interest Expense,117000000,2017-03-31
+"Interest Income, Operating",20000000,2015-04-03
+"Interest Income, Operating",38000000,2016-04-01
+"Interest Income, Operating",35000000,2017-03-31
+Gain (Loss) on Extinguishment of Debt,0,2015-04-03
+Gain (Loss) on Extinguishment of Debt,-95000000,2016-04-01
+Gain (Loss) on Extinguishment of Debt,0,2017-03-31
+"Other Operating Income (Expense), Net",-10000000,2015-04-03
+"Other Operating Income (Expense), Net",9000000,2016-04-01
+"Other Operating Income (Expense), Net",10000000,2017-03-31
+Operating Expenses,8788000000,2015-04-03
+Operating Expenses,7096000000,2016-04-01
+Operating Expenses,7781000000,2017-03-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-671000000,2015-04-03
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",10000000,2016-04-01
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-174000000,2017-03-31
+Income Tax Expense (Benefit),-464000000,2015-04-03
+Income Tax Expense (Benefit),-62000000,2016-04-01
+Income Tax Expense (Benefit),-74000000,2017-03-31
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-207000000,2015-04-03
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",72000000,2016-04-01
+"Income (Loss) from Continuing Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-100000000,2017-03-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",224000000,2015-04-03
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",191000000,2016-04-01
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2017-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",17000000,2015-04-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",263000000,2016-04-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-100000000,2017-03-31
+Net Income (Loss) Attributable to Noncontrolling Interest,15000000,2015-04-03
+Net Income (Loss) Attributable to Noncontrolling Interest,12000000,2016-04-01
+Net Income (Loss) Attributable to Noncontrolling Interest,23000000,2017-03-31
+Net Income (Loss) Attributable to Parent,2000000,2015-04-03
+Net Income (Loss) Attributable to Parent,251000000,2016-04-01
+Net Income (Loss) Attributable to Parent,-123000000,2017-03-31
+"Income (Loss) from Continuing Operations, Per Basic Share",-1.45,2015-04-03
+"Income (Loss) from Continuing Operations, Per Basic Share",0.51,2016-04-01
+"Income (Loss) from Continuing Operations, Per Basic Share",-0.88,2017-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",1.46,2015-04-03
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",1.31,2016-04-01
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",0.00,2017-03-31
+"Earnings Per Share, Basic",0.01,2015-04-03
+"Earnings Per Share, Basic",1.82,2016-04-01
+"Earnings Per Share, Basic",-0.88,2017-03-31
+"Income (Loss) from Continuing Operations, Per Diluted Share",-1.45,2015-04-03
+"Income (Loss) from Continuing Operations, Per Diluted Share",0.50,2016-04-01
+"Income (Loss) from Continuing Operations, Per Diluted Share",-0.88,2017-03-31
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",1.46,2015-04-03
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",1.28,2016-04-01
+"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",0.00,2017-03-31
+"Earnings Per Share, Diluted",0.01,2015-04-03
+"Earnings Per Share, Diluted",1.78,2016-04-01
+"Earnings Per Share, Diluted",-0.88,2017-03-31
+"Common Stock, Dividends, Per Share, Declared",0.92,2015-04-03
+"Common Stock, Dividends, Per Share, Declared",2.99,2016-04-01
+"Common Stock, Dividends, Per Share, Declared",0.56,2017-03-31

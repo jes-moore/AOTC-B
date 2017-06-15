@@ -1,0 +1,111 @@
+Metric,Amount,endDate
+Revenues,6866964000,2014-12-31
+Revenues,1120312000,2015-03-31
+Revenues,1765777000,2015-06-30
+Revenues,2622917000,2015-09-30
+Revenues,1736725000,2015-12-31
+Revenues,7245731000,2015-12-31
+Revenues,1207716000,2016-03-31
+Revenues,2179258000,2016-06-30
+Revenues,3170416000,2016-09-30
+Revenues,1797544000,2016-12-31
+Revenues,8354934000,2016-12-31
+Direct Operating Costs,4919969000,2014-12-31
+Direct Operating Costs,5196473000,2015-12-31
+Direct Operating Costs,6082708000,2016-12-31
+"Selling, General and Administrative Expense",1337316000,2014-12-31
+"Selling, General and Administrative Expense",1411855000,2015-12-31
+"Selling, General and Administrative Expense",1548450000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",368143000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",397241000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",403651000,2016-12-31
+"Goodwill, Impairment Loss",134961000,2014-12-31
+"Goodwill, Impairment Loss",0,2015-12-31
+"Goodwill, Impairment Loss",0,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",4494000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-845000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-124000,2016-12-31
+Other General Expense,103905000,2014-12-31
+Other General Expense,107945000,2015-12-31
+Other General Expense,125061000,2016-12-31
+Operating Income (Loss),7164000,2014-12-31
+Operating Income (Loss),-23935000,2015-03-31
+Operating Income (Loss),42245000,2015-06-30
+Operating Income (Loss),153510000,2015-09-30
+Operating Income (Loss),-40448000,2015-12-31
+Operating Income (Loss),131372000,2015-12-31
+Operating Income (Loss),-33290000,2016-03-31
+Operating Income (Loss),74159000,2016-06-30
+Operating Income (Loss),191286000,2016-09-30
+Operating Income (Loss),-37215000,2016-12-31
+Operating Income (Loss),194940000,2016-12-31
+Interest Expense,106312000,2014-12-31
+Interest Expense,102881000,2015-12-31
+Interest Expense,106506000,2016-12-31
+Gain (Loss) on Extinguishment of Debt,-188000,2014-12-31
+Gain (Loss) on Extinguishment of Debt,0,2015-12-31
+Gain (Loss) on Extinguishment of Debt,-14049000,2016-12-31
+Gain (Loss) on Extinguishment of Debt,-14049000,2016-12-31
+"Investment Income, Interest",3606000,2014-12-31
+"Investment Income, Interest",3528000,2015-12-31
+"Investment Income, Interest",2573000,2016-12-31
+Income (Loss) from Equity Method Investments,4166000,2014-12-31
+Income (Loss) from Equity Method Investments,1502000,2015-12-31
+Income (Loss) from Equity Method Investments,-17802000,2016-12-31
+Other Nonoperating Income (Expense),-8256000,2014-12-31
+Other Nonoperating Income (Expense),-27168000,2015-12-31
+Other Nonoperating Income (Expense),-10830000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-99820000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",6353000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",48326000,2016-12-31
+Income Tax Expense (Benefit),4630000,2014-12-31
+Income Tax Expense (Benefit),22122000,2015-12-31
+Income Tax Expense (Benefit),28029000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-104450000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-66526000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",20212000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",104382000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-73837000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-15769000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-55954000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",36461000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",132761000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-92971000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",20297000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-13643000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,16739000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,17355000,2016-12-31
+Net Income (Loss) Attributable to Parent,-90807000,2014-12-31
+Net Income (Loss) Attributable to Parent,-58279000,2015-03-31
+Net Income (Loss) Attributable to Parent,15056000,2015-06-30
+Net Income (Loss) Attributable to Parent,89049000,2015-09-30
+Net Income (Loss) Attributable to Parent,-78334000,2015-12-31
+Net Income (Loss) Attributable to Parent,-32508000,2015-12-31
+Net Income (Loss) Attributable to Parent,-44518000,2016-03-31
+Net Income (Loss) Attributable to Parent,37741000,2016-06-30
+Net Income (Loss) Attributable to Parent,111079000,2016-09-30
+Net Income (Loss) Attributable to Parent,-101360000,2016-12-31
+Net Income (Loss) Attributable to Parent,2942000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-0.49,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.33,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.23,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",198874019,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",200973485,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",202076243,2016-12-31
+Net Income (Loss) Attributable to Parent,-90807000,2014-12-31
+Net Income (Loss) Attributable to Parent,-58279000,2015-03-31
+Net Income (Loss) Attributable to Parent,15056000,2015-06-30
+Net Income (Loss) Attributable to Parent,89049000,2015-09-30
+Net Income (Loss) Attributable to Parent,-78334000,2015-12-31
+Net Income (Loss) Attributable to Parent,-32508000,2015-12-31
+Net Income (Loss) Attributable to Parent,-44518000,2016-03-31
+Net Income (Loss) Attributable to Parent,37741000,2016-06-30
+Net Income (Loss) Attributable to Parent,111079000,2016-09-30
+Net Income (Loss) Attributable to Parent,-101360000,2016-12-31
+Net Income (Loss) Attributable to Parent,2942000,2016-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",5660000,2014-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",33179000,2015-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",49952000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-96467000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-65687000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-47010000,2016-12-31

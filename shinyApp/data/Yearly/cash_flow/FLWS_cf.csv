@@ -1,0 +1,114 @@
+Metric,Amount,endDate
+Net income,14675000,2014-06-29
+Net income,19384000,2015-06-28
+Net income,35868000,2016-07-03
+us-gaap_DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,-1587000,2014-06-29
+us-gaap_DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,,2015-06-28
+us-gaap_DiscontinuedOperationIncomeLossFromDiscontinuedOperationBeforeIncomeTax,,2016-07-03
+us-gaap_DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,1300000,2014-06-29
+us-gaap_DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,,2015-06-28
+us-gaap_DiscontinuedOperationGainLossFromDisposalOfDiscontinuedOperationBeforeIncomeTax,,2016-07-03
+us-gaap_DepreciationDepletionAndAmortization,19848000,2014-06-29
+us-gaap_DepreciationDepletionAndAmortization,29124000,2015-06-28
+us-gaap_DepreciationDepletionAndAmortization,32384000,2016-07-03
+Amortization of deferred financing costs,306000,2014-06-29
+Amortization of deferred financing costs,1501000,2015-06-28
+Amortization of deferred financing costs,1791000,2016-07-03
+Deferred income taxes,1454000,2014-06-29
+Deferred income taxes,2471000,2015-06-28
+Deferred income taxes,-3000000,2016-07-03
+Foreign equity investment impairment,,2014-06-29
+Foreign equity investment impairment,,2015-06-28
+Foreign equity investment impairment,2278000,2016-07-03
+Loss on sale/impairment of iFlorist,,2014-06-29
+Loss on sale/impairment of iFlorist,,2015-06-28
+Loss on sale/impairment of iFlorist,1990000,2016-07-03
+Non-cash impact of write-offs related to warehouse fire,,2014-06-29
+Non-cash impact of write-offs related to warehouse fire,29522000,2015-06-28
+Non-cash impact of write-offs related to warehouse fire,,2016-07-03
+Bad debt expense,1656000,2014-06-29
+Bad debt expense,1295000,2015-06-28
+Bad debt expense,1278000,2016-07-03
+us-gaap_ShareBasedCompensation,4664000,2014-06-29
+us-gaap_ShareBasedCompensation,5962000,2015-06-28
+us-gaap_ShareBasedCompensation,6343000,2016-07-03
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,1837000,2014-06-29
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,2550000,2015-06-28
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,2400000,2016-07-03
+us-gaap_OtherNoncashIncomeExpense,-755000,2014-06-29
+us-gaap_OtherNoncashIncomeExpense,-1439000,2015-06-28
+us-gaap_OtherNoncashIncomeExpense,-517000,2016-07-03
+us-gaap_IncreaseDecreaseInAccountsReceivable,1893000,2014-06-29
+us-gaap_IncreaseDecreaseInAccountsReceivable,-8331000,2015-06-28
+us-gaap_IncreaseDecreaseInAccountsReceivable,4210000,2016-07-03
+us-gaap_IncreaseDecreaseInOtherReceivables,,2014-06-29
+us-gaap_IncreaseDecreaseInOtherReceivables,2979000,2015-06-28
+us-gaap_IncreaseDecreaseInOtherReceivables,-2979000,2016-07-03
+us-gaap_IncreaseDecreaseInInventories,2564000,2014-06-29
+us-gaap_IncreaseDecreaseInInventories,-26390000,2015-06-28
+us-gaap_IncreaseDecreaseInInventories,10216000,2016-07-03
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-436000,2014-06-29
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-8047000,2015-06-28
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,1560000,2016-07-03
+Accounts payable and accrued expenses,2660000,2014-06-29
+Accounts payable and accrued expenses,-2235000,2015-06-28
+Accounts payable and accrued expenses,-6429000,2016-07-03
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,262000,2014-06-29
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,1058000,2015-06-28
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,29000,2016-07-03
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,2355000,2014-06-29
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,1089000,2015-06-28
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,89000,2016-07-03
+us-gaap_NetCashProvidedByUsedInOperatingActivities,42539000,2014-06-29
+us-gaap_NetCashProvidedByUsedInOperatingActivities,125733000,2015-06-28
+us-gaap_NetCashProvidedByUsedInOperatingActivities,57673000,2016-07-03
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,9000000,2014-06-29
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,131994000,2015-06-28
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2016-07-03
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,22985000,2014-06-29
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,32572000,2015-06-28
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,33938000,2016-07-03
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,3000,2014-06-29
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,-963000,2015-06-28
+us-gaap_PaymentsForProceedsFromOtherInvestingActivities,,2016-07-03
+Investing activities of discontinued operations,500000,2014-06-29
+Investing activities of discontinued operations,,2015-06-28
+Investing activities of discontinued operations,,2016-07-03
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-31488000,2014-06-29
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-163603000,2015-06-28
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-33938000,2016-07-03
+us-gaap_PaymentsForRepurchaseOfCommonStock,8317000,2014-06-29
+us-gaap_PaymentsForRepurchaseOfCommonStock,8360000,2015-06-28
+us-gaap_PaymentsForRepurchaseOfCommonStock,15223000,2016-07-03
+Excess tax benefit from stock based compensation,1837000,2014-06-29
+Excess tax benefit from stock based compensation,2550000,2015-06-28
+Excess tax benefit from stock based compensation,2400000,2016-07-03
+Proceeds from exercise of employee stock options,527000,2014-06-29
+Proceeds from exercise of employee stock options,5542000,2015-06-28
+Proceeds from exercise of employee stock options,3517000,2016-07-03
+Proceeds from bank borrowings,127000000,2014-06-29
+Proceeds from bank borrowings,239500000,2015-06-28
+Proceeds from bank borrowings,178000000,2016-07-03
+us-gaap_RepaymentsOfDebt,127052000,2014-06-29
+us-gaap_RepaymentsOfDebt,172983000,2015-06-28
+us-gaap_RepaymentsOfDebt,192543000,2016-07-03
+us-gaap_PaymentsOfDebtIssuanceCosts,,2014-06-29
+us-gaap_PaymentsOfDebtIssuanceCosts,5642000,2015-06-28
+us-gaap_PaymentsOfDebtIssuanceCosts,,2016-07-03
+Other,3000,2014-06-29
+Other,,2015-06-28
+Other,,2016-07-03
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-6002000,2014-06-29
+us-gaap_NetCashProvidedByUsedInFinancingActivities,60607000,2015-06-28
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-23849000,2016-07-03
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,5049000,2014-06-29
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,22737000,2015-06-28
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-114000,2016-07-03
+Cash and cash equivalents,154000,2013-06-30
+Cash and cash equivalents,5203000,2014-06-29
+Cash and cash equivalents,27940000,2015-06-28
+Cash and cash equivalents,27826000,2016-07-03
+Cash and cash equivalents,154000,2013-06-30
+Cash and cash equivalents,5203000,2014-06-29
+Cash and cash equivalents,27940000,2015-06-28
+Cash and cash equivalents,27826000,2016-07-03

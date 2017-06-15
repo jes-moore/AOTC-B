@@ -1,0 +1,95 @@
+Metric,Amount,endDate
+Revenues,203299000,2015-12-31
+Revenues,135523000,2016-12-31
+Revenues,598518000,2014-12-31
+Revenues,772854000,2015-12-31
+Revenues,92804000,2015-03-31
+Revenues,523731000,2016-12-31
+Revenues,148590000,2016-03-31
+Revenues,235637000,2015-06-30
+Revenues,126157000,2016-06-30
+Revenues,241114000,2015-09-30
+Revenues,113461000,2016-09-30
+Cost of Revenue,556175000,2014-12-31
+Cost of Revenue,690193000,2015-12-31
+Cost of Revenue,483552000,2016-12-31
+Gross Profit,27252000,2015-12-31
+Gross Profit,6726000,2016-12-31
+Gross Profit,42343000,2014-12-31
+Gross Profit,82661000,2015-12-31
+Gross Profit,4553000,2015-03-31
+Gross Profit,40179000,2016-12-31
+Gross Profit,15887000,2016-03-31
+Gross Profit,21806000,2015-06-30
+Gross Profit,8077000,2016-06-30
+Gross Profit,29050000,2015-09-30
+Gross Profit,9489000,2016-09-30
+"Selling, General and Administrative Expense",35317000,2014-12-31
+"Selling, General and Administrative Expense",41663000,2015-12-31
+"Selling, General and Administrative Expense",36376000,2016-12-31
+Gain on sale of railcars available for lease,1403000,2014-12-31
+Gain on sale of railcars available for lease,1187000,2015-12-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",1078000,2014-12-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",4578000,2015-12-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",4578000,2015-09-30
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements, Net of Plaintiffs' Attorneys' Fees",14306000,2016-12-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements, Net of Plaintiffs' Attorneys' Fees",14306000,2016-03-31
+"Defined Benefit Plan, Recognized Net Gain (Loss) Due to Settlements, Net of Plaintiffs' Attorneys' Fees",14306000,2016-03-25
+Restructuring and impairment charges,2261000,2016-12-31
+Restructuring Costs and Asset Impairment Charges,730000,2016-12-31
+Restructuring Costs and Asset Impairment Charges,1531000,2016-09-30
+Operating Income (Loss),9507000,2014-12-31
+Operating Income (Loss),46763000,2015-12-31
+Operating Income (Loss),15848000,2016-12-31
+Interest Expense,1077000,2014-12-31
+Interest Expense,243000,2015-12-31
+Interest Expense,171000,2016-12-31
+Other Nonoperating Income (Expense),42000,2014-12-31
+Other Nonoperating Income (Expense),116000,2015-12-31
+Other Nonoperating Income (Expense),111000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",8472000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",46636000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Cumulative Effects of Changes in Accounting Principles, Noncontrolling Interest",15788000,2016-12-31
+Income Tax Expense (Benefit),2568000,2014-12-31
+Income Tax Expense (Benefit),14831000,2015-12-31
+Income Tax Expense (Benefit),3464000,2016-12-31
+Net Income (Loss) Attributable to Parent,11654000,2015-12-31
+Net Income (Loss) Attributable to Parent,74000,2016-12-31
+Net Income (Loss) Attributable to Parent,5904000,2014-12-31
+Net Income (Loss) Attributable to Parent,31805000,2015-12-31
+Net Income (Loss) Attributable to Parent,-2073000,2015-03-31
+Net Income (Loss) Attributable to Parent,12324000,2016-12-31
+Net Income (Loss) Attributable to Parent,12667000,2016-03-31
+Net Income (Loss) Attributable to Parent,7397000,2015-06-30
+Net Income (Loss) Attributable to Parent,-468000,2016-06-30
+Net Income (Loss) Attributable to Parent,14827000,2015-09-30
+Net Income (Loss) Attributable to Parent,51000,2016-09-30
+"Earnings Per Share, Basic",0.95,2015-12-31
+"Earnings Per Share, Basic",0.01,2016-12-31
+"Earnings Per Share, Basic",0.49,2014-12-31
+"Earnings Per Share, Basic",2.59,2015-12-31
+"Earnings Per Share, Basic",-0.17,2015-03-31
+"Earnings Per Share, Basic",1.00,2016-12-31
+"Earnings Per Share, Basic",1.03,2016-03-31
+"Earnings Per Share, Basic",0.60,2015-06-30
+"Earnings Per Share, Basic",-0.04,2016-06-30
+"Earnings Per Share, Basic",1.20,2015-09-30
+"Earnings Per Share, Diluted",0.94,2015-12-31
+"Earnings Per Share, Diluted",0.01,2016-12-31
+"Earnings Per Share, Diluted",0.49,2014-12-31
+"Earnings Per Share, Diluted",2.58,2015-12-31
+"Earnings Per Share, Diluted",-0.17,2015-03-31
+"Earnings Per Share, Diluted",1.00,2016-12-31
+"Earnings Per Share, Diluted",1.03,2016-03-31
+"Earnings Per Share, Diluted",0.60,2015-06-30
+"Earnings Per Share, Diluted",-0.04,2016-06-30
+"Earnings Per Share, Diluted",1.20,2015-09-30
+"Weighted Average Number of Shares Outstanding, Basic",12001587,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",12175955,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",12262275,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",12103520,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",12217755,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",12262275,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",0.24,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",0.36,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.36,2016-12-31

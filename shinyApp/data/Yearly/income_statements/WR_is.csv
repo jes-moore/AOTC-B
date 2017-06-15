@@ -1,0 +1,118 @@
+Metric,Amount,endDate
+Revenues,2601703000,2014-12-31
+Revenues,590807000,2015-03-31
+Revenues,589563000,2015-06-30
+Revenues,732829000,2015-09-30
+Revenues,545965000,2015-12-31
+Revenues,2459164000,2015-12-31
+Revenues,569450000,2016-03-31
+Revenues,621448000,2016-06-30
+Revenues,764654000,2016-09-30
+Revenues,606535000,2016-12-31
+Revenues,2562087000,2016-12-31
+Cost Electric Fuel Purchased Power,705450000,2014-12-31
+Cost Electric Fuel Purchased Power,561065000,2015-12-31
+Cost Electric Fuel Purchased Power,509496000,2016-12-31
+Network Transmission Cost,218924000,2014-12-31
+Network Transmission Cost,229043000,2015-12-31
+Network Transmission Cost,232763000,2016-12-31
+"Utilities Operating Expense, Maintenance and Operations",367188000,2014-12-31
+"Utilities Operating Expense, Maintenance and Operations",330289000,2015-12-31
+"Utilities Operating Expense, Maintenance and Operations",346313000,2016-12-31
+"Depreciation, Amortization and Accretion, Net",286442000,2014-12-31
+"Depreciation, Amortization and Accretion, Net",310591000,2015-12-31
+"Depreciation, Amortization and Accretion, Net",338519000,2016-12-31
+"Selling, General and Administrative Expense",250439000,2014-12-31
+"Selling, General and Administrative Expense",250278000,2015-12-31
+"Selling, General and Administrative Expense",261451000,2016-12-31
+"Taxes, Miscellaneous",140302000,2014-12-31
+"Taxes, Miscellaneous",156901000,2015-12-31
+"Taxes, Miscellaneous",191662000,2016-12-31
+Costs and Expenses,1968745000,2014-12-31
+Costs and Expenses,1838167000,2015-12-31
+Costs and Expenses,1880204000,2016-12-31
+Operating Income (Loss),632958000,2014-12-31
+Operating Income (Loss),620997000,2015-12-31
+Operating Income (Loss),681883000,2016-12-31
+"Investment Income, Nonoperating",10622000,2014-12-31
+"Investment Income, Nonoperating",7799000,2015-12-31
+"Investment Income, Nonoperating",9013000,2016-12-31
+Other Nonoperating Income,31522000,2014-12-31
+Other Nonoperating Income,19438000,2015-12-31
+Other Nonoperating Income,34582000,2016-12-31
+Other Nonoperating Expense,18389000,2014-12-31
+Other Nonoperating Expense,17636000,2015-12-31
+Other Nonoperating Expense,18012000,2016-12-31
+Nonoperating Income (Expense),23755000,2014-12-31
+Nonoperating Income (Expense),9601000,2015-12-31
+Nonoperating Income (Expense),25583000,2016-12-31
+Interest Expense,183118000,2014-12-31
+Interest Expense,176802000,2015-12-31
+Interest Expense,161726000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",473595000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",453796000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",545740000,2016-12-31
+Income Tax Expense (Benefit),151270000,2014-12-31
+Income Tax Expense (Benefit),152000000,2015-12-31
+Income Tax Expense (Benefit),184540000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",322325000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",53163000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",66243000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",140564000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",41826000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",301796000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",68708000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",76144000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",158553000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",57795000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",361200000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,9066000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,9867000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,14623000,2016-12-31
+Net Income (Loss) Attributable to Parent,313259000,2014-12-31
+Net Income (Loss) Attributable to Parent,291929000,2015-12-31
+Net Income (Loss) Attributable to Parent,346577000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",50980000,2015-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",63710000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",138003000,2015-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",39235000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",65585000,2016-03-31
+"Net Income (Loss) Available to Common Stockholders, Basic",72340000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",154720000,2016-09-30
+"Net Income (Loss) Available to Common Stockholders, Basic",53932000,2016-12-31
+"Earnings Per Share, Basic",2.40,2014-12-31
+"Earnings Per Share, Basic",0.38,2015-03-31
+"Earnings Per Share, Basic",0.47,2015-06-30
+"Earnings Per Share, Basic",0.97,2015-09-30
+"Earnings Per Share, Basic",0.28,2015-12-31
+"Earnings Per Share, Basic",2.11,2015-12-31
+"Earnings Per Share, Basic",0.46,2016-03-31
+"Earnings Per Share, Basic",0.51,2016-06-30
+"Earnings Per Share, Basic",1.09,2016-09-30
+"Earnings Per Share, Basic",0.38,2016-12-31
+"Earnings Per Share, Basic",2.43,2016-12-31
+"Earnings Per Share, Diluted",2.35,2014-12-31
+"Earnings Per Share, Diluted",0.38,2015-03-31
+"Earnings Per Share, Diluted",0.46,2015-06-30
+"Earnings Per Share, Diluted",0.97,2015-09-30
+"Earnings Per Share, Diluted",0.28,2015-12-31
+"Earnings Per Share, Diluted",2.09,2015-12-31
+"Earnings Per Share, Diluted",0.46,2016-03-31
+"Earnings Per Share, Diluted",0.51,2016-06-30
+"Earnings Per Share, Diluted",1.08,2016-09-30
+"Earnings Per Share, Diluted",0.38,2016-12-31
+"Earnings Per Share, Diluted",2.43,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",130014941,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",137957515,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",142067558,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.40,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",0.36,2015-03-31
+"Common Stock, Dividends, Per Share, Declared",0.36,2015-06-30
+"Common Stock, Dividends, Per Share, Declared",0.36,2015-09-30
+"Common Stock, Dividends, Per Share, Declared",0.36,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",1.44,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",0.38,2016-03-31
+"Common Stock, Dividends, Per Share, Declared",0.38,2016-06-30
+"Common Stock, Dividends, Per Share, Declared",0.38,2016-09-30
+"Common Stock, Dividends, Per Share, Declared",0.38,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.52,2016-12-31

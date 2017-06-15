@@ -1,0 +1,189 @@
+Metric,Amount,endDate
+Net income,20275000,2014-12-31
+Net income,83194000,2015-12-31
+Net income,89846000,2016-12-31
+Depreciation,14051000,2014-12-31
+Depreciation,20234000,2015-12-31
+Depreciation,21699000,2016-12-31
+Amortization,15437000,2014-12-31
+Amortization,38067000,2015-12-31
+Amortization,26026000,2016-12-31
+Provision for doubtful accounts,2589000,2014-12-31
+Provision for doubtful accounts,2539000,2015-12-31
+Provision for doubtful accounts,3759000,2016-12-31
+us-gaap_ShareBasedCompensation,7562000,2014-12-31
+us-gaap_ShareBasedCompensation,26622000,2015-12-31
+us-gaap_ShareBasedCompensation,5136000,2016-12-31
+Deferred income taxes,-5208000,2014-12-31
+Deferred income taxes,-10000,2015-12-31
+Deferred income taxes,-14130000,2016-12-31
+Amortization of deferred financing costs and debt discount,5561000,2014-12-31
+Amortization of deferred financing costs and debt discount,2041000,2015-12-31
+Amortization of deferred financing costs and debt discount,1754000,2016-12-31
+Write-off of deferred financing charges,,2014-12-31
+Write-off of deferred financing charges,,2015-12-31
+Write-off of deferred financing charges,2302000,2016-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,2722000,2014-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,2857000,2015-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,282000,2016-12-31
+prsc_GainsOnRemeasurementOfContingentConsideration,16314000,2014-12-31
+prsc_GainsOnRemeasurementOfContingentConsideration,2469000,2015-12-31
+prsc_GainsOnRemeasurementOfContingentConsideration,,2016-12-31
+Asset impairment charge,6915000,2014-12-31
+Asset impairment charge,1593000,2015-12-31
+Asset impairment charge,21003000,2016-12-31
+us-gaap_IncomeLossFromEquityMethodInvestments,,2014-12-31
+us-gaap_IncomeLossFromEquityMethodInvestments,-10970000,2015-12-31
+us-gaap_IncomeLossFromEquityMethodInvestments,-10287000,2016-12-31
+us-gaap_GainLossOnSaleOfBusiness,,2014-12-31
+us-gaap_GainLossOnSaleOfBusiness,123129000,2015-12-31
+us-gaap_GainLossOnSaleOfBusiness,167895000,2016-12-31
+Deferred income taxes and income taxes payable on gain on sale of business,,2014-12-31
+Deferred income taxes and income taxes payable on gain on sale of business,22797000,2015-12-31
+Deferred income taxes and income taxes payable on gain on sale of business,58492000,2016-12-31
+us-gaap_OtherNoncashIncomeExpense,-3088000,2014-12-31
+us-gaap_OtherNoncashIncomeExpense,419000,2015-12-31
+us-gaap_OtherNoncashIncomeExpense,1323000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,17208000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,86627000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,19332000,2016-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,7361000,2014-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,-14654000,2015-12-31
+us-gaap_IncreaseDecreaseInPrepaidDeferredExpenseAndOtherAssets,4058000,2016-12-31
+us-gaap_IncreaseDecreaseInReinsurancePayables,3761000,2014-12-31
+us-gaap_IncreaseDecreaseInReinsurancePayables,-611000,2015-12-31
+us-gaap_IncreaseDecreaseInReinsurancePayables,-4110000,2016-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,28483000,2014-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,-21900000,2015-12-31
+us-gaap_IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,33365000,2016-12-31
+prsc_IncreaseDecreaseInIncomeTaxesPayableOnGainOnSaleOfBusiness,,2014-12-31
+prsc_IncreaseDecreaseInIncomeTaxesPayableOnGainOnSaleOfBusiness,,2015-12-31
+prsc_IncreaseDecreaseInIncomeTaxesPayableOnGainOnSaleOfBusiness,-30153000,2016-12-31
+prsc_IncreaseDecreaseAccruedTransportationCosts,530000,2014-12-31
+prsc_IncreaseDecreaseAccruedTransportationCosts,9045000,2015-12-31
+prsc_IncreaseDecreaseAccruedTransportationCosts,8654000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,-3454000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,19043000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,-4019000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,-790000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,463000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingLiabilities,4462000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,55195000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,13240000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,41483000,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,23242000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,35072000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,41216000,2016-12-31
+Proceeds from sale of property,,2014-12-31
+Proceeds from sale of property,,2015-12-31
+Proceeds from sale of property,1039000,2016-12-31
+us-gaap_PaymentsForProceedsFromShortTermInvestments,19000,2014-12-31
+us-gaap_PaymentsForProceedsFromShortTermInvestments,18000,2015-12-31
+us-gaap_PaymentsForProceedsFromShortTermInvestments,-239000,2016-12-31
+"Acquisitions, net of cash acquired",416986000,2014-12-31
+"Acquisitions, net of cash acquired",3433000,2015-12-31
+"Acquisitions, net of cash acquired",,2016-12-31
+"Sale of business, net of cash sold",,2014-12-31
+"Sale of business, net of cash sold",199943000,2015-12-31
+"Sale of business, net of cash sold",371580000,2016-12-31
+us-gaap_PaymentsToAcquireEquityMethodInvestments,,2014-12-31
+us-gaap_PaymentsToAcquireEquityMethodInvestments,16072000,2015-12-31
+us-gaap_PaymentsToAcquireEquityMethodInvestments,13663000,2016-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,3108000,2014-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,2058000,2015-12-31
+us-gaap_IncreaseDecreaseInRestrictedCash,-5926000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-443355000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,143290000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,323905000,2016-12-31
+"Proceeds from issuance of preferred stock, net of issuance costs",,2014-12-31
+"Proceeds from issuance of preferred stock, net of issuance costs",80667000,2015-12-31
+"Proceeds from issuance of preferred stock, net of issuance costs",,2016-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,,2014-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,3928000,2015-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,4419000,2016-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,524000,2014-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,36838000,2015-12-31
+us-gaap_PaymentsForRepurchaseOfCommonStock,70378000,2016-12-31
+Proceeds from common stock issued pursuant to stock option exercise,11019000,2014-12-31
+Proceeds from common stock issued pursuant to stock option exercise,4894000,2015-12-31
+Proceeds from common stock issued pursuant to stock option exercise,4108000,2016-12-31
+Excess tax benefit upon exercise of stock options,2722000,2014-12-31
+Excess tax benefit upon exercise of stock options,2857000,2015-12-31
+Excess tax benefit upon exercise of stock options,282000,2016-12-31
+Proceeds from long-term debt,501200000,2014-12-31
+Proceeds from long-term debt,34000000,2015-12-31
+Proceeds from long-term debt,52500000,2016-12-31
+us-gaap_RepaymentsOfLongTermDebt,48625000,2014-12-31
+us-gaap_RepaymentsOfLongTermDebt,305125000,2015-12-31
+us-gaap_RepaymentsOfLongTermDebt,357450000,2016-12-31
+prsc_PaymentOfContingentConsideration,,2014-12-31
+prsc_PaymentOfContingentConsideration,7496000,2015-12-31
+prsc_PaymentOfContingentConsideration,,2016-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,12769000,2014-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,286000,2015-12-31
+us-gaap_PaymentsOfDebtIssuanceCosts,247000,2016-12-31
+Capital lease payments and other,73000,2014-12-31
+Capital lease payments and other,,2015-12-31
+Capital lease payments and other,-935000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,453096000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-231255000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,-376539000,2016-12-31
+Effect of exchange rate changes on cash,-3525000,2014-12-31
+Effect of exchange rate changes on cash,-911000,2015-12-31
+Effect of exchange rate changes on cash,-1357000,2016-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,61411000,2014-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-75636000,2015-12-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-12508000,2016-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,98995000,2013-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,160406000,2014-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,84770000,2015-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,72262000,2016-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,98995000,2013-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,160406000,2014-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,84770000,2015-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,72262000,2016-12-31
+Cash included in current assets of discontinued operations held for sale,25148000,2014-12-31
+Cash included in current assets of discontinued operations held for sale,5014000,2015-12-31
+Cash included in current assets of discontinued operations held for sale,,2016-12-31
+Cash paid for interest,10726000,2014-12-31
+Cash paid for interest,16699000,2015-12-31
+Cash paid for interest,9768000,2016-12-31
+Cash paid for income taxes,18389000,2014-12-31
+Cash paid for income taxes,21555000,2015-12-31
+Cash paid for income taxes,55827000,2016-12-31
+Accrued unfunded future equity investment capital contributions,,2014-12-31
+Accrued unfunded future equity investment capital contributions,4654000,2015-12-31
+Accrued unfunded future equity investment capital contributions,,2016-12-31
+Note receivable issued for sale of property,,2014-12-31
+Note receivable issued for sale of property,,2015-12-31
+Note receivable issued for sale of property,3130000,2016-12-31
+Purchase of equipment through capital lease obligation,,2014-12-31
+Purchase of equipment through capital lease obligation,,2015-12-31
+Purchase of equipment through capital lease obligation,4547000,2016-12-31
+prsc_PSCOfCanadaExchangeCorpSharesExchanged,6961000,2014-12-31
+prsc_PSCOfCanadaExchangeCorpSharesExchanged,,2015-12-31
+prsc_PSCOfCanadaExchangeCorpSharesExchanged,,2016-12-31
+PSC of Canada Exchange Corp. shares converted to treasury shares for fulfillment of obligation by sellersof WCG related to dispute with British Columbia,1521000,2014-12-31
+PSC of Canada Exchange Corp. shares converted to treasury shares for fulfillment of obligation by sellersof WCG related to dispute with British Columbia,,2015-12-31
+PSC of Canada Exchange Corp. shares converted to treasury shares for fulfillment of obligation by sellersof WCG related to dispute with British Columbia,,2016-12-31
+Purchase price,525596000,2014-12-31
+Purchase price,,2015-12-31
+Purchase price,,2016-12-31
+Cash acquired,37159000,2014-12-31
+Cash acquired,,2015-12-31
+Cash acquired,,2016-12-31
+Common stock issued for acquistions of business,38570000,2014-12-31
+Common stock issued for acquistions of business,,2015-12-31
+Common stock issued for acquistions of business,,2016-12-31
+Contingent consideration,30095000,2014-12-31
+Contingent consideration,,2015-12-31
+Contingent consideration,,2016-12-31
+Note payable to former shareholder,600000,2014-12-31
+Note payable to former shareholder,,2015-12-31
+Note payable to former shareholder,,2016-12-31
+Working capital adjustments to purchase price,,2014-12-31
+Working capital adjustments to purchase price,-3433000,2015-12-31
+Working capital adjustments to purchase price,,2016-12-31
+"Acquisitions, net of cash acquired",416986000,2014-12-31
+"Acquisitions, net of cash acquired",3433000,2015-12-31
+"Acquisitions, net of cash acquired",,2016-12-31

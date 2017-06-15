@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",654040000,2014-06-30
+"Sales Revenue, Goods, Net",707700000,2015-06-30
+"Sales Revenue, Goods, Net",579345000,2016-06-30
+"Sales Revenue, Services, Net",252702000,2014-06-30
+"Sales Revenue, Services, Net",250502000,2015-06-30
+"Sales Revenue, Services, Net",250315000,2016-06-30
+Revenues,906742000,2014-06-30
+Revenues,958202000,2015-06-30
+Revenues,829660000,2016-06-30
+Cost of Goods Sold,453709000,2014-06-30
+Cost of Goods Sold,482401000,2015-06-30
+Cost of Goods Sold,407880000,2016-06-30
+Cost of Services,148033000,2014-06-30
+Cost of Services,150448000,2015-06-30
+Cost of Services,144921000,2016-06-30
+Cost of Goods and Services Sold,601742000,2014-06-30
+Cost of Goods and Services Sold,632849000,2015-06-30
+Cost of Goods and Services Sold,552801000,2016-06-30
+Gross Profit,305000000,2014-06-30
+Gross Profit,325353000,2015-06-30
+Gross Profit,276859000,2016-06-30
+"Selling, General and Administrative Expense",166869000,2014-06-30
+"Selling, General and Administrative Expense",171756000,2015-06-30
+"Selling, General and Administrative Expense",166655000,2016-06-30
+Research and Development Expense,44792000,2014-06-30
+Research and Development Expense,51639000,2015-06-30
+Research and Development Expense,49816000,2016-06-30
+"Restructuring, Settlement and Impairment Provisions",12044000,2014-06-30
+"Restructuring, Settlement and Impairment Provisions",9850000,2015-06-30
+"Restructuring, Settlement and Impairment Provisions",22014000,2016-06-30
+Operating Expenses,223705000,2014-06-30
+Operating Expenses,233245000,2015-06-30
+Operating Expenses,238485000,2016-06-30
+Operating Income (Loss),81295000,2014-06-30
+Operating Income (Loss),92108000,2015-06-30
+Operating Income (Loss),38374000,2016-06-30
+Interest Expense,5440000,2014-06-30
+Interest Expense,3255000,2015-06-30
+Interest Expense,2879000,2016-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",75855000,2014-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",88853000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",35495000,2016-06-30
+Income Tax Expense (Benefit),27961000,2014-06-30
+Income Tax Expense (Benefit),23702000,2015-06-30
+Income Tax Expense (Benefit),9338000,2016-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",47894000,2014-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",65151000,2015-06-30
+"Net Income (Loss) Available to Common Stockholders, Basic",26157000,2016-06-30
+"Earnings Per Share, Basic",2.40,2014-06-30
+"Earnings Per Share, Basic",3.29,2015-06-30
+"Earnings Per Share, Basic",1.35,2016-06-30
+"Earnings Per Share, Diluted",2.33,2014-06-30
+"Earnings Per Share, Diluted",3.17,2015-06-30
+"Earnings Per Share, Diluted",1.30,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic",19952000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic",19799000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic",19427000,2016-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",20587000,2014-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",20526000,2015-06-30
+"Weighted Average Number of Shares Outstanding, Diluted",20076000,2016-06-30

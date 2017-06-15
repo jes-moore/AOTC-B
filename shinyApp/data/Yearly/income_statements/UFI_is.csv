@@ -1,0 +1,114 @@
+Metric,Amount,endDate
+Net sales,687902000,2014-06-29
+Net sales,175561000,2014-09-28
+Net sales,687121000,2015-06-28
+Net sales,164422000,2014-12-28
+Net sales,172187000,2015-03-29
+Net sales,174951000,2015-06-28
+Net sales,162165000,2015-09-27
+Net sales,643637000,2016-06-26
+Net sales,156336000,2015-12-27
+Net sales,161278000,2016-03-27
+Net sales,163858000,2016-06-26
+Cost of sales,604640000,2014-06-29
+Cost of sales,596416000,2015-06-28
+Cost of sales,550005000,2016-06-26
+Gross profit,83262000,2014-06-29
+Gross profit,20450000,2014-09-28
+Gross profit,90705000,2015-06-28
+Gross profit,22929000,2014-12-28
+Gross profit,22007000,2015-03-29
+Gross profit,25319000,2015-06-28
+Gross profit,20984000,2015-09-27
+Gross profit,93632000,2016-06-26
+Gross profit,21813000,2015-12-27
+Gross profit,23364000,2016-03-27
+Gross profit,27471000,2016-06-26
+"Selling, general and administrative expenses",46203000,2014-06-29
+"Selling, general and administrative expenses",49672000,2015-06-28
+"Selling, general and administrative expenses",47502000,2016-06-26
+Provision for bad debts,287000,2014-06-29
+Provision for bad debts,947000,2015-06-28
+Provision for bad debts,1684000,2016-06-26
+us-gaap_OtherOperatingIncomeExpenseNet,-5289000,2014-06-29
+us-gaap_OtherOperatingIncomeExpenseNet,-1600000,2015-06-28
+us-gaap_OtherOperatingIncomeExpenseNet,-2248000,2016-06-26
+us-gaap_OperatingIncomeLoss,31483000,2014-06-29
+us-gaap_OperatingIncomeLoss,38486000,2015-06-28
+us-gaap_OperatingIncomeLoss,42198000,2016-06-26
+us-gaap_InvestmentIncomeInterest,1790000,2014-06-29
+us-gaap_InvestmentIncomeInterest,916000,2015-06-28
+us-gaap_InvestmentIncomeInterest,610000,2016-06-26
+Interest expense,4329000,2014-06-29
+Interest expense,4025000,2015-06-28
+Interest expense,3528000,2016-06-26
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2014-06-29
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-1040000,2015-06-28
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2016-06-26
+us-gaap_OtherNonoperatingIncomeExpense,-126000,2014-06-29
+us-gaap_OtherNonoperatingIncomeExpense,,2015-06-28
+us-gaap_OtherNonoperatingIncomeExpense,,2016-06-26
+us-gaap_IncomeLossFromEquityMethodInvestments,19063000,2014-06-29
+us-gaap_IncomeLossFromEquityMethodInvestments,19475000,2015-06-28
+us-gaap_IncomeLossFromEquityMethodInvestments,8963000,2016-06-26
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,47881000,2014-06-29
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,53812000,2015-06-28
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,48243000,2016-06-26
+Provision for income taxes,20161000,2014-06-29
+Provision for income taxes,13346000,2015-06-28
+Provision for income taxes,15073000,2016-06-26
+Net income (loss),27720000,2014-06-29
+Net income (loss),6675000,2014-09-28
+Net income (loss),40466000,2015-06-28
+Net income (loss),9122000,2014-12-28
+Net income (loss),9759000,2015-03-29
+Net income (loss),14910000,2015-06-28
+Net income (loss),7786000,2015-09-27
+Net income (loss),33170000,2016-06-26
+Net income (loss),6194000,2015-12-27
+Net income (loss),9275000,2016-03-27
+Net income (loss),9915000,2016-06-26
+Less: net loss attributable to non-controlling interest,-1103000,2014-06-29
+Less: net loss attributable to non-controlling interest,-402000,2014-09-28
+Less: net loss attributable to non-controlling interest,-1685000,2015-06-28
+Less: net loss attributable to non-controlling interest,-296000,2014-12-28
+Less: net loss attributable to non-controlling interest,-257000,2015-03-29
+Less: net loss attributable to non-controlling interest,-730000,2015-06-28
+Less: net loss attributable to non-controlling interest,-239000,2015-09-27
+Less: net loss attributable to non-controlling interest,-1245000,2016-06-26
+Less: net loss attributable to non-controlling interest,-270000,2015-12-27
+Less: net loss attributable to non-controlling interest,-414000,2016-03-27
+Less: net loss attributable to non-controlling interest,-322000,2016-06-26
+"Net income attributable to Unifi, Inc.",28823000,2014-06-29
+"Net income attributable to Unifi, Inc.",7077000,2014-09-28
+"Net income attributable to Unifi, Inc.",42151000,2015-06-28
+"Net income attributable to Unifi, Inc.",9418000,2014-12-28
+"Net income attributable to Unifi, Inc.",10016000,2015-03-29
+"Net income attributable to Unifi, Inc.",15640000,2015-06-28
+"Net income attributable to Unifi, Inc.",8025000,2015-09-27
+"Net income attributable to Unifi, Inc.",34415000,2016-06-26
+"Net income attributable to Unifi, Inc.",6464000,2015-12-27
+"Net income attributable to Unifi, Inc.",9689000,2016-03-27
+"Net income attributable to Unifi, Inc.",10237000,2016-06-26
+Basic (in dollars per share),1.52,2014-06-29
+Basic (in dollars per share),0.39,2014-09-28
+Basic (in dollars per share),2.32,2015-06-28
+Basic (in dollars per share),0.52,2014-12-28
+Basic (in dollars per share),0.55,2015-03-29
+Basic (in dollars per share),0.86,2015-06-28
+Basic (in dollars per share),0.45,2015-09-27
+Basic (in dollars per share),1.93,2016-06-26
+Basic (in dollars per share),0.36,2015-12-27
+Basic (in dollars per share),0.54,2016-03-27
+Basic (in dollars per share),0.57,2016-06-26
+Diluted (in dollars per share),1.47,2014-06-29
+Diluted (in dollars per share),0.37,2014-09-28
+Diluted (in dollars per share),2.24,2015-06-28
+Diluted (in dollars per share),0.50,2014-12-28
+Diluted (in dollars per share),0.53,2015-03-29
+Diluted (in dollars per share),0.83,2015-06-28
+Diluted (in dollars per share),0.43,2015-09-27
+Diluted (in dollars per share),1.87,2016-06-26
+Diluted (in dollars per share),0.35,2015-12-27
+Diluted (in dollars per share),0.53,2016-03-27
+Diluted (in dollars per share),0.56,2016-06-26

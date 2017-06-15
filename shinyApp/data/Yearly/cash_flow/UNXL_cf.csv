@@ -1,0 +1,97 @@
+Metric,Amount,endDate
+Net Income (Loss) Attributable to Parent,-5684000,2015-03-31
+Net Income (Loss) Attributable to Parent,-37023000,2015-12-31
+Net Income (Loss) Attributable to Parent,-15745000,2015-06-30
+Net Income (Loss) Attributable to Parent,-10020000,2015-09-30
+Net Income (Loss) Attributable to Parent,-5574000,2015-12-31
+Net Income (Loss) Attributable to Parent,-8413000,2016-03-31
+Net Income (Loss) Attributable to Parent,-29436000,2016-12-31
+Net Income (Loss) Attributable to Parent,-6144000,2016-06-30
+Net Income (Loss) Attributable to Parent,-7557000,2016-09-30
+Net Income (Loss) Attributable to Parent,-7322000,2016-12-31
+Depreciation and amortization,6688000,2015-12-31
+Depreciation and amortization,5009000,2016-12-31
+Restricted stock issuance,1428000,2015-12-31
+Restricted stock issuance,1128000,2016-12-31
+Share-based compensation,1545000,2015-12-31
+Share-based compensation,545000,2016-12-31
+Amortization of debt issuance cost,1365000,2015-12-31
+Amortization of debt issuance cost,526000,2016-12-31
+Provision for accounts receivable,,2015-12-31
+Provision for accounts receivable,5000,2016-12-31
+IssuanceOfCommonStockToConvertNotesAndInterest,333000,2015-12-31
+IssuanceOfCommonStockToConvertNotesAndInterest,3000,2016-12-31
+Accretion of discount on convertible note,10659000,2015-12-31
+Accretion of discount on convertible note,1291000,2016-12-31
+Gain (loss) on derivative liability,5517000,2015-12-31
+Gain (loss) on derivative liability,-168000,2016-12-31
+Loss on discontinued operations,-1093000,2015-12-31
+Loss on discontinued operations,,2016-12-31
+Loss on impairment of property and equipment,-7609000,2015-12-31
+Loss on impairment of property and equipment,,2016-12-31
+Gain on relief of deferred revenue liability,5000000,2015-12-31
+Gain on relief of deferred revenue liability,,2016-12-31
+Increase (Decrease) in Accounts Receivable,334000,2015-12-31
+Increase (Decrease) in Accounts Receivable,758000,2016-12-31
+Increase (Decrease) in Inventories,704000,2015-12-31
+Increase (Decrease) in Inventories,-4000,2016-12-31
+Increase (Decrease) in Prepaid Expense,-15000,2015-12-31
+Increase (Decrease) in Prepaid Expense,-341000,2016-12-31
+Increase in accounts payable,869000,2015-12-31
+Increase in accounts payable,2336000,2016-12-31
+Increase in accrued expenses and other liabilities,778000,2015-12-31
+Increase in accrued expenses and other liabilities,348000,2016-12-31
+Increase in long term liabilities,645000,2015-12-31
+Increase in long term liabilities,-295000,2016-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-15551000,2015-12-31
+"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",-18785000,2016-12-31
+Net cash used in operating activities – discontinued operations,-1093000,2015-12-31
+Net cash used in operating activities – discontinued operations,,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,-16644000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,-18785000,2016-12-31
+"Payments to acquire property, plant, and equipment",808000,2015-12-31
+"Payments to acquire property, plant, and equipment",292000,2016-12-31
+PaymentsToPrepaidLicenses,14000000,2015-12-31
+PaymentsToPrepaidLicenses,,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-14808000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-292000,2016-12-31
+Increase (Decrease) in Restricted Cash,4080000,2015-12-31
+Increase (Decrease) in Restricted Cash,-4098000,2016-12-31
+"Proceeds from exercise of stock options, net",77000,2015-12-31
+"Proceeds from exercise of stock options, net",4000,2016-12-31
+Proceeds from long-term debt,,2015-12-31
+Proceeds from long-term debt,809000,2016-12-31
+Repayments of Notes Payable,1458000,2015-12-31
+Repayments of Notes Payable,2417000,2016-12-31
+"Proceeds from exercise of warrants, net",,2015-12-31
+"Proceeds from exercise of warrants, net",2391000,2016-12-31
+Repayments of Long-term Debt,,2015-12-31
+Repayments of Long-term Debt,450000,2016-12-31
+"Proceeds from issuance of common stock, net",7173000,2015-12-31
+"Proceeds from issuance of common stock, net",8582000,2016-12-31
+"Proceeds from convertible notes and warrants issued, less issuance cost",13695000,2015-12-31
+"Proceeds from convertible notes and warrants issued, less issuance cost",,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,15407000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,13017000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-16045000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-6060000,2016-12-31
+Cash and cash equivalents,23663000,2014-12-31
+Cash and cash equivalents,7618000,2015-12-31
+Cash and cash equivalents,1558000,2016-12-31
+Cash and cash equivalents,23663000,2014-12-31
+Cash and cash equivalents,7618000,2015-12-31
+Cash and cash equivalents,1558000,2016-12-31
+Cash paid for interest,228000,2015-12-31
+Cash paid for interest,13000,2016-12-31
+Cash paid for income taxes,,2015-12-31
+Cash paid for income taxes,,2016-12-31
+Issuance of common stock for legal settlements,2275000,2015-12-31
+Issuance of common stock for legal settlements,,2016-12-31
+"Debt conversion, converted instrument, amount",10283000,2015-12-31
+"Debt conversion, converted instrument, amount",1675000,2016-12-31
+Acquisition of XTouch assets from Atmel,1821000,2015-12-31
+Acquisition of XTouch assets from Atmel,,2016-12-31
+Beneficial conversion feature on convertible notes,5970000,2015-12-31
+Beneficial conversion feature on convertible notes,,2016-12-31
+Warrants issued in connection with convertible notes,5980000,2015-12-31
+Warrants issued in connection with convertible notes,,2016-12-31

@@ -1,0 +1,98 @@
+Metric,Amount,endDate
+Passenger Revenue,732020000,2014-12-31
+Passenger Revenue,735563000,2015-12-31
+Passenger Revenue,753414000,2016-12-31
+Air-related charges,331689000,2014-12-31
+Air-related charges,434317000,2015-12-31
+Air-related charges,499542000,2016-12-31
+Third party products,36587000,2014-12-31
+Third party products,40177000,2015-12-31
+Third party products,44940000,2016-12-31
+TotalAncillaryRevenue,368276000,2014-12-31
+TotalAncillaryRevenue,474494000,2015-12-31
+TotalAncillaryRevenue,544482000,2016-12-31
+Fixed fee contract revenue,17403000,2014-12-31
+Fixed fee contract revenue,19747000,2015-12-31
+Fixed fee contract revenue,31972000,2016-12-31
+Other revenue,19347000,2014-12-31
+Other revenue,32384000,2015-12-31
+Other revenue,32963000,2016-12-31
+Revenues,1137046000,2014-12-31
+Revenues,1262188000,2015-12-31
+Revenues,1362831000,2016-12-31
+Fuel Costs,388216000,2014-12-31
+Fuel Costs,278394000,2015-12-31
+Fuel Costs,257332000,2016-12-31
+Labor and Related Expense,193345000,2014-12-31
+Labor and Related Expense,229802000,2015-12-31
+Labor and Related Expense,291974000,2016-12-31
+Station operations,84667000,2014-12-31
+Station operations,102294000,2015-12-31
+Station operations,124052000,2016-12-31
+"Aircraft Maintenance, Materials, and Repairs",86781000,2014-12-31
+"Aircraft Maintenance, Materials, and Repairs",92575000,2015-12-31
+"Aircraft Maintenance, Materials, and Repairs",111070000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",83409000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",98097000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",105216000,2016-12-31
+Selling and Marketing Expense,28492000,2014-12-31
+Selling and Marketing Expense,21349000,2015-12-31
+Selling and Marketing Expense,20527000,2016-12-31
+Aircraft Rental,15945000,2014-12-31
+Aircraft Rental,2326000,2015-12-31
+Aircraft Rental,924000,2016-12-31
+"Other Cost and Expense, Operating",55566000,2014-12-31
+"Other Cost and Expense, Operating",65649000,2015-12-31
+"Other Cost and Expense, Operating",81178000,2016-12-31
+Asset Impairment Charges,43280000,2014-12-31
+Asset Impairment Charges,43300000,2014-12-31
+Asset Impairment Charges,0,2015-12-31
+Asset Impairment Charges,0,2016-12-31
+Operating Expenses,979701000,2014-12-31
+Operating Expenses,890486000,2015-12-31
+Operating Expenses,992273000,2016-12-31
+Operating Income (Loss),157345000,2014-12-31
+Operating Income (Loss),371702000,2015-12-31
+Operating Income (Loss),370558000,2016-12-31
+"Investment Income, Interest",901000,2014-12-31
+"Investment Income, Interest",1452000,2015-12-31
+"Investment Income, Interest",3010000,2016-12-31
+Interest Expense,21205000,2014-12-31
+Interest Expense,26510000,2015-12-31
+Interest Expense,28836000,2016-12-31
+Other Nonoperating Income,90000,2014-12-31
+Other Nonoperating Income,75000,2015-12-31
+Other Nonoperating Income,1226000,2016-12-31
+Nonoperating Income (Expense),-20214000,2014-12-31
+Nonoperating Income (Expense),-24983000,2015-12-31
+Nonoperating Income (Expense),-24600000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",137131000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",346719000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",345958000,2016-12-31
+Income Tax Expense (Benefit),50828000,2014-12-31
+Income Tax Expense (Benefit),126389000,2015-12-31
+Income Tax Expense (Benefit),126368000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",86303000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",220330000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",219590000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-386000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-44000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2016-12-31
+Net Income (Loss) Attributable to Parent,86689000,2014-12-31
+Net Income (Loss) Attributable to Parent,220374000,2015-12-31
+Net Income (Loss) Attributable to Parent,219590000,2016-12-31
+"Earnings Per Share, Basic",4.87,2014-12-31
+"Earnings Per Share, Basic",12.97,2015-12-31
+"Earnings Per Share, Basic",13.23,2016-12-31
+"Earnings Per Share, Diluted",4.86,2014-12-31
+"Earnings Per Share, Diluted",12.94,2015-12-31
+"Earnings Per Share, Diluted",13.21,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",17729000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",16923000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",16465000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",17782000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",16962000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",16489000,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",2.50,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",2.75,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",2.40,2016-12-31

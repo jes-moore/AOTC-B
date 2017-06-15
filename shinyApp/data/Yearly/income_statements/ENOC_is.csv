@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+Revenues,471948000,2014-12-31
+Revenues,399584000,2015-12-31
+Revenues,403959000,2016-12-31
+Cost of Services,257322000,2014-12-31
+Cost of Services,245051000,2015-12-31
+Cost of Services,241466000,2016-12-31
+Gross Profit,214626000,2014-12-31
+Gross Profit,154533000,2015-12-31
+Gross Profit,162493000,2016-12-31
+Selling and Marketing Expense,76960000,2014-12-31
+Selling and Marketing Expense,97175000,2015-12-31
+Selling and Marketing Expense,86989000,2016-12-31
+General and Administrative Expense,97729000,2014-12-31
+General and Administrative Expense,110267000,2015-12-31
+General and Administrative Expense,97179000,2016-12-31
+Research and Development Expense,20671000,2014-12-31
+Research and Development Expense,29287000,2015-12-31
+Research and Development Expense,26269000,2016-12-31
+Gain (Loss) on Disposition of Business,6962000,2014-12-31
+Gain (Loss) on Disposition of Business,2991000,2015-12-31
+Gain (Loss) on Disposition of Business,19875000,2016-12-31
+"Restructuring, Settlement and Impairment Provisions",0,2014-12-31
+"Restructuring, Settlement and Impairment Provisions",0,2015-12-31
+"Restructuring, Settlement and Impairment Provisions",7519000,2016-12-31
+"Goodwill, Impairment Loss",0,2014-12-31
+"Goodwill, Impairment Loss",108763000,2015-12-31
+"Goodwill, Impairment Loss",0,2016-12-31
+Operating Expenses,188398000,2014-12-31
+Operating Expenses,342501000,2015-12-31
+Operating Expenses,198081000,2016-12-31
+Operating Income (Loss),26228000,2014-12-31
+Operating Income (Loss),-187968000,2015-12-31
+Operating Income (Loss),-35588000,2016-12-31
+Nonoperating Income (Expense),-3699000,2014-12-31
+Nonoperating Income (Expense),-7444000,2015-12-31
+Nonoperating Income (Expense),-5607000,2016-12-31
+Interest Expense,4656000,2014-12-31
+Interest Expense,8946000,2015-12-31
+Interest Expense,7322000,2016-12-31
+Gains (Losses) on Extinguishment of Debt,0,2014-12-31
+Gains (Losses) on Extinguishment of Debt,9230000,2015-12-31
+Gains (Losses) on Extinguishment of Debt,0,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",17873000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-195128000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-48517000,2016-12-31
+Income Tax Expense (Benefit),5876000,2014-12-31
+Income Tax Expense (Benefit),-10010000,2015-12-31
+Income Tax Expense (Benefit),1961000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",11997000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-185118000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-50478000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-97000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-43000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-68000,2016-12-31
+Net Income (Loss) Attributable to Parent,12094000,2014-12-31
+Net Income (Loss) Attributable to Parent,-185075000,2015-12-31
+Net Income (Loss) Attributable to Parent,-50410000,2016-12-31
+"Earnings Per Share, Basic",0.43,2014-12-31
+"Earnings Per Share, Basic",-6.51,2015-12-31
+"Earnings Per Share, Basic",-1.72,2016-12-31
+"Earnings Per Share, Diluted",0.42,2014-12-31
+"Earnings Per Share, Diluted",-6.51,2015-12-31
+"Earnings Per Share, Diluted",-1.72,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",27857026,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",28432974,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",29328872,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",28790665,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",28432974,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",29328872,2016-12-31

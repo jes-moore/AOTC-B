@@ -1,0 +1,88 @@
+Metric,Amount,endDate
+Natural Gas Production Revenue,1590625000,2014-12-31
+Natural Gas Production Revenue,1025044000,2015-12-31
+Natural Gas Production Revenue,1022590000,2016-12-31
+Oil and Condensate Revenue,313889000,2014-12-31
+Oil and Condensate Revenue,248211000,2015-12-31
+Oil and Condensate Revenue,151106000,2016-12-31
+Gain (Loss) on Sale of Derivatives,219319000,2014-12-31
+Gain (Loss) on Sale of Derivatives,56686000,2015-12-31
+Gain (Loss) on Sale of Derivatives,-38950000,2016-12-31
+Brokered Natural Gas Revenue,34416000,2014-12-31
+Brokered Natural Gas Revenue,16383000,2015-12-31
+Brokered Natural Gas Revenue,13569000,2016-12-31
+"Other Revenue, Net",14762000,2014-12-31
+"Other Revenue, Net",10826000,2015-12-31
+"Other Revenue, Net",7362000,2016-12-31
+Revenues,2173011000,2014-12-31
+Revenues,1357150000,2015-12-31
+Revenues,1155677000,2016-12-31
+Direct Operating Costs,145529000,2014-12-31
+Direct Operating Costs,140814000,2015-12-31
+Direct Operating Costs,100696000,2016-12-31
+"Gas Gathering, Transportation, Marketing and Processing Costs",349321000,2014-12-31
+"Gas Gathering, Transportation, Marketing and Processing Costs",427588000,2015-12-31
+"Gas Gathering, Transportation, Marketing and Processing Costs",436542000,2016-12-31
+Brokered Natural Gas Costs,30030000,2014-12-31
+Brokered Natural Gas Costs,12592000,2015-12-31
+Brokered Natural Gas Costs,10785000,2016-12-31
+"Taxes, Miscellaneous",47012000,2014-12-31
+"Taxes, Miscellaneous",42809000,2015-12-31
+"Taxes, Miscellaneous",29223000,2016-12-31
+Exploration Expense,28746000,2014-12-31
+Exploration Expense,27460000,2015-12-31
+Exploration Expense,27662000,2016-12-31
+"Depreciation, Depletion and Amortization",632760000,2014-12-31
+"Depreciation, Depletion and Amortization",622211000,2015-12-31
+"Depreciation, Depletion and Amortization",590128000,2016-12-31
+Impairment of Oil and Gas Properties,771037000,2014-12-31
+Impairment of Oil and Gas Properties,114875000,2015-12-31
+Impairment of Oil and Gas Properties,435619000,2016-12-31
+General and Administrative Expense,82590000,2014-12-31
+General and Administrative Expense,69444000,2015-12-31
+General and Administrative Expense,87242000,2016-12-31
+Operating Expenses,2087025000,2014-12-31
+Operating Expenses,1457793000,2015-12-31
+Operating Expenses,1717897000,2016-12-31
+Income (Loss) from Equity Method Investments,3080000,2014-12-31
+Income (Loss) from Equity Method Investments,6415000,2015-12-31
+Income (Loss) from Equity Method Investments,-2477000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,17120000,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,17100000,2014-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,3900000,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,3866000,2015-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-1857000,2016-12-31
+Gain (Loss) on Disposition of Property Plant Equipment,-1900000,2016-12-31
+Operating Income (Loss),106186000,2014-12-31
+Operating Income (Loss),-90362000,2015-12-31
+Operating Income (Loss),-566554000,2016-12-31
+Gain (Loss) on Extinguishment of Debt,0,2014-12-31
+Gain (Loss) on Extinguishment of Debt,0,2015-12-31
+Gain (Loss) on Extinguishment of Debt,-4709000,2016-12-31
+"Interest Income (Expense), Net",-73785000,2014-12-31
+"Interest Income (Expense), Net",-96911000,2015-12-31
+"Interest Income (Expense), Net",-88336000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",32401000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-187273000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-659599000,2016-12-31
+Income Tax Expense (Benefit),-72067000,2014-12-31
+Income Tax Expense (Benefit),-73382000,2015-12-31
+Income Tax Expense (Benefit),-242475000,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",104468000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-113891000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-417124000,2016-12-31
+"Earnings Per Share, Basic",0.25,2014-12-31
+"Earnings Per Share, Basic",-0.28,2015-12-31
+"Earnings Per Share, Basic",-0.91,2016-12-31
+"Earnings Per Share, Diluted",0.25,2014-12-31
+"Earnings Per Share, Diluted",-0.28,2015-12-31
+"Earnings Per Share, Diluted",-0.91,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",415840000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",413696000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",456847000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",417601000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",413696000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",456847000,2016-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.08,2014-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.08,2015-12-31
+"Common Stock, Dividends, Per Share, Cash Paid",0.0792105667127805,2016-12-31

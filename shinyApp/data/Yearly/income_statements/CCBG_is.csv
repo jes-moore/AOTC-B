@@ -1,0 +1,94 @@
+Metric,Amount,endDate
+"Loans, including Fees",73402000,2014-12-31
+"Loans, including Fees",73169000,2015-12-31
+"Loans, including Fees",72867000,2016-12-31
+Taxable,3394000,2014-12-31
+Taxable,5224000,2015-12-31
+Taxable,6317000,2016-12-31
+Tax Exempt,492000,2014-12-31
+Tax Exempt,633000,2015-12-31
+Tax Exempt,866000,2016-12-31
+Funds Sold,933000,2014-12-31
+Funds Sold,632000,2015-12-31
+Funds Sold,1104000,2016-12-31
+"Interest and Dividend Income, Operating",78221000,2014-12-31
+"Interest and Dividend Income, Operating",79658000,2015-12-31
+"Interest and Dividend Income, Operating",81154000,2016-12-31
+Deposits,1099000,2014-12-31
+Deposits,944000,2015-12-31
+Deposits,879000,2016-12-31
+"Interest Expense, Short-term Borrowings",78000,2014-12-31
+"Interest Expense, Short-term Borrowings",59000,2015-12-31
+"Interest Expense, Short-term Borrowings",148000,2016-12-31
+Interest on Subordinated Notes Payable,1328000,2014-12-31
+Interest on Subordinated Notes Payable,1368000,2015-12-31
+Interest on Subordinated Notes Payable,1434000,2016-12-31
+"Interest Expense, Other Long-term Debt",1075000,2014-12-31
+"Interest Expense, Other Long-term Debt",936000,2015-12-31
+"Interest Expense, Other Long-term Debt",728000,2016-12-31
+Interest Expense,3580000,2014-12-31
+Interest Expense,3307000,2015-12-31
+Interest Expense,3189000,2016-12-31
+"Interest Income (Expense), Net",74641000,2014-12-31
+"Interest Income (Expense), Net",76351000,2015-12-31
+"Interest Income (Expense), Net",77965000,2016-12-31
+Provision for Loan Losses,1905000,2014-12-31
+Provision for Loan Losses,1594000,2015-12-31
+Provision for Loan Losses,819000,2016-12-31
+"Interest Income (Expense), after Provision for Loan Loss",72736000,2014-12-31
+"Interest Income (Expense), after Provision for Loan Loss",74757000,2015-12-31
+"Interest Income (Expense), after Provision for Loan Loss",77146000,2016-12-31
+Deposit Fees,24320000,2014-12-31
+Deposit Fees,22608000,2015-12-31
+Deposit Fees,21332000,2016-12-31
+Bank Card Fees,10892000,2014-12-31
+Bank Card Fees,11278000,2015-12-31
+Bank Card Fees,11221000,2016-12-31
+Wealth Management Fees,7808000,2014-12-31
+Wealth Management Fees,7533000,2015-12-31
+Wealth Management Fees,7029000,2016-12-31
+Mortgage Banking Fees,3082000,2014-12-31
+Mortgage Banking Fees,4539000,2015-12-31
+Mortgage Banking Fees,5192000,2016-12-31
+Other,6434000,2014-12-31
+Other,8133000,2015-12-31
+Other,8907000,2016-12-31
+Noninterest Income,52536000,2014-12-31
+Noninterest Income,54091000,2015-12-31
+Noninterest Income,53681000,2016-12-31
+Compensation,62215000,2014-12-31
+Compensation,65414000,2015-12-31
+Compensation,64984000,2016-12-31
+"Occupancy, Net",17818000,2014-12-31
+"Occupancy, Net",17738000,2015-12-31
+"Occupancy, Net",18296000,2016-12-31
+"Other Real Estate Owned, Net",6811000,2014-12-31
+"Other Real Estate Owned, Net",4971000,2015-12-31
+"Other Real Estate Owned, Net",3649000,2016-12-31
+Other Noninterest Expense,27514000,2014-12-31
+Other Noninterest Expense,27150000,2015-12-31
+Other Noninterest Expense,26285000,2016-12-31
+Noninterest Expense,114358000,2014-12-31
+Noninterest Expense,115273000,2015-12-31
+Noninterest Expense,113214000,2016-12-31
+Earnings (Loss) Before Income Taxes and Equity in Undistributed Earnings of Subsidiary Bank,10914000,2014-12-31
+Earnings (Loss) Before Income Taxes and Equity in Undistributed Earnings of Subsidiary Bank,13575000,2015-12-31
+Earnings (Loss) Before Income Taxes and Equity in Undistributed Earnings of Subsidiary Bank,17613000,2016-12-31
+Income Tax Expense,1654000,2014-12-31
+Income Tax Expense,4459000,2015-12-31
+Income Tax Expense,5867000,2016-12-31
+BASIC NET INCOME PER SHARE (in dollars per share),0.53,2014-12-31
+BASIC NET INCOME PER SHARE (in dollars per share),0.53,2015-12-31
+BASIC NET INCOME PER SHARE (in dollars per share),0.69,2016-12-31
+DILUTED NET INCOME PER SHARE (in dollars per share),0.53,2014-12-31
+DILUTED NET INCOME PER SHARE (in dollars per share),0.53,2015-12-31
+DILUTED NET INCOME PER SHARE (in dollars per share),0.69,2016-12-31
+Average Basic Common Shares Outstanding (in shares),17425000,2014-12-31
+Average Basic Common Shares Outstanding (in shares),17273000,2015-12-31
+Average Basic Common Shares Outstanding (in shares),16989000,2016-12-31
+Average Diluted Common Shares Outstanding (in shares),17488000,2014-12-31
+Average Diluted Common Shares Outstanding (in shares),17318000,2015-12-31
+Average Diluted Common Shares Outstanding (in shares),17061000,2016-12-31
+NET INCOME,9260000,2014-12-31
+NET INCOME,9116000,2015-12-31
+NET INCOME,11746000,2016-12-31

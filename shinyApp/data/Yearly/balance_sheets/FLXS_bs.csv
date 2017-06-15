@@ -1,0 +1,59 @@
+Metric,Amount,endDate
+Cash,10934000,2013-06-30
+Cash,22176000,2014-06-30
+Cash,1282000,2015-06-30
+Cash,36780000,2016-06-30
+"Accounts Receivable, Net, Current",45101000,2015-06-30
+"Accounts Receivable, Net, Current",44618000,2016-06-30
+"Inventory, Net",113842000,2015-06-30
+"Inventory, Net",85904000,2016-06-30
+"Other Assets, Current",6777000,2015-06-30
+"Other Assets, Current",9141000,2016-06-30
+"Assets, Current",167002000,2015-06-30
+"Assets, Current",176443000,2016-06-30
+"Property, Plant and Equipment, Net",64770000,2015-06-30
+"Property, Plant and Equipment, Net",64124000,2016-06-30
+"Deferred Tax Assets, Net, Noncurrent",6090000,2015-06-30
+"Deferred Tax Assets, Net, Noncurrent",3660000,2016-06-30
+"Other Assets, Noncurrent",6757000,2015-06-30
+"Other Assets, Noncurrent",2669000,2016-06-30
+Assets,244619000,2015-06-30
+Assets,246896000,2016-06-30
+"Accounts Payable, Trade, Current",18329000,2015-06-30
+"Accounts Payable, Trade, Current",11023000,2016-06-30
+Notes payable short term,11904000,2015-06-30
+"Employee-related Liabilities, Current",7931000,2015-06-30
+"Employee-related Liabilities, Current",6986000,2016-06-30
+"Accrued Insurance, Current",4308000,2015-06-30
+"Accrued Insurance, Current",5252000,2016-06-30
+"Other Liabilities, Current",8848000,2015-06-30
+"Other Liabilities, Current",10096000,2016-06-30
+"Liabilities, Current",51320000,2015-06-30
+"Liabilities, Current",33357000,2016-06-30
+"Deferred Compensation Liability, Classified, Noncurrent",2915000,2015-06-30
+"Deferred Compensation Liability, Classified, Noncurrent",894000,2016-06-30
+"Other Liabilities, Noncurrent",3637000,2015-06-30
+"Other Liabilities, Noncurrent",2995000,2016-06-30
+Liabilities,57872000,2015-06-30
+Liabilities,37246000,2016-06-30
+Commitments and Contingencies,,2015-06-30
+Commitments and Contingencies,,2016-06-30
+"Preferred Stock, Value, Issued",,2015-06-30
+"Preferred Stock, Value, Issued",,2016-06-30
+"Undesignated Subordinated Stock, Value",,2015-06-30
+"Undesignated Subordinated Stock, Value",,2016-06-30
+"Common Stock, Value, Issued",7480000,2015-06-30
+"Common Stock, Value, Issued",7700000,2016-06-30
+Additional Paid in Capital,18827000,2015-06-30
+Additional Paid in Capital,23259000,2016-06-30
+Retained Earnings (Accumulated Deficit),162176000,2015-06-30
+Retained Earnings (Accumulated Deficit),180919000,2016-06-30
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-1256000,2014-06-30
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-1736000,2015-06-30
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-2228000,2016-06-30
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",151237000,2013-06-30
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",166735000,2014-06-30
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",186747000,2015-06-30
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",209650000,2016-06-30
+Liabilities and Equity,244619000,2015-06-30
+Liabilities and Equity,246896000,2016-06-30

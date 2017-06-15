@@ -1,0 +1,60 @@
+Metric,Amount,endDate
+Cash and cash equivalents,345555000,2013-12-31
+Cash and cash equivalents,427376000,2014-12-31
+Cash and cash equivalents,465995000,2015-12-31
+Cash and cash equivalents,681433000,2016-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $___ and $417, respectively",479140000,2015-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $___ and $417, respectively",440692000,2016-12-31
+"Inventories, net",411986000,2015-12-31
+"Inventories, net",381334000,2016-12-31
+Prepaid Expense and Other Assets,31351000,2015-12-31
+Prepaid Expense and Other Assets,28057000,2016-12-31
+"Income Taxes Receivable, Current",156000,2015-12-31
+"Income Taxes Receivable, Current",146000,2016-12-31
+Total current assets,1388628000,2015-12-31
+Total current assets,1531662000,2016-12-31
+Property Plant And Equipment Net,178170000,2015-12-31
+Property Plant And Equipment Net,166148000,2016-12-31
+"Goodwill, net",44691000,2013-12-31
+"Goodwill, net",45970000,2014-12-31
+"Goodwill, net",199290000,2015-12-31
+"Goodwill, net",191616000,2016-12-31
+Deferred Tax Assets Net Noncurrent,14088000,2015-12-31
+Deferred Tax Assets Net Noncurrent,6572000,2016-12-31
+"Other, net",113702000,2015-12-31
+"Other, net",102670000,2016-12-31
+Total assets,1675348000,2014-12-31
+Total assets,1893878000,2015-12-31
+Total assets,1998668000,2016-12-31
+Long Term Debt And Capital Lease Obligations Current,12284000,2015-12-31
+Long Term Debt And Capital Lease Obligations Current,12396000,2016-12-31
+Accounts Payable Current,251163000,2015-12-31
+Accounts Payable Current,326249000,2016-12-31
+"Accrued Income Taxes, Current",5069000,2015-12-31
+"Accrued Income Taxes, Current",3534000,2016-12-31
+"Other Liabilities, Current",64578000,2015-12-31
+"Other Liabilities, Current",70202000,2016-12-31
+Total current liabilities,333094000,2015-12-31
+Total current liabilities,412381000,2016-12-31
+Long Term Debt And Capital Lease Obligations,222909000,2015-12-31
+Long Term Debt And Capital Lease Obligations,211252000,2016-12-31
+Other long-term liabilities,15971000,2015-12-31
+Other long-term liabilities,9570000,2016-12-31
+"Preferred stock, $0.10 par value; 5,000 shares authorized, none issued",,2015-12-31
+"Preferred stock, $0.10 par value; 5,000 shares authorized, none issued",,2016-12-31
+"Common stock, $0.10 par value; 145,000 shares authorized; issued - ______ and 64,208, respectively; outstanding - _____ and 64,097 respectively",5018000,2015-12-31
+"Common stock, $0.10 par value; 145,000 shares authorized; issued - ______ and 64,208, respectively; outstanding - _____ and 64,097 respectively",4933000,2016-12-31
+Additional Paid In Capital,624997000,2015-12-31
+Additional Paid In Capital,626093000,2016-12-31
+Retained Earnings Accumulated Deficit,704905000,2015-12-31
+Retained Earnings Accumulated Deficit,748615000,2016-12-31
+Accumulated Other Comprehensive Income Loss Net Of Tax,-9094000,2013-12-31
+Accumulated Other Comprehensive Income Loss Net Of Tax,-9475000,2014-12-31
+Accumulated Other Comprehensive Income Loss Net Of Tax,-13016000,2015-12-31
+Accumulated Other Comprehensive Income Loss Net Of Tax,-14176000,2016-12-31
+Total shareholders' equity,1321904000,2015-12-31
+Total shareholders' equity,1365465000,2016-12-31
+Commitments and contingencies,,2015-12-31
+Commitments and contingencies,,2016-12-31
+Total liabilities and shareholders' equity,1893878000,2015-12-31
+Total liabilities and shareholders' equity,1998668000,2016-12-31

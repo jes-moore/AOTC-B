@@ -1,0 +1,81 @@
+Metric,Amount,endDate
+Sales Revenue Net,403083000,2014-12-31
+Sales Revenue Net,137225000,2015-03-31
+Sales Revenue Net,462609000,2015-12-31
+Sales Revenue Net,130261000,2015-06-30
+Sales Revenue Net,104877000,2015-09-30
+Sales Revenue Net,90246000,2015-12-31
+Sales Revenue Net,162110000,2016-03-31
+Sales Revenue Net,545451000,2016-12-31
+Sales Revenue Net,149823000,2016-06-30
+Sales Revenue Net,124571000,2016-09-30
+Sales Revenue Net,108947000,2016-12-31
+Cost Of Revenue,199053000,2014-12-31
+Cost Of Revenue,224581000,2015-12-31
+Cost Of Revenue,256994000,2016-12-31
+Marketing Expense,107706000,2014-12-31
+Marketing Expense,124209000,2015-12-31
+Marketing Expense,152387000,2016-12-31
+General And Administrative Expense,59231000,2014-12-31
+General And Administrative Expense,64651000,2015-12-31
+General And Administrative Expense,68290000,2016-12-31
+Depreciation And Amortization,7849000,2014-12-31
+Depreciation And Amortization,9158000,2015-12-31
+Depreciation And Amortization,13736000,2016-12-31
+Costs And Expenses,373839000,2014-12-31
+Costs And Expenses,422599000,2015-12-31
+Costs And Expenses,491407000,2016-12-31
+Operating Income Loss,29244000,2014-12-31
+Operating Income Loss,40010000,2015-12-31
+Operating Income Loss,54044000,2016-12-31
+Interest Income Expense Net,-142000,2014-12-31
+Interest Income Expense Net,-169000,2015-12-31
+Interest Income Expense Net,-26000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,29102000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,39841000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,54018000,2016-12-31
+Income Tax Expense Benefit,9791000,2014-12-31
+Income Tax Expense Benefit,13698000,2015-12-31
+Income Tax Expense Benefit,18549000,2016-12-31
+Net Income Loss,19311000,2014-12-31
+Net Income Loss,2943000,2015-03-31
+Net Income Loss,26143000,2015-12-31
+Net Income Loss,12085000,2015-06-30
+Net Income Loss,7309000,2015-09-30
+Net Income Loss,3806000,2015-12-31
+Net Income Loss,2552000,2016-03-31
+Net Income Loss,35469000,2016-12-31
+Net Income Loss,16118000,2016-06-30
+Net Income Loss,7949000,2016-09-30
+Net Income Loss,8850000,2016-12-31
+Earnings Per Share Basic,0.67,2014-12-31
+Earnings Per Share Basic,0.10,2015-03-31
+Earnings Per Share Basic,0.90,2015-12-31
+Earnings Per Share Basic,0.42,2015-06-30
+Earnings Per Share Basic,0.25,2015-09-30
+Earnings Per Share Basic,0.13,2015-12-31
+Earnings Per Share Basic,0.09,2016-03-31
+Earnings Per Share Basic,1.20,2016-12-31
+Earnings Per Share Basic,0.55,2016-06-30
+Earnings Per Share Basic,0.27,2016-09-30
+Earnings Per Share Basic,0.30,2016-12-31
+Earnings Per Share Diluted,0.66,2014-12-31
+Earnings Per Share Diluted,0.10,2015-03-31
+Earnings Per Share Diluted,0.89,2015-12-31
+Earnings Per Share Diluted,0.41,2015-06-30
+Earnings Per Share Diluted,0.25,2015-09-30
+Earnings Per Share Diluted,0.13,2015-12-31
+Earnings Per Share Diluted,0.09,2016-03-31
+Earnings Per Share Diluted,1.19,2016-12-31
+Earnings Per Share Diluted,0.54,2016-06-30
+Earnings Per Share Diluted,0.27,2016-09-30
+Earnings Per Share Diluted,0.29,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,28323000,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,28695000,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,29213000,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,28787000,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,29175000,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,29545000,2016-12-31
+Common Stock Dividends Per Share Declared,0.70,2014-12-31
+Common Stock Dividends Per Share Declared,0.70,2015-12-31
+Common Stock Dividends Per Share Declared,0.70,2016-12-31

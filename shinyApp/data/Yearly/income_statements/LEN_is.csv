@@ -1,0 +1,86 @@
+Metric,Amount,endDate
+Revenues,5935095000,2013-11-30
+Revenues,1363095000,2014-02-28
+Revenues,1818745000,2014-05-31
+Revenues,2014034000,2014-08-31
+Revenues,2583938000,2014-11-30
+Revenues,7779812000,2014-11-30
+Revenues,1644139000,2015-02-28
+Revenues,2392604000,2015-05-31
+Revenues,2491698000,2015-08-31
+Revenues,2945567000,2015-11-30
+Revenues,9474008000,2015-11-30
+General and Administrative Expense,146060000,2013-11-30
+General and Administrative Expense,177161000,2014-11-30
+General and Administrative Expense,216244000,2015-11-30
+Costs and Expenses,5249259000,2013-11-30
+Costs and Expenses,6857774000,2014-11-30
+Costs and Expenses,8387992000,2015-11-30
+Income (Loss) from Equity Method Investments,45885000,2013-11-30
+Income (Loss) from Equity Method Investments,73376000,2014-11-30
+Income (Loss) from Equity Method Investments,105184000,2015-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",681941000,2013-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",125876000,2014-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",203630000,2014-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",262335000,2014-08-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",377943000,2014-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",969784000,2014-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",176643000,2015-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",279810000,2015-05-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",320658000,2015-08-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",432505000,2015-11-30
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",1209616000,2015-11-30
+Income Tax Expense (Benefit),177015000,2013-11-30
+Income Tax Expense (Benefit),341091000,2014-11-30
+Income Tax Expense (Benefit),390416000,2015-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",504926000,2013-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",628693000,2014-11-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",819200000,2015-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,25252000,2013-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,-10223000,2014-11-30
+Net Income (Loss) Attributable to Noncontrolling Interest,16306000,2015-11-30
+Net Income (Loss) Attributable to Parent,479674000,2013-11-30
+Net Income (Loss) Attributable to Parent,78117000,2014-02-28
+Net Income (Loss) Attributable to Parent,137719000,2014-05-31
+Net Income (Loss) Attributable to Parent,177757000,2014-08-31
+Net Income (Loss) Attributable to Parent,245323000,2014-11-30
+Net Income (Loss) Attributable to Parent,638916000,2014-11-30
+Net Income (Loss) Attributable to Parent,114963000,2015-02-28
+Net Income (Loss) Attributable to Parent,183016000,2015-05-31
+Net Income (Loss) Attributable to Parent,223312000,2015-08-31
+Net Income (Loss) Attributable to Parent,281603000,2015-11-30
+Net Income (Loss) Attributable to Parent,802894000,2015-11-30
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",0,2013-11-30
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",130000,2014-11-30
+"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",-65000,2015-11-30
+"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",0,2013-11-30
+"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",0,2014-11-30
+"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",26000,2015-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",479674000,2013-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",639046000,2014-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",802803000,2015-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",25252000,2013-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",-10223000,2014-11-30
+"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",16306000,2015-11-30
+"Earnings Per Share, Basic",2.48,2013-11-30
+"Earnings Per Share, Basic",0.38,2014-02-28
+"Earnings Per Share, Basic",0.67,2014-05-31
+"Earnings Per Share, Basic",0.87,2014-08-31
+"Earnings Per Share, Basic",1.20,2014-11-30
+"Earnings Per Share, Basic",3.12,2014-11-30
+"Earnings Per Share, Basic",0.56,2015-02-28
+"Earnings Per Share, Basic",0.89,2015-05-31
+"Earnings Per Share, Basic",1.07,2015-08-31
+"Earnings Per Share, Basic",1.34,2015-11-30
+"Earnings Per Share, Basic",3.87,2015-11-30
+"Earnings Per Share, Diluted",2.15,2013-11-30
+"Earnings Per Share, Diluted",0.35,2014-02-28
+"Earnings Per Share, Diluted",0.61,2014-05-31
+"Earnings Per Share, Diluted",0.78,2014-08-31
+"Earnings Per Share, Diluted",1.07,2014-11-30
+"Earnings Per Share, Diluted",2.80,2014-11-30
+"Earnings Per Share, Diluted",0.50,2015-02-28
+"Earnings Per Share, Diluted",0.79,2015-05-31
+"Earnings Per Share, Diluted",0.96,2015-08-31
+"Earnings Per Share, Diluted",1.21,2015-11-30
+"Earnings Per Share, Diluted",3.46,2015-11-30

@@ -1,0 +1,149 @@
+Metric,Amount,endDate
+"Sales Revenue, Services, Net",115696000,2014-12-31
+"Sales Revenue, Services, Net",176672000,2015-12-31
+"Sales Revenue, Services, Net",313057000,2016-12-31
+"Sales Revenue, Goods, Gross",16883000,2014-12-31
+"Sales Revenue, Goods, Gross",18283000,2015-12-31
+"Sales Revenue, Goods, Gross",20234000,2016-12-31
+Insurance Services Revenue,9217000,2014-12-31
+Insurance Services Revenue,11732000,2015-12-31
+Insurance Services Revenue,17300000,2016-12-31
+Customized postage,5450000,2014-12-31
+Customized postage,7229000,2015-12-31
+Customized postage,13615000,2016-12-31
+"Other Revenue, Net",23000,2014-12-31
+"Other Revenue, Net",41000,2015-12-31
+"Other Revenue, Net",99000,2016-12-31
+Revenues,147269000,2014-12-31
+Revenues,44052000,2015-03-31
+Revenues,213957000,2015-12-31
+Revenues,48360000,2015-06-30
+Revenues,51669000,2015-09-30
+Revenues,69876000,2015-12-31
+Revenues,81837000,2016-03-31
+Revenues,364305000,2016-12-31
+Revenues,84013000,2016-06-30
+Revenues,92559000,2016-09-30
+Revenues,105896000,2016-12-31
+Cost of Services,19687000,2014-12-31
+Cost of Services,27967000,2015-12-31
+Cost of Services,39999000,2016-12-31
+Product,5516000,2014-12-31
+Product,5971000,2015-12-31
+Product,6695000,2016-12-31
+Insurance Cost,3210000,2014-12-31
+Insurance Cost,3984000,2015-12-31
+Insurance Cost,5432000,2016-12-31
+Postage Expense,4493000,2014-12-31
+Postage Expense,6013000,2015-12-31
+Postage Expense,10846000,2016-12-31
+Cost of Revenue,32906000,2014-12-31
+Cost of Revenue,43935000,2015-12-31
+Cost of Revenue,62972000,2016-12-31
+Gross profit,114363000,2014-12-31
+Gross profit,34427000,2015-03-31
+Gross profit,170022000,2015-12-31
+Gross profit,38422000,2015-06-30
+Gross profit,40480000,2015-09-30
+Gross profit,56693000,2015-12-31
+Gross profit,67215000,2016-03-31
+Gross profit,301333000,2016-12-31
+Gross profit,70293000,2016-06-30
+Gross profit,75832000,2016-09-30
+Gross profit,87993000,2016-12-31
+Sales and marketing,43659000,2014-12-31
+Sales and marketing,56144000,2015-12-31
+Sales and marketing,78830000,2016-12-31
+Research and development,13309000,2014-12-31
+Research and development,20711000,2015-12-31
+Research and development,35158000,2016-12-31
+General and Administrative Expense,25147000,2014-12-31
+General and Administrative Expense,42399000,2015-12-31
+General and Administrative Expense,67125000,2016-12-31
+Contingent consideration charges,8438000,2014-12-31
+Contingent consideration charges,46088000,2015-12-31
+Contingent consideration charges,0,2016-12-31
+Gain (Loss) Related to Litigation Settlement,0,2014-12-31
+Gain (Loss) Related to Litigation Settlement,-10000000,2015-12-31
+Gain (Loss) Related to Litigation Settlement,0,2016-12-31
+Operating Expenses,90553000,2014-12-31
+Operating Expenses,175342000,2015-12-31
+Operating Expenses,181113000,2016-12-31
+Operating Income (Loss),23810000,2014-12-31
+Operating Income (Loss),-2159000,2015-03-31
+Operating Income (Loss),-5320000,2015-12-31
+Operating Income (Loss),-15152000,2015-06-30
+Operating Income (Loss),12991000,2015-09-30
+Operating Income (Loss),-1000000,2015-12-31
+Operating Income (Loss),22219000,2016-03-31
+Operating Income (Loss),120220000,2016-12-31
+Operating Income (Loss),24967000,2016-06-30
+Operating Income (Loss),31591000,2016-09-30
+Operating Income (Loss),41443000,2016-12-31
+Interest Expense,0,2014-12-31
+Interest Expense,397000,2015-12-31
+Interest Expense,3552000,2016-12-31
+Interest and Other Income,375000,2014-12-31
+Interest and Other Income,146000,2015-12-31
+Interest and Other Income,306000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",24185000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-5571000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",116974000,2016-12-31
+Income tax expense (benefit),-12697000,2014-12-31
+Income tax expense (benefit),-1373000,2015-12-31
+Income tax expense (benefit),41745000,2016-12-31
+Net income (loss),36882000,2014-12-31
+Net income (loss),-970000,2015-03-31
+Net income (loss),-4198000,2015-12-31
+Net income (loss),-10431000,2015-06-30
+Net income (loss),7274000,2015-09-30
+Net income (loss),-71000,2015-12-31
+Net income (loss),13238000,2016-03-31
+Net income (loss),75229000,2016-12-31
+Net income (loss),14291000,2016-06-30
+Net income (loss),18672000,2016-09-30
+Net income (loss),29028000,2016-12-31
+Basic (in dollars per share),2.30,2014-12-31
+Basic (in dollars per share),-0.06,2015-03-31
+Basic (in dollars per share),-0.26,2015-12-31
+Basic (in dollars per share),-0.64,2015-06-30
+Basic (in dollars per share),0.44,2015-09-30
+Basic (in dollars per share),0,2015-12-31
+Basic (in dollars per share),0.76,2016-03-31
+Basic (in dollars per share),4.36,2016-12-31
+Basic (in dollars per share),0.82,2016-06-30
+Basic (in dollars per share),1.08,2016-09-30
+Basic (in dollars per share),1.71,2016-12-31
+Diluted (in dollars per share),2.25,2014-12-31
+Diluted (in dollars per share),-0.06,2015-03-31
+Diluted (in dollars per share),-0.26,2015-12-31
+Diluted (in dollars per share),-0.64,2015-06-30
+Diluted (in dollars per share),0.42,2015-09-30
+Diluted (in dollars per share),0,2015-12-31
+Diluted (in dollars per share),0.71,2016-03-31
+Diluted (in dollars per share),4.12,2016-12-31
+Diluted (in dollars per share),0.79,2016-06-30
+Diluted (in dollars per share),1.03,2016-09-30
+Diluted (in dollars per share),1.61,2016-12-31
+Basic (in shares),16011000,2014-12-31
+Basic (in shares),16156000,2015-03-31
+Basic (in shares),16436000,2015-12-31
+Basic (in shares),16402000,2015-06-30
+Basic (in shares),16538000,2015-09-30
+Basic (in shares),16642000,2015-12-31
+Basic (in shares),17357000,2016-03-31
+Basic (in shares),17245000,2016-12-31
+Basic (in shares),17384000,2016-06-30
+Basic (in shares),17218000,2016-09-30
+Basic (in shares),17018000,2016-12-31
+Diluted (in shares),16417000,2014-12-31
+Diluted (in shares),16156000,2015-03-31
+Diluted (in shares),16436000,2015-12-31
+Diluted (in shares),16402000,2015-06-30
+Diluted (in shares),17517000,2015-09-30
+Diluted (in shares),16642000,2015-12-31
+Diluted (in shares),18664000,2016-03-31
+Diluted (in shares),18251000,2016-12-31
+Diluted (in shares),18192000,2016-06-30
+Diluted (in shares),18120000,2016-09-30
+Diluted (in shares),18026000,2016-12-31

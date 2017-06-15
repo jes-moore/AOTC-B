@@ -1,0 +1,108 @@
+Metric,Amount,endDate
+Revenue,514070000,2013-12-31
+Revenue,124736000,2014-03-31
+Revenue,474921000,2014-12-31
+Revenue,123553000,2014-06-30
+Revenue,117623000,2014-09-30
+Revenue,109009000,2014-12-31
+Revenue,99563000,2015-03-31
+Revenue,382597000,2015-12-31
+Revenue,98776000,2015-06-30
+Revenue,95282000,2015-09-30
+Revenue,88977000,2015-12-31
+Cost of revenue,256450000,2013-12-31
+Cost of revenue,63398000,2014-03-31
+Cost of revenue,252721000,2014-12-31
+Cost of revenue,63461000,2014-06-30
+Cost of revenue,64154000,2014-09-30
+Cost of revenue,61708000,2014-12-31
+Cost of revenue,56217000,2015-03-31
+Cost of revenue,213409000,2015-12-31
+Cost of revenue,55390000,2015-06-30
+Cost of revenue,53671000,2015-09-30
+Cost of revenue,48131000,2015-12-31
+Selling and marketing,182854000,2013-12-31
+Selling and marketing,182720000,2014-12-31
+Selling and marketing,126966000,2015-12-31
+Product and technology,22240000,2013-12-31
+Product and technology,27510000,2014-12-31
+Product and technology,28414000,2015-12-31
+General and administrative,46362000,2013-12-31
+General and administrative,52155000,2014-12-31
+General and administrative,39332000,2015-12-31
+us-gaap_RestructuringCharges,,2013-12-31
+us-gaap_RestructuringCharges,5927000,2014-12-31
+us-gaap_RestructuringCharges,7546000,2015-12-31
+Goodwill impairment loss,,2013-12-31
+Goodwill impairment loss,,2014-12-31
+Goodwill impairment loss,27800000,2015-12-31
+us-gaap_OperatingExpenses,251456000,2013-12-31
+us-gaap_OperatingExpenses,268312000,2014-12-31
+us-gaap_OperatingExpenses,230058000,2015-12-31
+Operating income (loss),6164000,2013-12-31
+Operating income (loss),-46112000,2014-12-31
+Operating income (loss),-60870000,2015-12-31
+"Gain on deconsolidation of subsidiary, net",,2013-12-31
+"Gain on deconsolidation of subsidiary, net",,2014-12-31
+"Gain on deconsolidation of subsidiary, net",2853000,2015-12-31
+us-gaap_InterestExpense,14000,2013-12-31
+us-gaap_InterestExpense,67000,2014-12-31
+us-gaap_InterestExpense,2790000,2015-12-31
+"Other income (expense), net",600000,2013-12-31
+"Other income (expense), net",1003000,2014-12-31
+"Other income (expense), net",-339000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,6750000,2013-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-6313000,2014-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-45176000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-10326000,2014-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-11284000,2014-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-17737000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-12782000,2015-03-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-61146000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-10593000,2015-06-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-35637000,2015-09-30
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,-2504000,2015-12-31
+Income tax provision,3699000,2013-12-31
+Income tax provision,484000,2014-12-31
+Income tax provision,369000,2015-12-31
+Income (loss) from continuing operations,3051000,2013-12-31
+Income (loss) from continuing operations,-45660000,2014-12-31
+Income (loss) from continuing operations,-61515000,2015-12-31
+"Income (loss) from discontinued operations, net of income tax of $11, and $3,036 for the years ended December 31, 2014, and 2013, respectively",-5534000,2013-12-31
+"Income (loss) from discontinued operations, net of income tax of $11, and $3,036 for the years ended December 31, 2014, and 2013, respectively",650000,2014-12-31
+"Income (loss) from discontinued operations, net of income tax of $11, and $3,036 for the years ended December 31, 2014, and 2013, respectively",,2015-12-31
+Net loss,-2483000,2013-12-31
+Net loss,-5973000,2014-03-31
+Net loss,-45010000,2014-12-31
+Net loss,-10295000,2014-06-30
+Net loss,-11284000,2014-09-30
+Net loss,-17458000,2014-12-31
+Net loss,-12782000,2015-03-31
+Net loss,-61515000,2015-12-31
+Net loss,-10593000,2015-06-30
+Net loss,-35637000,2015-09-30
+Net loss,-2504000,2015-12-31
+Income (loss) from continuing operations (in dollars per share),0.11,2013-12-31
+Income (loss) from continuing operations (in dollars per share),-1.60,2014-12-31
+Income (loss) from continuing operations (in dollars per share),-2.11,2015-12-31
+"Income (loss) from discontinued operations, net of income taxes (in dollars per share)",-0.20,2013-12-31
+"Income (loss) from discontinued operations, net of income taxes (in dollars per share)",0.02,2014-12-31
+"Income (loss) from discontinued operations, net of income taxes (in dollars per share)",,2015-12-31
+Net loss per share (in dollars per share),-0.09,2013-12-31
+Net loss per share (in dollars per share),-1.58,2014-12-31
+Net loss per share (in dollars per share),-2.11,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,0.11,2013-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,-1.60,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsPerDilutedShare,-2.11,2015-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,-0.20,2013-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,0.02,2014-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerDilutedShare,,2015-12-31
+us-gaap_EarningsPerShareDiluted,-0.09,2013-12-31
+us-gaap_EarningsPerShareDiluted,-1.58,2014-12-31
+us-gaap_EarningsPerShareDiluted,-2.11,2015-12-31
+Basic (in shares),27764000,2013-12-31
+Basic (in shares),28461000,2014-12-31
+Basic (in shares),29174000,2015-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,29051000,2013-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,28461000,2014-12-31
+us-gaap_WeightedAverageNumberOfDilutedSharesOutstanding,29174000,2015-12-31

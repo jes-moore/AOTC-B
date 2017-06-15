@@ -1,0 +1,87 @@
+Metric,Amount,endDate
+Cash and Due from Banks,19919000000,2013-12-31
+Cash and Due from Banks,19571000000,2014-12-31
+Cash and Due from Banks,19111000000,2015-12-31
+Cash and Due from Banks,20729000000,2016-12-31
+Federal Funds Sold Securities Purchased Under Resale Agreements And Other Short Term Investments,270130000000,2015-12-31
+Federal Funds Sold Securities Purchased Under Resale Agreements And Other Short Term Investments,266038000000,2016-12-31
+Trading Assets,64815000000,2015-12-31
+Trading Assets,74397000000,2016-12-31
+Available-for-sale Securities,267358000000,2015-12-31
+Available-for-sale Securities,308364000000,2016-12-31
+Held-to-maturity Securities,80197000000,2015-12-31
+Held-to-maturity Securities,99583000000,2016-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group, Mortgage",19603000000,2015-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group, Mortgage",26309000000,2016-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group, Other",279000000,2015-12-31
+"Loans Receivable Held-for-sale, Net, Not Part of Disposal Group, Other",80000000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",798351000000,2012-12-31
+"Loans and Leases Receivable, Net of Deferred Income",822286000000,2013-12-31
+"Loans and Leases Receivable, Net of Deferred Income",862551000000,2014-12-31
+"Loans and Leases Receivable, Net of Deferred Income",916559000000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",967604000000,2016-12-31
+"Loans and Leases Receivable, Allowance",17060000000,2012-12-31
+"Loans and Leases Receivable, Allowance",14502000000,2013-12-31
+"Loans and Leases Receivable, Allowance",12319000000,2014-12-31
+"Loans and Leases Receivable, Allowance",11545000000,2015-12-31
+"Loans and Leases Receivable, Allowance",11419000000,2016-12-31
+"Loans and Leases Receivable, Net Amount",905014000000,2015-12-31
+"Loans and Leases Receivable, Net Amount",956185000000,2016-12-31
+"Servicing Asset at Fair Value, Amount",12415000000,2015-12-31
+"Servicing Asset at Fair Value, Amount",12959000000,2016-12-31
+Servicing Asset at Amortized Cost,1308000000,2015-12-31
+Servicing Asset at Amortized Cost,1406000000,2016-12-31
+"Property, Plant and Equipment, Net",8704000000,2015-12-31
+"Property, Plant and Equipment, Net",8333000000,2016-12-31
+Goodwill,25705000000,2014-12-31
+Goodwill,25529000000,2015-12-31
+Goodwill,26693000000,2016-12-31
+Derivative Asset,17656000000,2015-12-31
+Derivative Asset,14498000000,2016-12-31
+Other Assets,95513000000,2015-12-31
+Other Assets,114541000000,2016-12-31
+Assets,1787632000000,2015-12-31
+Assets,1930115000000,2016-12-31
+Noninterest-bearing Deposit Liabilities,351579000000,2015-12-31
+Noninterest-bearing Deposit Liabilities,375967000000,2016-12-31
+Interest-bearing Deposit Liabilities,871733000000,2015-12-31
+Interest-bearing Deposit Liabilities,930112000000,2016-12-31
+Deposits,1223312000000,2015-12-31
+Deposits,1306079000000,2016-12-31
+Short-term Debt,63518000000,2014-12-31
+Short-term Debt,97528000000,2015-12-31
+Short-term Debt,96781000000,2016-12-31
+Derivative Liability,13920000000,2015-12-31
+Derivative Liability,14492000000,2016-12-31
+Accounts Payable and Accrued Liabilities,59445000000,2015-12-31
+Accounts Payable and Accrued Liabilities,57189000000,2016-12-31
+Long-term Debt,199536000000,2015-12-31
+Long-term Debt,255077000000,2016-12-31
+Liabilities,1593741000000,2015-12-31
+Liabilities,1729618000000,2016-12-31
+"Preferred Stock, Value, Issued",22214000000,2015-12-31
+"Preferred Stock, Value, Issued",24551000000,2016-12-31
+"Common Stock, Value, Issued",9136000000,2015-12-31
+"Common Stock, Value, Issued",9136000000,2016-12-31
+Additional Paid in Capital,60714000000,2015-12-31
+Additional Paid in Capital,60234000000,2016-12-31
+Retained Earnings (Accumulated Deficit),120866000000,2015-12-31
+Retained Earnings (Accumulated Deficit),133075000000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",1386000000,2013-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",3518000000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",297000000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-3137000000,2016-12-31
+"Treasury Stock, Value",18867000000,2015-12-31
+"Treasury Stock, Value",22713000000,2016-12-31
+Unearned ESOP Shares Cost,1362000000,2015-12-31
+Unearned ESOP Shares Cost,1565000000,2016-12-31
+Stockholders' Equity Attributable to Parent,192998000000,2015-12-31
+Stockholders' Equity Attributable to Parent,199581000000,2016-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,893000000,2015-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,916000000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",171008000000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",185262000000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",193891000000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",200497000000,2016-12-31
+Liabilities and Equity,1787632000000,2015-12-31
+Liabilities and Equity,1930115000000,2016-12-31

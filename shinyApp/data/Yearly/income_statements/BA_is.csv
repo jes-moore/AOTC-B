@@ -1,0 +1,109 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",80688000000,2014-12-31
+"Sales Revenue, Goods, Net",85255000000,2015-12-31
+"Sales Revenue, Goods, Net",84399000000,2016-12-31
+"Sales Revenue, Services, Net",10074000000,2014-12-31
+"Sales Revenue, Services, Net",10859000000,2015-12-31
+"Sales Revenue, Services, Net",10172000000,2016-12-31
+Revenues,90762000000,2014-12-31
+Revenues,22149000000,2015-03-31
+Revenues,24543000000,2015-06-30
+Revenues,25849000000,2015-09-30
+Revenues,23573000000,2015-12-31
+Revenues,96114000000,2015-12-31
+Revenues,22632000000,2016-03-31
+Revenues,24755000000,2016-06-30
+Revenues,23898000000,2016-09-30
+Revenues,23286000000,2016-12-31
+Revenues,94571000000,2016-12-31
+Cost of Goods Sold,68551000000,2014-12-31
+Cost of Goods Sold,73446000000,2015-12-31
+Cost of Goods Sold,72713000000,2016-12-31
+Cost of Services,8132000000,2014-12-31
+Cost of Services,8578000000,2015-12-31
+Cost of Services,8018000000,2016-12-31
+Financial Services Costs,69000000,2014-12-31
+Financial Services Costs,64000000,2015-12-31
+Financial Services Costs,59000000,2016-12-31
+Cost of Revenue,76752000000,2014-12-31
+Cost of Revenue,18496000000,2015-03-31
+Cost of Revenue,21350000000,2015-06-30
+Cost of Revenue,21600000000,2015-09-30
+Cost of Revenue,20642000000,2015-12-31
+Cost of Revenue,82088000000,2015-12-31
+Cost of Revenue,19097000000,2016-03-31
+Cost of Revenue,22325000000,2016-06-30
+Cost of Revenue,19904000000,2016-09-30
+Cost of Revenue,19464000000,2016-12-31
+Cost of Revenue,80790000000,2016-12-31
+Gross Profit,14010000000,2014-12-31
+Gross Profit,14026000000,2015-12-31
+Gross Profit,13781000000,2016-12-31
+Income (Loss) from Equity Method Investments,287000000,2014-12-31
+Income (Loss) from Equity Method Investments,274000000,2015-12-31
+Income (Loss) from Equity Method Investments,303000000,2016-12-31
+General and Administrative Expense,3767000000,2014-12-31
+General and Administrative Expense,3525000000,2015-12-31
+General and Administrative Expense,3616000000,2016-12-31
+Research and Development Expense,3047000000,2014-12-31
+Research and Development Expense,3331000000,2015-12-31
+Research and Development Expense,4627000000,2016-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-10000000,2014-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-1000000,2015-12-31
+"Gain (Loss) on Disposition of Property Plant Equipment, Excluding Oil and Gas Property and Timber Property",-7000000,2016-12-31
+Operating Income (Loss),7473000000,2014-12-31
+Operating Income (Loss),2019000000,2015-03-31
+Operating Income (Loss),1683000000,2015-06-30
+Operating Income (Loss),2580000000,2015-09-30
+Operating Income (Loss),1161000000,2015-12-31
+Operating Income (Loss),7443000000,2015-12-31
+Operating Income (Loss),1788000000,2016-03-31
+Operating Income (Loss),-419000000,2016-06-30
+Operating Income (Loss),2282000000,2016-09-30
+Operating Income (Loss),2183000000,2016-12-31
+Operating Income (Loss),5834000000,2016-12-31
+Other Nonoperating Income (Expense),-3000000,2014-12-31
+Other Nonoperating Income (Expense),-13000000,2015-12-31
+Other Nonoperating Income (Expense),40000000,2016-12-31
+Interest and Debt Expense,333000000,2014-12-31
+Interest and Debt Expense,275000000,2015-12-31
+Interest and Debt Expense,306000000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",7137000000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",7155000000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",5568000000,2016-12-31
+Income Tax Expense (Benefit),1691000000,2014-12-31
+Income Tax Expense (Benefit),1979000000,2015-12-31
+Income Tax Expense (Benefit),673000000,2016-12-31
+Net Income (Loss) Attributable to Parent,5446000000,2014-12-31
+Net Income (Loss) Attributable to Parent,1336000000,2015-03-31
+Net Income (Loss) Attributable to Parent,1110000000,2015-06-30
+Net Income (Loss) Attributable to Parent,1704000000,2015-09-30
+Net Income (Loss) Attributable to Parent,1026000000,2015-12-31
+Net Income (Loss) Attributable to Parent,5176000000,2015-12-31
+Net Income (Loss) Attributable to Parent,1219000000,2016-03-31
+Net Income (Loss) Attributable to Parent,-234000000,2016-06-30
+Net Income (Loss) Attributable to Parent,2279000000,2016-09-30
+Net Income (Loss) Attributable to Parent,1631000000,2016-12-31
+Net Income (Loss) Attributable to Parent,4895000000,2016-12-31
+"Earnings Per Share, Basic",7.47,2014-12-31
+"Earnings Per Share, Basic",1.89,2015-03-31
+"Earnings Per Share, Basic",1.61,2015-06-30
+"Earnings Per Share, Basic",2.50,2015-09-30
+"Earnings Per Share, Basic",1.52,2015-12-31
+"Earnings Per Share, Basic",7.52,2015-12-31
+"Earnings Per Share, Basic",1.85,2016-03-31
+"Earnings Per Share, Basic",-0.37,2016-06-30
+"Earnings Per Share, Basic",3.64,2016-09-30
+"Earnings Per Share, Basic",2.63,2016-12-31
+"Earnings Per Share, Basic",7.70,2016-12-31
+"Earnings Per Share, Diluted",7.38,2014-12-31
+"Earnings Per Share, Diluted",1.87,2015-03-31
+"Earnings Per Share, Diluted",1.59,2015-06-30
+"Earnings Per Share, Diluted",2.47,2015-09-30
+"Earnings Per Share, Diluted",1.51,2015-12-31
+"Earnings Per Share, Diluted",7.44,2015-12-31
+"Earnings Per Share, Diluted",1.83,2016-03-31
+"Earnings Per Share, Diluted",-0.37,2016-06-30
+"Earnings Per Share, Diluted",3.60,2016-09-30
+"Earnings Per Share, Diluted",2.59,2016-12-31
+"Earnings Per Share, Diluted",7.61,2016-12-31

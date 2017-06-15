@@ -1,0 +1,72 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",136612000,2014-06-30
+"Sales Revenue, Goods, Net",41354000,2014-09-30
+"Sales Revenue, Goods, Net",44732000,2014-12-31
+"Sales Revenue, Goods, Net",47004000,2015-03-31
+"Sales Revenue, Goods, Net",48454000,2015-06-30
+"Sales Revenue, Goods, Net",181544000,2015-06-30
+"Sales Revenue, Goods, Net",43871000,2015-09-30
+"Sales Revenue, Goods, Net",41392000,2015-12-31
+"Sales Revenue, Goods, Net",44461000,2016-03-31
+"Sales Revenue, Goods, Net",48460000,2016-06-30
+"Sales Revenue, Goods, Net",178184000,2016-06-30
+Cost of Goods Sold,31041000,2014-06-30
+Cost of Goods Sold,39520000,2015-06-30
+Cost of Goods Sold,35421000,2016-06-30
+Gross Profit,105571000,2014-06-30
+Gross Profit,32469000,2014-09-30
+Gross Profit,35386000,2014-12-31
+Gross Profit,36588000,2015-03-31
+Gross Profit,37581000,2015-06-30
+Gross Profit,142024000,2015-06-30
+Gross Profit,35100000,2015-09-30
+Gross Profit,33321000,2015-12-31
+Gross Profit,35736000,2016-03-31
+Gross Profit,38606000,2016-06-30
+Gross Profit,142763000,2016-06-30
+"Selling, General and Administrative Expense",117994000,2014-06-30
+"Selling, General and Administrative Expense",143684000,2015-06-30
+"Selling, General and Administrative Expense",162542000,2016-06-30
+Research and Development Expense,21066000,2014-06-30
+Research and Development Expense,30977000,2015-06-30
+Research and Development Expense,25934000,2016-06-30
+Restructuring Charges,0,2014-06-30
+Restructuring Charges,0,2015-06-30
+Restructuring Charges,2364000,2016-06-30
+"Litigation Settlement, Expense",0,2014-06-30
+"Litigation Settlement, Expense",0,2015-06-30
+"Litigation Settlement, Expense",8000000,2016-06-30
+Operating Expenses,139060000,2014-06-30
+Operating Expenses,174661000,2015-06-30
+Operating Expenses,198840000,2016-06-30
+Operating Income (Loss),-33489000,2014-06-30
+Operating Income (Loss),-32637000,2015-06-30
+Operating Income (Loss),-56077000,2016-06-30
+Nonoperating Income (Expense),-1801000,2014-06-30
+Nonoperating Income (Expense),-185000,2015-06-30
+Nonoperating Income (Expense),53000,2016-06-30
+Net Income (Loss) Attributable to Parent,-35290000,2014-06-30
+Net Income (Loss) Attributable to Parent,-8224000,2014-09-30
+Net Income (Loss) Attributable to Parent,-5273000,2014-12-31
+Net Income (Loss) Attributable to Parent,-10656000,2015-03-31
+Net Income (Loss) Attributable to Parent,-8669000,2015-06-30
+Net Income (Loss) Attributable to Parent,-32822000,2015-06-30
+Net Income (Loss) Attributable to Parent,-13261000,2015-09-30
+Net Income (Loss) Attributable to Parent,-15163000,2015-12-31
+Net Income (Loss) Attributable to Parent,-22716000,2016-03-31
+Net Income (Loss) Attributable to Parent,-4884000,2016-06-30
+Net Income (Loss) Attributable to Parent,-56024000,2016-06-30
+"Earnings Per Share, Basic and Diluted",-1.25,2014-06-30
+"Earnings Per Share, Basic and Diluted",-0.26,2014-09-30
+"Earnings Per Share, Basic and Diluted",-0.17,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.34,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.27,2015-06-30
+"Earnings Per Share, Basic and Diluted",-1.04,2015-06-30
+"Earnings Per Share, Basic and Diluted",-0.41,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.47,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.69,2016-03-31
+"Earnings Per Share, Basic and Diluted",-0.15,2016-06-30
+"Earnings Per Share, Basic and Diluted",-1.72,2016-06-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",28295758,2014-06-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31547711,2015-06-30
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",32537621,2016-06-30

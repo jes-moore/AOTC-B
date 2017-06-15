@@ -1,0 +1,106 @@
+Metric,Amount,endDate
+Sales,390011000,2014-12-31
+Sales,81600000,2015-03-31
+Sales,308133000,2015-12-31
+Sales,77959000,2015-06-30
+Sales,78260000,2015-09-30
+Sales,70314000,2015-12-31
+Sales,64711000,2016-03-31
+Sales,261644000,2016-12-31
+Sales,62454000,2016-06-30
+Sales,65222000,2016-09-30
+Sales,69257000,2016-12-31
+Cost of sales,304073000,2014-12-31
+Cost of sales,242223000,2015-12-31
+Cost of sales,208694000,2016-12-31
+Gross profit,85938000,2014-12-31
+Gross profit,17724000,2015-03-31
+Gross profit,65910000,2015-12-31
+Gross profit,16935000,2015-06-30
+Gross profit,16131000,2015-09-30
+Gross profit,15120000,2015-12-31
+Gross profit,13399000,2016-03-31
+Gross profit,52950000,2016-12-31
+Gross profit,12430000,2016-06-30
+Gross profit,12045000,2016-09-30
+Gross profit,15076000,2016-12-31
+Salaries and commissions,31196000,2014-12-31
+Salaries and commissions,28537000,2015-12-31
+Salaries and commissions,29369000,2016-12-31
+Other operating expenses,26400000,2014-12-31
+Other operating expenses,25023000,2015-12-31
+Other operating expenses,24714000,2016-12-31
+Depreciation and amortization,2919000,2014-12-31
+Depreciation and amortization,2915000,2015-12-31
+Depreciation and amortization,3018000,2016-12-31
+Impairment charge,,2014-12-31
+Impairment charge,3417000,2015-12-31
+Impairment charge,2994000,2015-06-30
+Impairment charge,423000,2015-12-31
+Impairment charge,2384000,2016-12-31
+Impairment charge,2384000,2016-06-30
+Operating Expenses,60515000,2014-12-31
+Operating Expenses,59892000,2015-12-31
+Operating Expenses,59485000,2016-12-31
+Operating income (loss),25423000,2014-12-31
+Operating income (loss),3726000,2015-03-31
+Operating income (loss),6018000,2015-12-31
+Operating income (loss),-234000,2015-06-30
+Operating income (loss),1783000,2015-09-30
+Operating income (loss),743000,2015-12-31
+Operating income (loss),-39000,2016-03-31
+Operating income (loss),-6535000,2016-12-31
+Operating income (loss),-3062000,2016-06-30
+Operating income (loss),-1804000,2016-09-30
+Operating income (loss),-1630000,2016-12-31
+Interest expense,1168000,2014-12-31
+Interest expense,901000,2015-12-31
+Interest expense,845000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",24255000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",5117000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-7380000,2016-12-31
+Income tax expense (benefit),9283000,2014-12-31
+Income tax expense (benefit),3073000,2015-12-31
+Income tax expense (benefit),-1374000,2016-12-31
+Net loss,14972000,2014-12-31
+Net loss,2186000,2015-03-31
+Net loss,2044000,2015-12-31
+Net loss,-619000,2015-06-30
+Net loss,676000,2015-09-30
+Net loss,-199000,2015-12-31
+Net loss,-184000,2016-03-31
+Net loss,-6006000,2016-12-31
+Net loss,-2557000,2016-06-30
+Net loss,-1439000,2016-09-30
+Net loss,-1826000,2016-12-31
+Basic (in dollars per share),0.85,2014-12-31
+Basic (in dollars per share),0.13,2015-03-31
+Basic (in dollars per share),0.12,2015-12-31
+Basic (in dollars per share),-0.04,2015-06-30
+Basic (in dollars per share),0.04,2015-09-30
+Basic (in dollars per share),-0.01,2015-12-31
+Basic (in dollars per share),-0.01,2016-03-31
+Basic (in dollars per share),-0.37,2016-12-31
+Basic (in dollars per share),-0.16,2016-06-30
+Basic (in dollars per share),-0.09,2016-09-30
+Basic (in dollars per share),-0.11,2016-12-31
+Diluted (in dollars per share),0.85,2014-12-31
+Diluted (in dollars per share),0.13,2015-03-31
+Diluted (in dollars per share),0.12,2015-12-31
+Diluted (in dollars per share),-0.04,2015-06-30
+Diluted (in dollars per share),0.04,2015-09-30
+Diluted (in dollars per share),-0.01,2015-12-31
+Diluted (in dollars per share),-0.01,2016-03-31
+Diluted (in dollars per share),-0.37,2016-12-31
+Diluted (in dollars per share),-0.16,2016-06-30
+Diluted (in dollars per share),-0.09,2016-09-30
+Diluted (in dollars per share),-0.11,2016-12-31
+Basic (in shares),17605290,2014-12-31
+Basic (in shares),17012560,2015-12-31
+Basic (in shares),16345679,2016-12-31
+Diluted (in shares),17683931,2014-12-31
+Diluted (in shares),17067593,2015-12-31
+Diluted (in shares),16345679,2016-12-31
+Dividend declared per share (in dollars per share),0.47,2014-12-31
+Dividend declared per share (in dollars per share),0.42,2015-12-31
+Dividend declared per share (in dollars per share),0.15,2016-12-31

@@ -1,0 +1,67 @@
+Metric,Amount,endDate
+"Revenue, Net",3129440000,2014-12-31
+"Revenue, Net",2884603000,2015-12-31
+"Revenue, Net",3893635000,2016-12-31
+Cost of Goods and Services Sold,2576618000,2014-12-31
+Cost of Goods and Services Sold,2405338000,2015-12-31
+Cost of Goods and Services Sold,3198158000,2016-12-31
+Gross Profit,552822000,2014-12-31
+Gross Profit,479265000,2015-12-31
+Gross Profit,695477000,2016-12-31
+"Selling, General and Administrative Expense",254498000,2014-12-31
+"Selling, General and Administrative Expense",232409000,2015-12-31
+"Selling, General and Administrative Expense",284331000,2016-12-31
+Research and Development Expense,76864000,2014-12-31
+Research and Development Expense,82017000,2015-12-31
+Research and Development Expense,117206000,2016-12-31
+Operating Expenses,331362000,2014-12-31
+Operating Expenses,314426000,2015-12-31
+Operating Expenses,401537000,2016-12-31
+Operating Income (Loss),221460000,2014-12-31
+Operating Income (Loss),164839000,2015-12-31
+Operating Income (Loss),293940000,2016-12-31
+Interest Expense,104956000,2014-12-31
+Interest Expense,81407000,2015-12-31
+Interest Expense,79668000,2016-12-31
+"Interest Expense, Related Party",4969000,2014-12-31
+"Interest Expense, Related Party",4969000,2015-12-31
+"Interest Expense, Related Party",4969000,2016-12-31
+Other Nonoperating Income (Expense),24543000,2014-12-31
+Other Nonoperating Income (Expense),-10551000,2015-12-31
+Other Nonoperating Income (Expense),5854000,2016-12-31
+Nonoperating Income (Expense),-85382000,2014-12-31
+Nonoperating Income (Expense),-96927000,2015-12-31
+Nonoperating Income (Expense),-78783000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",136078000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",67912000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",215157000,2016-12-31
+Income Tax Expense (Benefit),33845000,2014-12-31
+Income Tax Expense (Benefit),28035000,2015-12-31
+Income Tax Expense (Benefit),47853000,2016-12-31
+Income Before Equity In Earnings Of Unconsolidated Affiliate,102233000,2014-12-31
+Income Before Equity In Earnings Of Unconsolidated Affiliate,39877000,2015-12-31
+Income Before Equity In Earnings Of Unconsolidated Affiliate,167304000,2016-12-31
+Income (Loss) from Equity Method Investments,31007000,2014-12-31
+Income (Loss) from Equity Method Investments,14016000,2015-12-31
+Income (Loss) from Equity Method Investments,0,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",133240000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",53893000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",167304000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,3501000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,2795000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,3114000,2016-12-31
+Net Income (Loss) Attributable to Parent,129739000,2014-12-31
+Net Income (Loss) Attributable to Parent,51098000,2015-12-31
+Net Income (Loss) Attributable to Parent,164190000,2016-12-31
+"Earnings Per Share, Basic",0.56,2014-12-31
+"Earnings Per Share, Basic",0.22,2015-12-31
+"Earnings Per Share, Basic",0.69,2016-12-31
+"Earnings Per Share, Diluted",0.55,2014-12-31
+"Earnings Per Share, Diluted",0.22,2015-12-31
+"Earnings Per Share, Diluted",0.69,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",230710000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",236850000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",237416000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",236731000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",237170000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",238034000,2016-12-31

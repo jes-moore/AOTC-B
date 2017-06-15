@@ -1,0 +1,87 @@
+Metric,Amount,endDate
+Sales Revenue Net,50347000,2014-12-31
+Sales Revenue Net,13073000,2015-03-31
+Sales Revenue Net,54713000,2015-12-31
+Sales Revenue Net,13302000,2015-06-30
+Sales Revenue Net,14011000,2015-09-30
+Sales Revenue Net,14327000,2015-12-31
+Sales Revenue Net,14328000,2016-03-31
+Sales Revenue Net,60144000,2016-12-31
+Sales Revenue Net,14930000,2016-06-30
+Sales Revenue Net,15308000,2016-09-30
+Sales Revenue Net,15578000,2016-12-31
+Cost Of Goods And Services Sold,8324000,2014-12-31
+Cost Of Goods And Services Sold,9593000,2015-12-31
+Cost Of Goods And Services Sold,10533000,2016-12-31
+Gross Profit,42023000,2014-12-31
+Gross Profit,10860000,2015-03-31
+Gross Profit,45120000,2015-12-31
+Gross Profit,10873000,2015-06-30
+Gross Profit,11582000,2015-09-30
+Gross Profit,11805000,2015-12-31
+Gross Profit,11791000,2016-03-31
+Gross Profit,49611000,2016-12-31
+Gross Profit,12295000,2016-06-30
+Gross Profit,12656000,2016-09-30
+Gross Profit,12869000,2016-12-31
+Research And Development Expense,9051000,2014-12-31
+Research And Development Expense,8317000,2015-12-31
+Research And Development Expense,9553000,2016-12-31
+Selling General And Administrative Expense,26222000,2014-12-31
+Selling General And Administrative Expense,28887000,2015-12-31
+Selling General And Administrative Expense,30742000,2016-12-31
+Operating Income Loss,6750000,2014-12-31
+Operating Income Loss,7916000,2015-12-31
+Operating Income Loss,9316000,2016-12-31
+Investment And Other Income,183000,2014-12-31
+Investment And Other Income,244000,2015-12-31
+Investment And Other Income,246000,2016-12-31
+Interest Income Expense Nonoperating Net,-33000,2016-12-31
+Nonoperating Income Expense,183000,2014-12-31
+Nonoperating Income Expense,244000,2015-12-31
+Nonoperating Income Expense,213000,2016-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,6933000,2014-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,8160000,2015-12-31
+Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest,9529000,2016-12-31
+Income Tax Expense Benefit,2830000,2014-12-31
+Income Tax Expense Benefit,3144000,2015-12-31
+Income Tax Expense Benefit,3692000,2016-12-31
+Net Income Loss,4103000,2014-12-31
+Net Income Loss,1176000,2015-03-31
+Net Income Loss,5016000,2015-12-31
+Net Income Loss,1115000,2015-06-30
+Net Income Loss,1927000,2015-09-30
+Net Income Loss,798000,2015-12-31
+Net Income Loss,1570000,2016-03-31
+Net Income Loss,5837000,2016-12-31
+Net Income Loss,559000,2016-06-30
+Net Income Loss,1769000,2016-09-30
+Net Income Loss,1939000,2016-12-31
+Earnings Per Share Basic,0.07,2014-12-31
+Earnings Per Share Basic,0.02,2015-03-31
+Earnings Per Share Basic,0.09,2015-12-31
+Earnings Per Share Basic,0.02,2015-06-30
+Earnings Per Share Basic,0.03,2015-09-30
+Earnings Per Share Basic,0.01,2015-12-31
+Earnings Per Share Basic,0.03,2016-03-31
+Earnings Per Share Basic,0.11,2016-12-31
+Earnings Per Share Basic,0.01,2016-06-30
+Earnings Per Share Basic,0.03,2016-09-30
+Earnings Per Share Basic,0.04,2016-12-31
+Earnings Per Share Diluted,0.07,2014-12-31
+Earnings Per Share Diluted,0.02,2015-03-31
+Earnings Per Share Diluted,0.09,2015-12-31
+Earnings Per Share Diluted,0.02,2015-06-30
+Earnings Per Share Diluted,0.03,2015-09-30
+Earnings Per Share Diluted,0.01,2015-12-31
+Earnings Per Share Diluted,0.03,2016-03-31
+Earnings Per Share Diluted,0.11,2016-12-31
+Earnings Per Share Diluted,0.01,2016-06-30
+Earnings Per Share Diluted,0.03,2016-09-30
+Earnings Per Share Diluted,0.04,2016-12-31
+Weighted Average Number Of Shares Outstanding Basic,57948864,2014-12-31
+Weighted Average Number Of Shares Outstanding Basic,56421833,2015-12-31
+Weighted Average Number Of Shares Outstanding Basic,53819772,2016-12-31
+Weighted Average Number Of Diluted Shares Outstanding,58966625,2014-12-31
+Weighted Average Number Of Diluted Shares Outstanding,57476006,2015-12-31
+Weighted Average Number Of Diluted Shares Outstanding,54395145,2016-12-31

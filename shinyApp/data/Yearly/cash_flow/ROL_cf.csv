@@ -1,0 +1,110 @@
+Metric,Amount,endDate
+NET INCOME,137664000,2014-12-31
+NET INCOME,152149000,2015-12-31
+NET INCOME,167369000,2016-12-31
+NET INCOME,45073000,2015-06-30
+NET INCOME,45046000,2015-09-30
+NET INCOME,31928000,2016-03-31
+NET INCOME,30281000,2015-03-31
+NET INCOME,31749000,2015-12-31
+NET INCOME,47783000,2016-06-30
+NET INCOME,49651000,2016-09-30
+NET INCOME,38007000,2016-12-31
+"Depreciation, amortization and other non-cash charges",42277000,2014-12-31
+"Depreciation, amortization and other non-cash charges",42139000,2015-12-31
+"Depreciation, amortization and other non-cash charges",49894000,2016-12-31
+Deferred,8440000,2014-12-31
+Deferred,3493000,2015-12-31
+Deferred,-3248000,2016-12-31
+Stock based compensation expense,10579000,2014-12-31
+Stock based compensation expense,12110000,2015-12-31
+Stock based compensation expense,12415000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",4744000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",1946000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",3699000,2016-12-31
+Provision for bad debts,11197000,2014-12-31
+Provision for bad debts,10113000,2015-12-31
+Provision for bad debts,11257000,2016-12-31
+Increase (Decrease) in Accounts Receivable,13369000,2014-12-31
+Increase (Decrease) in Accounts Receivable,12494000,2015-12-31
+Increase (Decrease) in Accounts Receivable,15868000,2016-12-31
+Increase (Decrease) in Other Receivables,941000,2014-12-31
+Increase (Decrease) in Other Receivables,3630000,2015-12-31
+Increase (Decrease) in Other Receivables,6133000,2016-12-31
+Increase (Decrease) in Inventories,1525000,2014-12-31
+Increase (Decrease) in Inventories,-814000,2015-12-31
+Increase (Decrease) in Inventories,671000,2016-12-31
+Increase (Decrease) in Other Operating Assets,10678000,2014-12-31
+Increase (Decrease) in Other Operating Assets,2144000,2015-12-31
+Increase (Decrease) in Other Operating Assets,1464000,2016-12-31
+Increase (Decrease) in Other Noncurrent Assets,-7200000,2014-12-31
+Increase (Decrease) in Other Noncurrent Assets,-154000,2015-12-31
+Increase (Decrease) in Other Noncurrent Assets,-211000,2016-12-31
+Accounts payable and accrued expenses,15273000,2014-12-31
+Accounts payable and accrued expenses,-2039000,2015-12-31
+Accounts payable and accrued expenses,11182000,2016-12-31
+Increase (Decrease) in Deferred Revenue,2497000,2014-12-31
+Increase (Decrease) in Deferred Revenue,2822000,2015-12-31
+Increase (Decrease) in Deferred Revenue,2842000,2016-12-31
+Increase (Decrease) in Accrual for Termite Contracts,1274000,2014-12-31
+Increase (Decrease) in Accrual for Termite Contracts,126000,2015-12-31
+Increase (Decrease) in Accrual for Termite Contracts,2949000,2016-12-31
+Pension funding,-5250000,2014-12-31
+Pension funding,-5000000,2015-12-31
+Pension funding,-3256000,2016-12-31
+Increase (Decrease) in Other Accrued Liabilities,-5748000,2014-12-31
+Increase (Decrease) in Other Accrued Liabilities,-311000,2015-12-31
+Increase (Decrease) in Other Accrued Liabilities,2745000,2016-12-31
+Net cash provided by operating activities,194146000,2014-12-31
+Net cash provided by operating activities,196356000,2015-12-31
+Net cash provided by operating activities,226525000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",63335000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",33462000,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",46308000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",28739000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",39495000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",33081000,2016-12-31
+Cash from sales of franchises,565000,2014-12-31
+Cash from sales of franchises,767000,2015-12-31
+Cash from sales of franchises,699000,2016-12-31
+Proceeds from sales of assets,2038000,2014-12-31
+Proceeds from sales of assets,2752000,2015-12-31
+Proceeds from sales of assets,1663000,2016-12-31
+Investment Tax Credits,,2014-12-31
+Investment Tax Credits,-504000,2015-12-31
+Investment Tax Credits,185000,2016-12-31
+Net cash used in investing activities,-89471000,2014-12-31
+Net cash used in investing activities,-69942000,2015-12-31
+Net cash used in investing activities,-76842000,2016-12-31
+"Payments of Ordinary Dividends, Common Stock",75750000,2014-12-31
+"Payments of Ordinary Dividends, Common Stock",91755000,2015-12-31
+"Payments of Ordinary Dividends, Common Stock",109002000,2016-12-31
+Payments for Repurchase of Common Stock,35513000,2014-12-31
+Payments for Repurchase of Common Stock,7407000,2015-12-31
+Payments for Repurchase of Common Stock,31068000,2016-12-31
+Excess tax benefits from share-based payments,4744000,2014-12-31
+Excess tax benefits from share-based payments,1946000,2015-12-31
+Excess tax benefits from share-based payments,3699000,2016-12-31
+Net cash used in financing activities,-106519000,2014-12-31
+Net cash used in financing activities,-97216000,2015-12-31
+Net cash used in financing activities,-136371000,2016-12-31
+Effect of exchange rate changes on cash,-8000000,2014-12-31
+Effect of exchange rate changes on cash,-2996000,2015-12-31
+Effect of exchange rate changes on cash,-5101000,2016-12-31
+Net(decrease) increase in cash and cash equivalents,-9844000,2014-12-31
+Net(decrease) increase in cash and cash equivalents,26202000,2015-12-31
+Net(decrease) increase in cash and cash equivalents,8211000,2016-12-31
+Cash and cash equivalents,118216000,2013-12-31
+Cash and cash equivalents,108372000,2014-12-31
+Cash and cash equivalents,134574000,2015-12-31
+Cash and cash equivalents,142785000,2016-12-31
+Cash and cash equivalents,118216000,2013-12-31
+Cash and cash equivalents,108372000,2014-12-31
+Cash and cash equivalents,134574000,2015-12-31
+Cash and cash equivalents,142785000,2016-12-31
+Cash paid for interest,,2014-12-31
+Cash paid for interest,,2015-12-31
+Cash paid for interest,13000,2016-12-31
+"Cash paid for income taxes, net",74454000,2014-12-31
+"Cash paid for income taxes, net",82690000,2015-12-31
+"Cash paid for income taxes, net",88766000,2016-12-31

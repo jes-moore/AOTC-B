@@ -1,0 +1,55 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",83146000,2015-02-28
+"Sales Revenue, Goods, Net",89275000,2016-02-29
+"Sales Revenue, Goods, Net",82732000,2017-02-28
+Subscription and Circulation Revenue,194300000,2015-02-28
+Subscription and Circulation Revenue,230883000,2016-02-29
+Subscription and Circulation Revenue,269917000,2017-02-28
+Revenues,277446000,2015-02-28
+Revenues,320158000,2016-02-29
+Revenues,352649000,2017-02-28
+Cost of Revenue,58667000,2015-02-28
+Cost of Revenue,70132000,2016-02-29
+Cost of Revenue,83772000,2017-02-28
+Gross Profit,218779000,2015-02-28
+Gross Profit,250026000,2016-02-29
+Gross Profit,268877000,2017-02-28
+Research and Development Expense,58737000,2015-02-28
+Research and Development Expense,71251000,2016-02-29
+Research and Development Expense,75070000,2017-02-28
+Selling and Marketing Expense,125526000,2015-02-28
+Selling and Marketing Expense,138324000,2016-02-29
+Selling and Marketing Expense,129707000,2017-02-28
+General and Administrative Expense,35438000,2015-02-28
+General and Administrative Expense,47338000,2016-02-29
+General and Administrative Expense,42042000,2017-02-28
+Operating Expenses,219701000,2015-02-28
+Operating Expenses,256913000,2016-02-29
+Operating Expenses,246819000,2017-02-28
+Operating Income (Loss),-922000,2015-02-28
+Operating Income (Loss),-6887000,2016-02-29
+Operating Income (Loss),22058000,2017-02-28
+Nonoperating Income (Expense),-3674000,2015-02-28
+Nonoperating Income (Expense),-262000,2016-02-29
+Nonoperating Income (Expense),-70000,2017-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-4596000,2015-02-28
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-7149000,2016-02-29
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",21988000,2017-02-28
+Income Tax Expense (Benefit),62902000,2015-02-28
+Income Tax Expense (Benefit),-2727000,2016-02-29
+Income Tax Expense (Benefit),11753000,2017-02-28
+Net Income (Loss) Attributable to Parent,-67498000,2015-02-28
+Net Income (Loss) Attributable to Parent,-4422000,2016-02-29
+Net Income (Loss) Attributable to Parent,10235000,2017-02-28
+"Earnings Per Share, Basic",-1.30,2015-02-28
+"Earnings Per Share, Basic",-0.08,2016-02-29
+"Earnings Per Share, Basic",0.20,2017-02-28
+"Earnings Per Share, Diluted",-1.30,2015-02-28
+"Earnings Per Share, Diluted",-0.08,2016-02-29
+"Earnings Per Share, Diluted",0.19,2017-02-28
+"Weighted Average Number of Shares Outstanding, Basic",51898000,2015-02-28
+"Weighted Average Number of Shares Outstanding, Basic",53070000,2016-02-29
+"Weighted Average Number of Shares Outstanding, Basic",52456000,2017-02-28
+"Weighted Average Number of Shares Outstanding, Diluted",51898000,2015-02-28
+"Weighted Average Number of Shares Outstanding, Diluted",53070000,2016-02-29
+"Weighted Average Number of Shares Outstanding, Diluted",53572000,2017-02-28

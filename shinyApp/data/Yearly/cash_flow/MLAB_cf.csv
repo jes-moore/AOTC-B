@@ -1,0 +1,105 @@
+Metric,Amount,endDate
+Net income,1881000,2014-06-30
+Net income,9583000,2015-03-31
+Net income,3060000,2014-09-30
+Net income,2403000,2014-12-31
+Net income,2239000,2015-03-31
+Net income,2755000,2015-06-30
+Net income,11169000,2016-03-31
+Net income,1826000,2015-09-30
+Net income,2597000,2015-12-31
+Net income,3991000,2016-03-31
+Net income,1930000,2016-06-30
+Net income,11183000,2017-03-31
+Net income,2358000,2016-09-30
+Net income,3252000,2016-12-31
+Net income,3643000,2017-03-31
+Depreciation and amortization,5656000,2015-03-31
+Depreciation and amortization,7174000,2016-03-31
+Depreciation and amortization,8737000,2017-03-31
+us-gaap_GainLossOnSaleOfBusiness,-16000,2015-03-31
+us-gaap_GainLossOnSaleOfBusiness,,2016-03-31
+us-gaap_GainLossOnSaleOfBusiness,,2017-03-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,-450000,2015-03-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,807000,2016-03-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,630000,2017-03-31
+Stock-based compensation,993000,2015-03-31
+Stock-based compensation,1327000,2016-03-31
+Stock-based compensation,1411000,2017-03-31
+us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,176000,2015-03-31
+us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,-53000,2016-03-31
+us-gaap_ForeignCurrencyTransactionGainLossBeforeTax,-93000,2017-03-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,2291000,2015-03-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,1958000,2016-03-31
+us-gaap_IncreaseDecreaseInAccountsReceivable,-994000,2017-03-31
+us-gaap_IncreaseDecreaseInInventories,3164000,2015-03-31
+us-gaap_IncreaseDecreaseInInventories,1202000,2016-03-31
+us-gaap_IncreaseDecreaseInInventories,-295000,2017-03-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-772000,2015-03-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,-391000,2016-03-31
+us-gaap_IncreaseDecreaseInPrepaidExpense,830000,2017-03-31
+us-gaap_IncreaseDecreaseInAccountsPayable,410000,2015-03-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-150000,2016-03-31
+us-gaap_IncreaseDecreaseInAccountsPayable,-655000,2017-03-31
+Accrued liabilities and taxes payable,-861000,2015-03-31
+Accrued liabilities and taxes payable,2865000,2016-03-31
+Accrued liabilities and taxes payable,-3066000,2017-03-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,-572000,2015-03-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,99000,2016-03-31
+us-gaap_IncreaseDecreaseInDeferredRevenue,-228000,2017-03-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,,2015-03-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,-2058000,2016-03-31
+us-gaap_BusinessCombinationContingentConsiderationArrangementsChangeInAmountOfContingentConsiderationLiability1,-9554000,2017-03-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,10816000,2015-03-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,16903000,2016-03-31
+us-gaap_NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,7750000,2017-03-31
+Cash consideration,20543000,2015-03-31
+Cash consideration,24111000,2016-03-31
+Cash consideration,6800000,2017-03-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,2828000,2015-03-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,7729000,2016-03-31
+us-gaap_PaymentsForProceedsFromProductiveAssets,11605000,2017-03-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-23371000,2015-03-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-31840000,2016-03-31
+us-gaap_NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,-18405000,2017-03-31
+Proceeds from the issuance of debt,23000000,2015-03-31
+Proceeds from the issuance of debt,25000000,2016-03-31
+Proceeds from the issuance of debt,66550000,2017-03-31
+us-gaap_RepaymentsOfDebt,13250000,2015-03-31
+us-gaap_RepaymentsOfDebt,6000000,2016-03-31
+us-gaap_RepaymentsOfDebt,57000000,2017-03-31
+us-gaap_PaymentsOfDividends,2182000,2015-03-31
+us-gaap_PaymentsOfDividends,2303000,2016-03-31
+us-gaap_PaymentsOfDividends,2355000,2017-03-31
+Proceeds from the exercise of stock options,1504000,2015-03-31
+Proceeds from the exercise of stock options,1923000,2016-03-31
+Proceeds from the exercise of stock options,3513000,2017-03-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,9072000,2015-03-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,18620000,2016-03-31
+us-gaap_NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,10708000,2017-03-31
+Effect of exchange rate changes on cash and cash equivalents,-58000,2015-03-31
+Effect of exchange rate changes on cash and cash equivalents,-22000,2016-03-31
+Effect of exchange rate changes on cash and cash equivalents,72000,2017-03-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,-3541000,2015-03-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,3661000,2016-03-31
+us-gaap_CashAndCashEquivalentsPeriodIncreaseDecrease,125000,2017-03-31
+Cash and cash equivalents,5575000,2014-03-31
+Cash and cash equivalents,2034000,2015-03-31
+Cash and cash equivalents,5695000,2016-03-31
+Cash and cash equivalents,5820000,2017-03-31
+Cash and cash equivalents,5575000,2014-03-31
+Cash and cash equivalents,2034000,2015-03-31
+Cash and cash equivalents,5695000,2016-03-31
+Cash and cash equivalents,5820000,2017-03-31
+us-gaap_IncomeTaxesPaid,3345000,2015-03-31
+us-gaap_IncomeTaxesPaid,3951000,2016-03-31
+us-gaap_IncomeTaxesPaid,5605000,2017-03-31
+Interest,499000,2015-03-31
+Interest,848000,2016-03-31
+Interest,1384000,2017-03-31
+Repayment of employee loans for stock options,24000,2015-03-31
+Repayment of employee loans for stock options,,2016-03-31
+Repayment of employee loans for stock options,,2017-03-31
+Contingent consideration as part of an acquisition,412000,2015-03-31
+Contingent consideration as part of an acquisition,9271000,2016-03-31
+Contingent consideration as part of an acquisition,1822000,2017-03-31

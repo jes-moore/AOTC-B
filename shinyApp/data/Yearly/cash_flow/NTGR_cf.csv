@@ -1,0 +1,104 @@
+Metric,Amount,endDate
+Income Taxes Paid,38938000,2014-12-31
+Income Taxes Paid,40273000,2015-12-31
+Income Taxes Paid,35149000,2016-12-31
+Net Income (Loss) Attributable to Parent,8788000,2014-12-31
+Net Income (Loss) Attributable to Parent,8011000,2015-03-29
+Net Income (Loss) Attributable to Parent,3667000,2015-06-28
+Net Income (Loss) Attributable to Parent,15099000,2015-09-27
+Net Income (Loss) Attributable to Parent,21807000,2015-12-31
+Net Income (Loss) Attributable to Parent,48584000,2015-12-31
+Net Income (Loss) Attributable to Parent,16589000,2016-04-03
+Net Income (Loss) Attributable to Parent,16034000,2016-07-03
+Net Income (Loss) Attributable to Parent,21119000,2016-10-02
+Net Income (Loss) Attributable to Parent,22109000,2016-12-31
+Net Income (Loss) Attributable to Parent,75851000,2016-12-31
+"Depreciation, Depletion and Amortization",35590000,2014-12-31
+"Depreciation, Depletion and Amortization",35850000,2015-12-31
+"Depreciation, Depletion and Amortization",31993000,2016-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-11000,2014-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",57000,2015-12-31
+"Accretion (Amortization) of Discounts and Premiums, Investments",-167000,2016-12-31
+Share-based Compensation,20014000,2014-12-31
+Share-based Compensation,16825000,2015-12-31
+Share-based Compensation,18949000,2016-12-31
+"Adjustment to Additional Paid in Capital, Income Tax Effect from Share-based Compensation, Net",481000,2014-12-31
+"Adjustment to Additional Paid in Capital, Income Tax Effect from Share-based Compensation, Net",2233000,2015-12-31
+"Adjustment to Additional Paid in Capital, Income Tax Effect from Share-based Compensation, Net",-2454000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",485000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",759000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Operating Activities",3008000,2016-12-31
+"Goodwill, Impairment Loss",74196000,2014-12-31
+"Goodwill, Impairment Loss",0,2015-12-31
+"Goodwill, Impairment Loss",0,2016-12-31
+Deferred Income Tax Expense (Benefit),-20261000,2014-12-31
+Deferred Income Tax Expense (Benefit),-710000,2015-12-31
+Deferred Income Tax Expense (Benefit),-2723000,2016-12-31
+Increase (Decrease) in Accounts Receivable,9205000,2014-12-31
+Increase (Decrease) in Accounts Receivable,14952000,2015-12-31
+Increase (Decrease) in Accounts Receivable,23206000,2016-12-31
+Increase (Decrease) in Inventories,-1573000,2014-12-31
+Increase (Decrease) in Inventories,-9765000,2015-12-31
+Increase (Decrease) in Inventories,34744000,2016-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,7905000,2014-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-560000,2015-12-31
+Increase (Decrease) in Prepaid Expense and Other Assets,-5932000,2016-12-31
+Increase (Decrease) in Accounts Payable,-8236000,2014-12-31
+Increase (Decrease) in Accounts Payable,-14990000,2015-12-31
+Increase (Decrease) in Accounts Payable,21327000,2016-12-31
+Increase (Decrease) in Employee Related Liabilities,5037000,2014-12-31
+Increase (Decrease) in Employee Related Liabilities,6280000,2015-12-31
+Increase (Decrease) in Employee Related Liabilities,5228000,2016-12-31
+Increase (Decrease) in Other Accrued Liabilities,2574000,2014-12-31
+Increase (Decrease) in Other Accrued Liabilities,29987000,2015-12-31
+Increase (Decrease) in Other Accrued Liabilities,6907000,2016-12-31
+Increase (Decrease) in Deferred Revenue,5188000,2014-12-31
+Increase (Decrease) in Deferred Revenue,-2496000,2015-12-31
+Increase (Decrease) in Deferred Revenue,6176000,2016-12-31
+Increase (Decrease) in Income Taxes Payable,2566000,2014-12-31
+Increase (Decrease) in Income Taxes Payable,-1263000,2015-12-31
+Increase (Decrease) in Income Taxes Payable,3870000,2016-12-31
+Net Cash Provided by (Used in) Operating Activities,108964000,2014-12-31
+Net Cash Provided by (Used in) Operating Activities,110391000,2015-12-31
+Net Cash Provided by (Used in) Operating Activities,115173000,2016-12-31
+Payments to Acquire Short-term Investments,145186000,2014-12-31
+Payments to Acquire Short-term Investments,110316000,2015-12-31
+Payments to Acquire Short-term Investments,144271000,2016-12-31
+"Proceeds from Maturities, Prepayments and Calls of Short-term Investments",134827000,2014-12-31
+"Proceeds from Maturities, Prepayments and Calls of Short-term Investments",130273000,2015-12-31
+"Proceeds from Maturities, Prepayments and Calls of Short-term Investments",115291000,2016-12-31
+"Payments to Acquire Property, Plant, and Equipment",19338000,2014-12-31
+"Payments to Acquire Property, Plant, and Equipment",14000000,2015-12-31
+"Payments to Acquire Property, Plant, and Equipment",10972000,2016-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",1050000,2014-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",0,2015-12-31
+"Payments to Acquire Businesses, Net of Cash Acquired",8807000,2016-12-31
+Net Cash Provided by (Used in) Investing Activities,-30747000,2014-12-31
+Net Cash Provided by (Used in) Investing Activities,5957000,2015-12-31
+Net Cash Provided by (Used in) Investing Activities,-48759000,2016-12-31
+Payments for Repurchase of Common Stock,93218000,2014-12-31
+Payments for Repurchase of Common Stock,120309000,2015-12-31
+Payments for Repurchase of Common Stock,42938000,2016-12-31
+Proceeds from Stock Options Exercised,9979000,2014-12-31
+Proceeds from Stock Options Exercised,40928000,2015-12-31
+Proceeds from Stock Options Exercised,28147000,2016-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",2762000,2014-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",2985000,2015-12-31
+"Proceeds from Issuance of Shares under Incentive and Share-based Compensation Plans, Including Stock Options",3892000,2016-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",485000,2014-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",759000,2015-12-31
+"Excess Tax Benefit from Share-based Compensation, Financing Activities",3008000,2016-12-31
+Net Cash Provided by (Used in) Financing Activities,-79992000,2014-12-31
+Net Cash Provided by (Used in) Financing Activities,-75637000,2015-12-31
+Net Cash Provided by (Used in) Financing Activities,-7891000,2016-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",-1775000,2014-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",40711000,2015-12-31
+"Cash and Cash Equivalents, Period Increase (Decrease)",58523000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",143009000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",141234000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",181945000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",240468000,2016-12-31
+"Cash and Cash Equivalents, at Carrying Value",143009000,2013-12-31
+"Cash and Cash Equivalents, at Carrying Value",141234000,2014-12-31
+"Cash and Cash Equivalents, at Carrying Value",181945000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",240468000,2016-12-31

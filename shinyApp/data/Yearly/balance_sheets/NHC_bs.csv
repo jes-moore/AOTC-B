@@ -1,0 +1,90 @@
+Metric,Amount,endDate
+Cash and cash equivalents,69767000,2014-12-31
+Cash and cash equivalents,38208000,2015-12-31
+Cash and cash equivalents,26335000,2016-12-31
+us-gaap_RestrictedCashAndCashEquivalentsAtCarryingValue,8793000,2015-12-31
+us-gaap_RestrictedCashAndCashEquivalentsAtCarryingValue,3125000,2016-12-31
+Marketable securities,116168000,2015-12-31
+Marketable securities,138013000,2016-12-31
+Restricted marketable securities,18276000,2015-12-31
+Restricted marketable securities,22773000,2016-12-31
+"Accounts receivable, less allowance for doubtful accounts of $5,743 and $5,583, respectively",84095000,2015-12-31
+"Accounts receivable, less allowance for doubtful accounts of $5,743 and $5,583, respectively",82531000,2016-12-31
+Inventories,7568000,2015-12-31
+Inventories,7508000,2016-12-31
+Prepaid expenses and other assets,2171000,2015-12-31
+Prepaid expenses and other assets,2648000,2016-12-31
+"Notes receivable, current portion",460000,2015-12-31
+"Notes receivable, current portion",3259000,2016-12-31
+Federal income tax receivable,3203000,2015-12-31
+Federal income tax receivable,4665000,2016-12-31
+us-gaap_AssetsCurrent,278942000,2015-12-31
+us-gaap_AssetsCurrent,290857000,2016-12-31
+"Property and equipment, at cost",875287000,2015-12-31
+"Property and equipment, at cost",933140000,2016-12-31
+us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,339241000,2015-12-31
+us-gaap_AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,373516000,2016-12-31
+us-gaap_PropertyPlantAndEquipmentNet,536046000,2015-12-31
+us-gaap_PropertyPlantAndEquipmentNet,559624000,2016-12-31
+Restricted cash and cash equivalents,2313000,2015-12-31
+Restricted cash and cash equivalents,2129000,2016-12-31
+us-gaap_MarketableSecuritiesRestrictedNoncurrent,151590000,2015-12-31
+us-gaap_MarketableSecuritiesRestrictedNoncurrent,160931000,2016-12-31
+Deposits and other assets,8451000,2015-12-31
+Deposits and other assets,5244000,2016-12-31
+Goodwill,17600000,2015-12-31
+Goodwill,17600000,2016-12-31
+"Notes receivable, less current portion",12704000,2015-12-31
+"Notes receivable, less current portion",13820000,2016-12-31
+Investments in limited liability companies,37683000,2015-12-31
+Investments in limited liability companies,37242000,2016-12-31
+us-gaap_OtherAssetsNoncurrent,230341000,2015-12-31
+us-gaap_OtherAssetsNoncurrent,236966000,2016-12-31
+us-gaap_Assets,1045329000,2015-12-31
+us-gaap_Assets,1087447000,2016-12-31
+Trade accounts payable,20128000,2015-12-31
+Trade accounts payable,18593000,2016-12-31
+"Capital lease obligations, current portion",3279000,2015-12-31
+"Capital lease obligations, current portion",3481000,2016-12-31
+Accrued payroll,65338000,2015-12-31
+Accrued payroll,65912000,2016-12-31
+Amounts due to third party payors,16654000,2015-12-31
+Amounts due to third party payors,17019000,2016-12-31
+"Accrued risk reserves, current portion",27069000,2015-12-31
+"Accrued risk reserves, current portion",25898000,2016-12-31
+Other current liabilities,12192000,2015-12-31
+Other current liabilities,13207000,2016-12-31
+Dividends payable,5996000,2015-12-31
+Dividends payable,6818000,2016-12-31
+us-gaap_LiabilitiesCurrent,150656000,2015-12-31
+us-gaap_LiabilitiesCurrent,150928000,2016-12-31
+"Long-term debt, noncurrent",120000000,2015-12-31
+"Long-term debt, noncurrent",120000000,2016-12-31
+"Long-term capital lease obligations, capital leases",30228000,2015-12-31
+"Long-term capital lease obligations, capital leases",26748000,2016-12-31
+"Accrued risk reserves, less current portion",71439000,2015-12-31
+"Accrued risk reserves, less current portion",65264000,2016-12-31
+Refundable entrance fees,9865000,2015-12-31
+Refundable entrance fees,9924000,2016-12-31
+Obligation to provide future services,3440000,2015-12-31
+Obligation to provide future services,3236000,2016-12-31
+us-gaap_DeferredTaxLiabilitiesCurrent,9096000,2015-12-31
+us-gaap_DeferredTaxLiabilitiesCurrent,22072000,2016-12-31
+Other noncurrent liabilities,16294000,2015-12-31
+Other noncurrent liabilities,16302000,2016-12-31
+Deferred revenue,3315000,2015-12-31
+Deferred revenue,3362000,2016-12-31
+"Common stock, $.01 par value; 30,000,000 shares authorized; 15,162,938 and 15,000,616 shares, respectively, issued and outstanding",150000,2015-12-31
+"Common stock, $.01 par value; 30,000,000 shares authorized; 15,162,938 and 15,000,616 shares, respectively, issued and outstanding",152000,2016-12-31
+Capital in excess of par value,209469000,2015-12-31
+Capital in excess of par value,211457000,2016-12-31
+Retained earnings,368013000,2015-12-31
+Retained earnings,391934000,2016-12-31
+Accumulated other comprehensive income,53364000,2015-12-31
+Accumulated other comprehensive income,66068000,2016-12-31
+us-gaap_StockholdersEquity,688112000,2013-12-31
+us-gaap_StockholdersEquity,734148000,2014-12-31
+us-gaap_StockholdersEquity,630996000,2015-12-31
+us-gaap_StockholdersEquity,669611000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1045329000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,1087447000,2016-12-31

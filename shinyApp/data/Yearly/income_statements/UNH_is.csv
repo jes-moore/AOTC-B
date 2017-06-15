@@ -1,0 +1,37 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",4242000000,2014-12-31
+"Sales Revenue, Goods, Net",17312000000,2015-12-31
+"Sales Revenue, Goods, Net",26658000000,2016-12-31
+"Investment Income, Interest and Dividend",779000000,2014-12-31
+"Investment Income, Interest and Dividend",710000000,2015-12-31
+"Investment Income, Interest and Dividend",828000000,2016-12-31
+"Selling, General and Administrative Expense",21263000000,2014-12-31
+"Selling, General and Administrative Expense",24312000000,2015-12-31
+"Selling, General and Administrative Expense",28401000000,2016-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",1478000000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",1693000000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",2055000000,2016-12-31
+Operating Income (Loss),10274000000,2014-12-31
+Operating Income (Loss),11021000000,2015-12-31
+Operating Income (Loss),12930000000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",9656000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",10231000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",11863000000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",5619000000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",5868000000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",7073000000,2016-12-31
+Net Income (Loss) Attributable to Parent,5619000000,2014-12-31
+Net Income (Loss) Attributable to Parent,5813000000,2015-12-31
+Net Income (Loss) Attributable to Parent,7017000000,2016-12-31
+"Earnings Per Share, Basic",5.78,2014-12-31
+"Earnings Per Share, Basic",6.10,2015-12-31
+"Earnings Per Share, Basic",7.37,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",972000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",953000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",952000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",986000000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",967000000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",968000000,2016-12-31
+"Common Stock, Dividends, Per Share, Declared",1.405,2014-12-31
+"Common Stock, Dividends, Per Share, Declared",1.875,2015-12-31
+"Common Stock, Dividends, Per Share, Declared",2.375,2016-12-31

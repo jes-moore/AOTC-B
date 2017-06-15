@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+"Revenue, Product",166255000,2014-12-31
+"Revenue, Product",155285000,2015-12-31
+"Revenue, Product",176141000,2016-12-31
+Revenues,44077000,2014-12-31
+Revenues,192742000,2014-12-31
+Revenues,48687000,2015-03-31
+Revenues,47049000,2015-06-30
+Revenues,44780000,2015-09-30
+Revenues,184593000,2015-12-31
+Revenues,55146000,2016-03-31
+Revenues,61288000,2016-06-30
+Revenues,55397000,2016-09-30
+Revenues,40561000,2016-12-31
+Revenues,212392000,2016-12-31
+"Cost of Goods Sold, Product",115699000,2014-12-31
+"Cost of Goods Sold, Product",107031000,2015-12-31
+"Cost of Goods Sold, Product",127771000,2016-12-31
+"Cost of Goods Sold, Amortization",8210000,2014-12-31
+"Cost of Goods Sold, Amortization",7862000,2015-12-31
+"Cost of Goods Sold, Amortization",7707000,2016-12-31
+Gross Profit,13918000,2014-12-31
+Gross Profit,51802000,2014-12-31
+Gross Profit,12626000,2015-03-31
+Gross Profit,12601000,2015-06-30
+Gross Profit,13007000,2015-09-30
+Gross Profit,52152000,2015-12-31
+Gross Profit,12784000,2016-03-31
+Gross Profit,15445000,2016-06-30
+Gross Profit,14246000,2016-09-30
+Gross Profit,13613000,2016-12-31
+Gross Profit,56088000,2016-12-31
+"Selling, General and Administrative Expense",35862000,2014-12-31
+"Selling, General and Administrative Expense",30628000,2015-12-31
+"Selling, General and Administrative Expense",33722000,2016-12-31
+"Restructuring and acquisition-related charges, net",4205000,2014-12-31
+"Restructuring and acquisition-related charges, net",5020000,2015-12-31
+"Restructuring and acquisition-related charges, net",2917000,2016-12-31
+Interest Expense,1242000,2014-12-31
+Interest Expense,515000,2015-12-31
+Interest Expense,482000,2016-12-31
+Other Nonoperating Income (Expense),1389000,2014-12-31
+Other Nonoperating Income (Expense),1548000,2015-12-31
+Other Nonoperating Income (Expense),2135000,2016-12-31
+Income Tax Expense (Benefit),2492000,2014-12-31
+Income Tax Expense (Benefit),1742000,2015-12-31
+Income Tax Expense (Benefit),2434000,2016-12-31
+"Earnings Per Share, Diluted",-0.04,2014-12-31
+"Earnings Per Share, Diluted",-0.79,2014-12-31
+"Earnings Per Share, Diluted",-0.19,2015-03-31
+"Earnings Per Share, Diluted",-0.11,2015-06-30
+"Earnings Per Share, Diluted",-0.06,2015-09-30
+"Earnings Per Share, Diluted",-0.40,2015-12-31
+"Earnings Per Share, Diluted",-0.08,2016-03-31
+"Earnings Per Share, Diluted",-0.02,2016-06-30
+"Earnings Per Share, Diluted",-0.07,2016-09-30
+"Earnings Per Share, Diluted",-0.11,2016-12-31
+"Earnings Per Share, Diluted",-0.27,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",34699000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",36789000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",37668000,2016-12-31

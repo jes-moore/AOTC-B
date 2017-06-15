@@ -1,0 +1,129 @@
+Metric,Amount,endDate
+Revenues,1156833000,2014-04-27
+Revenues,1250944000,2015-05-03
+Revenues,1263166000,2016-05-01
+Cost of Revenue,754773000,2014-04-27
+Cost of Revenue,888573000,2015-05-03
+Cost of Revenue,901316000,2016-05-01
+"Cost of Goods Sold, Amortization",5061000,2014-04-27
+"Cost of Goods Sold, Amortization",5739000,2015-05-03
+"Cost of Goods Sold, Amortization",6129000,2016-05-01
+Asset Impairment Charges,0,2014-04-27
+Asset Impairment Charges,5722000,2015-05-03
+Asset Impairment Charges,1071000,2016-05-01
+Gross Profit,396999000,2014-04-27
+Gross Profit,98819000,2014-07-27
+Gross Profit,84921000,2014-10-26
+Gross Profit,77953000,2015-01-25
+Gross Profit,89217000,2015-05-03
+Gross Profit,350910000,2015-05-03
+Gross Profit,87377000,2015-08-02
+Gross Profit,89091000,2015-11-01
+Gross Profit,87740000,2016-01-31
+Gross Profit,90442000,2016-05-01
+Gross Profit,354650000,2016-05-01
+Research and Development Expense,183355000,2014-04-27
+Research and Development Expense,202089000,2015-05-03
+Research and Development Expense,203389000,2016-05-01
+Selling and Marketing Expense,46547000,2014-04-27
+Selling and Marketing Expense,46178000,2015-05-03
+Selling and Marketing Expense,46619000,2016-05-01
+General and Administrative Expense,53214000,2014-04-27
+General and Administrative Expense,72856000,2015-05-03
+General and Administrative Expense,60117000,2016-05-01
+"Operating Expenses, Amortization",2468000,2014-04-27
+"Operating Expenses, Amortization",2948000,2015-05-03
+"Operating Expenses, Amortization",2672000,2016-05-01
+Goodwill and Intangible Asset Impairment,0,2014-04-27
+Goodwill and Intangible Asset Impairment,45000,2015-05-03
+Goodwill and Intangible Asset Impairment,830000,2016-05-01
+Operating Expenses,285584000,2014-04-27
+Operating Expenses,324116000,2015-05-03
+Operating Expenses,313627000,2016-05-01
+Operating Income (Loss),111415000,2014-04-27
+Operating Income (Loss),20368000,2014-07-27
+Operating Income (Loss),-7259000,2014-10-26
+Operating Income (Loss),3401000,2015-01-25
+Operating Income (Loss),10284000,2015-05-03
+Operating Income (Loss),26794000,2015-05-03
+Operating Income (Loss),7061000,2015-08-02
+Operating Income (Loss),9368000,2015-11-01
+Operating Income (Loss),10458000,2016-01-31
+Operating Income (Loss),14136000,2016-05-01
+Operating Income (Loss),41023000,2016-05-01
+"Investment Income, Interest",1319000,2014-04-27
+"Investment Income, Interest",1811000,2015-05-03
+"Investment Income, Interest",2345000,2016-05-01
+Interest Expense,5547000,2014-04-27
+Interest Expense,12022000,2015-05-03
+Interest Expense,11750000,2016-05-01
+Other Nonoperating Income (Expense),7234000,2014-04-27
+Other Nonoperating Income (Expense),4099000,2015-05-03
+Other Nonoperating Income (Expense),3213000,2016-05-01
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",114421000,2014-04-27
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",20682000,2015-05-03
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",34831000,2016-05-01
+Income Tax Expense (Benefit),2884000,2014-04-27
+Income Tax Expense (Benefit),8795000,2015-05-03
+Income Tax Expense (Benefit),-362000,2016-05-01
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",111537000,2014-04-27
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",11887000,2015-05-03
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",35193000,2016-05-01
+Net Income (Loss) Attributable to Noncontrolling Interest,-250000,2014-04-27
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-05-03
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2016-05-01
+Net Income (Loss) Attributable to Parent,111787000,2014-04-27
+Net Income (Loss) Attributable to Parent,14243000,2014-07-27
+Net Income (Loss) Attributable to Parent,-11361000,2014-10-26
+Net Income (Loss) Attributable to Parent,1678000,2015-01-25
+Net Income (Loss) Attributable to Parent,7327000,2015-05-03
+Net Income (Loss) Attributable to Parent,11887000,2015-05-03
+Net Income (Loss) Attributable to Parent,3393000,2015-08-02
+Net Income (Loss) Attributable to Parent,6644000,2015-11-01
+Net Income (Loss) Attributable to Parent,12084000,2016-01-31
+Net Income (Loss) Attributable to Parent,13072000,2016-05-01
+Net Income (Loss) Attributable to Parent,35193000,2016-05-01
+"Earnings Per Share, Basic",1.16,2014-04-27
+"Earnings Per Share, Basic",0.14,2014-07-27
+"Earnings Per Share, Basic",-0.11,2014-10-26
+"Earnings Per Share, Basic",0.02,2015-01-25
+"Earnings Per Share, Basic",0.07,2015-05-03
+"Earnings Per Share, Basic",0.12,2015-05-03
+"Earnings Per Share, Basic",0.03,2015-08-02
+"Earnings Per Share, Basic",0.06,2015-11-01
+"Earnings Per Share, Basic",0.11,2016-01-31
+"Earnings Per Share, Basic",0.12,2016-05-01
+"Earnings Per Share, Basic",0.33,2016-05-01
+"Earnings Per Share, Diluted",1.09,2014-04-27
+"Earnings Per Share, Diluted",0.14,2014-07-27
+"Earnings Per Share, Diluted",-0.11,2014-10-26
+"Earnings Per Share, Diluted",0.02,2015-01-25
+"Earnings Per Share, Diluted",0.07,2015-05-03
+"Earnings Per Share, Diluted",0.11,2015-05-03
+"Earnings Per Share, Diluted",0.03,2015-08-02
+"Earnings Per Share, Diluted",0.06,2015-11-01
+"Earnings Per Share, Diluted",0.11,2016-01-31
+"Earnings Per Share, Diluted",0.12,2016-05-01
+"Earnings Per Share, Diluted",0.32,2016-05-01
+"Weighted Average Number of Shares Outstanding, Basic",95979000,2014-04-27
+"Weighted Average Number of Shares Outstanding, Basic",98241000,2014-07-27
+"Weighted Average Number of Shares Outstanding, Basic",99621000,2014-10-26
+"Weighted Average Number of Shares Outstanding, Basic",103563000,2015-01-25
+"Weighted Average Number of Shares Outstanding, Basic",104005000,2015-05-03
+"Weighted Average Number of Shares Outstanding, Basic",101408000,2015-05-03
+"Weighted Average Number of Shares Outstanding, Basic",105286000,2015-08-02
+"Weighted Average Number of Shares Outstanding, Basic",106635000,2015-11-01
+"Weighted Average Number of Shares Outstanding, Basic",107180000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Basic",107612000,2016-05-01
+"Weighted Average Number of Shares Outstanding, Basic",106678000,2016-05-01
+"Weighted Average Number of Shares Outstanding, Diluted",104112000,2014-04-27
+"Weighted Average Number of Shares Outstanding, Diluted",106036000,2014-07-27
+"Weighted Average Number of Shares Outstanding, Diluted",99621000,2014-10-26
+"Weighted Average Number of Shares Outstanding, Diluted",105990000,2015-01-25
+"Weighted Average Number of Shares Outstanding, Diluted",107535000,2015-05-03
+"Weighted Average Number of Shares Outstanding, Diluted",104970000,2015-05-03
+"Weighted Average Number of Shares Outstanding, Diluted",108107000,2015-08-02
+"Weighted Average Number of Shares Outstanding, Diluted",107493000,2015-11-01
+"Weighted Average Number of Shares Outstanding, Diluted",108128000,2016-01-31
+"Weighted Average Number of Shares Outstanding, Diluted",109386000,2016-05-01
+"Weighted Average Number of Shares Outstanding, Diluted",108870000,2016-05-01

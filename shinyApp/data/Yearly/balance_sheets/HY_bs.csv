@@ -1,0 +1,73 @@
+Metric,Amount,endDate
+Cash,111400000,2014-12-31
+Cash,155100000,2015-12-31
+Cash,43200000,2016-12-31
+"Accounts Receivable, Net, Current",324100000,2015-12-31
+"Accounts Receivable, Net, Current",375300000,2016-12-31
+"Inventory, Net",304600000,2015-12-31
+"Inventory, Net",352200000,2016-12-31
+"Prepaid Expense and Other Assets, Current",35100000,2015-12-31
+"Prepaid Expense and Other Assets, Current",39300000,2016-12-31
+"Assets, Current",818900000,2015-12-31
+"Assets, Current",810000000,2016-12-31
+"Property, Plant and Equipment, Net",184500000,2015-12-31
+"Property, Plant and Equipment, Net",255100000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",3600000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",56200000,2016-12-31
+Goodwill,0,2015-12-31
+Goodwill,50700000,2016-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",32700000,2015-12-31
+"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",43900000,2016-12-31
+Equity Method Investments,42900000,2015-12-31
+Equity Method Investments,45900000,2016-12-31
+"Other Assets, Noncurrent",13300000,2015-12-31
+"Other Assets, Noncurrent",25300000,2016-12-31
+Assets,1120800000,2014-12-31
+Assets,1095900000,2015-12-31
+Assets,1287100000,2016-12-31
+"Accounts Payable, Current",279600000,2015-12-31
+"Accounts Payable, Current",242400000,2016-12-31
+"Accounts Payable, Related Parties, Current",15800000,2015-12-31
+"Accounts Payable, Related Parties, Current",16500000,2016-12-31
+"Line of Credit, Current",0,2015-12-31
+"Line of Credit, Current",79000000,2016-12-31
+"Long-term Debt, Current Maturities",33500000,2015-12-31
+"Long-term Debt, Current Maturities",50000000,2016-12-31
+"Employee-related Liabilities, Current",47700000,2015-12-31
+"Employee-related Liabilities, Current",43700000,2016-12-31
+"Product Warranty Accrual, Current",29100000,2015-12-31
+"Product Warranty Accrual, Current",27800000,2016-12-31
+"Other Accrued Liabilities, Current",99500000,2015-12-31
+"Other Accrued Liabilities, Current",117100000,2016-12-31
+"Liabilities, Current",505200000,2015-12-31
+"Liabilities, Current",576500000,2016-12-31
+"Long-term Debt, Excluding Current Maturities",19600000,2015-12-31
+"Long-term Debt, Excluding Current Maturities",82200000,2016-12-31
+"Self Insurance Reserve, Noncurrent",17500000,2015-12-31
+"Self Insurance Reserve, Noncurrent",19700000,2016-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",22300000,2015-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",37200000,2016-12-31
+"Deferred Income Tax Liabilities, Net",0,2015-12-31
+"Deferred Income Tax Liabilities, Net",11400000,2016-12-31
+"Other Liabilities, Noncurrent",68600000,2015-12-31
+"Other Liabilities, Noncurrent",89700000,2016-12-31
+Liabilities,633200000,2015-12-31
+Liabilities,816700000,2016-12-31
+"Additional Paid in Capital, Common Stock",320300000,2015-12-31
+"Additional Paid in Capital, Common Stock",319600000,2016-12-31
+"Treasury Stock, Value",42500000,2015-12-31
+"Treasury Stock, Value",36900000,2016-12-31
+Retained Earnings (Accumulated Deficit),336700000,2015-12-31
+Retained Earnings (Accumulated Deficit),360300000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-153900000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-179400000,2016-12-31
+Stockholders' Equity Attributable to Parent,460800000,2015-12-31
+Stockholders' Equity Attributable to Parent,463800000,2016-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,1900000,2015-12-31
+Stockholders' Equity Attributable to Noncontrolling Interest,6600000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",450900000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",456000000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",462700000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",470400000,2016-12-31
+Liabilities and Equity,1095900000,2015-12-31
+Liabilities and Equity,1287100000,2016-12-31

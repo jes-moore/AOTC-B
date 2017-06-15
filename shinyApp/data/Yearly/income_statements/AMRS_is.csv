@@ -1,0 +1,140 @@
+Metric,Amount,endDate
+Renewable product sales,22793000,2014-12-31
+Renewable product sales,14032000,2015-12-31
+Renewable product sales,24788000,2016-12-31
+Related party renewable product sales,646000,2014-12-31
+Related party renewable product sales,864000,2015-12-31
+Related party renewable product sales,1561000,2016-12-31
+us-gaap_SalesRevenueGoodsNet,23439000,2014-12-31
+us-gaap_SalesRevenueGoodsNet,2095000,2015-03-31
+us-gaap_SalesRevenueGoodsNet,14896000,2015-12-31
+us-gaap_SalesRevenueGoodsNet,3340000,2015-06-30
+us-gaap_SalesRevenueGoodsNet,4228000,2015-09-30
+us-gaap_SalesRevenueGoodsNet,5233000,2015-12-31
+us-gaap_SalesRevenueGoodsNet,3140000,2016-03-31
+us-gaap_SalesRevenueGoodsNet,26349000,2016-12-31
+us-gaap_SalesRevenueGoodsNet,4922000,2016-06-30
+us-gaap_SalesRevenueGoodsNet,6820000,2016-09-30
+us-gaap_SalesRevenueGoodsNet,11467000,2016-12-31
+"Grants, collaborations and license fee revenue",19835000,2014-12-31
+"Grants, collaborations and license fee revenue",19257000,2015-12-31
+"Grants, collaborations and license fee revenue",40843000,2016-12-31
+Total revenues,43274000,2014-12-31
+Total revenues,7872000,2015-03-31
+Total revenues,34153000,2015-12-31
+Total revenues,7843000,2015-06-30
+Total revenues,8591000,2015-09-30
+Total revenues,9847000,2015-12-31
+Total revenues,8811000,2016-03-31
+Total revenues,67192000,2016-12-31
+Total revenues,9599000,2016-06-30
+Total revenues,26544000,2016-09-30
+Total revenues,22238000,2016-12-31
+Cost of products sold,33202000,2014-12-31
+Cost of products sold,37374000,2015-12-31
+Cost of products sold,56678000,2016-12-31
+"Loss on purchase commitments, impairment of property, plant and equipment and other asset allowances",1769000,2014-12-31
+"Loss on purchase commitments, impairment of property, plant and equipment and other asset allowances",34166000,2015-12-31
+"Loss on purchase commitments, impairment of property, plant and equipment and other asset allowances",7305000,2016-12-31
+Withholding tax related to conversion of related party notes,,2014-12-31
+Withholding tax related to conversion of related party notes,4723000,2015-12-31
+Withholding tax related to conversion of related party notes,,2016-12-31
+Impairment of intangible assets,3035000,2014-12-31
+Impairment of intangible assets,5525000,2015-12-31
+Impairment of intangible assets,,2016-12-31
+Research and development,49661000,2014-12-31
+Research and development,44636000,2015-12-31
+Research and development,51412000,2016-12-31
+"Sales, general and administrative",55435000,2014-12-31
+"Sales, general and administrative",56262000,2015-12-31
+"Sales, general and administrative",47721000,2016-12-31
+us-gaap_CostsAndExpenses,143102000,2014-12-31
+us-gaap_CostsAndExpenses,182686000,2015-12-31
+us-gaap_CostsAndExpenses,163116000,2016-12-31
+us-gaap_OperatingIncomeLoss,-99828000,2014-12-31
+us-gaap_OperatingIncomeLoss,-148533000,2015-12-31
+us-gaap_OperatingIncomeLoss,-95924000,2016-12-31
+Interest income,387000,2014-12-31
+Interest income,264000,2015-12-31
+Interest income,258000,2016-12-31
+us-gaap_InterestExpense,28949000,2014-12-31
+us-gaap_InterestExpense,78854000,2015-12-31
+us-gaap_InterestExpense,37629000,2016-12-31
+Gain from change in fair value of derivative instruments,144138000,2014-12-31
+Gain from change in fair value of derivative instruments,16287000,2015-12-31
+Gain from change in fair value of derivative instruments,41355000,2016-12-31
+Loss upon extinguishment of debt,-10512000,2014-12-31
+Loss upon extinguishment of debt,-1141000,2015-12-31
+Loss upon extinguishment of debt,-4146000,2016-12-31
+Loss upon extinguishment of debt,4200000,2016-03-31
+"Other income (expense), net",336000,2014-12-31
+"Other income (expense), net",-1423000,2015-12-31
+"Other income (expense), net",-695000,2016-12-31
+us-gaap_NonoperatingIncomeExpense,105400000,2014-12-31
+us-gaap_NonoperatingIncomeExpense,-64867000,2015-12-31
+us-gaap_NonoperatingIncomeExpense,-857000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,5572000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-213400000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesMinorityInterestAndIncomeLossFromEquityMethodInvestments,-96781000,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,495000,2014-12-31
+us-gaap_IncomeTaxExpenseBenefit,468000,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,553000,2016-12-31
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,5077000,2014-12-31
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,-213868000,2015-12-31
+us-gaap_IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest,-97334000,2016-12-31
+Loss from investments in affiliates,-2910000,2014-12-31
+Loss from investments in affiliates,-4184000,2015-12-31
+Loss from investments in affiliates,,2016-12-31
+Net income (loss),2167000,2014-12-31
+Net income (loss),-218052000,2015-12-31
+Net income (loss),-97334000,2016-12-31
+us-gaap_NetIncomeLossAttributableToNoncontrollingInterest,-119000,2014-12-31
+us-gaap_NetIncomeLossAttributableToNoncontrollingInterest,-100000,2015-12-31
+us-gaap_NetIncomeLossAttributableToNoncontrollingInterest,,2016-12-31
+us-gaap_NetIncomeLoss,2286000,2014-12-31
+us-gaap_NetIncomeLoss,-217952000,2015-12-31
+us-gaap_NetIncomeLoss,-97334000,2016-12-31
+Basic (in dollars per share),0.03,2014-12-31
+Basic (in dollars per share),-0.66,2015-03-31
+Basic (in dollars per share),-1.75,2015-12-31
+Basic (in dollars per share),-0.59,2015-06-30
+Basic (in dollars per share),-0.55,2015-09-30
+Basic (in dollars per share),-0.23,2015-12-31
+Basic (in dollars per share),-0.07,2016-03-31
+Basic (in dollars per share),-0.41,2016-12-31
+Basic (in dollars per share),-0.06,2016-06-30
+Basic (in dollars per share),-0.08,2016-09-30
+Basic (in dollars per share),-0.18,2016-12-31
+Diluted (in dollars per share),-0.90,2014-12-31
+Diluted (in dollars per share),-0.66,2015-03-31
+Diluted (in dollars per share),-1.75,2015-12-31
+Diluted (in dollars per share),-0.62,2015-06-30
+Diluted (in dollars per share),-0.55,2015-09-30
+Diluted (in dollars per share),-0.30,2015-12-31
+Diluted (in dollars per share),-0.12,2016-03-31
+Diluted (in dollars per share),-0.44,2016-12-31
+Diluted (in dollars per share),-0.11,2016-06-30
+Diluted (in dollars per share),-0.08,2016-09-30
+Diluted (in dollars per share),-0.18,2016-12-31
+Basic (in shares),78400098,2014-12-31
+Basic (in shares),79222051,2015-03-31
+Basic (in shares),126961576,2015-12-31
+Basic (in shares),80041152,2015-06-30
+Basic (in shares),140374297,2015-09-30
+Basic (in shares),206661506,2015-12-31
+Basic (in shares),207199563,2016-03-31
+Basic (in shares),238440197,2016-12-31
+Basic (in shares),223112019,2016-06-30
+Basic (in shares),249190339,2016-09-30
+Basic (in shares),273406492,2016-12-31
+Diluted (in shares),121859441,2014-12-31
+Diluted (in shares),79222051,2015-03-31
+Diluted (in shares),126961576,2015-12-31
+Diluted (in shares),87421439,2015-06-30
+Diluted (in shares),140374297,2015-09-30
+Diluted (in shares),231014248,2015-12-31
+Diluted (in shares),260932085,2016-03-31
+Diluted (in shares),264644449,2016-12-31
+Diluted (in shares),262896140,2016-06-30
+Diluted (in shares),249190339,2016-09-30
+Diluted (in shares),273406492,2016-12-31

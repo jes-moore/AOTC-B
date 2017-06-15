@@ -1,0 +1,74 @@
+Metric,Amount,endDate
+Cash and cash equivalents,23578000,2013-12-31
+Cash and cash equivalents,20544000,2014-12-31
+Cash and cash equivalents,13704000,2015-12-31
+Cash and cash equivalents,17752000,2016-12-31
+Restricted deposits,168000,2015-12-31
+Restricted deposits,70000,2016-12-31
+Marketable securities and short-term deposits (Note 3),18070000,2015-12-31
+Marketable securities and short-term deposits (Note 3),29031000,2016-12-31
+"Trade receivables, net",19211000,2015-12-31
+"Trade receivables, net",19069000,2016-12-31
+Other accounts receivable and prepaid expenses (Note 4),3319000,2015-12-31
+Other accounts receivable and prepaid expenses (Note 4),2331000,2016-12-31
+Inventories (Note 5),15635000,2014-12-31
+Inventories (Note 5),11453000,2015-12-31
+Inventories (Note 5),9748000,2016-12-31
+us-gaap_AssetsCurrent,65925000,2015-12-31
+us-gaap_AssetsCurrent,78001000,2016-12-31
+"PROPERTY AND EQUIPMENT, NET (Note 6)",3764000,2015-12-31
+"PROPERTY AND EQUIPMENT, NET (Note 6)",4130000,2016-12-31
+Long-term marketable securities (Note 3),89714000,2015-12-31
+Long-term marketable securities (Note 3),78092000,2016-12-31
+Long-term prepaid expenses and lease deposits,743000,2015-12-31
+Long-term prepaid expenses and lease deposits,1329000,2016-12-31
+Deferred income taxes (Note 15),1311000,2015-12-31
+Deferred income taxes (Note 15),918000,2016-12-31
+Severance pay fund,11578000,2015-12-31
+Severance pay fund,12751000,2016-12-31
+Investment in other company (Note 9),1800000,2015-12-31
+Investment in other company (Note 9),,2016-12-31
+"Intangible assets, net (Note 7)",3851000,2015-12-31
+"Intangible assets, net (Note 7)",4480000,2016-12-31
+Goodwill,5276000,2015-12-31
+Goodwill,6243000,2016-12-31
+us-gaap_AssetsNoncurrent,114273000,2015-12-31
+us-gaap_AssetsNoncurrent,103813000,2016-12-31
+us-gaap_Assets,183962000,2015-12-31
+us-gaap_Assets,185944000,2016-12-31
+Trade payables,13103000,2015-12-31
+Trade payables,12540000,2016-12-31
+Accrued compensation and benefits,7788000,2015-12-31
+Accrued compensation and benefits,8666000,2016-12-31
+Income tax accruals and payables,1864000,2015-12-31
+Income tax accruals and payables,1137000,2016-12-31
+Accrued expenses and other accounts payable (Note 10),5026000,2015-12-31
+Accrued expenses and other accounts payable (Note 10),3556000,2016-12-31
+us-gaap_LiabilitiesCurrent,27781000,2015-12-31
+us-gaap_LiabilitiesCurrent,25899000,2016-12-31
+"Deferred income taxes, net (Note 15)",476000,2015-12-31
+"Deferred income taxes, net (Note 15)",787000,2016-12-31
+Accrued severance pay,11703000,2015-12-31
+Accrued severance pay,12908000,2016-12-31
+Accrued pensions (Note 11),684000,2015-12-31
+Accrued pensions (Note 11),803000,2016-12-31
+us-gaap_LiabilitiesNoncurrent,12863000,2015-12-31
+us-gaap_LiabilitiesNoncurrent,14498000,2016-12-31
+COMMITMENTS AND CONTINGENCIES (Note 14),,2015-12-31
+COMMITMENTS AND CONTINGENCIES (Note 14),,2016-12-31
+"Common stock, $0.001 par value - Authorized: 50,000,000 shares at December 31, 2016 and 2015; Issued and outstanding: 21,931,157 and 21,572,616 shares at December 31, 2016 and 2015, respectively",22000,2015-12-31
+"Common stock, $0.001 par value - Authorized: 50,000,000 shares at December 31, 2016 and 2015; Issued and outstanding: 21,931,157 and 21,572,616 shares at December 31, 2016 and 2015, respectively",22000,2016-12-31
+Additional paid-in capital,361023000,2015-12-31
+Additional paid-in capital,366121000,2016-12-31
+us-gaap_TreasuryStockValue,125697000,2015-12-31
+us-gaap_TreasuryStockValue,122632000,2016-12-31
+Accumulated other comprehensive loss,-1267000,2015-12-31
+Accumulated other comprehensive loss,-1852000,2016-12-31
+Accumulated deficit,-90763000,2015-12-31
+Accumulated deficit,-96112000,2016-12-31
+us-gaap_StockholdersEquity,147411000,2013-12-31
+us-gaap_StockholdersEquity,146623000,2014-12-31
+us-gaap_StockholdersEquity,143318000,2015-12-31
+us-gaap_StockholdersEquity,145547000,2016-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,183962000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,185944000,2016-12-31

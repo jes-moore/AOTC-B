@@ -1,0 +1,49 @@
+Metric,Amount,endDate
+Revenues,127049000,2014-12-31
+Revenues,208768000,2015-12-31
+Revenues,311999000,2016-12-31
+Cost of Revenue,46047000,2014-12-31
+Cost of Revenue,67184000,2015-12-31
+Cost of Revenue,93900000,2016-12-31
+Gross Profit,81002000,2014-12-31
+Gross Profit,141584000,2015-12-31
+Gross Profit,218099000,2016-12-31
+Research and Development Expense,36403000,2014-12-31
+Research and Development Expense,62615000,2015-12-31
+Research and Development Expense,91067000,2016-12-31
+Selling and Marketing Expense,77875000,2014-12-31
+Selling and Marketing Expense,114052000,2015-12-31
+Selling and Marketing Expense,166987000,2016-12-31
+General and Administrative Expense,32869000,2014-12-31
+General and Administrative Expense,47902000,2015-12-31
+General and Administrative Expense,64371000,2016-12-31
+Operating Expenses,147147000,2014-12-31
+Operating Expenses,224569000,2015-12-31
+Operating Expenses,322425000,2016-12-31
+Operating Income (Loss),-66145000,2014-12-31
+Operating Income (Loss),-82985000,2015-12-31
+Operating Income (Loss),-104326000,2016-12-31
+Other Nonoperating Income (Expense),-1533000,2014-12-31
+Other Nonoperating Income (Expense),-729000,2015-12-31
+Other Nonoperating Income (Expense),1520000,2016-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-67678000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-83714000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",-102806000,2016-12-31
+Income Tax Expense (Benefit),-263000,2014-12-31
+Income Tax Expense (Benefit),338000,2015-12-31
+Income Tax Expense (Benefit),993000,2016-12-31
+Net Income (Loss) Attributable to Parent,-67415000,2014-12-31
+Net Income (Loss) Attributable to Parent,-84052000,2015-12-31
+Net Income (Loss) Attributable to Parent,-103799000,2016-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",18000,2014-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",0,2015-12-31
+"Temporary Equity, Accretion to Redemption Value, Adjustment",0,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-67433000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-84052000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-103799000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-1.26,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.99,2015-12-31
+"Earnings Per Share, Basic and Diluted",-1.11,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",53571000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",84926000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",93161000,2016-12-31

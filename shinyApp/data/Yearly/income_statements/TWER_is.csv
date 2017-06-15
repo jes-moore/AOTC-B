@@ -1,0 +1,54 @@
+Metric,Amount,endDate
+us-gaap_SalesRevenueServicesNet,27905023,2015-12-31
+us-gaap_SalesRevenueServicesNet,26895613,2016-12-31
+Infrastructure and access,10073835,2015-12-31
+Infrastructure and access,10294523,2016-12-31
+Depreciation and amortization,9643583,2015-12-31
+Depreciation and amortization,10875935,2016-12-31
+Network operations,5192117,2015-12-31
+Network operations,5185105,2016-12-31
+Customer support,2500553,2015-12-31
+Customer support,1858314,2016-12-31
+Sales and marketing,6034383,2015-12-31
+Sales and marketing,3936915,2016-12-31
+General and administrative,7050526,2015-12-31
+General and administrative,7777657,2016-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,,2015-12-31
+us-gaap_GainsLossesOnExtinguishmentOfDebt,-500000,2016-12-31
+us-gaap_CostsAndExpenses,40494997,2015-12-31
+us-gaap_CostsAndExpenses,40428449,2016-12-31
+us-gaap_OperatingIncomeLoss,-12589974,2015-12-31
+us-gaap_OperatingIncomeLoss,-13532836,2016-12-31
+"Interest expense, net",-6652786,2015-12-31
+"Interest expense, net",-6605222,2016-12-31
+us-gaap_NonoperatingIncomeExpense,-19242760,2015-12-31
+us-gaap_NonoperatingIncomeExpense,-20138058,2016-12-31
+us-gaap_IncomeTaxExpenseBenefit,-37562,2015-12-31
+us-gaap_IncomeTaxExpenseBenefit,56663,2016-12-31
+us-gaap_IncomeLossFromContinuingOperations,-19205198,2015-12-31
+us-gaap_IncomeLossFromContinuingOperations,-20194721,2016-12-31
+us-gaap_DisposalGroupIncludingDiscontinuedOperationOperatingIncomeLoss,-21277604,2015-12-31
+us-gaap_DisposalGroupIncludingDiscontinuedOperationOperatingIncomeLoss,-1419517,2016-12-31
+Gain on sale of assets,,2015-12-31
+Gain on sale of assets,1177742,2016-03-31
+Gain on sale of assets,1177742,2016-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-21277604,2015-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxAttributableToReportingEntity,-241775,2016-12-31
+Net Loss,-40482802,2015-12-31
+Net Loss,-20436496,2016-12-31
+us-gaap_PreferredStockDividendsIncomeStatementImpact,,2015-12-31
+us-gaap_PreferredStockDividendsIncomeStatementImpact,1721745,2016-12-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,-40482802,2015-12-31
+us-gaap_NetIncomeLossAvailableToCommonStockholdersBasic,-22158241,2016-12-31
+Continuing (in dollars per share),-5.65,2015-12-31
+Continuing (in dollars per share),-3.65,2016-12-31
+Operating loss (in dollars per share),-6.26,2015-12-31
+Operating loss (in dollars per share),-0.24,2016-12-31
+Gain on sale of assets (in dollars per share),,2015-12-31
+Gain on sale of assets (in dollars per share),0.20,2016-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare,-6.26,2015-12-31
+us-gaap_IncomeLossFromDiscontinuedOperationsNetOfTaxPerBasicAndDilutedShare,-0.04,2016-12-31
+us-gaap_EarningsPerShareBasicAndDiluted,-11.91,2015-12-31
+us-gaap_EarningsPerShareBasicAndDiluted,-3.69,2016-12-31
+Weighted average common shares outstanding – Basic and diluted (in shares),3396583,2015-12-31
+Weighted average common shares outstanding – Basic and diluted (in shares),5997650,2016-12-31

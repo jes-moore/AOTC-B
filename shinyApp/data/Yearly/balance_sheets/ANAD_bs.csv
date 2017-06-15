@@ -1,0 +1,61 @@
+Metric,Amount,endDate
+Cash and cash equivalents,24949000,2012-12-31
+Cash and cash equivalents,20947000,2013-12-31
+Cash and cash equivalents,18430000,2014-12-31
+Cash and cash equivalents,6966000,2015-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $100 and $172 at December 31, 2015 and December 31, 2014, respectively",5335000,2014-12-31
+"Accounts receivable, net of allowance for doubtful accounts of $100 and $172 at December 31, 2015 and December 31, 2014, respectively",5027000,2015-12-31
+Inventories,13844000,2014-12-31
+Inventories,7227000,2015-12-31
+Prepaid expenses and other current assets,2721000,2014-12-31
+Prepaid expenses and other current assets,2286000,2015-12-31
+Assets held for sale,335000,2014-12-31
+Assets held for sale,,2015-12-31
+us-gaap_AssetsCurrent,40665000,2014-12-31
+us-gaap_AssetsCurrent,21506000,2015-12-31
+Equipment and furniture,190718000,2014-12-31
+Equipment and furniture,191046000,2015-12-31
+Leasehold improvements,46850000,2014-12-31
+Leasehold improvements,46887000,2015-12-31
+Projects in process,1415000,2014-12-31
+Projects in process,1447000,2015-12-31
+us-gaap_PropertyPlantAndEquipmentGross,238983000,2014-12-31
+us-gaap_PropertyPlantAndEquipmentGross,239380000,2015-12-31
+Less accumulated depreciation and amortization,221812000,2014-12-31
+Less accumulated depreciation and amortization,229140000,2015-12-31
+us-gaap_PropertyPlantAndEquipmentNet,17171000,2014-12-31
+us-gaap_PropertyPlantAndEquipmentNet,10240000,2015-12-31
+Other assets,180000,2014-12-31
+Other assets,90000,2015-12-31
+us-gaap_Assets,58016000,2014-12-31
+us-gaap_Assets,31836000,2015-12-31
+Accounts payable,5913000,2014-12-31
+Accounts payable,3490000,2015-12-31
+Accrued liabilities,3419000,2014-12-31
+Accrued liabilities,3399000,2015-12-31
+Accrued restructuring costs,904000,2014-12-31
+Accrued restructuring costs,,2015-12-31
+Bank borrowings,4000000,2014-12-31
+Bank borrowings,2500000,2015-12-31
+us-gaap_LiabilitiesCurrent,14236000,2014-12-31
+us-gaap_LiabilitiesCurrent,9389000,2015-12-31
+Other long-term liabilities,1122000,2014-12-31
+Other long-term liabilities,,2015-12-31
+Commitments and contingencies,,2014-12-31
+Commitments and contingencies,,2015-12-31
+"Preferred stock, $0.01 par value, 5,000 shares authorized, none issued or outstanding",,2014-12-31
+"Preferred stock, $0.01 par value, 5,000 shares authorized, none issued or outstanding",,2015-12-31
+"Common Stock, Value",869000,2014-12-31
+"Common Stock, Value",898000,2015-12-31
+Additional paid-in capital,642683000,2014-12-31
+Additional paid-in capital,645936000,2015-12-31
+Accumulated deficit,-600635000,2014-12-31
+Accumulated deficit,-624125000,2015-12-31
+us-gaap_TreasuryStockValue,259000,2014-12-31
+us-gaap_TreasuryStockValue,262000,2015-12-31
+Balance,106025000,2012-12-31
+Balance,78409000,2013-12-31
+Balance,42658000,2014-12-31
+Balance,22447000,2015-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,58016000,2014-12-31
+us-gaap_LiabilitiesAndStockholdersEquity,31836000,2015-12-31

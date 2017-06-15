@@ -1,0 +1,90 @@
+Metric,Amount,endDate
+Timber Revenue,40635000,2014-12-31
+Timber Revenue,52837000,2015-12-31
+Timber Revenue,65035000,2016-12-31
+Sales of Real Estate,10650000,2014-12-31
+Sales of Real Estate,11845000,2015-12-31
+Sales of Real Estate,12515000,2016-12-31
+Other Real Estate Revenue,3026000,2014-12-31
+Other Real Estate Revenue,4440000,2015-12-31
+Other Real Estate Revenue,4305000,2016-12-31
+Revenues,54311000,2014-12-31
+Revenues,20244000,2015-03-31
+Revenues,14174000,2015-06-30
+Revenues,17629000,2015-09-30
+Revenues,17075000,2015-12-31
+Revenues,69122000,2015-12-31
+Revenues,27181000,2016-03-31
+Revenues,15966000,2016-06-30
+Revenues,18310000,2016-09-30
+Revenues,20398000,2016-12-31
+Revenues,81855000,2016-12-31
+Contract logging and hauling costs,17322000,2014-12-31
+Contract logging and hauling costs,19911000,2015-12-31
+Contract logging and hauling costs,25918000,2016-12-31
+Depletion,14788000,2014-12-31
+Depletion,27091000,2015-12-31
+Depletion,28897000,2016-12-31
+Cost of Real Estate Sales,5558000,2014-12-31
+Cost of Real Estate Sales,9747000,2015-12-31
+Cost of Real Estate Sales,10405000,2016-12-31
+Owned Property Management Costs,3567000,2014-12-31
+Owned Property Management Costs,4495000,2015-12-31
+Owned Property Management Costs,6092000,2016-12-31
+General and Administrative Expense,6185000,2014-12-31
+General and Administrative Expense,7667000,2015-12-31
+General and Administrative Expense,9309000,2016-12-31
+"Operating Leases, Rent Expense",831000,2014-12-31
+"Operating Leases, Rent Expense",736000,2015-12-31
+"Operating Leases, Rent Expense",625000,2016-12-31
+"Other Cost and Expense, Operating",2942000,2014-12-31
+"Other Cost and Expense, Operating",4295000,2015-12-31
+"Other Cost and Expense, Operating",5017000,2016-12-31
+Operating Costs and Expenses,51193000,2014-12-31
+Operating Costs and Expenses,73942000,2015-12-31
+Operating Costs and Expenses,86263000,2016-12-31
+Operating Income (Loss),3118000,2014-12-31
+Operating Income (Loss),-14000,2015-03-31
+Operating Income (Loss),-1479000,2015-06-30
+Operating Income (Loss),-1069000,2015-09-30
+Operating Income (Loss),-2258000,2015-12-31
+Operating Income (Loss),-4820000,2015-12-31
+Operating Income (Loss),670000,2016-03-31
+Operating Income (Loss),-1245000,2016-06-30
+Operating Income (Loss),-1022000,2016-09-30
+Operating Income (Loss),-2811000,2016-12-31
+Operating Income (Loss),-4408000,2016-12-31
+"Interest Income, Domestic Deposits",177000,2014-12-31
+"Interest Income, Domestic Deposits",6000,2015-12-31
+"Interest Income, Domestic Deposits",44000,2016-12-31
+Interest Expense,2635000,2014-12-31
+Interest Expense,3573000,2015-12-31
+Interest Expense,6706000,2016-12-31
+Nonoperating Income (Expense),-2458000,2014-12-31
+Nonoperating Income (Expense),-3567000,2015-12-31
+Nonoperating Income (Expense),-6662000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",660000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-817000,2015-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-2330000,2015-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-1944000,2015-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-3296000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-8387000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-587000,2016-03-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-2645000,2016-06-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-2897000,2016-09-30
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-4941000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-11070000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",31568000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",39348000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",38830000,2016-12-31
+"Earnings Per Share, Basic and Diluted",0.02,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.02,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.06,2015-06-30
+"Earnings Per Share, Basic and Diluted",-0.05,2015-09-30
+"Earnings Per Share, Basic and Diluted",-0.08,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.21,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.02,2016-03-31
+"Earnings Per Share, Basic and Diluted",-0.07,2016-06-30
+"Earnings Per Share, Basic and Diluted",-0.07,2016-09-30
+"Earnings Per Share, Basic and Diluted",-0.13,2016-12-31
+"Earnings Per Share, Basic and Diluted",-0.29,2016-12-31

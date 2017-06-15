@@ -1,0 +1,74 @@
+Metric,Amount,endDate
+Cash and Due from Banks,205921000,2013-12-31
+Cash and Due from Banks,213914000,2014-12-31
+Cash and Due from Banks,199693000,2015-12-31
+Cash and Due from Banks,190663000,2016-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,155907000,2015-12-31
+Interest-bearing Deposits in Banks and Other Financial Institutions,29461000,2016-12-31
+Available-for-sale Securities,2984631000,2015-12-31
+Available-for-sale Securities,2991091000,2016-12-31
+Held-to-maturity Securities,3923052000,2015-12-31
+Held-to-maturity Securities,4160658000,2016-12-31
+Federal Home Loan Bank Stock and Federal Reserve Bank Stock,188347000,2015-12-31
+Federal Home Loan Bank Stock and Federal Reserve Bank Stock,194646000,2016-12-31
+"Loans Receivable Held-for-sale, Amount",37091000,2015-12-31
+"Loans Receivable Held-for-sale, Amount",67577000,2016-12-31
+"Loans and Leases Receivable, Net of Deferred Income",13900025000,2014-12-31
+"Loans and Leases Receivable, Net of Deferred Income",15671735000,2015-12-31
+"Loans and Leases Receivable, Net of Deferred Income",17026588000,2016-12-31
+"Loans and Leases Receivable, Allowance",152573000,2013-12-31
+"Loans and Leases Receivable, Allowance",159264000,2014-12-31
+"Loans and Leases Receivable, Allowance",174990000,2015-12-31
+"Loans and Leases Receivable, Allowance",194320000,2016-12-31
+"Loans and Leases Receivable, Net Amount",15496745000,2015-12-31
+"Loans and Leases Receivable, Net Amount",16832268000,2016-12-31
+"Deferred Tax Assets, Net",101578000,2015-12-31
+"Deferred Tax Assets, Net",84391000,2016-12-31
+"Property, Plant and Equipment, Net",129426000,2015-12-31
+"Property, Plant and Equipment, Net",137413000,2016-12-31
+Goodwill,538373000,2015-12-31
+Goodwill,538373000,2016-12-31
+"Finite-Lived Intangible Assets, Net",39326000,2015-12-31
+"Finite-Lived Intangible Assets, Net",33674000,2016-12-31
+Bank Owned Life Insurance,503093000,2015-12-31
+Bank Owned Life Insurance,517852000,2016-12-31
+Other Assets,343856000,2015-12-31
+Other Assets,294462000,2016-12-31
+Assets,24641118000,2015-12-31
+Assets,26072529000,2016-12-31
+Noninterest-bearing Deposit Liabilities,3713063000,2015-12-31
+Noninterest-bearing Deposit Liabilities,4021061000,2016-12-31
+Interest-bearing Deposit Liabilities,14239715000,2015-12-31
+Interest-bearing Deposit Liabilities,15282796000,2016-12-31
+Deposits,17952778000,2015-12-31
+Deposits,19303857000,2016-12-31
+Federal Funds Purchased and Securities Sold under Agreements to Repurchase,1151400000,2015-12-31
+Federal Funds Purchased and Securities Sold under Agreements to Repurchase,949526000,2016-12-31
+Advances from Federal Home Loan Banks,2664139000,2015-12-31
+Advances from Federal Home Loan Banks,2842908000,2016-12-31
+Long-term Debt,225260000,2015-12-31
+Long-term Debt,225514000,2016-12-31
+Other Accrued Liabilities,233581000,2015-12-31
+Other Accrued Liabilities,223712000,2016-12-31
+Liabilities,22227158000,2015-12-31
+Liabilities,23545517000,2016-12-31
+"Preferred Stock, Value, Issued",122710000,2015-12-31
+"Preferred Stock, Value, Issued",122710000,2016-12-31
+"Common Stock, Value, Issued",937000,2015-12-31
+"Common Stock, Value, Issued",937000,2016-12-31
+Additional Paid in Capital,1124325000,2015-12-31
+Additional Paid in Capital,1125937000,2016-12-31
+Retained Earnings (Accumulated Deficit),1315948000,2015-12-31
+Retained Earnings (Accumulated Deficit),1425320000,2016-12-31
+"Treasury Stock, Value",71854000,2015-12-31
+"Treasury Stock, Value",70899000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-48549000,2013-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-56261000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-78106000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-76993000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",2209348000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",2322815000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",2413960000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",2527012000,2016-12-31
+Liabilities and Equity,24641118000,2015-12-31
+Liabilities and Equity,26072529000,2016-12-31

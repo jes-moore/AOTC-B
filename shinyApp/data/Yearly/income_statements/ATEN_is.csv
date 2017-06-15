@@ -1,0 +1,70 @@
+Metric,Amount,endDate
+"Sales Revenue, Goods, Net",134486000,2014-12-31
+"Sales Revenue, Goods, Net",138301000,2015-12-31
+"Sales Revenue, Goods, Net",153920000,2016-12-31
+"Sales Revenue, Services, Net",45021000,2014-12-31
+"Sales Revenue, Services, Net",60654000,2015-12-31
+"Sales Revenue, Services, Net",76083000,2016-12-31
+"Revenue, Net",179507000,2014-12-31
+"Revenue, Net",198955000,2015-12-31
+"Revenue, Net",230003000,2016-12-31
+Cost of Goods Sold,31084000,2014-12-31
+Cost of Goods Sold,33096000,2015-12-31
+Cost of Goods Sold,37680000,2016-12-31
+Cost of Services,11853000,2014-12-31
+Cost of Services,15672000,2015-12-31
+Cost of Services,17230000,2016-12-31
+Cost of Goods and Services Sold,42937000,2014-12-31
+Cost of Goods and Services Sold,48768000,2015-12-31
+Cost of Goods and Services Sold,54910000,2016-12-31
+Gross Profit,136570000,2014-12-31
+Gross Profit,150187000,2015-12-31
+Gross Profit,175093000,2016-12-31
+Selling and Marketing Expense,96837000,2014-12-31
+Selling and Marketing Expense,104531000,2015-12-31
+Selling and Marketing Expense,104360000,2016-12-31
+Research and Development Expense,49903000,2014-12-31
+Research and Development Expense,54843000,2015-12-31
+Research and Development Expense,60700000,2016-12-31
+General and Administrative Expense,22938000,2014-12-31
+General and Administrative Expense,27055000,2015-12-31
+General and Administrative Expense,27063000,2016-12-31
+"Litigation Settlement, Expense (Benefit)",-2837000,2014-12-31
+"Litigation Settlement, Expense (Benefit)",2204000,2015-12-31
+"Litigation Settlement, Expense (Benefit)",2089000,2016-12-31
+Operating Expenses,166841000,2014-12-31
+Operating Expenses,188633000,2015-12-31
+Operating Expenses,194212000,2016-12-31
+Operating Income (Loss),-30271000,2014-12-31
+Operating Income (Loss),-38446000,2015-12-31
+Operating Income (Loss),-19119000,2016-12-31
+Interest Expense,1028000,2014-12-31
+Interest Expense,509000,2015-12-31
+Interest Expense,424000,2016-12-31
+Interest Income And Other Income Expense Net,-1914000,2014-12-31
+Interest Income And Other Income Expense Net,-332000,2015-12-31
+Interest Income And Other Income Expense Net,-640000,2016-12-31
+Nonoperating Income (Expense),-2942000,2014-12-31
+Nonoperating Income (Expense),-841000,2015-12-31
+Nonoperating Income (Expense),-1064000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-33213000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-39287000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-20183000,2016-12-31
+Income Tax Expense (Benefit),1507000,2014-12-31
+Income Tax Expense (Benefit),747000,2015-12-31
+Income Tax Expense (Benefit),757000,2016-12-31
+Net Income (Loss) Attributable to Parent,-34720000,2014-12-31
+Net Income (Loss) Attributable to Parent,-40034000,2015-12-31
+Net Income (Loss) Attributable to Parent,-20940000,2016-12-31
+"Temporary Equity, Dividends, Adjustment",1150000,2014-12-31
+"Temporary Equity, Dividends, Adjustment",0,2015-12-31
+"Temporary Equity, Dividends, Adjustment",0,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-35870000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-40034000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",-20940000,2016-12-31
+"Earnings Per Share, Basic and Diluted",-0.74,2014-12-31
+"Earnings Per Share, Basic and Diluted",-0.64,2015-12-31
+"Earnings Per Share, Basic and Diluted",-0.32,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",48682000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",62428000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",65701000,2016-12-31

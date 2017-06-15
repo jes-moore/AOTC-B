@@ -1,0 +1,53 @@
+Metric,Amount,endDate
+"Investment Income, Interest",130000,2013-12-31
+"Investment Income, Interest",85000,2014-12-31
+"Investment Income, Interest",82000,2015-12-31
+Interest Expense,153000,2013-12-31
+Interest Expense,8075000,2014-12-31
+Interest Expense,18149000,2015-12-31
+Gain (Loss) On Disposition Of Stock,4768000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-130000,2013-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",1445000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",793000,2015-12-31
+Nonoperating Income (Expense),-153000,2013-12-31
+Nonoperating Income (Expense),-1777000,2014-12-31
+Nonoperating Income (Expense),-17274000,2015-12-31
+Cost of Goods Sold,9612000,2013-12-31
+Cost of Goods Sold,5224000,2014-12-31
+Cost of Goods Sold,2114000,2015-12-31
+Research and Development Expense,162900000,2013-12-31
+Research and Development Expense,120593000,2014-12-31
+Research and Development Expense,171216000,2015-12-31
+"Selling, General and Administrative Expense",146615000,2013-12-31
+"Selling, General and Administrative Expense",139790000,2014-12-31
+"Selling, General and Administrative Expense",162750000,2015-12-31
+Operating Expenses,319127000,2013-12-31
+Operating Expenses,265607000,2014-12-31
+Operating Expenses,336080000,2015-12-31
+"Sales Revenue, Goods, Net",45238000,2013-12-31
+"Sales Revenue, Goods, Net",55720000,2014-12-31
+"Sales Revenue, Goods, Net",112527000,2015-12-31
+License And Collaboration Revenue,323000,2013-12-31
+License And Collaboration Revenue,49692000,2014-12-31
+License And Collaboration Revenue,6277000,2015-12-31
+Revenues,45561000,2013-12-31
+Revenues,105412000,2014-12-31
+Revenues,118804000,2015-12-31
+Operating Income (Loss),-273566000,2013-12-31
+Operating Income (Loss),-160195000,2014-12-31
+Operating Income (Loss),-217276000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-273719000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-161972000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-234550000,2015-12-31
+Income Tax Expense (Benefit),439000,2013-12-31
+Income Tax Expense (Benefit),630000,2014-12-31
+Income Tax Expense (Benefit),-3394000,2015-12-31
+Net Income (Loss) Attributable to Parent,-274158000,2013-12-31
+Net Income (Loss) Attributable to Parent,-162602000,2014-12-31
+Net Income (Loss) Attributable to Parent,-231156000,2015-12-31
+"Earnings Per Share, Basic and Diluted",-1.49,2013-12-31
+"Earnings Per Share, Basic and Diluted",-0.87,2014-12-31
+"Earnings Per Share, Basic and Diluted",-1.23,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",183575000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",186835000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",188669000,2015-12-31

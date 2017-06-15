@@ -1,0 +1,110 @@
+Metric,Amount,endDate
+"Revenue, Net",474371000,2014-12-31
+"Revenue, Net",131604000,2015-03-31
+"Revenue, Net",133570000,2015-06-30
+"Revenue, Net",136992000,2015-09-30
+"Revenue, Net",142587000,2015-12-31
+"Revenue, Net",544753000,2015-12-31
+"Revenue, Net",139264000,2016-03-31
+"Revenue, Net",137489000,2016-06-30
+"Revenue, Net",135651000,2016-09-30
+"Revenue, Net",151590000,2016-12-31
+"Revenue, Net",563994000,2016-12-31
+Cost of Goods Sold,110769000,2014-12-31
+Cost of Goods Sold,132333000,2015-12-31
+Cost of Goods Sold,134705000,2016-12-31
+Gross Profit,363602000,2014-12-31
+Gross Profit,99592000,2015-03-31
+Gross Profit,101116000,2015-06-30
+Gross Profit,104065000,2015-09-30
+Gross Profit,107647000,2015-12-31
+Gross Profit,412420000,2015-12-31
+Gross Profit,107745000,2016-03-31
+Gross Profit,104758000,2016-06-30
+Gross Profit,104198000,2016-09-30
+Gross Profit,112588000,2016-12-31
+Gross Profit,429289000,2016-12-31
+Research and Development Expense,31166000,2014-12-31
+Research and Development Expense,36312000,2015-12-31
+Research and Development Expense,44532000,2016-12-31
+"Selling, General and Administrative Expense",188632000,2014-12-31
+"Selling, General and Administrative Expense",210241000,2015-12-31
+"Selling, General and Administrative Expense",222156000,2016-12-31
+"Loss Contingency Accrual, Provision",5667000,2014-12-31
+"Loss Contingency Accrual, Provision",-11268000,2015-12-31
+"Loss Contingency Accrual, Provision",3156000,2016-12-31
+Amortization of Intangible Assets,712000,2014-12-31
+Amortization of Intangible Assets,1561000,2015-12-31
+Amortization of Intangible Assets,3478000,2016-12-31
+"Business Combination, Acquisition Related Costs",-937000,2014-12-31
+"Business Combination, Acquisition Related Costs",3352000,2015-12-31
+"Business Combination, Acquisition Related Costs",1826000,2016-12-31
+Operating Expenses,225240000,2014-12-31
+Operating Expenses,240198000,2015-12-31
+Operating Expenses,275148000,2016-12-31
+Operating Income (Loss),138362000,2014-12-31
+Operating Income (Loss),172222000,2015-12-31
+Operating Income (Loss),154141000,2016-12-31
+"Interest Income (Expense), Net",805000,2014-12-31
+"Interest Income (Expense), Net",1304000,2015-12-31
+"Interest Income (Expense), Net",3057000,2016-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-899000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-1159000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-482000,2016-12-31
+Other Nonoperating Income,374000,2014-12-31
+Other Nonoperating Income,438000,2015-12-31
+Other Nonoperating Income,563000,2016-12-31
+Other Nonoperating Income (Expense),280000,2014-12-31
+Other Nonoperating Income (Expense),583000,2015-12-31
+Other Nonoperating Income (Expense),3138000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",138642000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",172805000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",157279000,2016-12-31
+Income Tax Expense (Benefit),46157000,2014-12-31
+Income Tax Expense (Benefit),60021000,2015-12-31
+Income Tax Expense (Benefit),52938000,2016-12-31
+Net Income (Loss) Attributable to Parent,92485000,2014-12-31
+Net Income (Loss) Attributable to Parent,24648000,2015-03-31
+Net Income (Loss) Attributable to Parent,24054000,2015-06-30
+Net Income (Loss) Attributable to Parent,26481000,2015-09-30
+Net Income (Loss) Attributable to Parent,37601000,2015-12-31
+Net Income (Loss) Attributable to Parent,112784000,2015-12-31
+Net Income (Loss) Attributable to Parent,28010000,2016-03-31
+Net Income (Loss) Attributable to Parent,25806000,2016-06-30
+Net Income (Loss) Attributable to Parent,26227000,2016-09-30
+Net Income (Loss) Attributable to Parent,24298000,2016-12-31
+Net Income (Loss) Attributable to Parent,104341000,2016-12-31
+"Earnings Per Share, Basic",0.98,2014-12-31
+"Earnings Per Share, Basic",0.26,2015-03-31
+"Earnings Per Share, Basic",0.25,2015-06-30
+"Earnings Per Share, Basic",0.28,2015-09-30
+"Earnings Per Share, Basic",0.39,2015-12-31
+"Earnings Per Share, Basic",1.19,2015-12-31
+"Earnings Per Share, Basic",0.29,2016-03-31
+"Earnings Per Share, Basic",0.27,2016-06-30
+"Earnings Per Share, Basic",0.27,2016-09-30
+"Earnings Per Share, Basic",0.25,2016-12-31
+"Earnings Per Share, Basic",1.09,2016-12-31
+"Earnings Per Share, Diluted",0.97,2014-12-31
+"Earnings Per Share, Diluted",0.26,2015-03-31
+"Earnings Per Share, Diluted",0.25,2015-06-30
+"Earnings Per Share, Diluted",0.28,2015-09-30
+"Earnings Per Share, Diluted",0.39,2015-12-31
+"Earnings Per Share, Diluted",1.17,2015-12-31
+"Earnings Per Share, Diluted",0.29,2016-03-31
+"Earnings Per Share, Diluted",0.27,2016-06-30
+"Earnings Per Share, Diluted",0.27,2016-09-30
+"Earnings Per Share, Diluted",0.25,2016-12-31
+"Earnings Per Share, Diluted",1.08,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",94227000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",95046000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",95647000,2016-12-31
+Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements,1230000,2014-12-31
+Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements,1027000,2015-12-31
+Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements,785000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",95457000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",96073000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",96432000,2016-12-31
+"Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount",1666000,2014-12-31
+"Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount",3348000,2015-12-31
+"Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount",5481000,2016-12-31

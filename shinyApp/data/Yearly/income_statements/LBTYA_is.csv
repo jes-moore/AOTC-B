@@ -1,0 +1,100 @@
+Metric,Amount,endDate
+Revenues,14474200000,2013-12-31
+Revenues,4533700000,2014-03-31
+Revenues,4602200000,2014-06-30
+Revenues,4497200000,2014-09-30
+Revenues,4615200000,2014-12-31
+Revenues,18248300000,2014-12-31
+Revenues,4516900000,2015-03-31
+Revenues,4566500000,2015-06-30
+Revenues,4597400000,2015-09-30
+Revenues,4599200000,2015-12-31
+Revenues,18280000000,2015-12-31
+"Other Cost and Expense, Operating",5434800000,2013-12-31
+"Other Cost and Expense, Operating",6845900000,2014-12-31
+"Other Cost and Expense, Operating",6764000000,2015-12-31
+"Selling, General and Administrative Expense",2599400000,2013-12-31
+"Selling, General and Administrative Expense",3137300000,2014-12-31
+"Selling, General and Administrative Expense",3166900000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",4276400000,2013-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",5500100000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",5825800000,2015-12-31
+Release of Litigation Provision,146000000,2013-12-31
+Release of Litigation Provision,0,2014-12-31
+Release of Litigation Provision,0,2015-12-31
+"Restructuring, Settlement and Impairment Provisions",297500000,2013-12-31
+"Restructuring, Settlement and Impairment Provisions",536800000,2014-12-31
+"Restructuring, Settlement and Impairment Provisions",174100000,2015-12-31
+Costs and Expenses,12462100000,2013-12-31
+Costs and Expenses,16020100000,2014-12-31
+Costs and Expenses,15930800000,2015-12-31
+Operating Income (Loss),2012100000,2013-12-31
+Operating Income (Loss),581700000,2014-03-31
+Operating Income (Loss),669500000,2014-06-30
+Operating Income (Loss),703700000,2014-09-30
+Operating Income (Loss),273300000,2014-12-31
+Operating Income (Loss),2228200000,2014-12-31
+Operating Income (Loss),557500000,2015-03-31
+Operating Income (Loss),624900000,2015-06-30
+Operating Income (Loss),545500000,2015-09-30
+Operating Income (Loss),621300000,2015-12-31
+Operating Income (Loss),2349200000,2015-12-31
+Interest Expense,2286900000,2013-12-31
+Interest Expense,2544700000,2014-12-31
+Interest Expense,2441400000,2015-12-31
+"Investment Income, Interest and Dividend",113100000,2013-12-31
+"Investment Income, Interest and Dividend",31700000,2014-12-31
+"Investment Income, Interest and Dividend",35900000,2015-12-31
+"Gain (Loss) on Derivative Instruments, Net, Pretax",-1020400000,2013-12-31
+"Gain (Loss) on Derivative Instruments, Net, Pretax",88800000,2014-12-31
+"Gain (Loss) on Derivative Instruments, Net, Pretax",847200000,2015-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",349300000,2013-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-836500000,2014-12-31
+"Foreign Currency Transaction Gain (Loss), before Tax",-1149200000,2015-12-31
+"Realized And Unrealized Gains (Losses) Due To Changes In Fair Values of Certain Investments, Net",524100000,2013-12-31
+"Realized And Unrealized Gains (Losses) Due To Changes In Fair Values of Certain Investments, Net",205200000,2014-12-31
+"Realized And Unrealized Gains (Losses) Due To Changes In Fair Values of Certain Investments, Net",124500000,2015-12-31
+Gains (Losses) on Restructuring of Debt,-212200000,2013-12-31
+Gains (Losses) on Restructuring of Debt,-186200000,2014-12-31
+Gains (Losses) on Restructuring of Debt,-388000000,2015-12-31
+Other Nonoperating Income (Expense),-5600000,2013-12-31
+Other Nonoperating Income (Expense),-42400000,2014-12-31
+Other Nonoperating Income (Expense),-62800000,2015-12-31
+Nonoperating Income (Expense),-2538600000,2013-12-31
+Nonoperating Income (Expense),-3284100000,2014-12-31
+Nonoperating Income (Expense),-3033800000,2015-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-526500000,2013-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-1055900000,2014-12-31
+"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",-684600000,2015-12-31
+Income Tax Expense (Benefit),355500000,2013-12-31
+Income Tax Expense (Benefit),-75000000,2014-12-31
+Income Tax Expense (Benefit),364900000,2015-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",-882000000,2013-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",-980900000,2014-12-31
+"Income (Loss) from Continuing Operations, Including Portion Attributable to Noncontrolling Interest",-1049500000,2015-12-31
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, Net of Tax",-23700000,2013-12-31
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, Net of Tax",800000,2014-12-31
+"Discontinued Operation, Income (Loss) from Discontinued Operation During Phase-out Period, Net of Tax",0,2015-12-31
+"Discontinued Operation, Gain (Loss) on Disposal of Discontinued Operation, Net of Tax",0,2013-12-31
+"Discontinued Operation, Gain (Loss) on Disposal of Discontinued Operation, Net of Tax",332700000,2014-12-31
+"Discontinued Operation, Gain (Loss) on Disposal of Discontinued Operation, Net of Tax",0,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",-23700000,2013-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",333500000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-905700000,2013-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-647400000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",-1049500000,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,58200000,2013-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,47600000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,103000000,2015-12-31
+Net Income (Loss) Attributable to Parent,-963900000,2013-12-31
+Net Income (Loss) Attributable to Parent,-78800000,2014-03-31
+Net Income (Loss) Attributable to Parent,-249900000,2014-06-30
+Net Income (Loss) Attributable to Parent,157100000,2014-09-30
+Net Income (Loss) Attributable to Parent,-523400000,2014-12-31
+Net Income (Loss) Attributable to Parent,-695000000,2014-12-31
+Net Income (Loss) Attributable to Parent,-537500000,2015-03-31
+Net Income (Loss) Attributable to Parent,-464700000,2015-06-30
+Net Income (Loss) Attributable to Parent,133300000,2015-09-30
+Net Income (Loss) Attributable to Parent,-283600000,2015-12-31
+Net Income (Loss) Attributable to Parent,-1152500000,2015-12-31

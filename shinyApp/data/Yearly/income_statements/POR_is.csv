@@ -1,0 +1,64 @@
+Metric,Amount,endDate
+Electric Revenue,1900000000,2014-12-31
+Electric Revenue,1898000000,2015-12-31
+Electric Revenue,1923000000,2016-12-31
+Cost of Purchased Power,713000000,2014-12-31
+Cost of Purchased Power,661000000,2015-12-31
+Cost of Purchased Power,617000000,2016-12-31
+Electric Production Expense,257000000,2014-12-31
+Electric Production Expense,266000000,2015-12-31
+Electric Production Expense,286000000,2016-12-31
+General and Administrative Expense,227000000,2014-12-31
+General and Administrative Expense,241000000,2015-12-31
+General and Administrative Expense,247000000,2016-12-31
+"Depreciation, Depletion and Amortization",301000000,2014-12-31
+"Depreciation, Depletion and Amortization",305000000,2015-12-31
+"Depreciation, Depletion and Amortization",321000000,2016-12-31
+"Taxes, Miscellaneous",109000000,2014-12-31
+"Taxes, Miscellaneous",116000000,2015-12-31
+"Taxes, Miscellaneous",119000000,2016-12-31
+Costs and Expenses,1607000000,2014-12-31
+Costs and Expenses,1589000000,2015-12-31
+Costs and Expenses,1590000000,2016-12-31
+Operating Income (Loss),293000000,2014-12-31
+Operating Income (Loss),309000000,2015-12-31
+Operating Income (Loss),333000000,2016-12-31
+Interest Expense,96000000,2014-12-31
+Interest Expense,114000000,2015-12-31
+Interest Expense,112000000,2016-12-31
+"Public Utilities, Allowance for Funds Used During Construction, Capitalized Cost of Equity",37000000,2014-12-31
+"Public Utilities, Allowance for Funds Used During Construction, Capitalized Cost of Equity",21000000,2015-12-31
+"Public Utilities, Allowance for Funds Used During Construction, Capitalized Cost of Equity",21000000,2016-12-31
+Other Nonoperating Income (Expense),1000000,2014-12-31
+Other Nonoperating Income (Expense),1000000,2015-12-31
+Other Nonoperating Income (Expense),1000000,2016-12-31
+Nonoperating Income (Expense),38000000,2014-12-31
+Nonoperating Income (Expense),22000000,2015-12-31
+Nonoperating Income (Expense),22000000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",235000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",217000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Noncontrolling Interest",243000000,2016-12-31
+Income Tax Expense (Benefit),61000000,2014-12-31
+Income Tax Expense (Benefit),45000000,2015-12-31
+Income Tax Expense (Benefit),50000000,2016-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",174000000,2014-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",172000000,2015-12-31
+"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",193000000,2016-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,-1000000,2014-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2015-12-31
+Net Income (Loss) Attributable to Noncontrolling Interest,0,2016-12-31
+Net Income (Loss) Attributable to Parent,175000000,2014-12-31
+Net Income (Loss) Attributable to Parent,172000000,2015-12-31
+Net Income (Loss) Attributable to Parent,193000000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Basic",78180000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",84180000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",88896000,2016-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",80494000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",84341000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",89054000,2016-12-31
+"Earnings Per Share, Basic",2.24,2014-12-31
+"Earnings Per Share, Basic",2.05,2015-12-31
+"Earnings Per Share, Basic",2.17,2016-12-31
+"Earnings Per Share, Diluted",2.18,2014-12-31
+"Earnings Per Share, Diluted",2.04,2015-12-31
+"Earnings Per Share, Diluted",2.16,2016-12-31

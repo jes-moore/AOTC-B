@@ -1,0 +1,67 @@
+Metric,Amount,endDate
+Revenues,489196000,2013-12-31
+Revenues,490612000,2014-12-31
+Revenues,559984000,2015-12-31
+Cost of Revenue,334513000,2013-12-31
+Cost of Revenue,334537000,2014-12-31
+Cost of Revenue,371649000,2015-12-31
+Selling and Marketing Expense,36216000,2013-12-31
+Selling and Marketing Expense,40230000,2014-12-31
+Selling and Marketing Expense,47812000,2015-12-31
+General and Administrative Expense,80462000,2013-12-31
+General and Administrative Expense,80150000,2014-12-31
+General and Administrative Expense,91665000,2015-12-31
+Research and Development Expense,6750000,2013-12-31
+Research and Development Expense,6945000,2014-12-31
+Research and Development Expense,7932000,2015-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",7374000,2013-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",7851000,2014-12-31
+"Depreciation, Depletion and Amortization, Nonproduction",9967000,2015-12-31
+Amortization of Intangible Assets,3351000,2013-12-31
+Amortization of Intangible Assets,3317000,2014-12-31
+Amortization of Intangible Assets,4124000,2015-12-31
+Restructuring Costs and Asset Impairment Charges,5114000,2013-12-31
+Restructuring Costs and Asset Impairment Charges,6624000,2014-12-31
+Restructuring Costs and Asset Impairment Charges,13083000,2015-12-31
+Operating Expenses,473780000,2013-12-31
+Operating Expenses,479654000,2014-12-31
+Operating Expenses,546232000,2015-12-31
+Operating Income (Loss),15416000,2013-12-31
+Operating Income (Loss),10958000,2014-12-31
+Operating Income (Loss),13752000,2015-12-31
+"Interest Expense, Debt",775000,2013-12-31
+"Interest Expense, Debt",547000,2014-12-31
+"Interest Expense, Debt",1937000,2015-12-31
+Amortization of Financing Costs,191000,2013-12-31
+Amortization of Financing Costs,100000,2014-12-31
+Amortization of Financing Costs,373000,2015-12-31
+"Investment Income, Interest",92000,2013-12-31
+"Investment Income, Interest",75000,2014-12-31
+"Investment Income, Interest",68000,2015-12-31
+Other Nonoperating Income (Expense),-878000,2013-12-31
+Other Nonoperating Income (Expense),1097000,2014-12-31
+Other Nonoperating Income (Expense),2773000,2015-12-31
+Nonoperating Income (Expense),-1752000,2013-12-31
+Nonoperating Income (Expense),525000,2014-12-31
+Nonoperating Income (Expense),531000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",13664000,2013-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",11483000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",14283000,2015-12-31
+Income Tax Expense (Benefit),2024000,2013-12-31
+Income Tax Expense (Benefit),3376000,2014-12-31
+Income Tax Expense (Benefit),46000,2015-12-31
+Net Income (Loss) Attributable to Parent,11640000,2013-12-31
+Net Income (Loss) Attributable to Parent,8107000,2014-12-31
+Net Income (Loss) Attributable to Parent,14237000,2015-12-31
+"Earnings Per Share, Basic",0.19,2013-12-31
+"Earnings Per Share, Basic",0.13,2014-12-31
+"Earnings Per Share, Basic",0.24,2015-12-31
+"Earnings Per Share, Diluted",0.19,2013-12-31
+"Earnings Per Share, Diluted",0.13,2014-12-31
+"Earnings Per Share, Diluted",0.23,2015-12-31
+"Weighted Average Number of Shares Outstanding, Basic",59989000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Basic",60149000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Basic",60547000,2015-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",62003000,2013-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",63040000,2014-12-31
+"Weighted Average Number of Shares Outstanding, Diluted",62449000,2015-12-31

@@ -1,0 +1,165 @@
+Metric,Amount,endDate
+Net Income,12499000,2014-03-31
+Net Income,54258000,2014-12-31
+Net Income,12944000,2014-06-30
+Net Income,14088000,2014-09-30
+Net Income,14727000,2014-12-31
+Net Income,19418000,2015-03-31
+Net Income,84167000,2015-12-31
+Net Income,20938000,2015-06-30
+Net Income,21463000,2015-09-30
+Net Income,22348000,2015-12-31
+Net Income,23322000,2016-03-31
+Net Income,97707000,2016-12-31
+Net Income,24145000,2016-06-30
+Net Income,24523000,2016-09-30
+Net Income,25717000,2016-12-31
+Provision for Credit Losses,10879000,2014-12-31
+Provision for Credit Losses,14638000,2015-12-31
+Provision for Credit Losses,11331000,2016-12-31
+Depreciation and amortization,9027000,2014-12-31
+Depreciation and amortization,7780000,2015-12-31
+Depreciation and amortization,6226000,2016-12-31
+Gain on sale of loans,6886000,2014-12-31
+Gain on sale of loans,11973000,2015-12-31
+Gain on sale of loans,11564000,2016-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-3456000,2014-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-3514000,2015-12-31
+us-gaap_AccretionAmortizationOfDiscountsAndPremiumsInvestments,-4524000,2016-12-31
+us-gaap_PaymentsForOriginationAndPurchasesOfLoansHeldForSale,572342000,2014-12-31
+us-gaap_PaymentsForOriginationAndPurchasesOfLoansHeldForSale,910595000,2015-12-31
+us-gaap_PaymentsForOriginationAndPurchasesOfLoansHeldForSale,857601000,2016-12-31
+Proceeds from sale of loans held for sale,576941000,2014-12-31
+Proceeds from sale of loans held for sale,919393000,2015-12-31
+Proceeds from sale of loans held for sale,865028000,2016-12-31
+Increase in the cash surrender value of bank owned life insurance,1283000,2014-12-31
+Increase in the cash surrender value of bank owned life insurance,1589000,2015-12-31
+Increase in the cash surrender value of bank owned life insurance,1554000,2016-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,7540000,2014-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,6729000,2015-12-31
+us-gaap_IncreaseDecreaseInDeferredIncomeTaxes,5628000,2016-12-31
+Decrease in value of other real estate owned,638000,2014-12-31
+Decrease in value of other real estate owned,1100000,2015-12-31
+Decrease in value of other real estate owned,200000,2016-12-31
+us-gaap_GainsLossesOnSalesOfOtherRealEstate,-154000,2014-12-31
+us-gaap_GainsLossesOnSalesOfOtherRealEstate,-328000,2015-12-31
+us-gaap_GainsLossesOnSalesOfOtherRealEstate,682000,2016-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,22000,2014-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,2254000,2015-12-31
+us-gaap_GainLossOnSaleOfSecuritiesNet,1194000,2016-12-31
+Loss on early extinguishment of debt,,2014-12-31
+Loss on early extinguishment of debt,-1130000,2015-12-31
+Loss on early extinguishment of debt,,2016-12-31
+Stock-based compensation expense,3981000,2014-12-31
+Stock-based compensation expense,5073000,2015-12-31
+Stock-based compensation expense,6907000,2016-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,978000,2014-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,2984000,2015-12-31
+us-gaap_ExcessTaxBenefitFromShareBasedCompensationOperatingActivities,400000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,12631000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,3725000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherOperatingAssets,5025000,2016-12-31
+Increase in other liabilities,1856000,2014-12-31
+Increase in other liabilities,1315000,2015-12-31
+Increase in other liabilities,8545000,2016-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,59508000,2014-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,98589000,2015-12-31
+us-gaap_NetCashProvidedByUsedInOperatingActivities,116820000,2016-12-31
+Decrease (increase) in interest bearing deposits with other banks and short-term investments,-634000,2014-12-31
+Decrease (increase) in interest bearing deposits with other banks and short-term investments,3058000,2015-12-31
+Decrease (increase) in interest bearing deposits with other banks and short-term investments,2496000,2016-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,50404000,2014-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,274904000,2015-12-31
+us-gaap_PaymentsToAcquireAvailableForSaleSecurities,236991000,2016-12-31
+Proceeds from maturities of available for sale securities,37571000,2014-12-31
+Proceeds from maturities of available for sale securities,53966000,2015-12-31
+Proceeds from maturities of available for sale securities,84259000,2016-12-31
+Proceeds from sale/call of available for sale securities,49902000,2014-12-31
+Proceeds from sale/call of available for sale securities,111696000,2015-12-31
+Proceeds from sale/call of available for sale securities,94310000,2016-12-31
+egbn_PaymentsToAcquireFederalReserveBankStockAndFederalHomeLoanBankStock,5650000,2014-12-31
+egbn_PaymentsToAcquireFederalReserveBankStockAndFederalHomeLoanBankStock,2443000,2015-12-31
+egbn_PaymentsToAcquireFederalReserveBankStockAndFederalHomeLoanBankStock,8502000,2016-12-31
+egbn_ProceedsFromSaleOfFederalReserveAndFederalHomeLoanBankStock,1374000,2014-12-31
+egbn_ProceedsFromSaleOfFederalReserveAndFederalHomeLoanBankStock,8100000,2015-12-31
+egbn_ProceedsFromSaleOfFederalReserveAndFederalHomeLoanBankStock,2125000,2016-12-31
+us-gaap_IncreaseDecreaseInOtherLoans,595543000,2014-12-31
+us-gaap_IncreaseDecreaseInOtherLoans,695720000,2015-12-31
+us-gaap_IncreaseDecreaseInOtherLoans,687362000,2016-12-31
+Proceeds from sale of other real estate owned,520000,2014-12-31
+Proceeds from sale of other real estate owned,5477000,2015-12-31
+Proceeds from sale of other real estate owned,6139000,2016-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,1058000,2014-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,499000,2015-12-31
+us-gaap_PaymentsToAcquireLifeInsurancePolicies,,2016-12-31
+egbn_PaymentToAcquireAnnuity,,2014-12-31
+egbn_PaymentToAcquireAnnuity,992000,2015-12-31
+egbn_PaymentToAcquireAnnuity,,2016-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,156581000,2014-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2015-12-31
+us-gaap_PaymentsToAcquireBusinessesNetOfCashAcquired,,2016-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,5223000,2014-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,4660000,2015-12-31
+us-gaap_PaymentsToAcquirePropertyPlantAndEquipment,7426000,2016-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-725726000,2014-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-796921000,2015-12-31
+us-gaap_NetCashProvidedByUsedInInvestingActivities,-750952000,2016-12-31
+Increase in deposits,384443000,2014-12-31
+Increase in deposits,847676000,2015-12-31
+Increase in deposits,557670000,2016-12-31
+(Decrease) increase in customer repurchase agreements,-19351000,2014-12-31
+(Decrease) increase in customer repurchase agreements,11236000,2015-12-31
+(Decrease) increase in customer repurchase agreements,-3480000,2016-12-31
+Issuance of Series C Preferred Stock,15300000,2014-12-31
+Issuance of Series C Preferred Stock,,2015-12-31
+Issuance of Series C Preferred Stock,,2016-12-31
+Issuance of common stock,144093000,2014-12-31
+Issuance of common stock,94633000,2015-12-31
+Issuance of common stock,,2016-12-31
+(Decrease) increase in short-term borrowings,7500000,2014-12-31
+(Decrease) increase in short-term borrowings,-100000000,2015-12-31
+(Decrease) increase in short-term borrowings,,2016-12-31
+Increase (decrease) in long-term borrowings,80000000,2014-12-31
+Increase (decrease) in long-term borrowings,-49300000,2015-12-31
+Increase (decrease) in long-term borrowings,147586000,2016-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,614000,2014-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,600000,2015-12-31
+us-gaap_PaymentsOfDividendsPreferredStockAndPreferenceStock,,2016-12-31
+Proceeds from exercise of equity compensation plans,2313000,2014-12-31
+Proceeds from exercise of equity compensation plans,5176000,2015-12-31
+Proceeds from exercise of equity compensation plans,955000,2016-12-31
+Excess tax benefit on stock-based compensation,978000,2014-12-31
+Excess tax benefit on stock-based compensation,2984000,2015-12-31
+Excess tax benefit on stock-based compensation,400000,2016-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,2014-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,4000,2015-12-31
+us-gaap_PaymentsRelatedToTaxWithholdingForShareBasedCompensation,,2016-12-31
+Proceeds from employee stock purchase plan,621000,2014-12-31
+Proceeds from employee stock purchase plan,769000,2015-12-31
+Proceeds from employee stock purchase plan,801000,2016-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,615283000,2014-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,740670000,2015-12-31
+us-gaap_NetCashProvidedByUsedInFinancingActivities,703932000,2016-12-31
+Net Increase in Cash,-50935000,2014-12-31
+Net Increase in Cash,42338000,2015-12-31
+Net Increase in Cash,69800000,2016-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,306960000,2013-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,256025000,2014-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,298363000,2015-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,368163000,2016-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,306960000,2013-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,256025000,2014-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,298363000,2015-12-31
+us-gaap_CashAndCashEquivalentsAtCarryingValue,368163000,2016-12-31
+Interest paid,11742000,2014-12-31
+Interest paid,19586000,2015-12-31
+Interest paid,24031000,2016-12-31
+Income taxes paid,33050000,2014-12-31
+Income taxes paid,52650000,2015-12-31
+Income taxes paid,66150000,2016-12-31
+Transfers from loans to other real estate owned,5311000,2014-12-31
+Transfers from loans to other real estate owned,1725000,2015-12-31
+Transfers from loans to other real estate owned,2500000,2016-12-31
+Transfers from other real estate owned to loans,,2014-12-31
+Transfers from other real estate owned to loans,2192000,2015-12-31
+Transfers from other real estate owned to loans,,2016-12-31

@@ -1,0 +1,99 @@
+Metric,Amount,endDate
+"Cash and Cash Equivalents, at Carrying Value",440861000,2015-12-31
+"Cash and Cash Equivalents, at Carrying Value",13580000,2016-12-31
+"Restricted Cash and Investments, Current",1697000,2015-12-31
+"Restricted Cash and Investments, Current",2274000,2016-12-31
+"Accounts Receivable, Net, Current",147486000,2015-12-31
+"Accounts Receivable, Net, Current",263289000,2016-12-31
+"Inventory, Net",86943000,2015-12-31
+"Inventory, Net",107210000,2016-12-31
+"Derivative Asset, Current",0,2015-12-31
+"Derivative Asset, Current",4138000,2016-12-31
+"Income Taxes Receivable, Current",368000,2015-12-31
+"Income Taxes Receivable, Current",0,2016-12-31
+"Regulatory Assets, Current",57359000,2015-12-31
+"Regulatory Assets, Current",49260000,2016-12-31
+"Other Assets, Current",71763000,2015-12-31
+"Other Assets, Current",27063000,2016-12-31
+"Assets, Current",806477000,2015-12-31
+"Assets, Current",466814000,2016-12-31
+Long-term Investments,11985000,2015-12-31
+Long-term Investments,12561000,2016-12-31
+"Property, Plant and Equipment, Gross",4976778000,2015-12-31
+"Property, Plant and Equipment, Gross",6412223000,2016-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",1717684000,2015-12-31
+"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",1943234000,2016-12-31
+"Property, Plant and Equipment, Net",3259094000,2015-12-31
+"Property, Plant and Equipment, Net",4468989000,2016-12-31
+Goodwill,353396000,2014-12-31
+Goodwill,359759000,2015-12-31
+Goodwill,1299454000,2016-12-31
+"Intangible Assets, Net (Excluding Goodwill)",3397000,2013-12-31
+"Intangible Assets, Net (Excluding Goodwill)",3176000,2014-12-31
+"Intangible Assets, Net (Excluding Goodwill)",3380000,2015-12-31
+"Intangible Assets, Net (Excluding Goodwill)",8392000,2016-12-31
+"Derivative Asset, Noncurrent",3441000,2015-12-31
+"Derivative Asset, Noncurrent",222000,2016-12-31
+"Regulatory Assets, Noncurrent",175125000,2015-12-31
+"Regulatory Assets, Noncurrent",246882000,2016-12-31
+"Other Assets, Noncurrent",7382000,2015-12-31
+"Other Assets, Noncurrent",12130000,2016-12-31
+"Assets, Noncurrent",549087000,2015-12-31
+"Assets, Noncurrent",1567080000,2016-12-31
+Assets,4626643000,2015-12-31
+Assets,6515444000,2016-12-31
+"Accounts Payable, Current",89794000,2015-12-31
+"Accounts Payable, Current",153477000,2016-12-31
+"Accrued Liabilities, Current",232061000,2015-12-31
+"Accrued Liabilities, Current",244034000,2016-12-31
+"Derivative Liability, Current",2835000,2015-12-31
+"Derivative Liability, Current",2459000,2016-12-31
+"Accrued Income Taxes, Current",0,2015-12-31
+"Accrued Income Taxes, Current",12552000,2016-12-31
+"Regulatory Liability, Current",4865000,2015-12-31
+"Regulatory Liability, Current",13067000,2016-12-31
+Short-term Debt,76800000,2015-12-31
+Short-term Debt,96600000,2016-12-31
+"Long-term Debt, Current Maturities",0,2015-12-31
+"Long-term Debt, Current Maturities",5743000,2016-12-31
+"Liabilities, Current",406355000,2015-12-31
+"Liabilities, Current",527932000,2016-12-31
+"Long-term Debt, Excluding Current Maturities",1853682000,2015-12-31
+"Long-term Debt, Excluding Current Maturities",3211189000,2016-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",450579000,2015-12-31
+"Deferred Tax Liabilities, Net, Noncurrent",535606000,2016-12-31
+"Derivative Liability, Noncurrent",156000,2015-12-31
+"Derivative Liability, Noncurrent",274000,2016-12-31
+"Regulatory Liability, Noncurrent",148176000,2015-12-31
+"Regulatory Liability, Noncurrent",193689000,2016-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",146459000,2015-12-31
+"Pension and Other Postretirement Defined Benefit Plans, Liabilities, Noncurrent",173682000,2016-12-31
+"Other Liabilities, Noncurrent",155369000,2015-12-31
+"Other Liabilities, Noncurrent",138643000,2016-12-31
+"Liabilities, Noncurrent",900739000,2015-12-31
+"Liabilities, Noncurrent",1041894000,2016-12-31
+Commitments and Contingencies,,2015-12-31
+Commitments and Contingencies,,2016-12-31
+"Redeemable Noncontrolling Interest, Equity, Other, Carrying Amount",0,2015-12-31
+"Redeemable Noncontrolling Interest, Equity, Other, Carrying Amount",4295000,2016-12-31
+"Common Stock, Value, Issued",51232000,2015-12-31
+"Common Stock, Value, Issued",53397000,2016-12-31
+Additional Paid in Capital,953044000,2015-12-31
+Additional Paid in Capital,1138982000,2016-12-31
+Retained Earnings (Accumulated Deficit),472534000,2015-12-31
+Retained Earnings (Accumulated Deficit),457934000,2016-12-31
+"Treasury Stock, Value",1888000,2015-12-31
+"Treasury Stock, Value",791000,2016-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-15044000,2014-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-9055000,2015-12-31
+"Accumulated Other Comprehensive Income (Loss), Net of Tax",-34883000,2016-12-31
+Stockholders' Equity Attributable to Parent,1465867000,2015-12-31
+Stockholders' Equity Attributable to Parent,1614639000,2016-12-31
+Noncontrolling Interest in Variable Interest Entity,0,2015-12-31
+Noncontrolling Interest in Variable Interest Entity,115495000,2016-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1283500000,2013-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1353884000,2014-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1465867000,2015-12-31
+"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",1730134000,2016-12-31
+Liabilities and Equity,4626643000,2015-12-31
+Liabilities and Equity,6515444000,2016-12-31

@@ -1,0 +1,46 @@
+Metric,Amount,endDate
+Revenues,66001000000,2014-12-31
+Revenues,74989000000,2015-12-31
+Revenues,90272000000,2016-12-31
+Cost of Revenue,25691000000,2014-12-31
+Cost of Revenue,28164000000,2015-12-31
+Cost of Revenue,35138000000,2016-12-31
+Research and Development Expense,9832000000,2014-12-31
+Research and Development Expense,12282000000,2015-12-31
+Research and Development Expense,13948000000,2016-12-31
+Selling and Marketing Expense,8131000000,2014-12-31
+Selling and Marketing Expense,9047000000,2015-12-31
+Selling and Marketing Expense,10485000000,2016-12-31
+General and Administrative Expense,5851000000,2014-12-31
+General and Administrative Expense,6136000000,2015-12-31
+General and Administrative Expense,6985000000,2016-12-31
+Costs and Expenses,49505000000,2014-12-31
+Costs and Expenses,55629000000,2015-12-31
+Costs and Expenses,66556000000,2016-12-31
+Operating Income (Loss),16496000000,2014-12-31
+Operating Income (Loss),19360000000,2015-12-31
+Operating Income (Loss),23716000000,2016-12-31
+Nonoperating Income (Expense),763000000,2014-12-31
+Nonoperating Income (Expense),291000000,2015-12-31
+Nonoperating Income (Expense),434000000,2016-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",17259000000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",19651000000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",24150000000,2016-12-31
+Income Tax Expense (Benefit),3639000000,2014-12-31
+Income Tax Expense (Benefit),3303000000,2015-12-31
+Income Tax Expense (Benefit),4672000000,2016-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,13620000000,2014-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,16348000000,2015-12-31
+Income (Loss) from Continuing Operations Attributable to Parent,19478000000,2016-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",516000000,2014-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2015-12-31
+"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",0,2016-12-31
+Net Income (Loss) Attributable to Parent,14136000000,2014-12-31
+Net Income (Loss) Attributable to Parent,16348000000,2015-12-31
+Net Income (Loss) Attributable to Parent,19478000000,2016-12-31
+Preferred Stock Dividends and Other Adjustments,0,2014-12-31
+Preferred Stock Dividends and Other Adjustments,522000000,2015-12-31
+Preferred Stock Dividends and Other Adjustments,0,2016-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",14136000000,2014-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",15826000000,2015-12-31
+"Net Income (Loss) Available to Common Stockholders, Basic",19478000000,2016-12-31

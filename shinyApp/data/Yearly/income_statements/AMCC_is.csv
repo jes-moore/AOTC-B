@@ -1,0 +1,129 @@
+Metric,Amount,endDate
+"Revenue, Net",216150000,2014-03-31
+"Revenue, Net",50272000,2014-06-30
+"Revenue, Net",40945000,2014-09-30
+"Revenue, Net",36747000,2014-12-31
+"Revenue, Net",37047000,2015-03-31
+"Revenue, Net",165011000,2015-03-31
+"Revenue, Net",37813000,2015-06-30
+"Revenue, Net",39743000,2015-09-30
+"Revenue, Net",40623000,2015-12-31
+"Revenue, Net",41108000,2016-03-31
+"Revenue, Net",159287000,2016-03-31
+Cost of Revenue,85189000,2014-03-31
+Cost of Revenue,20257000,2014-06-30
+Cost of Revenue,17716000,2014-09-30
+Cost of Revenue,14842000,2014-12-31
+Cost of Revenue,16482000,2015-03-31
+Cost of Revenue,69297000,2015-03-31
+Cost of Revenue,16806000,2015-06-30
+Cost of Revenue,17758000,2015-09-30
+Cost of Revenue,18241000,2015-12-31
+Cost of Revenue,16934000,2016-03-31
+Cost of Revenue,69739000,2016-03-31
+Gross Profit,130961000,2014-03-31
+Gross Profit,30015000,2014-06-30
+Gross Profit,23229000,2014-09-30
+Gross Profit,21905000,2014-12-31
+Gross Profit,20565000,2015-03-31
+Gross Profit,95714000,2015-03-31
+Gross Profit,21007000,2015-06-30
+Gross Profit,21985000,2015-09-30
+Gross Profit,22382000,2015-12-31
+Gross Profit,24174000,2016-03-31
+Gross Profit,89548000,2016-03-31
+Research and Development Expense,146579000,2014-03-31
+Research and Development Expense,107220000,2015-03-31
+Research and Development Expense,91518000,2016-03-31
+"Selling, General and Administrative Expense",38927000,2014-03-31
+"Selling, General and Administrative Expense",33643000,2015-03-31
+"Selling, General and Administrative Expense",33507000,2016-03-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",19699000,2014-03-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2015-03-31
+"Disposal Group, Not Discontinued Operation, Gain (Loss) on Disposal",0,2016-03-31
+Gain (Loss) on Disposition of Property Plant Equipment,25815000,2014-03-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2015-03-31
+Gain (Loss) on Disposition of Property Plant Equipment,0,2016-03-31
+Amortization,316000,2014-03-31
+Amortization,104000,2015-03-31
+Amortization,0,2016-03-31
+Restructuring Charges,1134000,2014-03-31
+Restructuring Charges,1200000,2014-06-30
+Restructuring Charges,4100000,2015-03-31
+Restructuring Charges,5421000,2015-03-31
+Restructuring Charges,25000,2016-03-31
+Operating Expenses,141442000,2014-03-31
+Operating Expenses,43536000,2014-06-30
+Operating Expenses,32562000,2014-09-30
+Operating Expenses,33649000,2014-12-31
+Operating Expenses,36641000,2015-03-31
+Operating Expenses,146388000,2015-03-31
+Operating Expenses,30477000,2015-06-30
+Operating Expenses,30799000,2015-09-30
+Operating Expenses,30580000,2015-12-31
+Operating Expenses,33194000,2016-03-31
+Operating Expenses,125050000,2016-03-31
+Operating Income (Loss),-10481000,2014-03-31
+Operating Income (Loss),-13521000,2014-06-30
+Operating Income (Loss),-9333000,2014-09-30
+Operating Income (Loss),-11744000,2014-12-31
+Operating Income (Loss),-16076000,2015-03-31
+Operating Income (Loss),-50674000,2015-03-31
+Operating Income (Loss),-9470000,2015-06-30
+Operating Income (Loss),-8814000,2015-09-30
+Operating Income (Loss),-8198000,2015-12-31
+Operating Income (Loss),-9020000,2016-03-31
+Operating Income (Loss),-35502000,2016-03-31
+"Investment Income, Nonoperating",5052000,2014-03-31
+"Investment Income, Nonoperating",315000,2014-06-30
+"Investment Income, Nonoperating",-2112000,2014-09-30
+"Investment Income, Nonoperating",475000,2014-12-31
+"Investment Income, Nonoperating",1030000,2015-03-31
+"Investment Income, Nonoperating",2764000,2015-03-31
+"Investment Income, Nonoperating",1644000,2015-06-30
+"Investment Income, Nonoperating",265000,2015-09-30
+"Investment Income, Nonoperating",169000,2015-12-31
+"Investment Income, Nonoperating",229000,2016-03-31
+"Investment Income, Nonoperating",2238000,2016-03-31
+Other Nonoperating Income (Expense),354000,2014-03-31
+Other Nonoperating Income (Expense),-3056000,2015-03-31
+Other Nonoperating Income (Expense),69000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-5075000,2014-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-13206000,2014-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-11445000,2014-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-11269000,2014-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-15046000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-50966000,2015-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-7826000,2015-06-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-8549000,2015-09-30
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-8029000,2015-12-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-8791000,2016-03-31
+"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",-33195000,2016-03-31
+Income Tax Expense (Benefit),619000,2014-03-31
+Income Tax Expense (Benefit),-141000,2014-06-30
+Income Tax Expense (Benefit),272000,2014-09-30
+Income Tax Expense (Benefit),862000,2014-12-31
+Income Tax Expense (Benefit),99000,2015-03-31
+Income Tax Expense (Benefit),1092000,2015-03-31
+Income Tax Expense (Benefit),-422000,2015-06-30
+Income Tax Expense (Benefit),-488000,2015-09-30
+Income Tax Expense (Benefit),170000,2015-12-31
+Income Tax Expense (Benefit),116000,2016-03-31
+Income Tax Expense (Benefit),-624000,2016-03-31
+Net Income (Loss) Attributable to Parent,-5694000,2014-03-31
+Net Income (Loss) Attributable to Parent,-13065000,2014-06-30
+Net Income (Loss) Attributable to Parent,-11717000,2014-09-30
+Net Income (Loss) Attributable to Parent,-12131000,2014-12-31
+Net Income (Loss) Attributable to Parent,-15145000,2015-03-31
+Net Income (Loss) Attributable to Parent,-52058000,2015-03-31
+Net Income (Loss) Attributable to Parent,-7404000,2015-06-30
+Net Income (Loss) Attributable to Parent,-8061000,2015-09-30
+Net Income (Loss) Attributable to Parent,-8199000,2015-12-31
+Net Income (Loss) Attributable to Parent,-8907000,2016-03-31
+Net Income (Loss) Attributable to Parent,-32571000,2016-03-31
+"Earnings Per Share, Basic and Diluted",-0.08,2014-03-31
+"Earnings Per Share, Basic and Diluted",-0.66,2015-03-31
+"Earnings Per Share, Basic and Diluted",-0.39,2016-03-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",72897000,2014-03-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",78814000,2015-03-31
+"Weighted Average Number of Shares Outstanding, Basic and Diluted",82668000,2016-03-31
