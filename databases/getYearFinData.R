@@ -5,7 +5,6 @@ library(lubridate)
 library(data.table)
 library(dplyr)
 # Setup variables
-ticker <- 'AA'
 
 # Get a list of supported tickets
 stockTickers <- as.vector(fread('data/tickers.csv')[[1]])
@@ -50,7 +49,7 @@ getInfo <- function(ticker){
         }
         try(fwrite(CF,paste('/home/jmo/Desktop/AOTC-B/shinyApp/data/Yearly/cash_flow/',ticker,'_cf.csv',sep = '')))
 }
-
+getInfo(stockTickers[[i]])
 
 library(doParallel) 
 

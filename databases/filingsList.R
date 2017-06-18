@@ -41,7 +41,7 @@ rm(object5)
 obj <- rbind(obj,year.master)
 rm(year.master)
 
-obj <- obj[obj$CIK %in% cik$CIK,]
+#obj <- obj[obj$CIK %in% cik$CIK,] #maybe remove?
 obj <- obj[obj$FORM_TYPE %in% c('10-Q','10-K'),]
 
 obj <- merge(obj,cik[,2:3],by='CIK')
@@ -75,8 +75,13 @@ ReportPeriod <- function(url) {
         return(report.period)
 }
 obj$reportPeriod <- 0
+
+
+# CIK's To Deal With
+# Alcoa CIK = 1675149 
+
 library(doParallel)  
-cl <- makeCluster(4)  
+cl <- makeCluster(16)  
 registerDoParallel(cl)  
 reportPeriod <- data.frame(reportPeriod = character)
 reportPeriod = foreach(i=1:nrow(obj),.export = c('ReportPeriod'),.packages='dplyr'  ,.combine='rbind') %dopar% {  
@@ -84,11 +89,14 @@ reportPeriod = foreach(i=1:nrow(obj),.export = c('ReportPeriod'),.packages='dply
         data.frame(reportPeriod = ReportPeriod(obj$html[i]))
 }
 stopCluster(cl)  
-for(i in 12438:nrow(obj)){
-        obj$reportPeriod[i] <- ReportPeriod(obj$html[i])
-        print(i)
-        
-}
+
+obj$reportPeriod <- reportPeriod$reportPeriod
+
+# for(i in 12438:nrow(obj)){
+#         obj$reportPeriod[i] <- ReportPeriod(obj$html[i])
+#         print(i)
+#     
+# }
 
 obj$INST <- paste('https://www.sec.gov/Archives/edgar/data/',
                   obj$CIK,'/',
@@ -98,5 +106,4 @@ obj$INST <- paste('https://www.sec.gov/Archives/edgar/data/',
 
 #Cache results so far
 write.csv(obj,'data/tempEdgar.csv',row.names = FALSE)
-sp
 
